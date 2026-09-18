@@ -335,6 +335,7 @@ export const newLuxuryPerfumes = [
     id: 'montblanc-explorer-edp-100',
     brandId: 'montblanc',
     name: 'Explorer',
+    
     collection: 'luxury',
     gender: 'men',
     concentration: 'EDP',
