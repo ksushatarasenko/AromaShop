@@ -6654,5 +6654,100 @@
       "pl": ["Wanilia", "Piżmo", "Drewno"],
       "uk": ["Ваніль", "Мускус", "Дерево"]
     }
+  },
+  {
+  "id": "plum",
+
+  "name": {
+    "pl": "Plum",
+    "uk": "Слива (Plum)"
+  },
+
+  "slug": {
+    "pl": "plum",
+    "uk": "plum"
+  },
+
+  "image": "plum.jpg",
+
+  "category": "fruity",
+
+  "description": {
+    "pl": "Śliwka w perfumerii ma soczysty, ciemny i aksamitny charakter. Może być słodka, lekko kwaskowa, dżemowa lub przypominać dojrzałe owoce z delikatnie winowym akcentem. Nadaje kompozycjom głębi, miękkości i zmysłowej owocowości.",
+
+    "uk": "Слива в парфумерії має соковитий, темний та оксамитовий характер. Вона може бути солодкою, злегка кислуватою, джемовою або нагадувати стиглі плоди з делікатним винним відтінком. Надає композиціям глибини, м’якості та чуттєвої фруктовості."
+  },
+
+  "shortDescription": {
+    "pl": "Ciemny, soczysty i aksamitny owocowy akcent o słodko-kwaśnym, lekko dżemowym charakterze.",
+
+    "uk": "Темний, соковитий та оксамитовий фруктовий акцент із солодко-кислуватим, злегка джемовим характером."
+  },
+
+  "origin": {
+    "pl": "Śliwka to owoc Prunus domestica. W perfumerii jej zapach jest najczęściej odtwarzany za pomocą specjalnie komponowanych akordów i molekuł aromatycznych, ponieważ klasyczny olejek eteryczny ze świeżej śliwki nie jest standardowym surowcem perfumeryjnym.",
+
+    "uk": "Слива — плід Prunus domestica. У парфумерії її аромат найчастіше відтворюють за допомогою спеціально створених акордів та ароматичних молекул, оскільки класична ефірна олія зі свіжої сливи не є стандартною парфумерною сировиною."
+  },
+
+  "extraction": {
+    "pl": "Akord śliwkowy jest tworzony z wykorzystaniem różnych materiałów zapachowych, między innymi damasconów, damascenonu, estrów owocowych i innych składników nadających soczysty, ciemny oraz lekko winowy charakter.",
+
+    "uk": "Сливовий акорд створюють за допомогою різних ароматичних матеріалів, зокрема дамасконів, дамасценону, фруктових естерів та інших компонентів, що надають соковитого, темного й злегка винного характеру."
+  },
+
+  "effect": {
+    "pl": "W kompozycji Plum wnosi soczystą owocowość, głębię i miękką słodycz. Może nadać zapachowi ciemniejszy, bardziej zmysłowy i otulający charakter, szczególnie w połączeniu z wanilią, paczulą, skórą, drewnem lub przyprawami.",
+
+    "uk": "У композиції Plum додає соковитої фруктовості, глибини та м’якої солодкості. Може надавати аромату темнішого, більш чуттєвого та огортаючого характеру, особливо в поєднанні з ваніллю, пачулі, шкірою, деревиною або спеціями."
+  },
+
+  "characteristics": {
+    "pl": [
+      "Soczysta",
+      "Słodka",
+      "Owocowa",
+      "Ciemna",
+      "Aksamitna",
+      "Lekko kwaskowa",
+      "Dżemowa",
+      "Winowa"
+    ],
+
+    "uk": [
+      "Соковита",
+      "Солодка",
+      "Фруктова",
+      "Темна",
+      "Оксамитова",
+      "Злегка кислувата",
+      "Джемова",
+      "Винна"
+    ]
+  },
+
+  "pairsWith": {
+    "pl": [
+      "Wanilia",
+      "Paczula",
+      "Róża",
+      "Piżmo",
+      "Skóra",
+      "Cynamon",
+      "Szafran",
+      "Drewno"
+    ],
+
+    "uk": [
+      "Ваніль",
+      "Пачулі",
+      "Троянда",
+      "Мускус",
+      "Шкіра",
+      "Кориця",
+      "Шафран",
+      "Деревина"
+    ]
   }
+}
 ]

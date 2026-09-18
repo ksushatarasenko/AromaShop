@@ -505,5 +505,18 @@
       "uk": "Glossier — сучасний beauty-бренд, відомий м’яким шкірним ароматом You."
     },
     "website": "https://www.glossier.com"
-  }
+  },
+  {
+  "id": "borntostandout",
+  "name": "BORNTOSTANDOUT",
+  "slug": "borntostandout",
+  "type": "niche",
+  "country": "South Korea",
+  "logo": "borntostandout.png",
+  "description": {
+    "pl": "BORNTOSTANDOUT to koreański dom perfumeryjny znany z odważnych, kontrastowych kompozycji łączących nowoczesną sztukę perfumeryjną z wyrazistym charakterem.",
+    "uk": "BORNTOSTANDOUT — корейський парфумерний дім, відомий сміливими, контрастними композиціями, що поєднують сучасну парфумерію з виразним характером."
+  },
+  "website": "https://borntostandout.com"
+}
 ]
