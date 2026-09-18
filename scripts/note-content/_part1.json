@@ -1,0 +1,408 @@
+{
+  "amber": {
+    "shortDescription": {
+      "pl": "Akord ambrowy to ciepłe, miękkie serce wielu kompozycji. Nie jest jednym składnikiem, lecz harmonią żywic, balsamów i współczesnych materiałów o zmysłowym, otulającym charakterze.",
+      "uk": "Амбровий акорд — тепле, м’яке серце багатьох композицій. Це не один інгредієнт, а гармонія смол, бальзамів і сучасних матеріалів із чуттєвим, огортаючим характером."
+    },
+    "origin": {
+      "pl": "W perfumerii ambra pojawia się jako akord inspirowany ciepłem żywic i klasycznym wyobrażeniem luksusowego, złotego suchego-downu. Jej charakter bywa budowany z labdanum, benzoesu, wanilii oraz nowoczesnych nut ambrowych.",
+      "uk": "У парфумерії амбра звучить як акорд, натхненний теплом смол і класичним уявленням про розкішний золотавий dry-down. Його характер часто будують із ладаннику, бензоїну, ванілі та сучасних амбрових нот."
+    },
+    "extraction": {
+      "pl": "Akord ambrowy składa się zwykle z kilku materiałów — naturalnych żywic i starannie dobranych składników syntezowanych, które razem tworzą ciepłe, miękkie brzmienie.",
+      "uk": "Амбровий акорд зазвичай складається з кількох матеріалів — натуральних смол і ретельно підібраних синтезованих інгредієнтів, які разом створюють тепле, м’яке звучання."
+    },
+    "effect": {
+      "pl": "W kompozycji ambra ociepla zapach, dodaje mu głębi i sprawia, że dry-down staje się bardziej zmysłowy. Często równoważy świeższe otwarcie i łączy drewno, przyprawy oraz kwiaty w spójną całość.",
+      "uk": "У композиції амбра зігріває аромат, додає глибини й робить dry-down більш чуттєвим. Часто врівноважує свіжіше відкриття та з’єднує дерево, спеції й квіти в цілісну композицію."
+    },
+    "characteristics": {
+      "pl": [
+        "Ciepły",
+        "Miękki",
+        "Zmysłowy",
+        "Balsamiczny",
+        "Otulający",
+        "Głęboki"
+      ],
+      "uk": [
+        "Теплий",
+        "М’який",
+        "Чуттєвий",
+        "Бальзамічний",
+        "Огортаючий",
+        "Глибокий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Wanilia",
+        "Labdanum",
+        "Sandałowiec",
+        "Piżmo",
+        "Nuty drzewne",
+        "Benzoes"
+      ],
+      "uk": [
+        "Ваніль",
+        "Ладанник",
+        "Сандал",
+        "Мускус",
+        "Деревні ноти",
+        "Бензоїн"
+      ]
+    },
+    "description": {
+      "pl": "Akord ambrowy to ciepłe, miękkie serce wielu kompozycji. Nie jest jednym składnikiem, lecz harmonią żywic, balsamów i współczesnych materiałów o zmysłowym, otulającym charakterze.",
+      "uk": "Амбровий акорд — тепле, м’яке серце багатьох композицій. Це не один інгредієнт, а гармонія смол, бальзамів і сучасних матеріалів із чуттєвим, огортаючим характером."
+    }
+  },
+  "ambergris": {
+    "shortDescription": {
+      "pl": "Ambra szara to legendarny, rzadki materiał o mineralno-morskim i ciepłym charakterze. W współczesnej perfumerii częściej spotyka się jej olfaktoryczne interpretacje niż autentyczny surowiec.",
+      "uk": "Сіра амбра — легендарний рідкісний матеріал із мінерально-морським і теплим характером. У сучасній парфумерії частіше звучать її ольфакторні інтерпретації, ніж автентична сировина."
+    },
+    "origin": {
+      "pl": "Naturalna ambra szara powstaje w oceanie i przez lata była jednym z najcenniejszych składników perfumerii. Ze względu na rzadkość i ochronę środowiska dziś zwykle zastępuje się ją nowoczesnymi odpowiednikami.",
+      "uk": "Натуральна сіра амбра утворюється в океані й століттями була одним із найцінніших інгредієнтів парфумерії. Через рідкість і захист довкілля сьогодні її зазвичай замінюють сучасними аналогами."
+    },
+    "extraction": {
+      "pl": "W historycznej perfumerii używano nalewek i przetworów z naturalnej ambry szarej. Współcześnie podobny efekt buduje się z materiałów takich jak ambroxan oraz innych składników o suchym, ambrowo-mineralnym profilu.",
+      "uk": "В історичній парфумерії використовували настоянки й препарати з натуральної сірої амбри. Сьогодні схожий ефект будують із матеріалів на кшталт Ambroxan та інших інгредієнтів із сухим амброво-мінеральним профілем."
+    },
+    "effect": {
+      "pl": "Ambra szara dodaje kompozycji świetlistej głębi, mineralnej czystości i trwałego, niemal skórnego śladu. Potrafi uczynić zapach bardziej przestrzennym i szlachetnym.",
+      "uk": "Сіра амбра додає композиції сяючої глибини, мінеральної чистоти та стійкого, майже шкіряного сліду. Вона здатна зробити аромат більш просторовим і шляхетним."
+    },
+    "characteristics": {
+      "pl": [
+        "Mineralny",
+        "Morski",
+        "Ciepły",
+        "Szlachetny",
+        "Trwały",
+        "Świetlisty"
+      ],
+      "uk": [
+        "Мінеральний",
+        "Морський",
+        "Теплий",
+        "Шляхетний",
+        "Стійкий",
+        "Сяючий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Ambroxan",
+        "Piżmo",
+        "Sandałowiec",
+        "Akord ambrowy",
+        "Iso E Super",
+        "Nuty drzewne"
+      ],
+      "uk": [
+        "Ambroxan",
+        "Мускус",
+        "Сандал",
+        "Амбровий акорд",
+        "Iso E Super",
+        "Деревні ноти"
+      ]
+    },
+    "description": {
+      "pl": "Ambra szara to legendarny, rzadki materiał o mineralno-morskim i ciepłym charakterze. W współczesnej perfumerii częściej spotyka się jej olfaktoryczne interpretacje niż autentyczny surowiec.",
+      "uk": "Сіра амбра — легендарний рідкісний матеріал із мінерально-морським і теплим характером. У сучасній парфумерії частіше звучать її ольфакторні інтерпретації, ніж автентична сировина."
+    }
+  },
+  "amberwood": {
+    "shortDescription": {
+      "pl": "Amberwood to współczesny, drzewno-ambrowy akcent o suchym i świetlistym charakterze. Nie jest gatunkiem drewna, lecz perfumeryjnym pomysłem łączącym ciepło ambry z czystą strukturą drewna.",
+      "uk": "Amberwood — сучасний деревно-амбровий акцент із сухим і сяючим характером. Це не порода дерева, а парфумерна ідея, що поєднує тепло амбри з чистою структурою деревини."
+    },
+    "origin": {
+      "pl": "Nazwa Amberwood opisuje olfaktoryczny efekt, a nie konkretne botaniczne źródło. W nowoczesnej perfumerii buduje się go z materiałów o ambrowym, drzewnym i lekko mineralnym profilu.",
+      "uk": "Назва Amberwood описує ольфакторний ефект, а не конкретне ботанічне джерело. У сучасній парфумерії його будують із матеріалів з амбровим, деревним і злегка мінеральним профілем."
+    },
+    "extraction": {
+      "pl": "Amberwood powstaje jako akord lub poprzez użycie nowoczesnych składników zapachowych. Jego charakter zależy od konkretnej formuły i producenta.",
+      "uk": "Amberwood створюють як акорд або через сучасні ароматичні інгредієнти. Характер залежить від конкретної формули та виробника."
+    },
+    "effect": {
+      "pl": "W kompozycji Amberwood dodaje suchej elegancji, ciepła i współczesnej przejrzystości. Często wzmacnia bazę, nie czyniąc jej ciężką ani zbyt słodką.",
+      "uk": "У композиції Amberwood додає сухої елегантності, тепла й сучасної прозорості. Часто підсилює базу, не роблячи її важкою чи надто солодкою."
+    },
+    "characteristics": {
+      "pl": [
+        "Suchy",
+        "Ambrowy",
+        "Drzewny",
+        "Świetlisty",
+        "Nowoczesny",
+        "Elegancki"
+      ],
+      "uk": [
+        "Сухий",
+        "Амбровий",
+        "Деревний",
+        "Сяючий",
+        "Сучасний",
+        "Елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Ambroxan",
+        "Cedr",
+        "Szafran",
+        "Piżmo",
+        "Akord ambrowy",
+        "Cashmeran"
+      ],
+      "uk": [
+        "Ambroxan",
+        "Кедр",
+        "Шафран",
+        "Мускус",
+        "Амбровий акорд",
+        "Cashmeran"
+      ]
+    },
+    "description": {
+      "pl": "Amberwood to współczesny, drzewno-ambrowy akcent o suchym i świetlistym charakterze. Nie jest gatunkiem drewna, lecz perfumeryjnym pomysłem łączącym ciepło ambry z czystą strukturą drewna.",
+      "uk": "Amberwood — сучасний деревно-амбровий акцент із сухим і сяючим характером. Це не порода дерева, а парфумерна ідея, що поєднує тепло амбри з чистою структурою деревини."
+    }
+  },
+  "ambrette": {
+    "shortDescription": {
+      "pl": "Ambrette to roślinne piżmo o miękkim, lekko owocowym i ciepłym charakterze. Pochodzi z nasion ketmii piżmowej i bywa uważane za jeden z najszlachetniejszych naturalnych akcentów piżmowych.",
+      "uk": "Амбрет — рослинний мускус із м’яким, злегка фруктовим і теплим характером. Походить із насіння гібіскуса мускусного і вважається одним із найшляхетніших натуральних мускусних акцентів."
+    },
+    "origin": {
+      "pl": "Surowiec pozyskuje się z nasion Abelmoschus moschatus, rośliny uprawianej m.in. w tropikalnych regionach Azji. Naturalny absolut ambrette jest rzadki i ceniony za złożony, aksamitny profil.",
+      "uk": "Сировину отримують із насіння Abelmoschus moschatus — рослини, яку вирощують зокрема в тропічних регіонах Азії. Натуральний абсолют амбрету рідкісний і цінується за складний оксамитовий профіль."
+    },
+    "extraction": {
+      "pl": "Olejek i absolut ambrette otrzymuje się głównie przez ekstrakcję nasion. W zależności od jakości surowca zapach może być bardziej owocowy, piżmowy lub lekko orzechowy.",
+      "uk": "Олію та абсолют амбрету отримують переважно екстракцією насіння. Залежно від якості сировини аромат може бути більш фруктовим, мускусним або трохи горіховим."
+    },
+    "effect": {
+      "pl": "Ambrette wygładza kompozycję i dodaje jej naturalnej, skórnej miękkości. Szczególnie pięknie współgra z irysem, różą i drzewami, tworząc wrażenie ciepła blisko skóry.",
+      "uk": "Амбрет згладжує композицію й додає їй природної, шкіряної м’якості. Особливо гарно поєднується з ірисом, трояндою й деревами, створюючи відчуття тепла близько шкіри."
+    },
+    "characteristics": {
+      "pl": [
+        "Piżmowy",
+        "Miękki",
+        "Owocowy",
+        "Aksamitny",
+        "Ciepły",
+        "Szlachetny"
+      ],
+      "uk": [
+        "Мускусний",
+        "М’який",
+        "Фруктовий",
+        "Оксамитовий",
+        "Теплий",
+        "Шляхетний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Irys",
+        "Róża",
+        "Sandałowiec",
+        "Piżmo",
+        "Wanilia",
+        "Labdanum"
+      ],
+      "uk": [
+        "Ірис",
+        "Троянда",
+        "Сандал",
+        "Мускус",
+        "Ваніль",
+        "Ладанник"
+      ]
+    },
+    "description": {
+      "pl": "Ambrette to roślinne piżmo o miękkim, lekko owocowym i ciepłym charakterze. Pochodzi z nasion ketmii piżmowej i bywa uważane za jeden z najszlachetniejszych naturalnych akcentów piżmowych.",
+      "uk": "Амбрет — рослинний мускус із м’яким, злегка фруктовим і теплим характером. Походить із насіння гібіскуса мускусного і вважається одним із найшляхетніших натуральних мускусних акцентів."
+    }
+  },
+  "ambroxan": {
+    "shortDescription": {
+      "pl": "Ambroxan to współczesny składnik perfumeryjny o suchym, świetlistym i lekko mineralnym charakterze. Oddaje wrażenie czystej, nowoczesnej ambry i często staje się cichym bohaterem bazy.",
+      "uk": "Ambroxan — сучасний парфумерний інгредієнт із сухим, сяючим і злегка мінеральним характером. Він передає відчуття чистої сучасної амбри й часто стає тихим героєм бази."
+    },
+    "origin": {
+      "pl": "Ambroxan jest materiałem syntezowanym, stworzonym jako elegancka interpretacja nut kojarzonych z ambrą szarą. Nie jest ekstraktem z naturalnej ambry, lecz precyzyjnie zaprojektowaną cząsteczką zapachową.",
+      "uk": "Ambroxan — синтезований матеріал, створений як елегантна інтерпретація нот, пов’язаних із сірою амброю. Це не екстракт натуральної амбри, а точно спроєктована ароматична молекула."
+    },
+    "extraction": {
+      "pl": "Powstaje w laboratoriach jako składnik zapachowy o wysokiej trwałości i czystym profilu. Jego rola w formule zależy od stężenia i otoczenia innych nut.",
+      "uk": "Його створюють у лабораторіях як ароматичний інгредієнт із високою стійкістю та чистим профілем. Роль у формулі залежить від концентрації й оточення інших нот."
+    },
+    "effect": {
+      "pl": "Ambroxan dodaje zapachowi objętości, przejrzystości i trwałego, prawie nieważkiego śladu. Potrafi „unieść” kompozycję w powietrzu, nie czyniąc jej ciężką.",
+      "uk": "Ambroxan додає аромату об’єму, прозорості та стійкого, майже невагомого сліду. Він здатний «підняти» композицію в повітрі, не роблячи її важкою."
+    },
+    "characteristics": {
+      "pl": [
+        "Suchy",
+        "Mineralny",
+        "Świetlisty",
+        "Nowoczesny",
+        "Trwały",
+        "Czysty"
+      ],
+      "uk": [
+        "Сухий",
+        "Мінеральний",
+        "Сяючий",
+        "Сучасний",
+        "Стійкий",
+        "Чистий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Cedr",
+        "Szafran",
+        "Piżmo",
+        "Iso E Super",
+        "Akord ambrowy",
+        "Cashmeran"
+      ],
+      "uk": [
+        "Кедр",
+        "Шафран",
+        "Мускус",
+        "Iso E Super",
+        "Амбровий акорд",
+        "Cashmeran"
+      ]
+    },
+    "description": {
+      "pl": "Ambroxan to współczesny składnik perfumeryjny o suchym, świetlistym i lekko mineralnym charakterze. Oddaje wrażenie czystej, nowoczesnej ambry i często staje się cichym bohaterem bazy.",
+      "uk": "Ambroxan — сучасний парфумерний інгредієнт із сухим, сяючим і злегка мінеральним характером. Він передає відчуття чистої сучасної амбри й часто стає тихим героєм бази."
+    }
+  },
+  "benzoin": {
+    "shortDescription": {
+      "pl": "Benzoes to balsamiczna żywica o waniliowo-słodkim, ciepłym zapachu. Wnosi do perfum wrażenie miękkiego kadzidła i kremowej głębi.",
+      "uk": "Бензоїн — бальзамічна смола з ванільно-солодким, теплим запахом. Вона додає парфумам відчуття м’якого ладану й кремової глибини."
+    },
+    "origin": {
+      "pl": "Żywicę benzoesową pozyskuje się z drzew Styrax, rosnących m.in. w Azji Południowo-Wschodniej. Po nacięciu kory żywica zbiera się i dojrzewa do postaci pachnącego surowca.",
+      "uk": "Бензойну смолу отримують із дерев Styrax, що ростуть зокрема в Південно-Східній Азії. Після надрізу кори смола збирається й визріває до ароматної сировини."
+    },
+    "extraction": {
+      "pl": "W perfumerii benzoes najczęściej pojawia się jako żywica, absolut lub rezynoid uzyskiwany przez ekstrakcję. Dzięki temu zachowuje słodko-balsamiczny charakter.",
+      "uk": "У парфумерії бензоїн найчастіше з’являється як смола, абсолют або резиноїд, отриманий екстракцією. Так зберігається його солодко-бальзамічний характер."
+    },
+    "effect": {
+      "pl": "Benzoes ociepla bazę, dodaje słodyczy i sprawia, że kompozycja wydaje się bardziej otulająca. Świetnie łączy się z wanilią, labdanum i drzewami.",
+      "uk": "Бензоїн зігріває базу, додає солодкості й робить композицію більш огортаючою. Чудово поєднується з ваніллю, ладанником і деревами."
+    },
+    "characteristics": {
+      "pl": [
+        "Balsamiczny",
+        "Słodki",
+        "Ciepły",
+        "Żywiczny",
+        "Kremowy",
+        "Otulający"
+      ],
+      "uk": [
+        "Бальзамічний",
+        "Солодкий",
+        "Теплий",
+        "Смолистий",
+        "Кремовий",
+        "Огортаючий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Wanilia",
+        "Labdanum",
+        "Kadzidło",
+        "Sandałowiec",
+        "Tonka",
+        "Akord ambrowy"
+      ],
+      "uk": [
+        "Ваніль",
+        "Ладанник",
+        "Ладан",
+        "Сандал",
+        "Тонка",
+        "Амбровий акорд"
+      ]
+    },
+    "description": {
+      "pl": "Benzoes to balsamiczna żywica o waniliowo-słodkim, ciepłym zapachu. Wnosi do perfum wrażenie miękkiego kadzidła i kremowej głębi.",
+      "uk": "Бензоїн — бальзамічна смола з ванільно-солодким, теплим запахом. Вона додає парфумам відчуття м’якого ладану й кремової глибини."
+    }
+  },
+  "bergamot": {
+    "shortDescription": {
+      "pl": "Bergamotka otwiera zapach światłem i świeżością. Jej aromat łączy cytrusową jasność z subtelną kwiatowo-zieloną elegancją.",
+      "uk": "Бергамот відкриває аромат світлом і свіжістю. Його звучання поєднує цитрусову ясність із тонкою квітково-зеленою елегантністю."
+    },
+    "origin": {
+      "pl": "Bergamotka to owoc Citrus bergamia, uprawiany przede wszystkim w Kalabrii we Włoszech. Do perfumerii trafia olejek ze skórki, ceniony za złożony, szlachetny profil.",
+      "uk": "Бергамот — плід Citrus bergamia, який вирощують насамперед у Калабрії в Італії. У парфумерію потрапляє олія зі шкірки, цінована за складний, шляхетний профіль."
+    },
+    "extraction": {
+      "pl": "Olejek bergamotowy pozyskuje się głównie przez tłoczenie na zimno świeżej skórki owocu. To jedna z klasycznych metod zachowania jego świeżego, świetlistego charakteru.",
+      "uk": "Бергамотову олію отримують переважно холодним відтисканням свіжої шкірки плоду. Це один із класичних способів зберегти її свіжий, сяючий характер."
+    },
+    "effect": {
+      "pl": "Bergamotka rozświetla kompozycję i nadaje jej czystego, energetycznego otwarcia. Potrafi uszlachetnić zarówno świeże, jak i bardziej zmysłowe formuły.",
+      "uk": "Бергамот освітлює композицію й надає їй чистого, енергійного старту. Він здатен облагородити як свіжі, так і більш чуттєві формули."
+    },
+    "characteristics": {
+      "pl": [
+        "Świeży",
+        "Cytrusowy",
+        "Świetlisty",
+        "Elegancki",
+        "Zielonkawy",
+        "Czysty"
+      ],
+      "uk": [
+        "Свіжий",
+        "Цитрусовий",
+        "Сяючий",
+        "Елегантний",
+        "Зеленкуватий",
+        "Чистий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "Lawenda",
+        "Różowy pieprz",
+        "Neroli",
+        "Zielone nuty",
+        "Herbata",
+        "Drzewo sandałowe"
+      ],
+      "uk": [
+        "Лаванда",
+        "Рожевий перець",
+        "Неролі",
+        "Зелені ноти",
+        "Чай",
+        "Сандал"
+      ]
+    },
+    "description": {
+      "pl": "Bergamotka otwiera zapach światłem i świeżością. Jej aromat łączy cytrusową jasność z subtelną kwiatowo-zieloną elegancją.",
+      "uk": "Бергамот відкриває аромат світлом і свіжістю. Його звучання поєднує цитрусову ясність із тонкою квітково-зеленою елегантністю."
+    }
+  }
+}

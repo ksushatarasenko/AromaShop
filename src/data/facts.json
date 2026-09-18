@@ -1,0 +1,92 @@
+[
+  {
+    "id": "fact-oud-rarity",
+    "title": {
+      "pl": "Czy wiesz, że?",
+      "uk": "Чи знаєте ви?"
+    },
+    "text": {
+      "pl": "Naturalny oud należy do najcenniejszych surowców w perfumerii — powstaje, gdy niektóre drzewa agarowe wytwarzają ciemną, pachnącą żywicę.",
+      "uk": "Натуральний уд — одна з найцінніших сировин у парфумерії: він утворюється, коли певні агарові дерева виробляють темну запашну смолу."
+    },
+    "relatedType": "note",
+    "relatedId": "oud",
+    "linkRoute": "article",
+    "linkParams": { "slug": "perfume-notes-explained" }
+  },
+  {
+    "id": "fact-baccarat-name",
+    "title": {
+      "pl": "Czy wiesz, że?",
+      "uk": "Чи знаєте ви?"
+    },
+    "text": {
+      "pl": "Baccarat Rouge 540 bierze nazwę od kryształu Baccarat i temperatury — 540°C — w której kryształ jest wypalany.",
+      "uk": "Baccarat Rouge 540 бере назву від кришталю Baccarat і температури — 540°C — за якої кришталь випалюють."
+    },
+    "relatedType": "perfume",
+    "relatedId": "mfk-baccarat-rouge-540-edp-070",
+    "linkRoute": "perfume",
+    "linkParams": { "id": "mfk-baccarat-rouge-540-edp-070" }
+  },
+  {
+    "id": "fact-sillage",
+    "title": {
+      "pl": "Czy wiesz, że?",
+      "uk": "Чи знаєте ви?"
+    },
+    "text": {
+      "pl": "Sillage to ślad, jaki zapach zostawia w powietrzu — od francuskiego słowa oznaczającego kilwater statku.",
+      "uk": "Sillage — це шлейф, який аромат лишає в повітрі: від французького слова, що означає кільватер судна."
+    },
+    "relatedType": "family",
+    "relatedId": "",
+    "linkRoute": "article",
+    "linkParams": { "slug": "perfume-notes-explained" }
+  },
+  {
+    "id": "fact-fig-tree",
+    "title": {
+      "pl": "Czy wiesz, że?",
+      "uk": "Чи знаєте ви?"
+    },
+    "text": {
+      "pl": "Philosykos oznacza „przyjaciel drzewa figowego” — oddaje liście, drewno i owoc razem, nie tylko dojrzały owoc.",
+      "uk": "Philosykos означає «друг інжирового дерева» — передає листя, деревину й плід разом, а не лише стиглий плід."
+    },
+    "relatedType": "perfume",
+    "relatedId": "diptyque-philosykos-edt-100",
+    "linkRoute": "perfume",
+    "linkParams": { "id": "diptyque-philosykos-edt-100" }
+  },
+  {
+    "id": "fact-niche-meaning",
+    "title": {
+      "pl": "Czy wiesz, że?",
+      "uk": "Чи знаєте ви?"
+    },
+    "text": {
+      "pl": "Domy niszowe często pracują z mniejszą dystrybucją i silniejszą tożsamością artystyczną — stawiając na charakter ponad masowy apel.",
+      "uk": "Нішеві доми часто працюють із меншою дистрибуцією та сильнішою мистецькою ідентичністю — ставлячи на характер понад масову привабливість."
+    },
+    "relatedType": "brand",
+    "relatedId": "le-labo",
+    "linkRoute": "article",
+    "linkParams": { "slug": "luxury-vs-niche" }
+  },
+  {
+    "id": "fact-coffee-perfume",
+    "title": {
+      "pl": "Czy wiesz, że?",
+      "uk": "Чи знаєте ви?"
+    },
+    "text": {
+      "pl": "Kawa stała się celebrowaną nutą w latach 2010. — Black Opium pomógł uczynić ten akord ikonicznym we współczesnych damskich zapachach.",
+      "uk": "Кава стала відомою парфумерною нотою в 2010-х. Black Opium допоміг зробити цей акорд культовим у сучасних жіночих ароматах."
+    },
+    "relatedType": "perfume",
+    "relatedId": "ysl-black-opium-edp-090",
+    "linkRoute": "perfume",
+    "linkParams": { "id": "ysl-black-opium-edp-090" }
+  }
+]

@@ -1,0 +1,7640 @@
+{
+  "source": "/Users/marinatarasenko/Downloads/Прайс-лист № 1 (Украина) — парфюмерия.xlsx",
+  "sourceDate": "2026-09-14",
+  "exchangeRate": 3.8,
+  "rules": {
+    "bottleMarkup": "+10%",
+    "decantMarkup": "+15%",
+    "decantBottleFeePln": 7
+  },
+  "totals": {
+    "checked": 70,
+    "matchedUpdated": 52,
+    "curatedPreserved": 11,
+    "unmatched": 7,
+    "testerOnly": 0,
+    "ambiguous": 1,
+    "flags": 33
+  },
+  "updated": [
+    {
+      "id": "maison-margiela-replica-lazy-sunday-morning-edt-100",
+      "name": "Lazy Sunday Morning",
+      "selectedMl": 100,
+      "usd": 125.89,
+      "pln": 478.38,
+      "cpm": 4.78,
+      "retail": 526,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.5
+        },
+        {
+          "ml": 5,
+          "price": 34.51
+        },
+        {
+          "ml": 10,
+          "price": 62.01
+        },
+        {
+          "ml": 15,
+          "price": 89.52
+        },
+        {
+          "ml": 20,
+          "price": 117.03
+        }
+      ],
+      "article": "221017"
+    },
+    {
+      "id": "tom-ford-tobacco-vanille-edp-100",
+      "name": "Tobacco Vanille",
+      "selectedMl": 100,
+      "usd": 327.24,
+      "pln": 1243.51,
+      "cpm": 12.44,
+      "retail": 1368,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 21.3
+        },
+        {
+          "ml": 5,
+          "price": 78.5
+        },
+        {
+          "ml": 10,
+          "price": 150
+        },
+        {
+          "ml": 15,
+          "price": 221.51
+        },
+        {
+          "ml": 20,
+          "price": 293.01
+        }
+      ],
+      "article": "124435"
+    },
+    {
+      "id": "narciso-rodriguez-for-her-edp-100",
+      "name": "For Her",
+      "selectedMl": 100,
+      "usd": 110.88,
+      "pln": 421.34,
+      "cpm": 4.21,
+      "retail": 463,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.85
+        },
+        {
+          "ml": 5,
+          "price": 31.23
+        },
+        {
+          "ml": 10,
+          "price": 55.45
+        },
+        {
+          "ml": 15,
+          "price": 79.68
+        },
+        {
+          "ml": 20,
+          "price": 103.91
+        }
+      ],
+      "article": "119022"
+    },
+    {
+      "id": "prada-paradoxe-edp-090",
+      "name": "Paradoxe",
+      "selectedMl": 90,
+      "usd": 189.2,
+      "pln": 718.96,
+      "cpm": 7.99,
+      "retail": 791,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 16.19
+        },
+        {
+          "ml": 5,
+          "price": 52.93
+        },
+        {
+          "ml": 10,
+          "price": 98.87
+        },
+        {
+          "ml": 15,
+          "price": 144.8
+        },
+        {
+          "ml": 20,
+          "price": 190.73
+        }
+      ],
+      "article": "265521"
+    },
+    {
+      "id": "burberry-goddess-edp-100",
+      "name": "Goddess",
+      "selectedMl": 100,
+      "usd": 173.92,
+      "pln": 660.9,
+      "cpm": 6.61,
+      "retail": 727,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 14.6
+        },
+        {
+          "ml": 5,
+          "price": 45
+        },
+        {
+          "ml": 10,
+          "price": 83
+        },
+        {
+          "ml": 15,
+          "price": 121.01
+        },
+        {
+          "ml": 20,
+          "price": 159.01
+        }
+      ],
+      "article": "326627"
+    },
+    {
+      "id": "tom-ford-lost-cherry-edp-050",
+      "name": "Lost Cherry",
+      "selectedMl": 100,
+      "usd": 445.51,
+      "pln": 1692.94,
+      "cpm": 16.93,
+      "retail": 1862,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 26.47
+        },
+        {
+          "ml": 5,
+          "price": 104.34
+        },
+        {
+          "ml": 10,
+          "price": 201.69
+        },
+        {
+          "ml": 15,
+          "price": 299.03
+        },
+        {
+          "ml": 20,
+          "price": 396.38
+        }
+      ],
+      "article": "215173"
+    },
+    {
+      "id": "valentino-donna-born-in-roma-intense-edp-100",
+      "name": "Donna Born in Roma Intense",
+      "selectedMl": 100,
+      "usd": 166.15,
+      "pln": 631.37,
+      "cpm": 6.31,
+      "retail": 695,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 14.26
+        },
+        {
+          "ml": 5,
+          "price": 43.3
+        },
+        {
+          "ml": 10,
+          "price": 79.61
+        },
+        {
+          "ml": 15,
+          "price": 115.91
+        },
+        {
+          "ml": 20,
+          "price": 152.22
+        }
+      ],
+      "article": "311710"
+    },
+    {
+      "id": "prada-paradoxe-intense-edp-090",
+      "name": "Paradoxe Intense",
+      "selectedMl": 90,
+      "usd": 202.14,
+      "pln": 768.13,
+      "cpm": 8.53,
+      "retail": 845,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 16.81
+        },
+        {
+          "ml": 5,
+          "price": 56.08
+        },
+        {
+          "ml": 10,
+          "price": 105.15
+        },
+        {
+          "ml": 15,
+          "price": 154.23
+        },
+        {
+          "ml": 20,
+          "price": 203.3
+        }
+      ],
+      "article": "328410"
+    },
+    {
+      "id": "narciso-rodriguez-pure-musc-for-her-edp-100",
+      "name": "Pure Musc For Her",
+      "selectedMl": 100,
+      "usd": 112.85,
+      "pln": 428.83,
+      "cpm": 4.29,
+      "retail": 472,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.93
+        },
+        {
+          "ml": 5,
+          "price": 31.66
+        },
+        {
+          "ml": 10,
+          "price": 56.32
+        },
+        {
+          "ml": 15,
+          "price": 80.97
+        },
+        {
+          "ml": 20,
+          "price": 105.63
+        }
+      ],
+      "article": "212166"
+    },
+    {
+      "id": "jo-malone-lime-basil-mandarin-cologne-100",
+      "name": "Lime Basil & Mandarin",
+      "selectedMl": 100,
+      "usd": 175.5,
+      "pln": 666.9,
+      "cpm": 6.67,
+      "retail": 734,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 14.67
+        },
+        {
+          "ml": 5,
+          "price": 45.35
+        },
+        {
+          "ml": 10,
+          "price": 83.69
+        },
+        {
+          "ml": 15,
+          "price": 122.04
+        },
+        {
+          "ml": 20,
+          "price": 160.39
+        }
+      ],
+      "article": "113517"
+    },
+    {
+      "id": "montblanc-explorer-edp-100",
+      "name": "Explorer",
+      "selectedMl": 100,
+      "usd": 124.66,
+      "pln": 473.71,
+      "cpm": 4.74,
+      "retail": 521,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.45
+        },
+        {
+          "ml": 5,
+          "price": 34.24
+        },
+        {
+          "ml": 10,
+          "price": 61.48
+        },
+        {
+          "ml": 15,
+          "price": 88.72
+        },
+        {
+          "ml": 20,
+          "price": 115.95
+        }
+      ],
+      "article": "182665"
+    },
+    {
+      "id": "giorgio-armani-stronger-with-you-intensely-edp-100",
+      "name": "Stronger With You Intensely",
+      "selectedMl": 100,
+      "usd": 143.32,
+      "pln": 544.62,
+      "cpm": 5.45,
+      "retail": 599,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 13.26
+        },
+        {
+          "ml": 5,
+          "price": 38.32
+        },
+        {
+          "ml": 10,
+          "price": 69.63
+        },
+        {
+          "ml": 15,
+          "price": 100.95
+        },
+        {
+          "ml": 20,
+          "price": 132.26
+        }
+      ],
+      "article": "188325"
+    },
+    {
+      "id": "ysl-y-edp-100",
+      "name": "Y",
+      "selectedMl": 100,
+      "usd": 150.76,
+      "pln": 572.89,
+      "cpm": 5.73,
+      "retail": 630,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 13.59
+        },
+        {
+          "ml": 5,
+          "price": 39.94
+        },
+        {
+          "ml": 10,
+          "price": 72.88
+        },
+        {
+          "ml": 15,
+          "price": 105.82
+        },
+        {
+          "ml": 20,
+          "price": 138.76
+        }
+      ],
+      "article": "171060"
+    },
+    {
+      "id": "azzaro-the-most-wanted-edp-intense-100",
+      "name": "The Most Wanted EDP Intense",
+      "selectedMl": 100,
+      "usd": 86.74,
+      "pln": 329.61,
+      "cpm": 3.3,
+      "retail": 363,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 10.79
+        },
+        {
+          "ml": 5,
+          "price": 25.95
+        },
+        {
+          "ml": 10,
+          "price": 44.91
+        },
+        {
+          "ml": 15,
+          "price": 63.86
+        },
+        {
+          "ml": 20,
+          "price": 82.81
+        }
+      ],
+      "article": "333862"
+    },
+    {
+      "id": "giorgio-armani-acqua-di-gio-profondo-edp-125",
+      "name": "Acqua di Giò Profondo",
+      "selectedMl": 125,
+      "usd": 166.87,
+      "pln": 634.11,
+      "cpm": 5.07,
+      "retail": 698,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.83
+        },
+        {
+          "ml": 5,
+          "price": 36.17
+        },
+        {
+          "ml": 10,
+          "price": 65.34
+        },
+        {
+          "ml": 15,
+          "price": 94.51
+        },
+        {
+          "ml": 20,
+          "price": 123.68
+        }
+      ],
+      "article": "234524"
+    },
+    {
+      "id": "chanel-bleu-de-chanel-edp-100",
+      "name": "Bleu de Chanel",
+      "selectedMl": 100,
+      "usd": 223.45,
+      "pln": 849.11,
+      "cpm": 8.49,
+      "retail": 934,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 16.76
+        },
+        {
+          "ml": 5,
+          "price": 55.82
+        },
+        {
+          "ml": 10,
+          "price": 104.65
+        },
+        {
+          "ml": 15,
+          "price": 153.47
+        },
+        {
+          "ml": 20,
+          "price": 202.3
+        }
+      ],
+      "article": "105499"
+    },
+    {
+      "id": "giorgio-armani-acqua-di-gio-edp-100",
+      "name": "Acqua di Giò",
+      "selectedMl": 200,
+      "usd": 164.36,
+      "pln": 624.57,
+      "cpm": 3.12,
+      "retail": 687,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 10.59
+        },
+        {
+          "ml": 5,
+          "price": 24.96
+        },
+        {
+          "ml": 10,
+          "price": 42.91
+        },
+        {
+          "ml": 15,
+          "price": 60.87
+        },
+        {
+          "ml": 20,
+          "price": 78.83
+        }
+      ],
+      "article": "327693"
+    },
+    {
+      "id": "byredo-blanche-edp-100",
+      "name": "Blanche",
+      "selectedMl": 100,
+      "usd": 242.98,
+      "pln": 923.32,
+      "cpm": 9.23,
+      "retail": 1016,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 17.62
+        },
+        {
+          "ml": 5,
+          "price": 60.09
+        },
+        {
+          "ml": 10,
+          "price": 113.18
+        },
+        {
+          "ml": 15,
+          "price": 166.27
+        },
+        {
+          "ml": 20,
+          "price": 219.36
+        }
+      ],
+      "article": "104189"
+    },
+    {
+      "id": "mfk-grand-soir-edp-070",
+      "name": "Grand Soir",
+      "selectedMl": 70,
+      "usd": 261.61,
+      "pln": 994.12,
+      "cpm": 14.2,
+      "retail": 1094,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 23.33
+        },
+        {
+          "ml": 5,
+          "price": 88.66
+        },
+        {
+          "ml": 10,
+          "price": 170.32
+        },
+        {
+          "ml": 15,
+          "price": 251.98
+        },
+        {
+          "ml": 20,
+          "price": 333.64
+        }
+      ],
+      "article": "128414"
+    },
+    {
+      "id": "diptyque-fleur-de-peau-edp-075",
+      "name": "Fleur de Peau",
+      "selectedMl": 50,
+      "usd": 164.36,
+      "pln": 624.57,
+      "cpm": 12.49,
+      "retail": 687,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 21.37
+        },
+        {
+          "ml": 5,
+          "price": 78.83
+        },
+        {
+          "ml": 10,
+          "price": 150.65
+        },
+        {
+          "ml": 15,
+          "price": 222.48
+        },
+        {
+          "ml": 20,
+          "price": 294.3
+        }
+      ],
+      "article": "347392"
+    },
+    {
+      "id": "parfums-de-marly-layton-edp-125",
+      "name": "Layton",
+      "selectedMl": 125,
+      "usd": 242.81,
+      "pln": 922.68,
+      "cpm": 7.38,
+      "retail": 1015,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 15.49
+        },
+        {
+          "ml": 5,
+          "price": 49.44
+        },
+        {
+          "ml": 10,
+          "price": 91.89
+        },
+        {
+          "ml": 15,
+          "price": 134.33
+        },
+        {
+          "ml": 20,
+          "price": 176.77
+        }
+      ],
+      "article": "120250"
+    },
+    {
+      "id": "parfums-de-marly-delina-edp-075",
+      "name": "Delina",
+      "selectedMl": 75,
+      "usd": 264.26,
+      "pln": 1004.19,
+      "cpm": 13.39,
+      "retail": 1105,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 22.4
+        },
+        {
+          "ml": 5,
+          "price": 83.99
+        },
+        {
+          "ml": 10,
+          "price": 160.98
+        },
+        {
+          "ml": 15,
+          "price": 237.96
+        },
+        {
+          "ml": 20,
+          "price": 314.95
+        }
+      ],
+      "article": "120228"
+    },
+    {
+      "id": "parfums-de-marly-delina-exclusif-edp-075",
+      "name": "Delina Exclusif",
+      "selectedMl": 75,
+      "usd": 236.04,
+      "pln": 896.95,
+      "cpm": 11.96,
+      "retail": 987,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 20.75
+        },
+        {
+          "ml": 5,
+          "price": 75.77
+        },
+        {
+          "ml": 10,
+          "price": 144.53
+        },
+        {
+          "ml": 15,
+          "price": 213.3
+        },
+        {
+          "ml": 20,
+          "price": 282.06
+        }
+      ],
+      "article": "175154"
+    },
+    {
+      "id": "xerjoff-naxos-edp-100",
+      "name": "Naxos",
+      "selectedMl": 100,
+      "usd": 197.07,
+      "pln": 748.87,
+      "cpm": 7.49,
+      "retail": 824,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 15.61
+        },
+        {
+          "ml": 5,
+          "price": 50.06
+        },
+        {
+          "ml": 10,
+          "price": 93.12
+        },
+        {
+          "ml": 15,
+          "price": 136.18
+        },
+        {
+          "ml": 20,
+          "price": 179.24
+        }
+      ],
+      "article": "165966"
+    },
+    {
+      "id": "bdk-gris-charnel-edp-100",
+      "name": "Gris Charnel",
+      "selectedMl": 100,
+      "usd": 198.07,
+      "pln": 752.67,
+      "cpm": 7.53,
+      "retail": 828,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 15.66
+        },
+        {
+          "ml": 5,
+          "price": 50.28
+        },
+        {
+          "ml": 10,
+          "price": 93.56
+        },
+        {
+          "ml": 15,
+          "price": 136.84
+        },
+        {
+          "ml": 20,
+          "price": 180.11
+        }
+      ],
+      "article": "227587"
+    },
+    {
+      "id": "kilian-angels-share-edp-050",
+      "name": "Angels' Share",
+      "selectedMl": 100,
+      "usd": 414.99,
+      "pln": 1576.96,
+      "cpm": 15.77,
+      "retail": 1735,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 25.14
+        },
+        {
+          "ml": 5,
+          "price": 97.68
+        },
+        {
+          "ml": 10,
+          "price": 188.35
+        },
+        {
+          "ml": 15,
+          "price": 279.03
+        },
+        {
+          "ml": 20,
+          "price": 369.7
+        }
+      ],
+      "article": "306781"
+    },
+    {
+      "id": "juliette-has-a-gun-not-a-perfume-edp-100",
+      "name": "Not A Perfume",
+      "selectedMl": 100,
+      "usd": 106.31,
+      "pln": 403.98,
+      "cpm": 4.04,
+      "retail": 444,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.65
+        },
+        {
+          "ml": 5,
+          "price": 30.23
+        },
+        {
+          "ml": 10,
+          "price": 53.46
+        },
+        {
+          "ml": 15,
+          "price": 76.69
+        },
+        {
+          "ml": 20,
+          "price": 99.92
+        }
+      ],
+      "article": "114007"
+    },
+    {
+      "id": "escentric-molecules-molecule-01-edt-100",
+      "name": "Molecule 01",
+      "selectedMl": 100,
+      "usd": 207.52,
+      "pln": 788.58,
+      "cpm": 7.89,
+      "retail": 867,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 16.07
+        },
+        {
+          "ml": 5,
+          "price": 52.34
+        },
+        {
+          "ml": 10,
+          "price": 97.69
+        },
+        {
+          "ml": 15,
+          "price": 143.03
+        },
+        {
+          "ml": 20,
+          "price": 188.37
+        }
+      ],
+      "article": "156576"
+    },
+    {
+      "id": "mancera-cedrat-boise-edp-120",
+      "name": "Cedrat Boise",
+      "selectedMl": 120,
+      "usd": 127.1,
+      "pln": 482.98,
+      "cpm": 4.02,
+      "retail": 531,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.63
+        },
+        {
+          "ml": 5,
+          "price": 30.14
+        },
+        {
+          "ml": 10,
+          "price": 53.29
+        },
+        {
+          "ml": 15,
+          "price": 76.43
+        },
+        {
+          "ml": 20,
+          "price": 99.57
+        }
+      ],
+      "article": "117152"
+    },
+    {
+      "id": "mancera-instant-crush-edp-120",
+      "name": "Instant Crush",
+      "selectedMl": 120,
+      "usd": 116.86,
+      "pln": 444.07,
+      "cpm": 3.7,
+      "retail": 488,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.26
+        },
+        {
+          "ml": 5,
+          "price": 28.28
+        },
+        {
+          "ml": 10,
+          "price": 49.56
+        },
+        {
+          "ml": 15,
+          "price": 70.84
+        },
+        {
+          "ml": 20,
+          "price": 92.11
+        }
+      ],
+      "article": "215644"
+    },
+    {
+      "id": "mancera-red-tobacco-edp-120",
+      "name": "Red Tobacco",
+      "selectedMl": 120,
+      "usd": 145.2,
+      "pln": 551.76,
+      "cpm": 4.6,
+      "retail": 607,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.29
+        },
+        {
+          "ml": 5,
+          "price": 33.44
+        },
+        {
+          "ml": 10,
+          "price": 59.88
+        },
+        {
+          "ml": 15,
+          "price": 86.32
+        },
+        {
+          "ml": 20,
+          "price": 112.75
+        }
+      ],
+      "article": "325861"
+    },
+    {
+      "id": "mancera-roses-vanille-edp-120",
+      "name": "Roses Vanille",
+      "selectedMl": 120,
+      "usd": 112.85,
+      "pln": 428.83,
+      "cpm": 3.57,
+      "retail": 472,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.11
+        },
+        {
+          "ml": 5,
+          "price": 27.55
+        },
+        {
+          "ml": 10,
+          "price": 48.1
+        },
+        {
+          "ml": 15,
+          "price": 68.64
+        },
+        {
+          "ml": 20,
+          "price": 89.19
+        }
+      ],
+      "article": "117192"
+    },
+    {
+      "id": "mancera-amore-caffe-edp-120",
+      "name": "Amore Caffè",
+      "selectedMl": 120,
+      "usd": 131.46,
+      "pln": 499.55,
+      "cpm": 4.16,
+      "retail": 550,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.79
+        },
+        {
+          "ml": 5,
+          "price": 30.94
+        },
+        {
+          "ml": 10,
+          "price": 54.87
+        },
+        {
+          "ml": 15,
+          "price": 78.81
+        },
+        {
+          "ml": 20,
+          "price": 102.75
+        }
+      ],
+      "article": "329767"
+    },
+    {
+      "id": "mancera-intense-cedrat-boise-edp-120",
+      "name": "Intense Cedrat Boise",
+      "selectedMl": 120,
+      "usd": 135.62,
+      "pln": 515.36,
+      "cpm": 4.29,
+      "retail": 567,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.94
+        },
+        {
+          "ml": 5,
+          "price": 31.69
+        },
+        {
+          "ml": 10,
+          "price": 56.39
+        },
+        {
+          "ml": 15,
+          "price": 81.08
+        },
+        {
+          "ml": 20,
+          "price": 105.78
+        }
+      ],
+      "article": "249655"
+    },
+    {
+      "id": "montale-arabians-tonka-edp-100",
+      "name": "Arabians Tonka",
+      "selectedMl": 100,
+      "usd": 130.64,
+      "pln": 496.43,
+      "cpm": 4.96,
+      "retail": 546,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.71
+        },
+        {
+          "ml": 5,
+          "price": 35.54
+        },
+        {
+          "ml": 10,
+          "price": 64.09
+        },
+        {
+          "ml": 15,
+          "price": 92.63
+        },
+        {
+          "ml": 20,
+          "price": 121.18
+        }
+      ],
+      "article": "221895"
+    },
+    {
+      "id": "montale-intense-cafe-edp-100",
+      "name": "Intense Café",
+      "selectedMl": 100,
+      "usd": 108.62,
+      "pln": 412.76,
+      "cpm": 4.13,
+      "retail": 454,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.75
+        },
+        {
+          "ml": 5,
+          "price": 30.73
+        },
+        {
+          "ml": 10,
+          "price": 54.47
+        },
+        {
+          "ml": 15,
+          "price": 78.2
+        },
+        {
+          "ml": 20,
+          "price": 101.93
+        }
+      ],
+      "article": "118584"
+    },
+    {
+      "id": "montale-roses-musk-edp-100",
+      "name": "Roses Musk",
+      "selectedMl": 100,
+      "usd": 124.12,
+      "pln": 471.66,
+      "cpm": 4.72,
+      "retail": 519,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.42
+        },
+        {
+          "ml": 5,
+          "price": 34.12
+        },
+        {
+          "ml": 10,
+          "price": 61.24
+        },
+        {
+          "ml": 15,
+          "price": 88.36
+        },
+        {
+          "ml": 20,
+          "price": 115.48
+        }
+      ],
+      "article": "185515"
+    },
+    {
+      "id": "montale-black-aoud-edp-100",
+      "name": "Black Aoud",
+      "selectedMl": 100,
+      "usd": 133.59,
+      "pln": 507.64,
+      "cpm": 5.08,
+      "retail": 558,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 12.84
+        },
+        {
+          "ml": 5,
+          "price": 36.19
+        },
+        {
+          "ml": 10,
+          "price": 65.38
+        },
+        {
+          "ml": 15,
+          "price": 94.57
+        },
+        {
+          "ml": 20,
+          "price": 123.76
+        }
+      ],
+      "article": "118481"
+    },
+    {
+      "id": "montale-vanilla-cake-edp-100",
+      "name": "Vanilla Cake",
+      "selectedMl": 100,
+      "usd": 103.73,
+      "pln": 394.17,
+      "cpm": 3.94,
+      "retail": 434,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 11.53
+        },
+        {
+          "ml": 5,
+          "price": 29.67
+        },
+        {
+          "ml": 10,
+          "price": 52.33
+        },
+        {
+          "ml": 15,
+          "price": 75
+        },
+        {
+          "ml": 20,
+          "price": 97.66
+        }
+      ],
+      "article": "165520"
+    },
+    {
+      "id": "nishane-hacivat-extrait-100",
+      "name": "Hacivat",
+      "selectedMl": 100,
+      "usd": 208.12,
+      "pln": 790.86,
+      "cpm": 7.91,
+      "retail": 870,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 16.09
+        },
+        {
+          "ml": 5,
+          "price": 52.47
+        },
+        {
+          "ml": 10,
+          "price": 97.95
+        },
+        {
+          "ml": 15,
+          "price": 143.42
+        },
+        {
+          "ml": 20,
+          "price": 188.9
+        }
+      ],
+      "article": "222637"
+    },
+    {
+      "id": "nishane-ani-extrait-100",
+      "name": "Ani",
+      "selectedMl": 100,
+      "usd": 219.28,
+      "pln": 833.26,
+      "cpm": 8.33,
+      "retail": 917,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 16.58
+        },
+        {
+          "ml": 5,
+          "price": 54.91
+        },
+        {
+          "ml": 10,
+          "price": 102.82
+        },
+        {
+          "ml": 15,
+          "price": 150.74
+        },
+        {
+          "ml": 20,
+          "price": 198.65
+        }
+      ],
+      "article": "315652"
+    },
+    {
+      "id": "nishane-hundred-silent-ways-extrait-100",
+      "name": "Hundred Silent Ways",
+      "selectedMl": 100,
+      "usd": 198.32,
+      "pln": 753.62,
+      "cpm": 7.54,
+      "retail": 829,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 15.67
+        },
+        {
+          "ml": 5,
+          "price": 50.33
+        },
+        {
+          "ml": 10,
+          "price": 93.67
+        },
+        {
+          "ml": 15,
+          "price": 137
+        },
+        {
+          "ml": 20,
+          "price": 180.33
+        }
+      ],
+      "article": "215136"
+    },
+    {
+      "id": "tiziana-terenzi-kirke-extrait-100",
+      "name": "Kirke",
+      "selectedMl": 100,
+      "usd": 146.09,
+      "pln": 555.14,
+      "cpm": 5.55,
+      "retail": 611,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 13.38
+        },
+        {
+          "ml": 5,
+          "price": 38.92
+        },
+        {
+          "ml": 10,
+          "price": 70.84
+        },
+        {
+          "ml": 15,
+          "price": 102.76
+        },
+        {
+          "ml": 20,
+          "price": 134.68
+        }
+      ],
+      "article": "124259"
+    },
+    {
+      "id": "mfk-gentle-fluidity-gold-edp-070",
+      "name": "Gentle Fluidity Gold",
+      "selectedMl": 70,
+      "usd": 277.87,
+      "pln": 1055.91,
+      "cpm": 15.08,
+      "retail": 1161,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 24.35
+        },
+        {
+          "ml": 5,
+          "price": 93.74
+        },
+        {
+          "ml": 10,
+          "price": 180.47
+        },
+        {
+          "ml": 15,
+          "price": 267.21
+        },
+        {
+          "ml": 20,
+          "price": 353.94
+        }
+      ],
+      "article": "186257"
+    },
+    {
+      "id": "initio-side-effect-edp-090",
+      "name": "Side Effect",
+      "selectedMl": 90,
+      "usd": 242.6,
+      "pln": 921.88,
+      "cpm": 10.24,
+      "retail": 1014,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 18.78
+        },
+        {
+          "ml": 5,
+          "price": 65.9
+        },
+        {
+          "ml": 10,
+          "price": 124.8
+        },
+        {
+          "ml": 15,
+          "price": 183.69
+        },
+        {
+          "ml": 20,
+          "price": 242.59
+        }
+      ],
+      "article": "112612"
+    },
+    {
+      "id": "memo-paris-african-leather-edp-075",
+      "name": "African Leather",
+      "selectedMl": 75,
+      "usd": 194.95,
+      "pln": 740.81,
+      "cpm": 9.88,
+      "retail": 815,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 18.36
+        },
+        {
+          "ml": 5,
+          "price": 63.8
+        },
+        {
+          "ml": 10,
+          "price": 120.59
+        },
+        {
+          "ml": 15,
+          "price": 177.39
+        },
+        {
+          "ml": 20,
+          "price": 234.18
+        }
+      ],
+      "article": "117849"
+    },
+    {
+      "id": "nasomatto-black-afgano-extrait-030",
+      "name": "Black Afgano",
+      "selectedMl": 30,
+      "usd": 192.67,
+      "pln": 732.15,
+      "cpm": 24.4,
+      "retail": 805,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 35.07
+        },
+        {
+          "ml": 5,
+          "price": 147.33
+        },
+        {
+          "ml": 10,
+          "price": 287.66
+        },
+        {
+          "ml": 15,
+          "price": 427.99
+        },
+        {
+          "ml": 20,
+          "price": 568.31
+        }
+      ],
+      "article": "119062"
+    },
+    {
+      "id": "xerjoff-erba-pura-edp-100",
+      "name": "Erba Pura",
+      "selectedMl": 100,
+      "usd": 188.24,
+      "pln": 715.31,
+      "cpm": 7.15,
+      "retail": 787,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 15.23
+        },
+        {
+          "ml": 5,
+          "price": 48.13
+        },
+        {
+          "ml": 10,
+          "price": 89.26
+        },
+        {
+          "ml": 15,
+          "price": 130.39
+        },
+        {
+          "ml": 20,
+          "price": 171.52
+        }
+      ],
+      "article": "125756"
+    },
+    {
+      "id": "maison-crivelli-hibiscus-mahajad-extrait-050",
+      "name": "Hibiscus Mahajád",
+      "selectedMl": 100,
+      "usd": 526.27,
+      "pln": 1999.83,
+      "cpm": 20,
+      "retail": 2200,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 30
+        },
+        {
+          "ml": 5,
+          "price": 121.99
+        },
+        {
+          "ml": 10,
+          "price": 236.98
+        },
+        {
+          "ml": 15,
+          "price": 351.97
+        },
+        {
+          "ml": 20,
+          "price": 466.96
+        }
+      ],
+      "article": "327619"
+    },
+    {
+      "id": "essential-parfums-bois-imperial-edp-100",
+      "name": "Bois Impérial",
+      "selectedMl": 100,
+      "usd": 159.44,
+      "pln": 605.87,
+      "cpm": 6.06,
+      "retail": 666,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 13.97
+        },
+        {
+          "ml": 5,
+          "price": 41.84
+        },
+        {
+          "ml": 10,
+          "price": 76.68
+        },
+        {
+          "ml": 15,
+          "price": 111.51
+        },
+        {
+          "ml": 20,
+          "price": 146.35
+        }
+      ],
+      "article": "247743"
+    },
+    {
+      "id": "marc-antoine-barrois-ganymede-edp-100",
+      "name": "Ganymede",
+      "selectedMl": 100,
+      "usd": 240.62,
+      "pln": 914.36,
+      "cpm": 9.14,
+      "retail": 1006,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 17.52
+        },
+        {
+          "ml": 5,
+          "price": 59.58
+        },
+        {
+          "ml": 10,
+          "price": 112.15
+        },
+        {
+          "ml": 15,
+          "price": 164.73
+        },
+        {
+          "ml": 20,
+          "price": 217.3
+        }
+      ],
+      "article": "238659"
+    },
+    {
+      "id": "le-labo-another-13-edp-100",
+      "name": "Another 13",
+      "selectedMl": 100,
+      "usd": 405.18,
+      "pln": 1539.68,
+      "cpm": 15.4,
+      "retail": 1694,
+      "decants": [
+        {
+          "ml": 1,
+          "price": 24.71
+        },
+        {
+          "ml": 5,
+          "price": 95.53
+        },
+        {
+          "ml": 10,
+          "price": 184.06
+        },
+        {
+          "ml": 15,
+          "price": 272.59
+        },
+        {
+          "ml": 20,
+          "price": 361.13
+        }
+      ],
+      "article": "210560"
+    }
+  ],
+  "curatedPreserved": [
+    {
+      "id": "ysl-black-opium-edp-090",
+      "name": "Black Opium",
+      "existing": [
+        {
+          "ml": 30,
+          "price": 99
+        },
+        {
+          "ml": 50,
+          "price": 159
+        },
+        {
+          "ml": 90,
+          "price": 229
+        }
+      ],
+      "calculatedRetail": 599,
+      "calculatedSize": 90,
+      "calculatedUsd": 143.32,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "ysl-libre-edp-090",
+      "name": "Libre",
+      "existing": [
+        {
+          "ml": 30,
+          "price": 99
+        },
+        {
+          "ml": 50,
+          "price": 155
+        },
+        {
+          "ml": 90,
+          "price": 219
+        }
+      ],
+      "calculatedRetail": 824,
+      "calculatedSize": 90,
+      "calculatedUsd": 197.07,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "tom-ford-oud-wood-edp-050",
+      "name": "Oud Wood Eau de Parfum",
+      "existing": [
+        {
+          "ml": 30,
+          "price": 249
+        },
+        {
+          "ml": 50,
+          "price": 349
+        },
+        {
+          "ml": 100,
+          "price": 499
+        }
+      ],
+      "calculatedRetail": 1291,
+      "calculatedSize": 100,
+      "calculatedUsd": 308.74,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "dior-sauvage-edp-100",
+      "name": "Sauvage",
+      "existing": [
+        {
+          "ml": 60,
+          "price": 149
+        },
+        {
+          "ml": 100,
+          "price": 189
+        }
+      ],
+      "calculatedRetail": 819,
+      "calculatedSize": 100,
+      "calculatedUsd": 195.82,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "chanel-chance-eau-tendre-edt-100",
+      "name": "Chance Eau Tendre",
+      "existing": [
+        {
+          "ml": 50,
+          "price": 145
+        },
+        {
+          "ml": 100,
+          "price": 195
+        }
+      ],
+      "calculatedRetail": 870,
+      "calculatedSize": 100,
+      "calculatedUsd": 208.12,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "creed-aventus-edp-100",
+      "name": "Aventus",
+      "existing": [
+        {
+          "ml": 50,
+          "price": 329
+        },
+        {
+          "ml": 100,
+          "price": 449
+        }
+      ],
+      "calculatedRetail": 1592,
+      "calculatedSize": 100,
+      "calculatedUsd": 380.9,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "byredo-gypsy-water-edp-100",
+      "name": "Gypsy Water",
+      "existing": [
+        {
+          "ml": 50,
+          "price": 219
+        },
+        {
+          "ml": 100,
+          "price": 299
+        }
+      ],
+      "calculatedRetail": 1016,
+      "calculatedSize": 100,
+      "calculatedUsd": 242.98,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "le-labo-santal-33-edp-100",
+      "name": "Santal 33",
+      "existing": [
+        {
+          "ml": 50,
+          "price": 279
+        },
+        {
+          "ml": 100,
+          "price": 379
+        }
+      ],
+      "calculatedRetail": 1705,
+      "calculatedSize": 100,
+      "calculatedUsd": 407.91,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "diptyque-philosykos-edt-100",
+      "name": "Philosykos",
+      "existing": [
+        {
+          "ml": 50,
+          "price": 145
+        },
+        {
+          "ml": 100,
+          "price": 195
+        }
+      ],
+      "calculatedRetail": 970,
+      "calculatedSize": 100,
+      "calculatedUsd": 231.96,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "initio-oud-for-greatness-edp-090",
+      "name": "Oud for Greatness",
+      "existing": [
+        {
+          "ml": 90,
+          "price": 349
+        }
+      ],
+      "calculatedRetail": 1080,
+      "calculatedSize": 90,
+      "calculatedUsd": 258.41,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    },
+    {
+      "id": "mfk-baccarat-rouge-540-edp-070",
+      "name": "Baccarat Rouge 540 Extrait de Parfum",
+      "existing": [
+        {
+          "ml": 35,
+          "price": 279
+        },
+        {
+          "ml": 70,
+          "price": 399
+        },
+        {
+          "ml": 200,
+          "price": 699
+        }
+      ],
+      "calculatedRetail": 1866,
+      "calculatedSize": 70,
+      "calculatedUsd": 446.35,
+      "differenceNote": "Existing curated prices NOT overwritten"
+    }
+  ],
+  "unmatched": [
+    {
+      "id": "clean-warm-cotton-edp-060",
+      "brandId": "clean",
+      "name": "Warm Cotton",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    },
+    {
+      "id": "kayali-vanilla-28-edp-100",
+      "brandId": "kayali",
+      "name": "Vanilla 28",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    },
+    {
+      "id": "valentino-uomo-born-in-roma-intense-edp-100",
+      "brandId": "valentino",
+      "name": "Uomo Born in Roma Intense",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    },
+    {
+      "id": "versace-man-eau-fraiche-edt-100",
+      "brandId": "versace",
+      "name": "Man Eau Fraîche",
+      "concentration": "EDT",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    },
+    {
+      "id": "burberry-hero-edp-100",
+      "brandId": "burberry",
+      "name": "Hero",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    },
+    {
+      "id": "glossier-you-edp-050",
+      "brandId": "glossier",
+      "name": "You",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    },
+    {
+      "id": "montale-aoud-lemon-mint-edp-100",
+      "brandId": "montale",
+      "name": "Aoud Lemon Mint",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "reason": "not found in Excel"
+    }
+  ],
+  "testerOnly": [],
+  "ambiguous": [
+    {
+      "id": "kilian-angels-share-edp-050",
+      "brandId": "kilian",
+      "name": "Angels' Share",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "note": "Many distinct Excel name variants matched — review",
+      "names": [
+        "Kilian Angels' Share French Montana парфюмированная вода",
+        "Kilian Angels' Share On The Rocks парфюмированная вода",
+        "Kilian Angels' Share Paradis парфюмированная вода",
+        "Kilian Angels' Share парфюмированная вода"
+      ]
+    }
+  ],
+  "flags": [
+    {
+      "id": "tom-ford-oud-wood-edp-050",
+      "flag": "very-high-retail",
+      "retail": 1291
+    },
+    {
+      "id": "dior-sauvage-edp-100",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 7.44,
+      "testerCpm": 3.5,
+      "testerMl": 300
+    },
+    {
+      "id": "tom-ford-tobacco-vanille-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1368
+    },
+    {
+      "id": "tom-ford-lost-cherry-edp-050",
+      "flag": "very-high-retail",
+      "retail": 1862
+    },
+    {
+      "id": "chanel-bleu-de-chanel-edp-100",
+      "flag": "very-high-retail",
+      "retail": 934
+    },
+    {
+      "id": "creed-aventus-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1592
+    },
+    {
+      "id": "byredo-gypsy-water-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1016
+    },
+    {
+      "id": "le-labo-santal-33-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1705
+    },
+    {
+      "id": "le-labo-santal-33-edp-100",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 15.5,
+      "testerCpm": 9.08,
+      "testerMl": 100
+    },
+    {
+      "id": "diptyque-philosykos-edt-100",
+      "flag": "very-high-retail",
+      "retail": 970
+    },
+    {
+      "id": "initio-oud-for-greatness-edp-090",
+      "flag": "very-high-retail",
+      "retail": 1080
+    },
+    {
+      "id": "mfk-baccarat-rouge-540-edp-070",
+      "flag": "very-high-retail",
+      "retail": 1866
+    },
+    {
+      "id": "mfk-baccarat-rouge-540-edp-070",
+      "flag": "high-cost-per-ml",
+      "cpm": 24.23
+    },
+    {
+      "id": "mfk-baccarat-rouge-540-edp-070",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 24.23,
+      "testerCpm": 14.27,
+      "testerMl": 200
+    },
+    {
+      "id": "byredo-blanche-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1016
+    },
+    {
+      "id": "mfk-grand-soir-edp-070",
+      "flag": "very-high-retail",
+      "retail": 1094
+    },
+    {
+      "id": "mfk-grand-soir-edp-070",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 14.2,
+      "testerCpm": 10.3,
+      "testerMl": 200
+    },
+    {
+      "id": "parfums-de-marly-layton-edp-125",
+      "flag": "very-high-retail",
+      "retail": 1015
+    },
+    {
+      "id": "parfums-de-marly-delina-edp-075",
+      "flag": "very-high-retail",
+      "retail": 1105
+    },
+    {
+      "id": "parfums-de-marly-delina-exclusif-edp-075",
+      "flag": "very-high-retail",
+      "retail": 987
+    },
+    {
+      "id": "kilian-angels-share-edp-050",
+      "flag": "very-high-retail",
+      "retail": 1735
+    },
+    {
+      "id": "kilian-angels-share-edp-050",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 15.77,
+      "testerCpm": 9.25,
+      "testerMl": 100
+    },
+    {
+      "id": "escentric-molecules-molecule-01-edt-100",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 7.89,
+      "testerCpm": 5.53,
+      "testerMl": 200
+    },
+    {
+      "id": "montale-roses-musk-edp-100",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 4.72,
+      "testerCpm": 3.51,
+      "testerMl": 100
+    },
+    {
+      "id": "nishane-ani-extrait-100",
+      "flag": "very-high-retail",
+      "retail": 917
+    },
+    {
+      "id": "mfk-gentle-fluidity-gold-edp-070",
+      "flag": "very-high-retail",
+      "retail": 1161
+    },
+    {
+      "id": "mfk-gentle-fluidity-gold-edp-070",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 15.08,
+      "testerCpm": 9.68,
+      "testerMl": 200
+    },
+    {
+      "id": "initio-side-effect-edp-090",
+      "flag": "very-high-retail",
+      "retail": 1014
+    },
+    {
+      "id": "nasomatto-black-afgano-extrait-030",
+      "flag": "high-cost-per-ml",
+      "cpm": 24.4
+    },
+    {
+      "id": "maison-crivelli-hibiscus-mahajad-extrait-050",
+      "flag": "very-high-retail",
+      "retail": 2200
+    },
+    {
+      "id": "marc-antoine-barrois-ganymede-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1006
+    },
+    {
+      "id": "le-labo-another-13-edp-100",
+      "flag": "very-high-retail",
+      "retail": 1694
+    },
+    {
+      "id": "le-labo-another-13-edp-100",
+      "flag": "tester-much-cheaper",
+      "originalCpm": 15.4,
+      "testerCpm": 11.55,
+      "testerMl": 100
+    }
+  ],
+  "audit": [
+    {
+      "id": "ysl-black-opium-edp-090",
+      "brandId": "ysl",
+      "name": "Black Opium",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "125953",
+        "selectedName": "Yves Saint Laurent Black Opium парфюмированная вода",
+        "selectedVolume": "объем 90 мл",
+        "selectedMl": 90,
+        "wholesaleUsd": 143.32,
+        "wholesalePln": 544.62,
+        "costPerMl": 6.05,
+        "retailBottle": 599,
+        "decantPricePerMl": 6.959,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 13.96
+          },
+          {
+            "ml": 5,
+            "price": 41.8
+          },
+          {
+            "ml": 10,
+            "price": 76.59
+          },
+          {
+            "ml": 15,
+            "price": 111.39
+          },
+          {
+            "ml": 20,
+            "price": 146.18
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "125950",
+            "ml": 30,
+            "usd": 104.23,
+            "pln": 396.07,
+            "plnPerMl": 13.2,
+            "tester": false
+          },
+          {
+            "article": "125951",
+            "ml": 50,
+            "usd": 123.41,
+            "pln": 468.96,
+            "plnPerMl": 9.38,
+            "tester": false
+          },
+          {
+            "article": "125953",
+            "ml": 90,
+            "usd": 143.32,
+            "pln": 544.62,
+            "plnPerMl": 6.05,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "125952",
+            "ml": 90,
+            "usd": 136.21,
+            "pln": 517.6,
+            "plnPerMl": 5.75,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "131788",
+            "ml": 30,
+            "usd": 104.23,
+            "pln": 396.07,
+            "plnPerMl": 13.2,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "188729",
+            "ml": 50,
+            "usd": 119.57,
+            "pln": 454.37,
+            "plnPerMl": 9.09,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 30,
+          "price": 99
+        },
+        {
+          "ml": 50,
+          "price": 159
+        },
+        {
+          "ml": 90,
+          "price": 229
+        }
+      ]
+    },
+    {
+      "id": "ysl-libre-edp-090",
+      "brandId": "ysl",
+      "name": "Libre",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "221071",
+        "selectedName": "Yves Saint Laurent Libre парфюмированная вода",
+        "selectedVolume": "объем 90 мл",
+        "selectedMl": 90,
+        "wholesaleUsd": 197.07,
+        "wholesalePln": 748.87,
+        "costPerMl": 8.32,
+        "retailBottle": 824,
+        "decantPricePerMl": 9.5689,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.57
+          },
+          {
+            "ml": 5,
+            "price": 54.84
+          },
+          {
+            "ml": 10,
+            "price": 102.69
+          },
+          {
+            "ml": 15,
+            "price": 150.53
+          },
+          {
+            "ml": 20,
+            "price": 198.38
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "219037",
+            "ml": 30,
+            "usd": 116.93,
+            "pln": 444.33,
+            "plnPerMl": 14.81,
+            "tester": false
+          },
+          {
+            "article": "219038",
+            "ml": 50,
+            "usd": 127.1,
+            "pln": 482.98,
+            "plnPerMl": 9.66,
+            "tester": false
+          },
+          {
+            "article": "221071",
+            "ml": 90,
+            "usd": 197.07,
+            "pln": 748.87,
+            "plnPerMl": 8.32,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "218420",
+            "ml": 90,
+            "usd": 192.56,
+            "pln": 731.73,
+            "plnPerMl": 8.13,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "224009",
+            "ml": 50,
+            "usd": 124.66,
+            "pln": 473.71,
+            "plnPerMl": 9.47,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "225236",
+            "ml": 30,
+            "usd": 108.62,
+            "pln": 412.76,
+            "plnPerMl": 13.76,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 30,
+          "price": 99
+        },
+        {
+          "ml": 50,
+          "price": 155
+        },
+        {
+          "ml": 90,
+          "price": 219
+        }
+      ]
+    },
+    {
+      "id": "tom-ford-oud-wood-edp-050",
+      "brandId": "tom-ford",
+      "name": "Oud Wood Eau de Parfum",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "124404",
+        "selectedName": "Tom Ford Oud Wood парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 308.74,
+        "wholesalePln": 1173.21,
+        "costPerMl": 11.73,
+        "retailBottle": 1291,
+        "decantPricePerMl": 13.4919,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 20.49
+          },
+          {
+            "ml": 5,
+            "price": 74.46
+          },
+          {
+            "ml": 10,
+            "price": 141.92
+          },
+          {
+            "ml": 15,
+            "price": 209.38
+          },
+          {
+            "ml": 20,
+            "price": 276.84
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "124401",
+            "ml": 30,
+            "usd": 184.67,
+            "pln": 701.75,
+            "plnPerMl": 23.39,
+            "tester": false
+          },
+          {
+            "article": "124403",
+            "ml": 50,
+            "usd": 242.77,
+            "pln": 922.53,
+            "plnPerMl": 18.45,
+            "tester": false
+          },
+          {
+            "article": "124404",
+            "ml": 100,
+            "usd": 308.74,
+            "pln": 1173.21,
+            "plnPerMl": 11.73,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "124402",
+            "ml": 50,
+            "usd": 227.82,
+            "pln": 865.72,
+            "plnPerMl": 17.31,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "129613",
+            "ml": 100,
+            "usd": 308.74,
+            "pln": 1173.21,
+            "plnPerMl": 11.73,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "238285",
+            "ml": 30,
+            "usd": 171.68,
+            "pln": 652.38,
+            "plnPerMl": 21.75,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 30,
+          "price": 249
+        },
+        {
+          "ml": 50,
+          "price": 349
+        },
+        {
+          "ml": 100,
+          "price": 499
+        }
+      ]
+    },
+    {
+      "id": "dior-sauvage-edp-100",
+      "brandId": "dior",
+      "name": "Sauvage",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "233939",
+        "selectedName": "Christian Dior Sauvage парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 195.82,
+        "wholesalePln": 744.12,
+        "costPerMl": 7.44,
+        "retailBottle": 819,
+        "decantPricePerMl": 8.5574,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 15.56
+          },
+          {
+            "ml": 5,
+            "price": 49.79
+          },
+          {
+            "ml": 10,
+            "price": 92.57
+          },
+          {
+            "ml": 15,
+            "price": 135.36
+          },
+          {
+            "ml": 20,
+            "price": 178.15
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "131093",
+            "ml": 100,
+            "usd": 200.11,
+            "pln": 760.42,
+            "plnPerMl": 7.6,
+            "tester": false
+          },
+          {
+            "article": "156427",
+            "ml": 60,
+            "usd": 145.2,
+            "pln": 551.76,
+            "plnPerMl": 9.2,
+            "tester": false
+          },
+          {
+            "article": "218437",
+            "ml": 200,
+            "usd": 239.15,
+            "pln": 908.77,
+            "plnPerMl": 4.54,
+            "tester": false
+          },
+          {
+            "article": "233939",
+            "ml": 100,
+            "usd": 195.82,
+            "pln": 744.12,
+            "plnPerMl": 7.44,
+            "tester": false
+          },
+          {
+            "article": "268103",
+            "ml": 100,
+            "usd": 249.73,
+            "pln": 948.97,
+            "plnPerMl": 9.49,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "131092",
+            "ml": 100,
+            "usd": 180.55,
+            "pln": 686.09,
+            "plnPerMl": 6.86,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "209339",
+            "ml": 200,
+            "usd": 241.32,
+            "pln": 917.02,
+            "plnPerMl": 4.59,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 60,
+          "price": 149
+        },
+        {
+          "ml": 100,
+          "price": 189
+        }
+      ]
+    },
+    {
+      "id": "chanel-chance-eau-tendre-edt-100",
+      "brandId": "chanel",
+      "name": "Chance Eau Tendre",
+      "concentration": "EDT",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "105518",
+        "selectedName": "Chanel Chance Eau Tendre туалетная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 208.12,
+        "wholesalePln": 790.86,
+        "costPerMl": 7.91,
+        "retailBottle": 870,
+        "decantPricePerMl": 9.0949,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.09
+          },
+          {
+            "ml": 5,
+            "price": 52.47
+          },
+          {
+            "ml": 10,
+            "price": 97.95
+          },
+          {
+            "ml": 15,
+            "price": 143.42
+          },
+          {
+            "ml": 20,
+            "price": 188.9
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "105515",
+            "ml": 50,
+            "usd": 204.48,
+            "pln": 777.02,
+            "plnPerMl": 15.54,
+            "tester": false
+          },
+          {
+            "article": "105518",
+            "ml": 100,
+            "usd": 208.12,
+            "pln": 790.86,
+            "plnPerMl": 7.91,
+            "tester": false
+          },
+          {
+            "article": "105519",
+            "ml": 150,
+            "usd": 263.38,
+            "pln": 1000.84,
+            "plnPerMl": 6.67,
+            "tester": false
+          },
+          {
+            "article": "133683",
+            "ml": 35,
+            "usd": 147.9,
+            "pln": 562.02,
+            "plnPerMl": 16.06,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "105517",
+            "ml": 100,
+            "usd": 195.82,
+            "pln": 744.12,
+            "plnPerMl": 7.44,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "157861",
+            "ml": 150,
+            "usd": 312.79,
+            "pln": 1188.6,
+            "plnPerMl": 7.92,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "182808",
+            "ml": 50,
+            "usd": 208.84,
+            "pln": 793.59,
+            "plnPerMl": 15.87,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "212774",
+            "ml": 35,
+            "usd": 171.8,
+            "pln": 652.84,
+            "plnPerMl": 18.65,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 50,
+          "price": 145
+        },
+        {
+          "ml": 100,
+          "price": 195
+        }
+      ]
+    },
+    {
+      "id": "maison-margiela-replica-lazy-sunday-morning-edt-100",
+      "brandId": "maison-margiela",
+      "name": "Lazy Sunday Morning",
+      "concentration": "EDT",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "221017",
+        "selectedName": "Maison Martin Margiela Replica Lazy Sunday Morning туалетная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 125.89,
+        "wholesalePln": 478.38,
+        "costPerMl": 4.78,
+        "retailBottle": 526,
+        "decantPricePerMl": 5.5014,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.5
+          },
+          {
+            "ml": 5,
+            "price": 34.51
+          },
+          {
+            "ml": 10,
+            "price": 62.01
+          },
+          {
+            "ml": 15,
+            "price": 89.52
+          },
+          {
+            "ml": 20,
+            "price": 117.03
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "221017",
+            "ml": 100,
+            "usd": 125.89,
+            "pln": 478.38,
+            "plnPerMl": 4.78,
+            "tester": false
+          },
+          {
+            "article": "257569",
+            "ml": 30,
+            "usd": 97.6,
+            "pln": 370.88,
+            "plnPerMl": 12.36,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "178453",
+            "ml": 100,
+            "usd": 120.87,
+            "pln": 459.31,
+            "plnPerMl": 4.59,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "clean-warm-cotton-edp-060",
+      "brandId": "clean",
+      "name": "Warm Cotton",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "tom-ford-tobacco-vanille-edp-100",
+      "brandId": "tom-ford",
+      "name": "Tobacco Vanille",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "124435",
+        "selectedName": "Tom Ford Tobacco Vanille парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 327.24,
+        "wholesalePln": 1243.51,
+        "costPerMl": 12.44,
+        "retailBottle": 1368,
+        "decantPricePerMl": 14.3004,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 21.3
+          },
+          {
+            "ml": 5,
+            "price": 78.5
+          },
+          {
+            "ml": 10,
+            "price": 150
+          },
+          {
+            "ml": 15,
+            "price": 221.51
+          },
+          {
+            "ml": 20,
+            "price": 293.01
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "124434",
+            "ml": 50,
+            "usd": 257.05,
+            "pln": 976.79,
+            "plnPerMl": 19.54,
+            "tester": false
+          },
+          {
+            "article": "124435",
+            "ml": 100,
+            "usd": 327.24,
+            "pln": 1243.51,
+            "plnPerMl": 12.44,
+            "tester": false
+          },
+          {
+            "article": "158137",
+            "ml": 30,
+            "usd": 190.33,
+            "pln": 723.25,
+            "plnPerMl": 24.11,
+            "tester": false
+          },
+          {
+            "article": "239762",
+            "ml": 48,
+            "usd": 557.26,
+            "pln": 2117.59,
+            "plnPerMl": 44.12,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "124433",
+            "ml": 50,
+            "usd": 242.77,
+            "pln": 922.53,
+            "plnPerMl": 18.45,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "186430",
+            "ml": 100,
+            "usd": 327.24,
+            "pln": 1243.51,
+            "plnPerMl": 12.44,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "238286",
+            "ml": 30,
+            "usd": 293.86,
+            "pln": 1116.67,
+            "plnPerMl": 37.22,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "narciso-rodriguez-for-her-edp-100",
+      "brandId": "narciso-rodriguez",
+      "name": "For Her",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "119022",
+        "selectedName": "Narciso Rodriguez For Her парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 110.88,
+        "wholesalePln": 421.34,
+        "costPerMl": 4.21,
+        "retailBottle": 463,
+        "decantPricePerMl": 4.8454,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.85
+          },
+          {
+            "ml": 5,
+            "price": 31.23
+          },
+          {
+            "ml": 10,
+            "price": 55.45
+          },
+          {
+            "ml": 15,
+            "price": 79.68
+          },
+          {
+            "ml": 20,
+            "price": 103.91
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "119020",
+            "ml": 50,
+            "usd": 90.87,
+            "pln": 345.31,
+            "plnPerMl": 6.91,
+            "tester": false
+          },
+          {
+            "article": "119022",
+            "ml": 100,
+            "usd": 110.88,
+            "pln": 421.34,
+            "plnPerMl": 4.21,
+            "tester": false
+          },
+          {
+            "article": "128656",
+            "ml": 150,
+            "usd": 160.45,
+            "pln": 609.71,
+            "plnPerMl": 4.06,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "119021",
+            "ml": 100,
+            "usd": 89.98,
+            "pln": 341.92,
+            "plnPerMl": 3.42,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kayali-vanilla-28-edp-100",
+      "brandId": "kayali",
+      "name": "Vanilla 28",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "prada-paradoxe-edp-090",
+      "brandId": "prada",
+      "name": "Paradoxe",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "265521",
+        "selectedName": "Prada Paradoxe парфюмированная вода",
+        "selectedVolume": "объем 90 мл",
+        "selectedMl": 90,
+        "wholesaleUsd": 189.2,
+        "wholesalePln": 718.96,
+        "costPerMl": 7.99,
+        "retailBottle": 791,
+        "decantPricePerMl": 9.1867,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.19
+          },
+          {
+            "ml": 5,
+            "price": 52.93
+          },
+          {
+            "ml": 10,
+            "price": 98.87
+          },
+          {
+            "ml": 15,
+            "price": 144.8
+          },
+          {
+            "ml": 20,
+            "price": 190.73
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "265520",
+            "ml": 50,
+            "usd": 161.36,
+            "pln": 613.17,
+            "plnPerMl": 12.26,
+            "tester": false
+          },
+          {
+            "article": "265521",
+            "ml": 90,
+            "usd": 189.2,
+            "pln": 718.96,
+            "plnPerMl": 7.99,
+            "tester": false
+          }
+        ],
+        "testerOptions": []
+      }
+    },
+    {
+      "id": "burberry-goddess-edp-100",
+      "brandId": "burberry",
+      "name": "Goddess",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "326627",
+        "selectedName": "Burberry Goddess парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 173.92,
+        "wholesalePln": 660.9,
+        "costPerMl": 6.61,
+        "retailBottle": 727,
+        "decantPricePerMl": 7.6004,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 14.6
+          },
+          {
+            "ml": 5,
+            "price": 45
+          },
+          {
+            "ml": 10,
+            "price": 83
+          },
+          {
+            "ml": 15,
+            "price": 121.01
+          },
+          {
+            "ml": 20,
+            "price": 159.01
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "326627",
+            "ml": 100,
+            "usd": 173.92,
+            "pln": 660.9,
+            "plnPerMl": 6.61,
+            "tester": false
+          },
+          {
+            "article": "333057",
+            "ml": 30,
+            "usd": 99.5,
+            "pln": 378.1,
+            "plnPerMl": 12.6,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "328061",
+            "ml": 100,
+            "usd": 143.87,
+            "pln": 546.71,
+            "plnPerMl": 5.47,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tom-ford-lost-cherry-edp-050",
+      "brandId": "tom-ford",
+      "name": "Lost Cherry",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "215173",
+        "selectedName": "Tom Ford Lost Cherry парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 445.51,
+        "wholesalePln": 1692.94,
+        "costPerMl": 16.93,
+        "retailBottle": 1862,
+        "decantPricePerMl": 19.4688,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 26.47
+          },
+          {
+            "ml": 5,
+            "price": 104.34
+          },
+          {
+            "ml": 10,
+            "price": 201.69
+          },
+          {
+            "ml": 15,
+            "price": 299.03
+          },
+          {
+            "ml": 20,
+            "price": 396.38
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "173462",
+            "ml": 50,
+            "usd": 292.66,
+            "pln": 1112.11,
+            "plnPerMl": 22.24,
+            "tester": false
+          },
+          {
+            "article": "215173",
+            "ml": 100,
+            "usd": 445.51,
+            "pln": 1692.94,
+            "plnPerMl": 16.93,
+            "tester": false
+          },
+          {
+            "article": "237398",
+            "ml": 30,
+            "usd": 231.87,
+            "pln": 881.11,
+            "plnPerMl": 29.37,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "213869",
+            "ml": 50,
+            "usd": 263.49,
+            "pln": 1001.26,
+            "plnPerMl": 20.03,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "236177",
+            "ml": 100,
+            "usd": 399.57,
+            "pln": 1518.37,
+            "plnPerMl": 15.18,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "245840",
+            "ml": 30,
+            "usd": 221.39,
+            "pln": 841.28,
+            "plnPerMl": 28.04,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "valentino-donna-born-in-roma-intense-edp-100",
+      "brandId": "valentino",
+      "name": "Donna Born in Roma Intense",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "311710",
+        "selectedName": "Valentino Donna Born In Roma Intense парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 166.15,
+        "wholesalePln": 631.37,
+        "costPerMl": 6.31,
+        "retailBottle": 695,
+        "decantPricePerMl": 7.2608,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 14.26
+          },
+          {
+            "ml": 5,
+            "price": 43.3
+          },
+          {
+            "ml": 10,
+            "price": 79.61
+          },
+          {
+            "ml": 15,
+            "price": 115.91
+          },
+          {
+            "ml": 20,
+            "price": 152.22
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "311710",
+            "ml": 100,
+            "usd": 166.15,
+            "pln": 631.37,
+            "plnPerMl": 6.31,
+            "tester": false
+          },
+          {
+            "article": "326401",
+            "ml": 50,
+            "usd": 146.93,
+            "pln": 558.33,
+            "plnPerMl": 11.17,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "329269",
+            "ml": 100,
+            "usd": 152.16,
+            "pln": 578.21,
+            "plnPerMl": 5.78,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "prada-paradoxe-intense-edp-090",
+      "brandId": "prada",
+      "name": "Paradoxe Intense",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "328410",
+        "selectedName": "Prada Paradoxe Intense парфюмированная вода",
+        "selectedVolume": "объем 90 мл",
+        "selectedMl": 90,
+        "wholesaleUsd": 202.14,
+        "wholesalePln": 768.13,
+        "costPerMl": 8.53,
+        "retailBottle": 845,
+        "decantPricePerMl": 9.815,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.81
+          },
+          {
+            "ml": 5,
+            "price": 56.08
+          },
+          {
+            "ml": 10,
+            "price": 105.15
+          },
+          {
+            "ml": 15,
+            "price": 154.23
+          },
+          {
+            "ml": 20,
+            "price": 203.3
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "328410",
+            "ml": 90,
+            "usd": 202.14,
+            "pln": 768.13,
+            "plnPerMl": 8.53,
+            "tester": false
+          }
+        ],
+        "testerOptions": []
+      }
+    },
+    {
+      "id": "narciso-rodriguez-pure-musc-for-her-edp-100",
+      "brandId": "narciso-rodriguez",
+      "name": "Pure Musc For Her",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "212166",
+        "selectedName": "Narciso Rodriguez Pure Musc парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 112.85,
+        "wholesalePln": 428.83,
+        "costPerMl": 4.29,
+        "retailBottle": 472,
+        "decantPricePerMl": 4.9315,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.93
+          },
+          {
+            "ml": 5,
+            "price": 31.66
+          },
+          {
+            "ml": 10,
+            "price": 56.32
+          },
+          {
+            "ml": 15,
+            "price": 80.97
+          },
+          {
+            "ml": 20,
+            "price": 105.63
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "178245",
+            "ml": 50,
+            "usd": 132.92,
+            "pln": 505.1,
+            "plnPerMl": 10.1,
+            "tester": false
+          },
+          {
+            "article": "188425",
+            "ml": 30,
+            "usd": 89.05,
+            "pln": 338.39,
+            "plnPerMl": 11.28,
+            "tester": false
+          },
+          {
+            "article": "212166",
+            "ml": 100,
+            "usd": 112.85,
+            "pln": 428.83,
+            "plnPerMl": 4.29,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "181933",
+            "ml": 100,
+            "usd": 104.23,
+            "pln": 396.07,
+            "plnPerMl": 3.96,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "jo-malone-lime-basil-mandarin-cologne-100",
+      "brandId": "jo-malone",
+      "name": "Lime Basil & Mandarin",
+      "concentration": "EDC",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "113517",
+        "selectedName": "Jo Malone Lime Basil & Mandarin одеколон",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 175.5,
+        "wholesalePln": 666.9,
+        "costPerMl": 6.67,
+        "retailBottle": 734,
+        "decantPricePerMl": 7.6693,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 14.67
+          },
+          {
+            "ml": 5,
+            "price": 45.35
+          },
+          {
+            "ml": 10,
+            "price": 83.69
+          },
+          {
+            "ml": 15,
+            "price": 122.04
+          },
+          {
+            "ml": 20,
+            "price": 160.39
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "113515",
+            "ml": 30,
+            "usd": 92.47,
+            "pln": 351.39,
+            "plnPerMl": 11.71,
+            "tester": false
+          },
+          {
+            "article": "113517",
+            "ml": 100,
+            "usd": 175.5,
+            "pln": 666.9,
+            "plnPerMl": 6.67,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "113514",
+            "ml": 30,
+            "usd": 92.47,
+            "pln": 351.39,
+            "plnPerMl": 11.71,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "113516",
+            "ml": 100,
+            "usd": 171.8,
+            "pln": 652.84,
+            "plnPerMl": 6.53,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montblanc-explorer-edp-100",
+      "brandId": "montblanc",
+      "name": "Explorer",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "182665",
+        "selectedName": "Mont Blanc Explorer парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 124.66,
+        "wholesalePln": 473.71,
+        "costPerMl": 4.74,
+        "retailBottle": 521,
+        "decantPricePerMl": 5.4477,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.45
+          },
+          {
+            "ml": 5,
+            "price": 34.24
+          },
+          {
+            "ml": 10,
+            "price": 61.48
+          },
+          {
+            "ml": 15,
+            "price": 88.72
+          },
+          {
+            "ml": 20,
+            "price": 115.95
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "182665",
+            "ml": 100,
+            "usd": 124.66,
+            "pln": 473.71,
+            "plnPerMl": 4.74,
+            "tester": false
+          },
+          {
+            "article": "183144",
+            "ml": 60,
+            "usd": 91.92,
+            "pln": 349.3,
+            "plnPerMl": 5.82,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "176043",
+            "ml": 100,
+            "usd": 126.19,
+            "pln": 479.52,
+            "plnPerMl": 4.8,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "giorgio-armani-stronger-with-you-intensely-edp-100",
+      "brandId": "giorgio-armani",
+      "name": "Stronger With You Intensely",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "188325",
+        "selectedName": "Giorgio Armani Emporio Armani Stronger With You Intensely парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 143.32,
+        "wholesalePln": 544.62,
+        "costPerMl": 5.45,
+        "retailBottle": 599,
+        "decantPricePerMl": 6.2631,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 13.26
+          },
+          {
+            "ml": 5,
+            "price": 38.32
+          },
+          {
+            "ml": 10,
+            "price": 69.63
+          },
+          {
+            "ml": 15,
+            "price": 100.95
+          },
+          {
+            "ml": 20,
+            "price": 132.26
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "181868",
+            "ml": 50,
+            "usd": 115.51,
+            "pln": 438.94,
+            "plnPerMl": 8.78,
+            "tester": false
+          },
+          {
+            "article": "188325",
+            "ml": 100,
+            "usd": 143.32,
+            "pln": 544.62,
+            "plnPerMl": 5.45,
+            "tester": false
+          },
+          {
+            "article": "342835",
+            "ml": 150,
+            "usd": 185.54,
+            "pln": 705.05,
+            "plnPerMl": 4.7,
+            "tester": false
+          },
+          {
+            "article": "349573",
+            "ml": 100,
+            "usd": 156.32,
+            "pln": 594.02,
+            "plnPerMl": 5.94,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "180022",
+            "ml": 100,
+            "usd": 142.35,
+            "pln": 540.93,
+            "plnPerMl": 5.41,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "235466",
+            "ml": 50,
+            "usd": 171.8,
+            "pln": 652.84,
+            "plnPerMl": 13.06,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "349095",
+            "ml": 150,
+            "usd": 224.38,
+            "pln": 852.64,
+            "plnPerMl": 5.68,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "ysl-y-edp-100",
+      "brandId": "ysl",
+      "name": "Y",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "171060",
+        "selectedName": "Yves Saint Laurent Y Eau de Parfum парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 150.76,
+        "wholesalePln": 572.89,
+        "costPerMl": 5.73,
+        "retailBottle": 630,
+        "decantPricePerMl": 6.5882,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 13.59
+          },
+          {
+            "ml": 5,
+            "price": 39.94
+          },
+          {
+            "ml": 10,
+            "price": 72.88
+          },
+          {
+            "ml": 15,
+            "price": 105.82
+          },
+          {
+            "ml": 20,
+            "price": 138.76
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "284817",
+            "ml": 100,
+            "usd": 189.76,
+            "pln": 721.09,
+            "plnPerMl": 7.21,
+            "tester": false
+          },
+          {
+            "article": "171060",
+            "ml": 100,
+            "usd": 150.76,
+            "pln": 572.89,
+            "plnPerMl": 5.73,
+            "tester": false
+          },
+          {
+            "article": "188028",
+            "ml": 60,
+            "usd": 131.96,
+            "pln": 501.45,
+            "plnPerMl": 8.36,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "311815",
+            "ml": 100,
+            "usd": 179.12,
+            "pln": 680.66,
+            "plnPerMl": 6.81,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "179160",
+            "ml": 100,
+            "usd": 145.2,
+            "pln": 551.76,
+            "plnPerMl": 5.52,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "valentino-uomo-born-in-roma-intense-edp-100",
+      "brandId": "valentino",
+      "name": "Uomo Born in Roma Intense",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "azzaro-the-most-wanted-edp-intense-100",
+      "brandId": "azzaro",
+      "name": "The Most Wanted EDP Intense",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "333862",
+        "selectedName": "Azzaro The Most Wanted Intense парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 86.74,
+        "wholesalePln": 329.61,
+        "costPerMl": 3.3,
+        "retailBottle": 363,
+        "decantPricePerMl": 3.7905,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 10.79
+          },
+          {
+            "ml": 5,
+            "price": 25.95
+          },
+          {
+            "ml": 10,
+            "price": 44.91
+          },
+          {
+            "ml": 15,
+            "price": 63.86
+          },
+          {
+            "ml": 20,
+            "price": 82.81
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "333862",
+            "ml": 100,
+            "usd": 86.74,
+            "pln": 329.61,
+            "plnPerMl": 3.3,
+            "tester": false
+          },
+          {
+            "article": "336702",
+            "ml": 50,
+            "usd": 78.13,
+            "pln": 296.89,
+            "plnPerMl": 5.94,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "334988",
+            "ml": 100,
+            "usd": 80.94,
+            "pln": 307.57,
+            "plnPerMl": 3.08,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "338562",
+            "ml": 50,
+            "usd": 84.96,
+            "pln": 322.85,
+            "plnPerMl": 6.46,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "348384",
+            "ml": 50,
+            "usd": 78.13,
+            "pln": 296.89,
+            "plnPerMl": 5.94,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "giorgio-armani-acqua-di-gio-profondo-edp-125",
+      "brandId": "giorgio-armani",
+      "name": "Acqua di Giò Profondo",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "234524",
+        "selectedName": "Giorgio Armani Acqua di Gio Profondo парфюмированная вода",
+        "selectedVolume": "объем 125 мл",
+        "selectedMl": 125,
+        "wholesaleUsd": 166.87,
+        "wholesalePln": 634.11,
+        "costPerMl": 5.07,
+        "retailBottle": 698,
+        "decantPricePerMl": 5.8338,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.83
+          },
+          {
+            "ml": 5,
+            "price": 36.17
+          },
+          {
+            "ml": 10,
+            "price": 65.34
+          },
+          {
+            "ml": 15,
+            "price": 94.51
+          },
+          {
+            "ml": 20,
+            "price": 123.68
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "225241",
+            "ml": 75,
+            "usd": 235.4,
+            "pln": 894.52,
+            "plnPerMl": 11.93,
+            "tester": false
+          },
+          {
+            "article": "234524",
+            "ml": 125,
+            "usd": 166.87,
+            "pln": 634.11,
+            "plnPerMl": 5.07,
+            "tester": false
+          },
+          {
+            "article": "264515",
+            "ml": 200,
+            "usd": 200.79,
+            "pln": 763,
+            "plnPerMl": 3.82,
+            "tester": false
+          },
+          {
+            "article": "335252",
+            "ml": 100,
+            "usd": 143.34,
+            "pln": 544.69,
+            "plnPerMl": 5.45,
+            "tester": false
+          },
+          {
+            "article": "335327",
+            "ml": 50,
+            "usd": 117.58,
+            "pln": 446.8,
+            "plnPerMl": 8.94,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "224305",
+            "ml": 75,
+            "usd": 134.95,
+            "pln": 512.81,
+            "plnPerMl": 6.84,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "264514",
+            "ml": 200,
+            "usd": 208.84,
+            "pln": 793.59,
+            "plnPerMl": 3.97,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "336204",
+            "ml": 100,
+            "usd": 125.89,
+            "pln": 478.38,
+            "plnPerMl": 4.78,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "versace-man-eau-fraiche-edt-100",
+      "brandId": "versace",
+      "name": "Man Eau Fraîche",
+      "concentration": "EDT",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "chanel-bleu-de-chanel-edp-100",
+      "brandId": "chanel",
+      "name": "Bleu de Chanel",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "105499",
+        "selectedName": "Chanel Bleu de Chanel парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 223.45,
+        "wholesalePln": 849.11,
+        "costPerMl": 8.49,
+        "retailBottle": 934,
+        "decantPricePerMl": 9.7648,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.76
+          },
+          {
+            "ml": 5,
+            "price": 55.82
+          },
+          {
+            "ml": 10,
+            "price": 104.65
+          },
+          {
+            "ml": 15,
+            "price": 153.47
+          },
+          {
+            "ml": 20,
+            "price": 202.3
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "105498",
+            "ml": 50,
+            "usd": 163.18,
+            "pln": 620.08,
+            "plnPerMl": 12.4,
+            "tester": false
+          },
+          {
+            "article": "105499",
+            "ml": 100,
+            "usd": 223.45,
+            "pln": 849.11,
+            "plnPerMl": 8.49,
+            "tester": false
+          },
+          {
+            "article": "126506",
+            "ml": 150,
+            "usd": 267.56,
+            "pln": 1016.73,
+            "plnPerMl": 6.78,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "126505",
+            "ml": 100,
+            "usd": 212.92,
+            "pln": 809.1,
+            "plnPerMl": 8.09,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "162422",
+            "ml": 150,
+            "usd": 287.05,
+            "pln": 1090.79,
+            "plnPerMl": 7.27,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "166045",
+            "ml": 50,
+            "usd": 165.86,
+            "pln": 630.27,
+            "plnPerMl": 12.61,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "giorgio-armani-acqua-di-gio-edp-100",
+      "brandId": "giorgio-armani",
+      "name": "Acqua di Giò",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "327693",
+        "selectedName": "Giorgio Armani Acqua di Gio Pour Homme Eau de Parfum парфюмированная вода",
+        "selectedVolume": "объем 200 мл",
+        "selectedMl": 200,
+        "wholesaleUsd": 164.36,
+        "wholesalePln": 624.57,
+        "costPerMl": 3.12,
+        "retailBottle": 687,
+        "decantPricePerMl": 3.5913,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 10.59
+          },
+          {
+            "ml": 5,
+            "price": 24.96
+          },
+          {
+            "ml": 10,
+            "price": 42.91
+          },
+          {
+            "ml": 15,
+            "price": 60.87
+          },
+          {
+            "ml": 20,
+            "price": 78.83
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "327693",
+            "ml": 200,
+            "usd": 164.36,
+            "pln": 624.57,
+            "plnPerMl": 3.12,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "338284",
+            "ml": 200,
+            "usd": 193.93,
+            "pln": 736.93,
+            "plnPerMl": 3.68,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "burberry-hero-edp-100",
+      "brandId": "burberry",
+      "name": "Hero",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "glossier-you-edp-050",
+      "brandId": "glossier",
+      "name": "You",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "creed-aventus-edp-100",
+      "brandId": "creed",
+      "name": "Aventus",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "106856",
+        "selectedName": "Creed Aventus парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 380.9,
+        "wholesalePln": 1447.42,
+        "costPerMl": 14.47,
+        "retailBottle": 1592,
+        "decantPricePerMl": 16.6453,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 23.65
+          },
+          {
+            "ml": 5,
+            "price": 90.23
+          },
+          {
+            "ml": 10,
+            "price": 173.45
+          },
+          {
+            "ml": 15,
+            "price": 256.68
+          },
+          {
+            "ml": 20,
+            "price": 339.91
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "106853",
+            "ml": 50,
+            "usd": 291.77,
+            "pln": 1108.73,
+            "plnPerMl": 22.17,
+            "tester": false
+          },
+          {
+            "article": "106856",
+            "ml": 100,
+            "usd": 380.9,
+            "pln": 1447.42,
+            "plnPerMl": 14.47,
+            "tester": false
+          },
+          {
+            "article": "161543",
+            "ml": 30,
+            "usd": 268.65,
+            "pln": 1020.87,
+            "plnPerMl": 34.03,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "129835",
+            "ml": 100,
+            "usd": 369.13,
+            "pln": 1402.69,
+            "plnPerMl": 14.03,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "213015",
+            "ml": 50,
+            "usd": 286.67,
+            "pln": 1089.35,
+            "plnPerMl": 21.79,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 50,
+          "price": 329
+        },
+        {
+          "ml": 100,
+          "price": 449
+        }
+      ]
+    },
+    {
+      "id": "byredo-gypsy-water-edp-100",
+      "brandId": "byredo",
+      "name": "Gypsy Water",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "104203",
+        "selectedName": "Byredo Gypsy Water парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 242.98,
+        "wholesalePln": 923.32,
+        "costPerMl": 9.23,
+        "retailBottle": 1016,
+        "decantPricePerMl": 10.6182,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 17.62
+          },
+          {
+            "ml": 5,
+            "price": 60.09
+          },
+          {
+            "ml": 10,
+            "price": 113.18
+          },
+          {
+            "ml": 15,
+            "price": 166.27
+          },
+          {
+            "ml": 20,
+            "price": 219.36
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "104201",
+            "ml": 50,
+            "usd": 185.39,
+            "pln": 704.48,
+            "plnPerMl": 14.09,
+            "tester": false
+          },
+          {
+            "article": "104203",
+            "ml": 100,
+            "usd": 242.98,
+            "pln": 923.32,
+            "plnPerMl": 9.23,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "104202",
+            "ml": 100,
+            "usd": 206.92,
+            "pln": 786.3,
+            "plnPerMl": 7.86,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "240932",
+            "ml": 50,
+            "usd": 207.97,
+            "pln": 790.29,
+            "plnPerMl": 15.81,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 50,
+          "price": 219
+        },
+        {
+          "ml": 100,
+          "price": 299
+        }
+      ]
+    },
+    {
+      "id": "le-labo-santal-33-edp-100",
+      "brandId": "le-labo",
+      "name": "Santal 33",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "128306",
+        "selectedName": "Le Labo Santal 33 парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 407.91,
+        "wholesalePln": 1550.06,
+        "costPerMl": 15.5,
+        "retailBottle": 1705,
+        "decantPricePerMl": 17.8257,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 24.83
+          },
+          {
+            "ml": 5,
+            "price": 96.13
+          },
+          {
+            "ml": 10,
+            "price": 185.26
+          },
+          {
+            "ml": 15,
+            "price": 274.39
+          },
+          {
+            "ml": 20,
+            "price": 363.51
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "128305",
+            "ml": 50,
+            "usd": 343.34,
+            "pln": 1304.69,
+            "plnPerMl": 26.09,
+            "tester": false
+          },
+          {
+            "article": "128306",
+            "ml": 100,
+            "usd": 407.91,
+            "pln": 1550.06,
+            "plnPerMl": 15.5,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "214042",
+            "ml": 100,
+            "usd": 238.99,
+            "pln": 908.16,
+            "plnPerMl": 9.08,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "228910",
+            "ml": 50,
+            "usd": 329.92,
+            "pln": 1253.7,
+            "plnPerMl": 25.07,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 50,
+          "price": 279
+        },
+        {
+          "ml": 100,
+          "price": 379
+        }
+      ]
+    },
+    {
+      "id": "diptyque-philosykos-edt-100",
+      "brandId": "diptyque",
+      "name": "Philosykos",
+      "concentration": "EDT",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "107464",
+        "selectedName": "Diptyque Philosykos туалетная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 231.96,
+        "wholesalePln": 881.45,
+        "costPerMl": 8.81,
+        "retailBottle": 970,
+        "decantPricePerMl": 10.1367,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 17.14
+          },
+          {
+            "ml": 5,
+            "price": 57.68
+          },
+          {
+            "ml": 10,
+            "price": 108.37
+          },
+          {
+            "ml": 15,
+            "price": 159.05
+          },
+          {
+            "ml": 20,
+            "price": 209.73
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "107463",
+            "ml": 50,
+            "usd": 183.09,
+            "pln": 695.74,
+            "plnPerMl": 13.91,
+            "tester": false
+          },
+          {
+            "article": "107464",
+            "ml": 100,
+            "usd": 231.96,
+            "pln": 881.45,
+            "plnPerMl": 8.81,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "165689",
+            "ml": 100,
+            "usd": 223.11,
+            "pln": 847.82,
+            "plnPerMl": 8.48,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 50,
+          "price": 145
+        },
+        {
+          "ml": 100,
+          "price": 195
+        }
+      ]
+    },
+    {
+      "id": "initio-oud-for-greatness-edp-090",
+      "brandId": "initio",
+      "name": "Oud for Greatness",
+      "concentration": "EDP",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "181897",
+        "selectedName": "Initio Oud for Greatness парфюмированная вода",
+        "selectedVolume": "объем 90 мл",
+        "selectedMl": 90,
+        "wholesaleUsd": 258.41,
+        "wholesalePln": 981.96,
+        "costPerMl": 10.91,
+        "retailBottle": 1080,
+        "decantPricePerMl": 12.5473,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 19.55
+          },
+          {
+            "ml": 5,
+            "price": 69.74
+          },
+          {
+            "ml": 10,
+            "price": 132.47
+          },
+          {
+            "ml": 15,
+            "price": 195.21
+          },
+          {
+            "ml": 20,
+            "price": 257.95
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "181897",
+            "ml": 90,
+            "usd": 258.41,
+            "pln": 981.96,
+            "plnPerMl": 10.91,
+            "tester": false
+          },
+          {
+            "article": "335505",
+            "ml": 50,
+            "usd": 196.7,
+            "pln": 747.46,
+            "plnPerMl": 14.95,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "181197",
+            "ml": 90,
+            "usd": 236.03,
+            "pln": 896.91,
+            "plnPerMl": 9.97,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "336973",
+            "ml": 50,
+            "usd": 197.07,
+            "pln": 748.87,
+            "plnPerMl": 14.98,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 90,
+          "price": 349
+        }
+      ]
+    },
+    {
+      "id": "mfk-baccarat-rouge-540-edp-070",
+      "brandId": "mfk",
+      "name": "Baccarat Rouge 540 Extrait de Parfum",
+      "concentration": "Extrait",
+      "curated": true,
+      "status": "matched",
+      "action": "preserved-curated",
+      "calculated": {
+        "selectedArticle": "129977",
+        "selectedName": "Maison Francis Kurkdjian Baccarat Rouge 540 Extrait de Parfum духи",
+        "selectedVolume": "объем 70 мл",
+        "selectedMl": 70,
+        "wholesaleUsd": 446.35,
+        "wholesalePln": 1696.13,
+        "costPerMl": 24.23,
+        "retailBottle": 1866,
+        "decantPricePerMl": 27.865,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 34.86
+          },
+          {
+            "ml": 5,
+            "price": 146.32
+          },
+          {
+            "ml": 10,
+            "price": 285.65
+          },
+          {
+            "ml": 15,
+            "price": 424.98
+          },
+          {
+            "ml": 20,
+            "price": 564.3
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "129977",
+            "ml": 70,
+            "usd": 446.35,
+            "pln": 1696.13,
+            "plnPerMl": 24.23,
+            "tester": false
+          },
+          {
+            "article": "222088",
+            "ml": 200,
+            "usd": 915.57,
+            "pln": 3479.17,
+            "plnPerMl": 17.4,
+            "tester": false
+          },
+          {
+            "article": "238952",
+            "ml": 35,
+            "usd": 317.52,
+            "pln": 1206.58,
+            "plnPerMl": 34.47,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "130789",
+            "ml": 70,
+            "usd": 293.34,
+            "pln": 1114.69,
+            "plnPerMl": 15.92,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "222087",
+            "ml": 200,
+            "usd": 750.99,
+            "pln": 2853.76,
+            "plnPerMl": 14.27,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "239871",
+            "ml": 35,
+            "usd": 261.92,
+            "pln": 995.3,
+            "plnPerMl": 28.44,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      },
+      "existing": [
+        {
+          "ml": 35,
+          "price": 279
+        },
+        {
+          "ml": 70,
+          "price": 399
+        },
+        {
+          "ml": 200,
+          "price": 699
+        }
+      ]
+    },
+    {
+      "id": "byredo-blanche-edp-100",
+      "brandId": "byredo",
+      "name": "Blanche",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "104189",
+        "selectedName": "Byredo Blanche парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 242.98,
+        "wholesalePln": 923.32,
+        "costPerMl": 9.23,
+        "retailBottle": 1016,
+        "decantPricePerMl": 10.6182,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 17.62
+          },
+          {
+            "ml": 5,
+            "price": 60.09
+          },
+          {
+            "ml": 10,
+            "price": 113.18
+          },
+          {
+            "ml": 15,
+            "price": 166.27
+          },
+          {
+            "ml": 20,
+            "price": 219.36
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "342155",
+            "ml": 50,
+            "usd": 214.1,
+            "pln": 813.58,
+            "plnPerMl": 16.27,
+            "tester": false
+          },
+          {
+            "article": "342258",
+            "ml": 100,
+            "usd": 259.89,
+            "pln": 987.58,
+            "plnPerMl": 9.88,
+            "tester": false
+          },
+          {
+            "article": "104187",
+            "ml": 50,
+            "usd": 188.15,
+            "pln": 714.97,
+            "plnPerMl": 14.3,
+            "tester": false
+          },
+          {
+            "article": "104189",
+            "ml": 100,
+            "usd": 242.98,
+            "pln": 923.32,
+            "plnPerMl": 9.23,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "344763",
+            "ml": 100,
+            "usd": 274.77,
+            "pln": 1044.13,
+            "plnPerMl": 10.44,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "104188",
+            "ml": 100,
+            "usd": 204.3,
+            "pln": 776.34,
+            "plnPerMl": 7.76,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "175962",
+            "ml": 50,
+            "usd": 188.15,
+            "pln": 714.97,
+            "plnPerMl": 14.3,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mfk-grand-soir-edp-070",
+      "brandId": "mfk",
+      "name": "Grand Soir",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "128414",
+        "selectedName": "Maison Francis Kurkdjian Grand Soir парфюмированная вода",
+        "selectedVolume": "объем 70 мл",
+        "selectedMl": 70,
+        "wholesaleUsd": 261.61,
+        "wholesalePln": 994.12,
+        "costPerMl": 14.2,
+        "retailBottle": 1094,
+        "decantPricePerMl": 16.332,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 23.33
+          },
+          {
+            "ml": 5,
+            "price": 88.66
+          },
+          {
+            "ml": 10,
+            "price": 170.32
+          },
+          {
+            "ml": 15,
+            "price": 251.98
+          },
+          {
+            "ml": 20,
+            "price": 333.64
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "128414",
+            "ml": 70,
+            "usd": 261.61,
+            "pln": 994.12,
+            "plnPerMl": 14.2,
+            "tester": false
+          },
+          {
+            "article": "227496",
+            "ml": 200,
+            "usd": 624.36,
+            "pln": 2372.57,
+            "plnPerMl": 11.86,
+            "tester": false
+          },
+          {
+            "article": "332556",
+            "ml": 35,
+            "usd": 215.29,
+            "pln": 818.1,
+            "plnPerMl": 23.37,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "129978",
+            "ml": 70,
+            "usd": 251.88,
+            "pln": 957.14,
+            "plnPerMl": 13.67,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "159133",
+            "ml": 200,
+            "usd": 542.19,
+            "pln": 2060.32,
+            "plnPerMl": 10.3,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "332308",
+            "ml": 35,
+            "usd": 210.53,
+            "pln": 800.01,
+            "plnPerMl": 22.86,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "diptyque-fleur-de-peau-edp-075",
+      "brandId": "diptyque",
+      "name": "Fleur de Peau",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "347392",
+        "selectedName": "Diptyque Fleur de Peau парфюмированная вода",
+        "selectedVolume": "объем 50 мл",
+        "selectedMl": 50,
+        "wholesaleUsd": 164.36,
+        "wholesalePln": 624.57,
+        "costPerMl": 12.49,
+        "retailBottle": 687,
+        "decantPricePerMl": 14.3651,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 21.37
+          },
+          {
+            "ml": 5,
+            "price": 78.83
+          },
+          {
+            "ml": 10,
+            "price": 150.65
+          },
+          {
+            "ml": 15,
+            "price": 222.48
+          },
+          {
+            "ml": 20,
+            "price": 294.3
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "175093",
+            "ml": 75,
+            "usd": 274.64,
+            "pln": 1043.63,
+            "plnPerMl": 13.92,
+            "tester": false
+          },
+          {
+            "article": "347392",
+            "ml": 50,
+            "usd": 164.36,
+            "pln": 624.57,
+            "plnPerMl": 12.49,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "220066",
+            "ml": 75,
+            "usd": 260.09,
+            "pln": 988.34,
+            "plnPerMl": 13.18,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "parfums-de-marly-layton-edp-125",
+      "brandId": "parfums-de-marly",
+      "name": "Layton",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "120250",
+        "selectedName": "Parfums de Marly Layton парфюмированная вода",
+        "selectedVolume": "объем 125 мл",
+        "selectedMl": 125,
+        "wholesaleUsd": 242.81,
+        "wholesalePln": 922.68,
+        "costPerMl": 7.38,
+        "retailBottle": 1015,
+        "decantPricePerMl": 8.4887,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 15.49
+          },
+          {
+            "ml": 5,
+            "price": 49.44
+          },
+          {
+            "ml": 10,
+            "price": 91.89
+          },
+          {
+            "ml": 15,
+            "price": 134.33
+          },
+          {
+            "ml": 20,
+            "price": 176.77
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "120250",
+            "ml": 125,
+            "usd": 242.81,
+            "pln": 922.68,
+            "plnPerMl": 7.38,
+            "tester": false
+          },
+          {
+            "article": "135718",
+            "ml": 75,
+            "usd": 266.2,
+            "pln": 1011.56,
+            "plnPerMl": 13.49,
+            "tester": false
+          },
+          {
+            "article": "326454",
+            "ml": 200,
+            "usd": 373.43,
+            "pln": 1419.03,
+            "plnPerMl": 7.1,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "120249",
+            "ml": 125,
+            "usd": 239.44,
+            "pln": 909.87,
+            "plnPerMl": 7.28,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "128756",
+            "ml": 75,
+            "usd": 248.34,
+            "pln": 943.69,
+            "plnPerMl": 12.58,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "parfums-de-marly-delina-edp-075",
+      "brandId": "parfums-de-marly",
+      "name": "Delina",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "120228",
+        "selectedName": "Parfums de Marly Delina парфюмированная вода",
+        "selectedVolume": "объем 75 мл",
+        "selectedMl": 75,
+        "wholesaleUsd": 264.26,
+        "wholesalePln": 1004.19,
+        "costPerMl": 13.39,
+        "retailBottle": 1105,
+        "decantPricePerMl": 15.3976,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 22.4
+          },
+          {
+            "ml": 5,
+            "price": 83.99
+          },
+          {
+            "ml": 10,
+            "price": 160.98
+          },
+          {
+            "ml": 15,
+            "price": 237.96
+          },
+          {
+            "ml": 20,
+            "price": 314.95
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "120228",
+            "ml": 75,
+            "usd": 264.26,
+            "pln": 1004.19,
+            "plnPerMl": 13.39,
+            "tester": false
+          },
+          {
+            "article": "264931",
+            "ml": 30,
+            "usd": 168.58,
+            "pln": 640.6,
+            "plnPerMl": 21.35,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "131303",
+            "ml": 75,
+            "usd": 254.83,
+            "pln": 968.35,
+            "plnPerMl": 12.91,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "311631",
+            "ml": 30,
+            "usd": 217.99,
+            "pln": 828.36,
+            "plnPerMl": 27.61,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "parfums-de-marly-delina-exclusif-edp-075",
+      "brandId": "parfums-de-marly",
+      "name": "Delina Exclusif",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "175154",
+        "selectedName": "Parfums de Marly Delina Exclusif парфюмированная вода",
+        "selectedVolume": "объем 75 мл",
+        "selectedMl": 75,
+        "wholesaleUsd": 236.04,
+        "wholesalePln": 896.95,
+        "costPerMl": 11.96,
+        "retailBottle": 987,
+        "decantPricePerMl": 13.7532,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 20.75
+          },
+          {
+            "ml": 5,
+            "price": 75.77
+          },
+          {
+            "ml": 10,
+            "price": 144.53
+          },
+          {
+            "ml": 15,
+            "price": 213.3
+          },
+          {
+            "ml": 20,
+            "price": 282.06
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "175154",
+            "ml": 75,
+            "usd": 236.04,
+            "pln": 896.95,
+            "plnPerMl": 11.96,
+            "tester": false
+          },
+          {
+            "article": "283602",
+            "ml": 30,
+            "usd": 168.83,
+            "pln": 641.55,
+            "plnPerMl": 21.39,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "167873",
+            "ml": 75,
+            "usd": 226.75,
+            "pln": 861.65,
+            "plnPerMl": 11.49,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "330983",
+            "ml": 30,
+            "usd": 177.88,
+            "pln": 675.94,
+            "plnPerMl": 22.53,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xerjoff-naxos-edp-100",
+      "brandId": "xerjoff",
+      "name": "Naxos",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "165966",
+        "selectedName": "Xerjoff XJ 1861 Naxos парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 197.07,
+        "wholesalePln": 748.87,
+        "costPerMl": 7.49,
+        "retailBottle": 824,
+        "decantPricePerMl": 8.612,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 15.61
+          },
+          {
+            "ml": 5,
+            "price": 50.06
+          },
+          {
+            "ml": 10,
+            "price": 93.12
+          },
+          {
+            "ml": 15,
+            "price": 136.18
+          },
+          {
+            "ml": 20,
+            "price": 179.24
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "165966",
+            "ml": 100,
+            "usd": 197.07,
+            "pln": 748.87,
+            "plnPerMl": 7.49,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "162877",
+            "ml": 100,
+            "usd": 207.52,
+            "pln": 788.58,
+            "plnPerMl": 7.89,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bdk-gris-charnel-edp-100",
+      "brandId": "bdk",
+      "name": "Gris Charnel",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "227587",
+        "selectedName": "Parfums BDK Paris Gris Charnel парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 198.07,
+        "wholesalePln": 752.67,
+        "costPerMl": 7.53,
+        "retailBottle": 828,
+        "decantPricePerMl": 8.6557,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 15.66
+          },
+          {
+            "ml": 5,
+            "price": 50.28
+          },
+          {
+            "ml": 10,
+            "price": 93.56
+          },
+          {
+            "ml": 15,
+            "price": 136.84
+          },
+          {
+            "ml": 20,
+            "price": 180.11
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "227587",
+            "ml": 100,
+            "usd": 198.07,
+            "pln": 752.67,
+            "plnPerMl": 7.53,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "225094",
+            "ml": 100,
+            "usd": 192.56,
+            "pln": 731.73,
+            "plnPerMl": 7.32,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kilian-angels-share-edp-050",
+      "brandId": "kilian",
+      "name": "Angels' Share",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "306781",
+        "selectedName": "Kilian Angels' Share парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 414.99,
+        "wholesalePln": 1576.96,
+        "costPerMl": 15.77,
+        "retailBottle": 1735,
+        "decantPricePerMl": 18.135,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 25.14
+          },
+          {
+            "ml": 5,
+            "price": 97.68
+          },
+          {
+            "ml": 10,
+            "price": 188.35
+          },
+          {
+            "ml": 15,
+            "price": 279.03
+          },
+          {
+            "ml": 20,
+            "price": 369.7
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "248047",
+            "ml": 50,
+            "usd": 848.63,
+            "pln": 3224.79,
+            "plnPerMl": 64.5,
+            "tester": false
+          },
+          {
+            "article": "345652",
+            "ml": 100,
+            "usd": 464.11,
+            "pln": 1763.62,
+            "plnPerMl": 17.64,
+            "tester": false
+          },
+          {
+            "article": "345654",
+            "ml": 50,
+            "usd": 278.79,
+            "pln": 1059.4,
+            "plnPerMl": 21.19,
+            "tester": false
+          },
+          {
+            "article": "347157",
+            "ml": 100,
+            "usd": 426.66,
+            "pln": 1621.31,
+            "plnPerMl": 16.21,
+            "tester": false
+          },
+          {
+            "article": "340302",
+            "ml": 100,
+            "usd": 464.11,
+            "pln": 1763.62,
+            "plnPerMl": 17.64,
+            "tester": false
+          },
+          {
+            "article": "341811",
+            "ml": 50,
+            "usd": 302.15,
+            "pln": 1148.17,
+            "plnPerMl": 22.96,
+            "tester": false
+          },
+          {
+            "article": "232977",
+            "ml": 50,
+            "usd": 309.47,
+            "pln": 1175.99,
+            "plnPerMl": 23.52,
+            "tester": false
+          },
+          {
+            "article": "241955",
+            "ml": 50,
+            "usd": 367.81,
+            "pln": 1397.68,
+            "plnPerMl": 27.95,
+            "tester": false
+          },
+          {
+            "article": "306781",
+            "ml": 100,
+            "usd": 414.99,
+            "pln": 1576.96,
+            "plnPerMl": 15.77,
+            "tester": false
+          },
+          {
+            "article": "320851",
+            "ml": 100,
+            "usd": 419.69,
+            "pln": 1594.82,
+            "plnPerMl": 15.95,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "348019",
+            "ml": 100,
+            "usd": 382.53,
+            "pln": 1453.61,
+            "plnPerMl": 14.54,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "348020",
+            "ml": 100,
+            "usd": 464.11,
+            "pln": 1763.62,
+            "plnPerMl": 17.64,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "348021",
+            "ml": 50,
+            "usd": 263.38,
+            "pln": 1000.84,
+            "plnPerMl": 20.02,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "345221",
+            "ml": 50,
+            "usd": 302.15,
+            "pln": 1148.17,
+            "plnPerMl": 22.96,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "346279",
+            "ml": 100,
+            "usd": 456.09,
+            "pln": 1733.14,
+            "plnPerMl": 17.33,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "236659",
+            "ml": 100,
+            "usd": 317.9,
+            "pln": 1208.02,
+            "plnPerMl": 12.08,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "237755",
+            "ml": 50,
+            "usd": 296.43,
+            "pln": 1126.43,
+            "plnPerMl": 22.53,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "331270",
+            "ml": 100,
+            "usd": 414.99,
+            "pln": 1576.96,
+            "plnPerMl": 15.77,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "343135",
+            "ml": 100,
+            "usd": 243.47,
+            "pln": 925.19,
+            "plnPerMl": 9.25,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "juliette-has-a-gun-not-a-perfume-edp-100",
+      "brandId": "juliette-has-a-gun",
+      "name": "Not A Perfume",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "114007",
+        "selectedName": "Juliette Has A Gun Not A Perfume парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 106.31,
+        "wholesalePln": 403.98,
+        "costPerMl": 4.04,
+        "retailBottle": 444,
+        "decantPricePerMl": 4.6458,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.65
+          },
+          {
+            "ml": 5,
+            "price": 30.23
+          },
+          {
+            "ml": 10,
+            "price": 53.46
+          },
+          {
+            "ml": 15,
+            "price": 76.69
+          },
+          {
+            "ml": 20,
+            "price": 99.92
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "114006",
+            "ml": 50,
+            "usd": 90.83,
+            "pln": 345.15,
+            "plnPerMl": 6.9,
+            "tester": false
+          },
+          {
+            "article": "114007",
+            "ml": 100,
+            "usd": 106.31,
+            "pln": 403.98,
+            "plnPerMl": 4.04,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "128125",
+            "ml": 100,
+            "usd": 104.11,
+            "pln": 395.62,
+            "plnPerMl": 3.96,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "239366",
+            "ml": 50,
+            "usd": 104.11,
+            "pln": 395.62,
+            "plnPerMl": 7.91,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "escentric-molecules-molecule-01-edt-100",
+      "brandId": "escentric-molecules",
+      "name": "Molecule 01",
+      "concentration": "EDT",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "156576",
+        "selectedName": "Escentric Molecules Molecule 01 туалетная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 207.52,
+        "wholesalePln": 788.58,
+        "costPerMl": 7.89,
+        "retailBottle": 867,
+        "decantPricePerMl": 9.0687,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.07
+          },
+          {
+            "ml": 5,
+            "price": 52.34
+          },
+          {
+            "ml": 10,
+            "price": 97.69
+          },
+          {
+            "ml": 15,
+            "price": 143.03
+          },
+          {
+            "ml": 20,
+            "price": 188.37
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "156576",
+            "ml": 100,
+            "usd": 207.52,
+            "pln": 788.58,
+            "plnPerMl": 7.89,
+            "tester": false
+          },
+          {
+            "article": "158581",
+            "ml": 30,
+            "usd": 144.27,
+            "pln": 548.23,
+            "plnPerMl": 18.27,
+            "tester": false
+          },
+          {
+            "article": "171017",
+            "ml": 30,
+            "usd": 156.32,
+            "pln": 594.02,
+            "plnPerMl": 19.8,
+            "tester": false
+          },
+          {
+            "article": "346938",
+            "ml": 200,
+            "usd": 256.55,
+            "pln": 974.89,
+            "plnPerMl": 4.87,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "158582",
+            "ml": 100,
+            "usd": 182.7,
+            "pln": 694.26,
+            "plnPerMl": 6.94,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "212161",
+            "ml": 30,
+            "usd": 171.8,
+            "pln": 652.84,
+            "plnPerMl": 21.76,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "347135",
+            "ml": 200,
+            "usd": 291.03,
+            "pln": 1105.91,
+            "plnPerMl": 5.53,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mancera-cedrat-boise-edp-120",
+      "brandId": "mancera",
+      "name": "Cedrat Boise",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "117152",
+        "selectedName": "Mancera Cedrat Boise парфюмированная вода",
+        "selectedVolume": "объем 120 мл",
+        "selectedMl": 120,
+        "wholesaleUsd": 127.1,
+        "wholesalePln": 482.98,
+        "costPerMl": 4.02,
+        "retailBottle": 531,
+        "decantPricePerMl": 4.6286,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.63
+          },
+          {
+            "ml": 5,
+            "price": 30.14
+          },
+          {
+            "ml": 10,
+            "price": 53.29
+          },
+          {
+            "ml": 15,
+            "price": 76.43
+          },
+          {
+            "ml": 20,
+            "price": 99.57
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "117151",
+            "ml": 60,
+            "usd": 98.16,
+            "pln": 373.01,
+            "plnPerMl": 6.22,
+            "tester": false
+          },
+          {
+            "article": "117152",
+            "ml": 120,
+            "usd": 127.1,
+            "pln": 482.98,
+            "plnPerMl": 4.02,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "166682",
+            "ml": 120,
+            "usd": 107.17,
+            "pln": 407.25,
+            "plnPerMl": 3.39,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "213812",
+            "ml": 60,
+            "usd": 98.16,
+            "pln": 373.01,
+            "plnPerMl": 6.22,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mancera-instant-crush-edp-120",
+      "brandId": "mancera",
+      "name": "Instant Crush",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "215644",
+        "selectedName": "Mancera Instant Crush парфюмированная вода",
+        "selectedVolume": "объем 120 мл",
+        "selectedMl": 120,
+        "wholesaleUsd": 116.86,
+        "wholesalePln": 444.07,
+        "costPerMl": 3.7,
+        "retailBottle": 488,
+        "decantPricePerMl": 4.2557,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.26
+          },
+          {
+            "ml": 5,
+            "price": 28.28
+          },
+          {
+            "ml": 10,
+            "price": 49.56
+          },
+          {
+            "ml": 15,
+            "price": 70.84
+          },
+          {
+            "ml": 20,
+            "price": 92.11
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "215642",
+            "ml": 60,
+            "usd": 110.04,
+            "pln": 418.15,
+            "plnPerMl": 6.97,
+            "tester": false
+          },
+          {
+            "article": "215644",
+            "ml": 120,
+            "usd": 116.86,
+            "pln": 444.07,
+            "plnPerMl": 3.7,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "215643",
+            "ml": 120,
+            "usd": 105.71,
+            "pln": 401.7,
+            "plnPerMl": 3.35,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mancera-red-tobacco-edp-120",
+      "brandId": "mancera",
+      "name": "Red Tobacco",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "325861",
+        "selectedName": "Mancera Red Tobacco Intense парфюмированная вода",
+        "selectedVolume": "объем 120 мл",
+        "selectedMl": 120,
+        "wholesaleUsd": 145.2,
+        "wholesalePln": 551.76,
+        "costPerMl": 4.6,
+        "retailBottle": 607,
+        "decantPricePerMl": 5.2877,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.29
+          },
+          {
+            "ml": 5,
+            "price": 33.44
+          },
+          {
+            "ml": 10,
+            "price": 59.88
+          },
+          {
+            "ml": 15,
+            "price": 86.32
+          },
+          {
+            "ml": 20,
+            "price": 112.75
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "325861",
+            "ml": 120,
+            "usd": 145.2,
+            "pln": 551.76,
+            "plnPerMl": 4.6,
+            "tester": false
+          },
+          {
+            "article": "329692",
+            "ml": 60,
+            "usd": 116.93,
+            "pln": 444.33,
+            "plnPerMl": 7.41,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "325860",
+            "ml": 120,
+            "usd": 138.32,
+            "pln": 525.62,
+            "plnPerMl": 4.38,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mancera-roses-vanille-edp-120",
+      "brandId": "mancera",
+      "name": "Roses Vanille",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "117192",
+        "selectedName": "Mancera Roses Vanille парфюмированная вода",
+        "selectedVolume": "объем 120 мл",
+        "selectedMl": 120,
+        "wholesaleUsd": 112.85,
+        "wholesalePln": 428.83,
+        "costPerMl": 3.57,
+        "retailBottle": 472,
+        "decantPricePerMl": 4.1096,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.11
+          },
+          {
+            "ml": 5,
+            "price": 27.55
+          },
+          {
+            "ml": 10,
+            "price": 48.1
+          },
+          {
+            "ml": 15,
+            "price": 68.64
+          },
+          {
+            "ml": 20,
+            "price": 89.19
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "117191",
+            "ml": 60,
+            "usd": 98.16,
+            "pln": 373.01,
+            "plnPerMl": 6.22,
+            "tester": false
+          },
+          {
+            "article": "117192",
+            "ml": 120,
+            "usd": 112.85,
+            "pln": 428.83,
+            "plnPerMl": 3.57,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "130824",
+            "ml": 120,
+            "usd": 96.6,
+            "pln": 367.08,
+            "plnPerMl": 3.06,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "183138",
+            "ml": 60,
+            "usd": 119.22,
+            "pln": 453.04,
+            "plnPerMl": 7.55,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mancera-amore-caffe-edp-120",
+      "brandId": "mancera",
+      "name": "Amore Caffè",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "329767",
+        "selectedName": "Mancera Amore Caffe парфюмированная вода",
+        "selectedVolume": "объем 120 мл",
+        "selectedMl": 120,
+        "wholesaleUsd": 131.46,
+        "wholesalePln": 499.55,
+        "costPerMl": 4.16,
+        "retailBottle": 550,
+        "decantPricePerMl": 4.7874,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.79
+          },
+          {
+            "ml": 5,
+            "price": 30.94
+          },
+          {
+            "ml": 10,
+            "price": 54.87
+          },
+          {
+            "ml": 15,
+            "price": 78.81
+          },
+          {
+            "ml": 20,
+            "price": 102.75
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "329767",
+            "ml": 120,
+            "usd": 131.46,
+            "pln": 499.55,
+            "plnPerMl": 4.16,
+            "tester": false
+          },
+          {
+            "article": "329768",
+            "ml": 60,
+            "usd": 115.59,
+            "pln": 439.24,
+            "plnPerMl": 7.32,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "332913",
+            "ml": 120,
+            "usd": 124.66,
+            "pln": 473.71,
+            "plnPerMl": 3.95,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "332914",
+            "ml": 60,
+            "usd": 123.43,
+            "pln": 469.03,
+            "plnPerMl": 7.82,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mancera-intense-cedrat-boise-edp-120",
+      "brandId": "mancera",
+      "name": "Intense Cedrat Boise",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "249655",
+        "selectedName": "Mancera Intense Cedrat Boise парфюмированная вода",
+        "selectedVolume": "объем 120 мл",
+        "selectedMl": 120,
+        "wholesaleUsd": 135.62,
+        "wholesalePln": 515.36,
+        "costPerMl": 4.29,
+        "retailBottle": 567,
+        "decantPricePerMl": 4.9389,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.94
+          },
+          {
+            "ml": 5,
+            "price": 31.69
+          },
+          {
+            "ml": 10,
+            "price": 56.39
+          },
+          {
+            "ml": 15,
+            "price": 81.08
+          },
+          {
+            "ml": 20,
+            "price": 105.78
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "249654",
+            "ml": 60,
+            "usd": 110.04,
+            "pln": 418.15,
+            "plnPerMl": 6.97,
+            "tester": false
+          },
+          {
+            "article": "249655",
+            "ml": 120,
+            "usd": 135.62,
+            "pln": 515.36,
+            "plnPerMl": 4.29,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "253668",
+            "ml": 120,
+            "usd": 132.08,
+            "pln": 501.9,
+            "plnPerMl": 4.18,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale-arabians-tonka-edp-100",
+      "brandId": "montale",
+      "name": "Arabians Tonka",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "221895",
+        "selectedName": "Montale Arabians Tonka парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 130.64,
+        "wholesalePln": 496.43,
+        "costPerMl": 4.96,
+        "retailBottle": 546,
+        "decantPricePerMl": 5.7089,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.71
+          },
+          {
+            "ml": 5,
+            "price": 35.54
+          },
+          {
+            "ml": 10,
+            "price": 64.09
+          },
+          {
+            "ml": 15,
+            "price": 92.63
+          },
+          {
+            "ml": 20,
+            "price": 121.18
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "221895",
+            "ml": 100,
+            "usd": 130.64,
+            "pln": 496.43,
+            "plnPerMl": 4.96,
+            "tester": false
+          },
+          {
+            "article": "222139",
+            "ml": 50,
+            "usd": 92.47,
+            "pln": 351.39,
+            "plnPerMl": 7.03,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "221894",
+            "ml": 100,
+            "usd": 112.85,
+            "pln": 428.83,
+            "plnPerMl": 4.29,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "253674",
+            "ml": 50,
+            "usd": 92.47,
+            "pln": 351.39,
+            "plnPerMl": 7.03,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale-intense-cafe-edp-100",
+      "brandId": "montale",
+      "name": "Intense Café",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "118584",
+        "selectedName": "Montale Intense Cafe парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 108.62,
+        "wholesalePln": 412.76,
+        "costPerMl": 4.13,
+        "retailBottle": 454,
+        "decantPricePerMl": 4.7467,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.75
+          },
+          {
+            "ml": 5,
+            "price": 30.73
+          },
+          {
+            "ml": 10,
+            "price": 54.47
+          },
+          {
+            "ml": 15,
+            "price": 78.2
+          },
+          {
+            "ml": 20,
+            "price": 101.93
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "118582",
+            "ml": 50,
+            "usd": 88.38,
+            "pln": 335.84,
+            "plnPerMl": 6.72,
+            "tester": false
+          },
+          {
+            "article": "118584",
+            "ml": 100,
+            "usd": 108.62,
+            "pln": 412.76,
+            "plnPerMl": 4.13,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "118583",
+            "ml": 100,
+            "usd": 95.03,
+            "pln": 361.11,
+            "plnPerMl": 3.61,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "177273",
+            "ml": 50,
+            "usd": 114.75,
+            "pln": 436.05,
+            "plnPerMl": 8.72,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale-roses-musk-edp-100",
+      "brandId": "montale",
+      "name": "Roses Musk",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "185515",
+        "selectedName": "Montale Roses Musk Pink box парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 124.12,
+        "wholesalePln": 471.66,
+        "costPerMl": 4.72,
+        "retailBottle": 519,
+        "decantPricePerMl": 5.4241,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.42
+          },
+          {
+            "ml": 5,
+            "price": 34.12
+          },
+          {
+            "ml": 10,
+            "price": 61.24
+          },
+          {
+            "ml": 15,
+            "price": 88.36
+          },
+          {
+            "ml": 20,
+            "price": 115.48
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "340997",
+            "ml": 100,
+            "usd": 128.86,
+            "pln": 489.67,
+            "plnPerMl": 4.9,
+            "tester": false
+          },
+          {
+            "article": "185515",
+            "ml": 100,
+            "usd": 124.12,
+            "pln": 471.66,
+            "plnPerMl": 4.72,
+            "tester": false
+          },
+          {
+            "article": "118687",
+            "ml": 50,
+            "usd": 96.6,
+            "pln": 367.08,
+            "plnPerMl": 7.34,
+            "tester": false
+          },
+          {
+            "article": "118689",
+            "ml": 100,
+            "usd": 124.66,
+            "pln": 473.71,
+            "plnPerMl": 4.74,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "118688",
+            "ml": 100,
+            "usd": 92.47,
+            "pln": 351.39,
+            "plnPerMl": 3.51,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "171025",
+            "ml": 50,
+            "usd": 114.75,
+            "pln": 436.05,
+            "plnPerMl": 8.72,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "331520",
+            "ml": 100,
+            "usd": 96.6,
+            "pln": 367.08,
+            "plnPerMl": 3.67,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale-black-aoud-edp-100",
+      "brandId": "montale",
+      "name": "Black Aoud",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "118481",
+        "selectedName": "Montale Black Aoud парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 133.59,
+        "wholesalePln": 507.64,
+        "costPerMl": 5.08,
+        "retailBottle": 558,
+        "decantPricePerMl": 5.8379,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 12.84
+          },
+          {
+            "ml": 5,
+            "price": 36.19
+          },
+          {
+            "ml": 10,
+            "price": 65.38
+          },
+          {
+            "ml": 15,
+            "price": 94.57
+          },
+          {
+            "ml": 20,
+            "price": 123.76
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "118480",
+            "ml": 50,
+            "usd": 95.03,
+            "pln": 361.11,
+            "plnPerMl": 7.22,
+            "tester": false
+          },
+          {
+            "article": "118481",
+            "ml": 100,
+            "usd": 133.59,
+            "pln": 507.64,
+            "plnPerMl": 5.08,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "128570",
+            "ml": 100,
+            "usd": 112.45,
+            "pln": 427.31,
+            "plnPerMl": 4.27,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale-vanilla-cake-edp-100",
+      "brandId": "montale",
+      "name": "Vanilla Cake",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "165520",
+        "selectedName": "Montale Vanilla Cake парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 103.73,
+        "wholesalePln": 394.17,
+        "costPerMl": 3.94,
+        "retailBottle": 434,
+        "decantPricePerMl": 4.533,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 11.53
+          },
+          {
+            "ml": 5,
+            "price": 29.67
+          },
+          {
+            "ml": 10,
+            "price": 52.33
+          },
+          {
+            "ml": 15,
+            "price": 75
+          },
+          {
+            "ml": 20,
+            "price": 97.66
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "165520",
+            "ml": 100,
+            "usd": 103.73,
+            "pln": 394.17,
+            "plnPerMl": 3.94,
+            "tester": false
+          },
+          {
+            "article": "166694",
+            "ml": 50,
+            "usd": 89.47,
+            "pln": 339.99,
+            "plnPerMl": 6.8,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "166695",
+            "ml": 100,
+            "usd": 104.23,
+            "pln": 396.07,
+            "plnPerMl": 3.96,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "228144",
+            "ml": 50,
+            "usd": 88.05,
+            "pln": 334.59,
+            "plnPerMl": 6.69,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "montale-aoud-lemon-mint-edp-100",
+      "brandId": "montale",
+      "name": "Aoud Lemon Mint",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "unmatched",
+      "action": "unmatched"
+    },
+    {
+      "id": "nishane-hacivat-extrait-100",
+      "brandId": "nishane",
+      "name": "Hacivat",
+      "concentration": "Extrait",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "222637",
+        "selectedName": "Nishane Hacivat духи",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 208.12,
+        "wholesalePln": 790.86,
+        "costPerMl": 7.91,
+        "retailBottle": 870,
+        "decantPricePerMl": 9.0949,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.09
+          },
+          {
+            "ml": 5,
+            "price": 52.47
+          },
+          {
+            "ml": 10,
+            "price": 97.95
+          },
+          {
+            "ml": 15,
+            "price": 143.42
+          },
+          {
+            "ml": 20,
+            "price": 188.9
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "130932",
+            "ml": 50,
+            "usd": 156.04,
+            "pln": 592.95,
+            "plnPerMl": 11.86,
+            "tester": false
+          },
+          {
+            "article": "222637",
+            "ml": 100,
+            "usd": 208.12,
+            "pln": 790.86,
+            "plnPerMl": 7.91,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "176540",
+            "ml": 50,
+            "usd": 141.27,
+            "pln": 536.83,
+            "plnPerMl": 10.74,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "216459",
+            "ml": 100,
+            "usd": 200.79,
+            "pln": 763,
+            "plnPerMl": 7.63,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nishane-ani-extrait-100",
+      "brandId": "nishane",
+      "name": "Ani",
+      "concentration": "Extrait",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "315652",
+        "selectedName": "Nishane Ani X духи",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 219.28,
+        "wholesalePln": 833.26,
+        "costPerMl": 8.33,
+        "retailBottle": 917,
+        "decantPricePerMl": 9.5825,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 16.58
+          },
+          {
+            "ml": 5,
+            "price": 54.91
+          },
+          {
+            "ml": 10,
+            "price": 102.82
+          },
+          {
+            "ml": 15,
+            "price": 150.74
+          },
+          {
+            "ml": 20,
+            "price": 198.65
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "315652",
+            "ml": 100,
+            "usd": 219.28,
+            "pln": 833.26,
+            "plnPerMl": 8.33,
+            "tester": false
+          },
+          {
+            "article": "315653",
+            "ml": 50,
+            "usd": 158.32,
+            "pln": 601.62,
+            "plnPerMl": 12.03,
+            "tester": false
+          },
+          {
+            "article": "219001",
+            "ml": 50,
+            "usd": 149.63,
+            "pln": 568.59,
+            "plnPerMl": 11.37,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "315654",
+            "ml": 50,
+            "usd": 153.42,
+            "pln": 583,
+            "plnPerMl": 11.66,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "320633",
+            "ml": 100,
+            "usd": 208.84,
+            "pln": 793.59,
+            "plnPerMl": 7.94,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "226051",
+            "ml": 50,
+            "usd": 140.37,
+            "pln": 533.41,
+            "plnPerMl": 10.67,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "226052",
+            "ml": 100,
+            "usd": 203.49,
+            "pln": 773.26,
+            "plnPerMl": 7.73,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nishane-hundred-silent-ways-extrait-100",
+      "brandId": "nishane",
+      "name": "Hundred Silent Ways",
+      "concentration": "Extrait",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "215136",
+        "selectedName": "Nishane Hundred Silent Ways духи",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 198.32,
+        "wholesalePln": 753.62,
+        "costPerMl": 7.54,
+        "retailBottle": 829,
+        "decantPricePerMl": 8.6666,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 15.67
+          },
+          {
+            "ml": 5,
+            "price": 50.33
+          },
+          {
+            "ml": 10,
+            "price": 93.67
+          },
+          {
+            "ml": 15,
+            "price": 137
+          },
+          {
+            "ml": 20,
+            "price": 180.33
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "315662",
+            "ml": 100,
+            "usd": 206.91,
+            "pln": 786.26,
+            "plnPerMl": 7.86,
+            "tester": false
+          },
+          {
+            "article": "315664",
+            "ml": 50,
+            "usd": 149.62,
+            "pln": 568.56,
+            "plnPerMl": 11.37,
+            "tester": false
+          },
+          {
+            "article": "130933",
+            "ml": 50,
+            "usd": 152.16,
+            "pln": 578.21,
+            "plnPerMl": 11.56,
+            "tester": false
+          },
+          {
+            "article": "215136",
+            "ml": 100,
+            "usd": 198.32,
+            "pln": 753.62,
+            "plnPerMl": 7.54,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "315663",
+            "ml": 100,
+            "usd": 199.56,
+            "pln": 758.33,
+            "plnPerMl": 7.58,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "315665",
+            "ml": 50,
+            "usd": 141.37,
+            "pln": 537.21,
+            "plnPerMl": 10.74,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "176295",
+            "ml": 50,
+            "usd": 146.12,
+            "pln": 555.26,
+            "plnPerMl": 11.11,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "227315",
+            "ml": 100,
+            "usd": 193.31,
+            "pln": 734.58,
+            "plnPerMl": 7.35,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tiziana-terenzi-kirke-extrait-100",
+      "brandId": "tiziana-terenzi",
+      "name": "Kirke",
+      "concentration": "Extrait",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "124259",
+        "selectedName": "Tiziana Terenzi Kirke духи",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 146.09,
+        "wholesalePln": 555.14,
+        "costPerMl": 5.55,
+        "retailBottle": 611,
+        "decantPricePerMl": 6.3841,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 13.38
+          },
+          {
+            "ml": 5,
+            "price": 38.92
+          },
+          {
+            "ml": 10,
+            "price": 70.84
+          },
+          {
+            "ml": 15,
+            "price": 102.76
+          },
+          {
+            "ml": 20,
+            "price": 134.68
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "344094",
+            "ml": 100,
+            "usd": 210.17,
+            "pln": 798.65,
+            "plnPerMl": 7.99,
+            "tester": false
+          },
+          {
+            "article": "124259",
+            "ml": 100,
+            "usd": 146.09,
+            "pln": 555.14,
+            "plnPerMl": 5.55,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "344095",
+            "ml": 100,
+            "usd": 210.53,
+            "pln": 800.01,
+            "plnPerMl": 8,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "124258",
+            "ml": 100,
+            "usd": 134.7,
+            "pln": 511.86,
+            "plnPerMl": 5.12,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mfk-gentle-fluidity-gold-edp-070",
+      "brandId": "mfk",
+      "name": "Gentle Fluidity Gold",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "186257",
+        "selectedName": "Maison Francis Kurkdjian Gentle Fluidity Gold Edition парфюмированная вода",
+        "selectedVolume": "объем 70 мл",
+        "selectedMl": 70,
+        "wholesaleUsd": 277.87,
+        "wholesalePln": 1055.91,
+        "costPerMl": 15.08,
+        "retailBottle": 1161,
+        "decantPricePerMl": 17.3471,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 24.35
+          },
+          {
+            "ml": 5,
+            "price": 93.74
+          },
+          {
+            "ml": 10,
+            "price": 180.47
+          },
+          {
+            "ml": 15,
+            "price": 267.21
+          },
+          {
+            "ml": 20,
+            "price": 353.94
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "186257",
+            "ml": 70,
+            "usd": 277.87,
+            "pln": 1055.91,
+            "plnPerMl": 15.08,
+            "tester": false
+          },
+          {
+            "article": "228660",
+            "ml": 200,
+            "usd": 600.54,
+            "pln": 2282.05,
+            "plnPerMl": 11.41,
+            "tester": false
+          },
+          {
+            "article": "234129",
+            "ml": 35,
+            "usd": 215.6,
+            "pln": 819.28,
+            "plnPerMl": 23.41,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "179168",
+            "ml": 70,
+            "usd": 257.32,
+            "pln": 977.82,
+            "plnPerMl": 13.97,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "226631",
+            "ml": 200,
+            "usd": 509.73,
+            "pln": 1936.97,
+            "plnPerMl": 9.68,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "237780",
+            "ml": 35,
+            "usd": 210.61,
+            "pln": 800.32,
+            "plnPerMl": 22.87,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "initio-side-effect-edp-090",
+      "brandId": "initio",
+      "name": "Side Effect",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "112612",
+        "selectedName": "Initio Side Effect парфюмированная вода",
+        "selectedVolume": "объем 90 мл",
+        "selectedMl": 90,
+        "wholesaleUsd": 242.6,
+        "wholesalePln": 921.88,
+        "costPerMl": 10.24,
+        "retailBottle": 1014,
+        "decantPricePerMl": 11.7796,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 18.78
+          },
+          {
+            "ml": 5,
+            "price": 65.9
+          },
+          {
+            "ml": 10,
+            "price": 124.8
+          },
+          {
+            "ml": 15,
+            "price": 183.69
+          },
+          {
+            "ml": 20,
+            "price": 242.59
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "112612",
+            "ml": 90,
+            "usd": 242.6,
+            "pln": 921.88,
+            "plnPerMl": 10.24,
+            "tester": false
+          },
+          {
+            "article": "335506",
+            "ml": 50,
+            "usd": 197.07,
+            "pln": 748.87,
+            "plnPerMl": 14.98,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "112611",
+            "ml": 90,
+            "usd": 220.52,
+            "pln": 837.98,
+            "plnPerMl": 9.31,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "memo-paris-african-leather-edp-075",
+      "brandId": "memo-paris",
+      "name": "African Leather",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "117849",
+        "selectedName": "Memo African Leather парфюмированная вода",
+        "selectedVolume": "объем 75 мл",
+        "selectedMl": 75,
+        "wholesaleUsd": 194.95,
+        "wholesalePln": 740.81,
+        "costPerMl": 9.88,
+        "retailBottle": 815,
+        "decantPricePerMl": 11.3591,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 18.36
+          },
+          {
+            "ml": 5,
+            "price": 63.8
+          },
+          {
+            "ml": 10,
+            "price": 120.59
+          },
+          {
+            "ml": 15,
+            "price": 177.39
+          },
+          {
+            "ml": 20,
+            "price": 234.18
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "117849",
+            "ml": 75,
+            "usd": 194.95,
+            "pln": 740.81,
+            "plnPerMl": 9.88,
+            "tester": false
+          },
+          {
+            "article": "346630",
+            "ml": 30,
+            "usd": 144.27,
+            "pln": 548.23,
+            "plnPerMl": 18.27,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "117848",
+            "ml": 75,
+            "usd": 185.8,
+            "pln": 706.04,
+            "plnPerMl": 9.41,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "nasomatto-black-afgano-extrait-030",
+      "brandId": "nasomatto",
+      "name": "Black Afgano",
+      "concentration": "Extrait",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "119062",
+        "selectedName": "Nasomatto Black Afgano духи",
+        "selectedVolume": "объем 30 мл",
+        "selectedMl": 30,
+        "wholesaleUsd": 192.67,
+        "wholesalePln": 732.15,
+        "costPerMl": 24.4,
+        "retailBottle": 805,
+        "decantPricePerMl": 28.0657,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 35.07
+          },
+          {
+            "ml": 5,
+            "price": 147.33
+          },
+          {
+            "ml": 10,
+            "price": 287.66
+          },
+          {
+            "ml": 15,
+            "price": 427.99
+          },
+          {
+            "ml": 20,
+            "price": 568.31
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "119062",
+            "ml": 30,
+            "usd": 192.67,
+            "pln": 732.15,
+            "plnPerMl": 24.4,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "119061",
+            "ml": 30,
+            "usd": 190.78,
+            "pln": 724.96,
+            "plnPerMl": 24.17,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "xerjoff-erba-pura-edp-100",
+      "brandId": "xerjoff",
+      "name": "Erba Pura",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "125756",
+        "selectedName": "Xerjoff Erba Pura парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 188.24,
+        "wholesalePln": 715.31,
+        "costPerMl": 7.15,
+        "retailBottle": 787,
+        "decantPricePerMl": 8.2261,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 15.23
+          },
+          {
+            "ml": 5,
+            "price": 48.13
+          },
+          {
+            "ml": 10,
+            "price": 89.26
+          },
+          {
+            "ml": 15,
+            "price": 130.39
+          },
+          {
+            "ml": 20,
+            "price": 171.52
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "125756",
+            "ml": 100,
+            "usd": 188.24,
+            "pln": 715.31,
+            "plnPerMl": 7.15,
+            "tester": false
+          },
+          {
+            "article": "213934",
+            "ml": 50,
+            "usd": 141.37,
+            "pln": 537.21,
+            "plnPerMl": 10.74,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "125755",
+            "ml": 100,
+            "usd": 169.92,
+            "pln": 645.7,
+            "plnPerMl": 6.46,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "233810",
+            "ml": 50,
+            "usd": 152.2,
+            "pln": 578.36,
+            "plnPerMl": 11.57,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "maison-crivelli-hibiscus-mahajad-extrait-050",
+      "brandId": "maison-crivelli",
+      "name": "Hibiscus Mahajád",
+      "concentration": "Extrait",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "327619",
+        "selectedName": "Maison Crivelli Hibiscus Mahajad духи",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 526.27,
+        "wholesalePln": 1999.83,
+        "costPerMl": 20,
+        "retailBottle": 2200,
+        "decantPricePerMl": 22.998,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 30
+          },
+          {
+            "ml": 5,
+            "price": 121.99
+          },
+          {
+            "ml": 10,
+            "price": 236.98
+          },
+          {
+            "ml": 15,
+            "price": 351.97
+          },
+          {
+            "ml": 20,
+            "price": 466.96
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "327619",
+            "ml": 100,
+            "usd": 526.27,
+            "pln": 1999.83,
+            "plnPerMl": 20,
+            "tester": false
+          },
+          {
+            "article": "327620",
+            "ml": 50,
+            "usd": 348.34,
+            "pln": 1323.69,
+            "plnPerMl": 26.47,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "339999",
+            "ml": 50,
+            "usd": 296.59,
+            "pln": 1127.04,
+            "plnPerMl": 22.54,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "341333",
+            "ml": 100,
+            "usd": 506.41,
+            "pln": 1924.36,
+            "plnPerMl": 19.24,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "essential-parfums-bois-imperial-edp-100",
+      "brandId": "essential-parfums",
+      "name": "Bois Impérial",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "247743",
+        "selectedName": "Essential Parfums Bois Imperial парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 159.44,
+        "wholesalePln": 605.87,
+        "costPerMl": 6.06,
+        "retailBottle": 666,
+        "decantPricePerMl": 6.9675,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 13.97
+          },
+          {
+            "ml": 5,
+            "price": 41.84
+          },
+          {
+            "ml": 10,
+            "price": 76.68
+          },
+          {
+            "ml": 15,
+            "price": 111.51
+          },
+          {
+            "ml": 20,
+            "price": 146.35
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "338197",
+            "ml": 30,
+            "usd": 142.35,
+            "pln": 540.93,
+            "plnPerMl": 18.03,
+            "tester": false
+          },
+          {
+            "article": "333186",
+            "ml": 100,
+            "usd": 199.43,
+            "pln": 757.83,
+            "plnPerMl": 7.58,
+            "tester": false
+          },
+          {
+            "article": "247743",
+            "ml": 100,
+            "usd": 159.44,
+            "pln": 605.87,
+            "plnPerMl": 6.06,
+            "tester": false
+          },
+          {
+            "article": "306508",
+            "ml": 150,
+            "usd": 226.89,
+            "pln": 862.18,
+            "plnPerMl": 5.75,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "338943",
+            "ml": 30,
+            "usd": 130.64,
+            "pln": 496.43,
+            "plnPerMl": 16.55,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "333374",
+            "ml": 100,
+            "usd": 287.05,
+            "pln": 1090.79,
+            "plnPerMl": 10.91,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "248508",
+            "ml": 100,
+            "usd": 158.04,
+            "pln": 600.55,
+            "plnPerMl": 6.01,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "311778",
+            "ml": 150,
+            "usd": 226.89,
+            "pln": 862.18,
+            "plnPerMl": 5.75,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "marc-antoine-barrois-ganymede-edp-100",
+      "brandId": "marc-antoine-barrois",
+      "name": "Ganymede",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "238659",
+        "selectedName": "Marc-Antoine Barrois Ganymede парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 240.62,
+        "wholesalePln": 914.36,
+        "costPerMl": 9.14,
+        "retailBottle": 1006,
+        "decantPricePerMl": 10.5151,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 17.52
+          },
+          {
+            "ml": 5,
+            "price": 59.58
+          },
+          {
+            "ml": 10,
+            "price": 112.15
+          },
+          {
+            "ml": 15,
+            "price": 164.73
+          },
+          {
+            "ml": 20,
+            "price": 217.3
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "238659",
+            "ml": 100,
+            "usd": 240.62,
+            "pln": 914.36,
+            "plnPerMl": 9.14,
+            "tester": false
+          },
+          {
+            "article": "244267",
+            "ml": 30,
+            "usd": 140.73,
+            "pln": 534.77,
+            "plnPerMl": 17.83,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "246660",
+            "ml": 100,
+            "usd": 237.04,
+            "pln": 900.75,
+            "plnPerMl": 9.01,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "250117",
+            "ml": 30,
+            "usd": 143.02,
+            "pln": 543.48,
+            "plnPerMl": 18.12,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    },
+    {
+      "id": "le-labo-another-13-edp-100",
+      "brandId": "le-labo",
+      "name": "Another 13",
+      "concentration": "EDP",
+      "curated": false,
+      "status": "matched",
+      "action": "updated",
+      "calculated": {
+        "selectedArticle": "210560",
+        "selectedName": "Le Labo Another 13 парфюмированная вода",
+        "selectedVolume": "объем 100 мл",
+        "selectedMl": 100,
+        "wholesaleUsd": 405.18,
+        "wholesalePln": 1539.68,
+        "costPerMl": 15.4,
+        "retailBottle": 1694,
+        "decantPricePerMl": 17.7063,
+        "decants": [
+          {
+            "ml": 1,
+            "price": 24.71
+          },
+          {
+            "ml": 5,
+            "price": 95.53
+          },
+          {
+            "ml": 10,
+            "price": 184.06
+          },
+          {
+            "ml": 15,
+            "price": 272.59
+          },
+          {
+            "ml": 20,
+            "price": 361.13
+          }
+        ],
+        "originalOptions": [
+          {
+            "article": "210560",
+            "ml": 100,
+            "usd": 405.18,
+            "pln": 1539.68,
+            "plnPerMl": 15.4,
+            "tester": false
+          },
+          {
+            "article": "210837",
+            "ml": 50,
+            "usd": 352.65,
+            "pln": 1340.07,
+            "plnPerMl": 26.8,
+            "tester": false
+          }
+        ],
+        "testerOptions": [
+          {
+            "article": "210838",
+            "ml": 100,
+            "usd": 303.92,
+            "pln": 1154.9,
+            "plnPerMl": 11.55,
+            "note": "TESTER — not used for retail original"
+          },
+          {
+            "article": "217145",
+            "ml": 50,
+            "usd": 336.65,
+            "pln": 1279.27,
+            "plnPerMl": 25.59,
+            "note": "TESTER — not used for retail original"
+          }
+        ]
+      }
+    }
+  ]
+}

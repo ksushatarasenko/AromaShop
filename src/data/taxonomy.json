@@ -1,0 +1,948 @@
+{
+  "genders": [
+    {
+      "id": "women",
+      "pl": "Damskie",
+      "uk": "Жіночі"
+    },
+    {
+      "id": "men",
+      "pl": "Męskie",
+      "uk": "Чоловічі"
+    },
+    {
+      "id": "unisex",
+      "pl": "Unisex",
+      "uk": "Унісекс"
+    }
+  ],
+  "collections": [
+    {
+      "id": "luxury",
+      "pl": "Luksusowe",
+      "uk": "Люксові"
+    },
+    {
+      "id": "niche",
+      "pl": "Niszowe",
+      "uk": "Нішеві"
+    }
+  ],
+  "concentrations": [
+    {
+      "id": "EDP",
+      "pl": "Eau de Parfum",
+      "uk": "Eau de Parfum"
+    },
+    {
+      "id": "EDT",
+      "pl": "Eau de Toilette",
+      "uk": "Eau de Toilette"
+    },
+    {
+      "id": "EDC",
+      "pl": "Eau de Cologne",
+      "uk": "Eau de Cologne"
+    },
+    {
+      "id": "Parfum",
+      "pl": "Parfum",
+      "uk": "Parfum"
+    },
+    {
+      "id": "Extrait",
+      "pl": "Extrait de Parfum",
+      "uk": "Extrait de Parfum"
+    }
+  ],
+  "families": [
+    {
+      "id": "floral",
+      "pl": "Kwiatowe",
+      "uk": "Квіткові"
+    },
+    {
+      "id": "oriental",
+      "pl": "Orientalne",
+      "uk": "Східні"
+    },
+    {
+      "id": "woody",
+      "pl": "Drzewne",
+      "uk": "Деревні"
+    },
+    {
+      "id": "fresh",
+      "pl": "Świeże",
+      "uk": "Свіжі"
+    },
+    {
+      "id": "citrus",
+      "pl": "Cytrusowe",
+      "uk": "Цитрусові"
+    },
+    {
+      "id": "gourmand",
+      "pl": "Gourmand",
+      "uk": "Гурманські"
+    },
+    {
+      "id": "aromatic",
+      "pl": "Aromatyczne",
+      "uk": "Ароматичні"
+    },
+    {
+      "id": "chypre",
+      "pl": "Chypre",
+      "uk": "Шипрові"
+    },
+    {
+      "id": "fougere",
+      "pl": "Fougère",
+      "uk": "Фужерні"
+    },
+    {
+      "id": "leather",
+      "pl": "Skórzane",
+      "uk": "Шкіряні"
+    },
+    {
+      "id": "aquatic",
+      "pl": "Wodne",
+      "uk": "Водні"
+    },
+    {
+      "id": "spicy",
+      "pl": "Korzenne",
+      "uk": "Пряні"
+    },
+    {
+      "id": "fruity",
+      "pl": "Owocowe",
+      "uk": "Фруктові"
+    },
+    {
+      "id": "green",
+      "pl": "Zielone",
+      "uk": "Зелені"
+    }
+  ],
+  "accords": [
+    {
+      "id": "vanilla",
+      "pl": "Wanilia",
+      "uk": "Ваніль"
+    },
+    {
+      "id": "coffee",
+      "pl": "Kawa",
+      "uk": "Кава"
+    },
+    {
+      "id": "sweet",
+      "pl": "Słodki",
+      "uk": "Солодкий"
+    },
+    {
+      "id": "white-floral",
+      "pl": "Białe kwiaty",
+      "uk": "Білі квіти"
+    },
+    {
+      "id": "warm-spicy",
+      "pl": "Ciepło-korzenny",
+      "uk": "Тепло-пряний"
+    },
+    {
+      "id": "woody",
+      "pl": "Drzewny",
+      "uk": "Деревний"
+    },
+    {
+      "id": "lavender",
+      "pl": "Lawenda",
+      "uk": "Лаванда"
+    },
+    {
+      "id": "citrus",
+      "pl": "Cytrusowy",
+      "uk": "Цитрусовий"
+    },
+    {
+      "id": "floral",
+      "pl": "Kwiatowy",
+      "uk": "Квітковий"
+    },
+    {
+      "id": "oud",
+      "pl": "Oud",
+      "uk": "Уд"
+    },
+    {
+      "id": "amber",
+      "pl": "Ambra",
+      "uk": "Амбра"
+    },
+    {
+      "id": "musky",
+      "pl": "Piżmowy",
+      "uk": "Мускусний"
+    },
+    {
+      "id": "powdery",
+      "pl": "Pudrowy",
+      "uk": "Пудровий"
+    },
+    {
+      "id": "rose",
+      "pl": "Róża",
+      "uk": "Троянда"
+    },
+    {
+      "id": "saffron",
+      "pl": "Szafran",
+      "uk": "Шафран"
+    },
+    {
+      "id": "jasmine",
+      "pl": "Jaśmin",
+      "uk": "Жасмин"
+    },
+    {
+      "id": "patchouli",
+      "pl": "Paczuła",
+      "uk": "Пачулі"
+    },
+    {
+      "id": "smoky",
+      "pl": "Dymny",
+      "uk": "Димний"
+    },
+    {
+      "id": "leather",
+      "pl": "Skóra",
+      "uk": "Шкіра"
+    },
+    {
+      "id": "fresh-spicy",
+      "pl": "Świeżo-korzenny",
+      "uk": "Свіжо-пряний"
+    },
+    {
+      "id": "aromatic",
+      "pl": "Aromatyczny",
+      "uk": "Ароматичний"
+    },
+    {
+      "id": "earthy",
+      "pl": "Ziemisty",
+      "uk": "Землистий"
+    },
+    {
+      "id": "balsamic",
+      "pl": "Balsamiczny",
+      "uk": "Бальзамічний"
+    },
+    {
+      "id": "fruity",
+      "pl": "Owocowy",
+      "uk": "Фруктовий"
+    },
+    {
+      "id": "green",
+      "pl": "Zielony",
+      "uk": "Зелений"
+    },
+    {
+      "id": "animalic",
+      "pl": "Animaliczny",
+      "uk": "Анімалістичний"
+    },
+    {
+      "id": "metallic",
+      "pl": "Metaliczny",
+      "uk": "Металевий"
+    },
+    {
+      "id": "ozonic",
+      "pl": "Ozonowy",
+      "uk": "Озоновий"
+    },
+    {
+      "id": "tobacco",
+      "pl": "Tytoniowy",
+      "uk": "Тютюновий"
+    },
+    {
+      "id": "cherry",
+      "pl": "Wiśniowy",
+      "uk": "Вишневий"
+    },
+    {
+      "id": "aquatic",
+      "pl": "Wodny",
+      "uk": "Водний"
+    },
+    {
+      "id": "boozy",
+      "pl": "Alkoholowy",
+      "uk": "Алкогольний"
+    },
+    {
+      "id": "mineral",
+      "pl": "Mineralny",
+      "uk": "Мінеральний"
+    },
+    {
+      "id": "molecular",
+      "pl": "Molekularny",
+      "uk": "Молекулярний"
+    },
+    {
+      "id": "fresh",
+      "pl": "Świeży",
+      "uk": "Свіжий"
+    }
+  ],
+  "moods": [
+    {
+      "id": "clean",
+      "pl": "Czystość",
+      "uk": "Чистота",
+      "description": {
+        "pl": "Zapachy kojarzące się ze świeżym praniem, czystą skórą, białą koszulą, świeżą pościelą i poczuciem świeżości.",
+        "uk": "Аромати, що нагадують свіже прання, чисту шкіру, білу сорочку, свіжу постільну білизну та відчуття чистоти."
+      }
+    },
+    {
+      "id": "warm-vanilla",
+      "pl": "Ciepła wanilia",
+      "uk": "Тепла ваніль",
+      "description": {
+        "pl": "Ciepłe, otulające kompozycje zbudowane wokół wanilii — miękkie, zmysłowe i charakterne.",
+        "uk": "Теплі, обволікаючі композиції навколо ванілі — м'які, чуттєві та виразні."
+      }
+    },
+    {
+      "id": "amber",
+      "pl": "Bursztynowe ciepło",
+      "uk": "Бурштинове тепло",
+      "description": {
+        "pl": "Głębokie, żywiczne i bursztynowe zapachy o wieczorowym, luksusowym charakterze.",
+        "uk": "Глибокі, смолисті й бурштинові аромати з вечірнім, розкішним характером."
+      }
+    },
+    {
+      "id": "musk",
+      "pl": "Piżmowa miękkość",
+      "uk": "Мускусна м'якість",
+      "description": {
+        "pl": "Miękkie, bliskie skóry kompozycje z piżmem — czyste, eleganckie i intymne.",
+        "uk": "М'які, близькі до шкіри композиції з мускусом — чисті, елегантні та інтимні."
+      }
+    },
+    {
+      "id": "gourmand",
+      "pl": "Gourmand",
+      "uk": "Гурманські",
+      "description": {
+        "pl": "Apetyczne, słodkie i otulające zapachy inspirowane wanilią, kakao i ciepłymi akordami deserowymi.",
+        "uk": "Апетитні, солодкі й обволікаючі аромати, натхненні ваніллю, какао та теплими десертними акордами."
+      }
+    },
+    {
+      "id": "dark",
+      "pl": "Mroczne",
+      "uk": "Темні",
+      "description": {
+        "pl": "Głębokie, intensywne i charakterne kompozycje o wieczorowym, ciemniejszym brzmieniu.",
+        "uk": "Глибокі, насичені та характерні композиції з вечірнім, темнішим звучанням."
+      }
+    },
+    {
+      "id": "woody",
+      "pl": "Drzewne",
+      "uk": "Деревні",
+      "description": {
+        "pl": "Kompozycje oparte na suchych, szlachetnych i nowoczesnych akordach drzewnych.",
+        "uk": "Композиції на основі сухих, шляхетних і сучасних деревних акордів."
+      }
+    },
+    {
+      "id": "floral",
+      "pl": "Kwiatowe",
+      "uk": "Квіткові",
+      "description": {
+        "pl": "Kwiatowe zapachy — od miękkich i czystych po wyraziste i nowoczesne bukiety.",
+        "uk": "Квіткові аромати — від м'яких і чистих до виразних сучасних букетів."
+      }
+    },
+    {
+      "id": "fresh",
+      "pl": "Świeże",
+      "uk": "Свіжі",
+      "description": {
+        "pl": "Lekkie, powietrzne i energetyczne kompozycje o świeżym charakterze.",
+        "uk": "Легкі, повітряні та енергійні композиції зі свіжим характером."
+      }
+    },
+    {
+      "id": "modern-feminine",
+      "pl": "Nowoczesna kobiecość",
+      "uk": "Сучасна жіночність",
+      "description": {
+        "pl": "Współczesne, eleganckie i świadomie kobiece zapachy — bez przesady i bez klasyki „za wszelką cenę”.",
+        "uk": "Сучасні, елегантні й свідомо жіночні аромати — без зайвої демонстративності."
+      }
+    },
+    {
+      "id": "evening",
+      "pl": "Wieczorowe",
+      "uk": "Вечірні",
+      "description": {
+        "pl": "Zapachy na wieczór — cieplejsze, bardziej otulające i zdecydowane.",
+        "uk": "Аромати на вечір — тепліші, більш обволікаючі та впевнені."
+      }
+    },
+    {
+      "id": "sweet",
+      "pl": "Słodkie",
+      "uk": "Солодкі",
+      "description": {
+        "pl": "Wyraźnie słodkie, miękkie i deserowe profile — w wersji dorosłej i eleganckiej.",
+        "uk": "Виразно солодкі, м'які й десертні профілі — у дорослій та елегантній версії."
+      }
+    },
+    {
+      "id": "luxury",
+      "pl": "Luksusowy klimat",
+      "uk": "Розкішний настрій",
+      "description": {
+        "pl": "Kompozycje o szczególnie luksusowym, wieczorowym i wyrafinowanym klimacie.",
+        "uk": "Композиції з особливо розкішним, вечірнім і витонченим настроєм."
+      }
+    },
+    {
+      "id": "spicy",
+      "pl": "Korzenne",
+      "uk": "Пряні",
+      "description": {
+        "pl": "Kompozycje z wyraźnym udziałem przypraw.",
+        "uk": "Композиції з виразною часткою спецій."
+      }
+    },
+    {
+      "id": "skin",
+      "pl": "Skórne",
+      "uk": "Шкірні",
+      "description": {
+        "pl": "Zapachy bliskie skóry — miękkie i intymne.",
+        "uk": "Аромати близькі до шкіри — м’які й інтимні."
+      }
+    },
+    {
+      "id": "citrus",
+      "pl": "Cytrusowe",
+      "uk": "Цитрусові",
+      "description": {
+        "pl": "Świetliste kompozycje zbudowane wokół cytrusów.",
+        "uk": "Світлі композиції навколо цитрусів."
+      }
+    },
+    {
+      "id": "aquatic",
+      "pl": "Wodne / morskie",
+      "uk": "Водні / морські",
+      "description": {
+        "pl": "Świeże, wodne i mineralne zapachy.",
+        "uk": "Свіжі водні й мінеральні аромати."
+      }
+    },
+    {
+      "id": "leather",
+      "pl": "Skórzane",
+      "uk": "Шкіряні",
+      "description": {
+        "pl": "Kompozycje z akordem skóry.",
+        "uk": "Композиції зі шкіряним акордом."
+      }
+    },
+    {
+      "id": "oud",
+      "pl": "Oud",
+      "uk": "Уд",
+      "description": {
+        "pl": "Głębokie kompozycje z udziałem oud.",
+        "uk": "Глибокі композиції з удом."
+      }
+    },
+    {
+      "id": "tobacco",
+      "pl": "Tytoniowe",
+      "uk": "Тютюнові",
+      "description": {
+        "pl": "Ciepłe, dymne zapachy z akordem tytoniu.",
+        "uk": "Теплі димні аромати з тютюновим акордом."
+      }
+    },
+    {
+      "id": "coffee",
+      "pl": "Kawowe",
+      "uk": "Кавові",
+      "description": {
+        "pl": "Kompozycje zbudowane wokół kawy.",
+        "uk": "Композиції навколо кави."
+      }
+    },
+    {
+      "id": "cherry",
+      "pl": "Wiśniowe",
+      "uk": "Вишневі",
+      "description": {
+        "pl": "Owocowe, często ciemne profile z wiśnią.",
+        "uk": "Фруктові, часто темні профілі з вишнею."
+      }
+    },
+    {
+      "id": "aromatic",
+      "pl": "Aromatyczne",
+      "uk": "Ароматичні",
+      "description": {
+        "pl": "Zielono-ziołowe, aromatyczne kompozycje.",
+        "uk": "Зелено-трав’яні ароматичні композиції."
+      }
+    },
+    {
+      "id": "mineral",
+      "pl": "Mineralne",
+      "uk": "Мінеральні",
+      "description": {
+        "pl": "Chłodne, kamienne, współczesne profile.",
+        "uk": "Холодні кам’яні сучасні профілі."
+      }
+    }
+  ],
+  "notes": [
+    {
+      "id": "aldehydes"
+    },
+    {
+      "id": "amber"
+    },
+    {
+      "id": "ambergris"
+    },
+    {
+      "id": "amberwood"
+    },
+    {
+      "id": "ambrette"
+    },
+    {
+      "id": "ambroxan"
+    },
+    {
+      "id": "apple"
+    },
+    {
+      "id": "benzoin"
+    },
+    {
+      "id": "bergamot"
+    },
+    {
+      "id": "birch"
+    },
+    {
+      "id": "bitter-almond"
+    },
+    {
+      "id": "black-pepper"
+    },
+    {
+      "id": "blackcurrant"
+    },
+    {
+      "id": "blonde-woods"
+    },
+    {
+      "id": "brown-sugar"
+    },
+    {
+      "id": "cacao"
+    },
+    {
+      "id": "cardamom"
+    },
+    {
+      "id": "cashmeran"
+    },
+    {
+      "id": "cashmere-wood"
+    },
+    {
+      "id": "cedar"
+    },
+    {
+      "id": "cedarwood"
+    },
+    {
+      "id": "cotton"
+    },
+    {
+      "id": "dried-fruits"
+    },
+    {
+      "id": "grapefruit"
+    },
+    {
+      "id": "hyacinth"
+    },
+    {
+      "id": "indonesian-patchouli"
+    },
+    {
+      "id": "lily-of-the-valley"
+    },
+    {
+      "id": "moroccan-jasmine"
+    },
+    {
+      "id": "neroli"
+    },
+    {
+      "id": "peach"
+    },
+    {
+      "id": "peony"
+    },
+    {
+      "id": "virginia-cedar"
+    },
+    {
+      "id": "cinnamon"
+    },
+    {
+      "id": "citron"
+    },
+    {
+      "id": "coconut"
+    },
+    {
+      "id": "coffee"
+    },
+    {
+      "id": "egyptian-jasmine"
+    },
+    {
+      "id": "fig"
+    },
+    {
+      "id": "fig-leaf"
+    },
+    {
+      "id": "fir-resin"
+    },
+    {
+      "id": "geranium"
+    },
+    {
+      "id": "ginger"
+    },
+    {
+      "id": "green-notes"
+    },
+    {
+      "id": "guaiac-wood"
+    },
+    {
+      "id": "hedione"
+    },
+    {
+      "id": "incense"
+    },
+    {
+      "id": "iris"
+    },
+    {
+      "id": "iso-e-super"
+    },
+    {
+      "id": "jasmine"
+    },
+    {
+      "id": "juniper-berries"
+    },
+    {
+      "id": "labdanum"
+    },
+    {
+      "id": "lavender"
+    },
+    {
+      "id": "leather"
+    },
+    {
+      "id": "lemon"
+    },
+    {
+      "id": "licorice"
+    },
+    {
+      "id": "mandarin"
+    },
+    {
+      "id": "musk"
+    },
+    {
+      "id": "nutmeg"
+    },
+    {
+      "id": "oakmoss"
+    },
+    {
+      "id": "orange"
+    },
+    {
+      "id": "orange-blossom"
+    },
+    {
+      "id": "oud"
+    },
+    {
+      "id": "papyrus"
+    },
+    {
+      "id": "patchouli"
+    },
+    {
+      "id": "pear"
+    },
+    {
+      "id": "pepper"
+    },
+    {
+      "id": "pine-needles"
+    },
+    {
+      "id": "pineapple"
+    },
+    {
+      "id": "pink-pepper"
+    },
+    {
+      "id": "sichuan-pepper"
+    },
+    {
+      "id": "quince"
+    },
+    {
+      "id": "rose"
+    },
+    {
+      "id": "rosewood"
+    },
+    {
+      "id": "saffron"
+    },
+    {
+      "id": "sandalwood"
+    },
+    {
+      "id": "australian-sandalwood"
+    },
+    {
+      "id": "tea"
+    },
+    {
+      "id": "tobacco"
+    },
+    {
+      "id": "tonka-bean"
+    },
+    {
+      "id": "tuberose"
+    },
+    {
+      "id": "vanilla"
+    },
+    {
+      "id": "vetiver"
+    },
+    {
+      "id": "violet"
+    },
+    {
+      "id": "white-musk"
+    },
+    {
+      "id": "woody-notes"
+    },
+    {
+      "id": "ylang-ylang"
+    }
+  ],
+  "seasons": [
+    {
+      "id": "spring",
+      "pl": "Wiosna",
+      "uk": "Весна"
+    },
+    {
+      "id": "summer",
+      "pl": "Lato",
+      "uk": "Літо"
+    },
+    {
+      "id": "autumn",
+      "pl": "Jesień",
+      "uk": "Осінь"
+    },
+    {
+      "id": "winter",
+      "pl": "Zima",
+      "uk": "Зима"
+    }
+  ],
+  "timeOfDay": [
+    {
+      "id": "day",
+      "pl": "Dzień",
+      "uk": "День"
+    },
+    {
+      "id": "evening",
+      "pl": "Wieczór",
+      "uk": "Вечір"
+    },
+    {
+      "id": "night",
+      "pl": "Noc",
+      "uk": "Ніч"
+    },
+    {
+      "id": "any",
+      "pl": "Cały dzień",
+      "uk": "Будь-коли"
+    }
+  ],
+  "occasions": [
+    {
+      "id": "daily",
+      "pl": "Codziennie",
+      "uk": "Щоденно"
+    },
+    {
+      "id": "office",
+      "pl": "Biuro",
+      "uk": "Офіс"
+    },
+    {
+      "id": "date",
+      "pl": "Randka",
+      "uk": "Побачення"
+    },
+    {
+      "id": "party",
+      "pl": "Impreza",
+      "uk": "Вечірка"
+    },
+    {
+      "id": "evening",
+      "pl": "Wyjście wieczorne",
+      "uk": "Вечірній вихід"
+    },
+    {
+      "id": "special",
+      "pl": "Specjalna okazja",
+      "uk": "Особлива нагода"
+    },
+    {
+      "id": "casual",
+      "pl": "Na co dzień",
+      "uk": "Повсякденно"
+    }
+  ],
+  "characterScales": [
+    {
+      "id": "sweetness",
+      "pl": "Słodkość",
+      "uk": "Солодкість",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "freshness",
+      "pl": "Świeżość",
+      "uk": "Свіжість",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "warmth",
+      "pl": "Ciepło",
+      "uk": "Тепло",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "intensity",
+      "pl": "Intensywność",
+      "uk": "Інтенсивність",
+      "min": 1,
+      "max": 5
+    }
+  ],
+  "performanceScales": [
+    {
+      "id": "longevity",
+      "pl": "Trwałość",
+      "uk": "Стійкість",
+      "min": 1,
+      "max": 5
+    },
+    {
+      "id": "sillage",
+      "pl": "Sillage",
+      "uk": "Шлейф",
+      "min": 1,
+      "max": 5
+    }
+  ],
+  "sortOptions": [
+    {
+      "id": "recommended",
+      "pl": "Rekomendowane",
+      "uk": "Рекомендовані"
+    },
+    {
+      "id": "newest",
+      "pl": "Najnowsze",
+      "uk": "Найновіші"
+    },
+    {
+      "id": "price-asc",
+      "pl": "Cena: od najniższej",
+      "uk": "Ціна: від нижчої"
+    },
+    {
+      "id": "price-desc",
+      "pl": "Cena: od najwyższej",
+      "uk": "Ціна: від вищої"
+    },
+    {
+      "id": "name-asc",
+      "pl": "Nazwa A–Z",
+      "uk": "Назва А–Я"
+    }
+  ],
+  "bottleSizes": [
+    30,
+    50,
+    70,
+    75,
+    90,
+    100,
+    200
+  ]
+}

@@ -1,0 +1,3785 @@
+[
+  {
+    "id": "creed-aventus-edp-100",
+    "brandId": "creed",
+    "name": "Aventus",
+    "collection": "niche",
+    "gender": "men",
+    "concentration": "EDP",
+    "year": 2010,
+    "perfumer": "Olivier Creed",
+    "country": "France",
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "description": {
+      "pl": "Creed Aventus Eau de Parfum — wyrazisty i elegancki zapach z ananasem, bergamotką, brzozą, mchem dębowym i ambrą. Oryginalny produkt w AromaShop.",
+      "uk": "Creed Aventus Eau de Parfum — виразний та елегантний аромат з ананасом, бергамотом, березою, дубовим мохом та амброю. Оригінальний продукт в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Wyrazisty i elegancki zapach łączący soczysty akord ananasa i świeży bergamot z dymnym charakterem brzozy oraz głębią suchych, szlachetnych drzew.",
+      "uk": "Виразний та елегантний аромат, у якому соковитий акорд ананаса і свіжий бергамот поєднуються з димним характером берези та глибиною сухих благородних дерев."
+    },
+    "story": {
+      "pl": "Aventus otwiera się jasnym, soczystym połączeniem <strong>bergamotki, jabłka, czarnej porzeczki</strong> i charakterystycznego akordu ananasa. Początek jest świeży i energetyczny, ale od pierwszych chwil ma w sobie coś bardziej wyrafinowanego niż zwykły owocowy zapach.\n\nAnanas nie jest tutaj słodką, tropikalną dekoracją. Tworzy charakterystyczny kontrast dla cytrusowej świeżości i późniejszej, bardziej suchej strony kompozycji. Dzięki temu Aventus od początku brzmi zdecydowanie i bardzo nowocześnie.\n\nW sercu pojawia się jaśmin, ale to <strong>brzoza i jałowiec</strong> nadają kompozycji bardziej wyrazisty charakter. Brzoza wnosi dymny, lekko skórzany niuans, a jałowiec dodaje chłodnej, aromatycznej świeżości.\n\nZ czasem Aventus staje się bardziej suchy i głęboki. <strong>Mech dębowy, wanilia i ambra</strong> tworzą bazę, która nie jest przesadnie słodka ani ciężka. Pozostawia na skórze elegancki, zdecydowany ślad.\n\nTo właśnie kontrast pomiędzy soczystym początkiem a suchą, dymną bazą jest jednym z najbardziej charakterystycznych elementów Aventusa.\n\nAventus pasuje do mężczyzny, który lubi jakość bez ostentacji. Garnitur, dobrze skrojony płaszcz, biała koszula, skórzane buty albo prosty, luksusowy casual — ten zapach potrafi odnaleźć się w różnych sytuacjach, zachowując swój charakter.\n\nNie jest to kompozycja, która próbuje być wszystkim naraz. Ma wyraźną osobowość: świeżość, owoce, dym, drewno i elegancję.\n\n<strong>Aventus zostawia po sobie wrażenie człowieka, który wie, dokąd zmierza.</strong>",
+      "uk": "Aventus починається яскравим і соковитим поєднанням <strong>бергамоту, яблука, чорної смородини</strong> та характерного акорду ананаса. Початок свіжий та енергійний, але з перших секунд у ньому є щось значно витонченіше, ніж просто фруктовий аромат.\n\nАнанас тут не є солодкою тропічною прикрасою. Він створює характерний контраст із цитрусовою свіжістю та подальшим сухішим звучанням композиції. Завдяки цьому Aventus від самого початку звучить впевнено й дуже сучасно.\n\nУ серці з'являється жасмин, але саме <strong>береза та ялівець</strong> надають композиції виразнішого характеру. Береза додає димний, трохи шкіряний нюанс, а ялівець — прохолодну ароматичну свіжість.\n\nЗгодом Aventus стає сухішим і глибшим. <strong>Дубовий мох, ваніль та амбра</strong> створюють основу, яка не є надмірно солодкою або важкою. Вона залишає на шкірі елегантний і впевнений слід.\n\nСаме контраст між соковитим початком і сухою, димною базою є однією з найбільш характерних рис Aventus.\n\nAventus пасує чоловікові, який цінує якість без демонстративності. Костюм, добре скроєне пальто, біла сорочка, шкіряне взуття або простий дорогий casual — цей аромат легко вписується в різні ситуації, зберігаючи власний характер.\n\nЦе не композиція, яка намагається бути всім одночасно. У неї є виразна особистість: свіжість, фрукти, дим, дерево та елегантність.\n\n<strong>Aventus залишає після себе враження людини, яка знає, куди рухається.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🏛️ <strong>250 lat Creed.</strong> Aventus został wprowadzony w 2010 roku z okazji 250-lecia House of Creed i od początku był pomyślany jako jedna z najważniejszych współczesnych kompozycji marki.",
+        "uk": "🏛️ <strong>250 років Creed.</strong> Aventus представили у 2010 році до 250-річчя House of Creed, і від самого початку його задумували як одну з ключових сучасних композицій бренду."
+      },
+      {
+        "pl": "🍍 <strong>Akord ananasa.</strong> Charakterystyczny akord ananasa stał się jednym z najbardziej rozpoznawalnych elementów Aventusa i z czasem zaczął być kojarzony z charakterystycznym stylem całej kompozycji.",
+        "uk": "🍍 <strong>Акорд ананаса.</strong> Характерний акорд ананаса став однією з найбільш впізнаваних рис Aventus і згодом почав асоціюватися з особливим стилем усієї композиції."
+      },
+      {
+        "pl": "⚗️ <strong>Millésime.</strong> Creed podkreśla swoje wykorzystanie tradycyjnej techniki Millésime, w której składniki są odmierzane, mieszane i pozostawiane do maceracji.",
+        "uk": "⚗️ <strong>Millésime.</strong> Creed підкреслює використання традиційної техніки Millésime, під час якої інгредієнти відмірюють, змішують і залишають для мацерації."
+      },
+      {
+        "pl": "🖤 <strong>Siła i wizja.</strong> Inspiracją Aventusa jest idea siły, wizji, osiągnięć i człowieka, który sam wyznacza swoją drogę.",
+        "uk": "🖤 <strong>Сила і бачення.</strong> В основі концепції Aventus лежить ідея сили, бачення, досягнень та людини, яка сама визначає власний шлях."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "fruity", "citrus"],
+      "accords": [
+        "fruity",
+        "woody",
+        "citrus",
+        "smoky",
+        "aromatic",
+        "fresh-spicy"
+      ],
+      "notes": {
+        "top": ["bergamot", "blackcurrant", "apple", "lemon", "pink-pepper"],
+        "heart": ["pineapple", "patchouli", "moroccan-jasmine"],
+        "base": ["birch", "musk", "oakmoss", "cedar", "ambroxan"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 4,
+      "warmth": 3,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "casual", "office", "date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 1020,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 1420,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 15
+    },
+    "featured": true,
+    "new": false,
+    "bestseller": true,
+    "similar": ["le-labo-santal-33-edp-100"],
+    "tags": [
+      "woody",
+      "fruity",
+      "citrus",
+      "smoky",
+      "masculine",
+      "confident",
+      "niche",
+      "pineapple",
+      "birch"
+    ]
+  },
+  {
+    "id": "byredo-gypsy-water-edp-100",
+    "brandId": "byredo",
+    "name": "Gypsy Water",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2008,
+    "perfumer": "Jérôme Epinette",
+    "country": "Sweden",
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "description": {
+      "pl": "Byredo Gypsy Water Eau de Parfum — świeży, drzewny i lekko dymny zapach z bergamotką, jałowcem, kadzidłem, sandałowcem i wanilią. Oryginalny produkt w AromaShop.",
+      "uk": "Byredo Gypsy Water Eau de Parfum — свіжий, деревний і злегка димний аромат із бергамотом, ялівцем, ладаном, сандалом та ваніллю. Оригінальний продукт в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Świeży, drzewny i lekko dymny zapach inspirowany wolnością, lasem i nocami przy ognisku. Cytrusy i jałowiec nadają mu chłodnej energii, a kadzidło, sosnowe igły, sandałowiec, ambra i wanilia tworzą miękkie, ciepłe zakończenie.",
+      "uk": "Свіжий, деревний і злегка димний аромат, натхненний свободою, лісом та ночами біля багаття. Цитруси й ялівець надають йому прохолодної енергії, а ладан, соснові голки, сандал, амбра та ваніль створюють м'яке й тепле завершення."
+    },
+    "story": {
+      "pl": "Gypsy Water zaczyna się od wrażenia chłodnego, czystego powietrza. <strong>Bergamotka i cytryna</strong> nadają kompozycji świetlistości, a <strong>jałowiec</strong> dodaje jej lekko żywicznego, leśnego charakteru. Od pierwszych chwil zapach kojarzy się bardziej z otwartą przestrzenią niż z zamkniętym wnętrzem.\n\nPo chwili pojawia się <strong>dymne kadzidło</strong>. W połączeniu z igłami sosnowymi tworzy atmosferę wieczoru spędzanego gdzieś daleko od miasta — przy ogniu, w lesie, pod chłodnym niebem. Irys dodaje tej surowej scenerii miękkości i delikatnego, pudrowego akcentu.\n\nW bazie zapach staje się cieplejszy. <strong>Sandałowiec</strong> wygładza kompozycję, ambra dodaje jej głębi, a wanilia pozostawia subtelnie słodkie, miękkie wykończenie.\n\nGypsy Water nie jest ciężkim zapachem leśnym. Jego charakter opiera się na kontraście: chłodne cytrusy i jałowiec spotykają się z ciepłym sandałowcem i wanilią, a dymne kadzidło łączy oba światy.\n\nTo zapach dla osoby, która lubi elegancję bez przesadnej formalności. Jest swobodny, czysty, lekko tajemniczy i bardzo obrazowy.\n\nMożna wyobrazić go sobie podczas podróży, spaceru przez sosnowy las, wieczoru przy ognisku albo spokojnego poranka poza miastem.\n\n<strong>Gypsy Water nie próbuje dominować przestrzeni. Bardziej tworzy wokół skóry atmosferę — świeżą, drzewną, lekko dymną i ciepłą.</strong>",
+      "uk": "Gypsy Water починається з відчуття прохолодного, чистого повітря. <strong>Бергамот і лимон</strong> надають композиції світла, а <strong>ялівець</strong> додає їй легкого смолистого, лісового характеру. Від перших секунд аромат більше нагадує відкритий простір, ніж закрите приміщення.\n\nПоступово з'являється <strong>димний ладан</strong>. У поєднанні із сосновими голками він створює атмосферу вечора десь далеко від міста — біля вогню, серед лісу, під прохолодним небом. Ірис додає цій суворій картині м'якості та делікатного пудрового відтінку.\n\nУ базі аромат стає теплішим. <strong>Сандал</strong> згладжує композицію, амбра додає їй глибини, а ваніль залишає тонке солодке й м'яке завершення.\n\nGypsy Water — не важкий лісовий аромат. Його характер побудований на контрасті: прохолодні цитруси та ялівець зустрічаються з теплим сандалом і ваніллю, а димний ладан поєднує ці два світи.\n\nЦе аромат для людини, яка любить елегантність без зайвої формальності. Він вільний, чистий, трохи загадковий і дуже образний.\n\nЙого легко уявити під час подорожі, прогулянки сосновим лісом, вечора біля багаття або спокійного ранку за містом.\n\n<strong>Gypsy Water не намагається заповнити собою весь простір. Він радше створює навколо шкіри атмосферу — свіжу, деревну, трохи димну й теплу.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🔥 <strong>2008.</strong> Gypsy Water został wprowadzony w 2008 roku i należy do wczesnych, charakterystycznych kompozycji Byredo.",
+        "uk": "🔥 <strong>2008.</strong> Gypsy Water був представлений у 2008 році й належить до ранніх характерних композицій Byredo."
+      },
+      {
+        "pl": "🧭 <strong>Wolność i droga.</strong> Inspiracją dla zapachu jest idea wolności, podróży i życia blisko natury — bardziej emocjonalny obraz drogi niż dosłowne odwzorowanie konkretnego miejsca.",
+        "uk": "🧭 <strong>Свобода і дорога.</strong> Натхненням для аромату стала ідея свободи, подорожей і життя поруч із природою — радше емоційний образ дороги, ніж буквальне відтворення конкретного місця."
+      },
+      {
+        "pl": "👃 <strong>Jérôme Epinette.</strong> Kompozycję stworzył perfumiarz Jérôme Epinette, który współpracował z Byredo przy wielu ważnych zapachach marki.",
+        "uk": "👃 <strong>Jérôme Epinette.</strong> Композицію створив парфумер Jérôme Epinette, який працював із Byredo над багатьма важливими ароматами бренду."
+      },
+      {
+        "pl": "🌲 <strong>Las, dym i przestrzeń.</strong> W oficjalnej koncepcji Byredo szczególne znaczenie mają las, dym, ogień i otwarta przestrzeń — dlatego Gypsy Water odbiera się bardziej jako atmosferę niż pojedynczą dominującą nutę.",
+        "uk": "🌲 <strong>Ліс, дим і простір.</strong> В офіційній концепції Byredo особливе значення мають ліс, дим, вогонь і відкритий простір — тому Gypsy Water сприймається радше як атмосфера, ніж як одна домінуюча нота."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "aromatic", "citrus"],
+      "accords": [
+        "woody",
+        "aromatic",
+        "citrus",
+        "smoky",
+        "fresh-spicy",
+        "vanilla"
+      ],
+      "notes": {
+        "top": ["bergamot", "juniper-berries", "lemon", "pepper"],
+        "heart": ["incense", "iris", "pine-needles"],
+        "base": ["amber", "sandalwood", "vanilla"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 5,
+      "warmth": 3,
+      "intensity": 3
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["casual", "daily", "date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 3,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 660,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 960,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 10
+    },
+    "featured": true,
+    "new": false,
+    "bestseller": true,
+    "similar": ["le-labo-santal-33-edp-100", "diptyque-philosykos-edt-100"],
+    "tags": [
+      "woody",
+      "aromatic",
+      "citrus",
+      "fresh",
+      "smoky",
+      "incense",
+      "pine",
+      "unisex",
+      "bohemian",
+      "niche"
+    ]
+  },
+  {
+    "id": "le-labo-santal-33-edp-100",
+    "brandId": "le-labo",
+    "name": "Santal 33",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2011,
+    "perfumer": "Frank Voelkl",
+    "country": "United States",
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "description": {
+      "pl": "Le Labo Santal 33 Eau de Parfum — wyrazisty, drzewny i dymny zapach z sandałowcem, cedrem, kardamonem, irysem i fiołkiem. Oryginalny produkt w AromaShop.",
+      "uk": "Le Labo Santal 33 Eau de Parfum — виразний деревний і димний аромат із сандалом, кедром, кардамоном, ірисом та фіалкою. Оригінальний продукт в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Wyrazisty, drzewny i dymny zapach oparty na australijskim sandałowcu, cedrze i przyprawach. Kardamon, irys i fiołek nadają mu charakterystyczną miękkość, a skóra, piżmo i dymne drewno tworzą jego rozpoznawalny, surowy charakter.",
+      "uk": "Виразний, деревний і димний аромат, побудований навколо австралійського сандалу, кедра та спецій. Кардамон, ірис і фіалка додають йому характерної м'якості, а шкіра, мускус і димне дерево створюють його впізнаваний, трохи суворий характер."
+    },
+    "story": {
+      "pl": "<strong>Santal 33</strong> to zapach, który nie próbuje być oczywisty. Jego charakter buduje przede wszystkim suche, szlachetne drewno — sandałowiec i cedr — przełamane kardamonem, irysem, fiołkiem oraz subtelnymi akcentami skóry i dymu.\n\nPoczątek jest świeższy i bardziej przyprawowy. <strong>Kardamon</strong> nadaje kompozycji lekko pikantnego charakteru, a <strong>irys i fiołek</strong> wprowadzają miękkie, pudrowe niuanse. Nie jest to jednak delikatny, kwiatowy zapach — już od początku czuć w nim suchość drewna i charakterystyczną głębię.\n\nW miarę rozwoju Santal 33 staje się bardziej drzewny i dymny. <strong>Australijski sandałowiec oraz cedr</strong> tworzą jego główny szkielet, a skórzane i piżmowe akcenty dodają kompozycji ciepła oraz zmysłowości.\n\nTo właśnie kontrast jest tutaj najważniejszy: miękkość i surowość, ciepło i chłód, delikatna pudrowość oraz suche drewno. Dzięki temu Santal 33 nie jest typowym „słodkim” zapachem i nie potrzebuje ciężkiej projekcji, aby zwrócić na siebie uwagę.\n\nJest spokojny, ale charakterystyczny. Minimalistyczny, ale łatwy do zapamiętania.\n\nSantal 33 dobrze pasuje do osoby, która nie chce pachnieć jak wszyscy. Zamiast klasycznej elegancji oferuje bardziej współczesny rodzaj stylu — swobodny, pewny siebie i trochę nieoczywisty.\n\nTo zapach, który można wyobrazić sobie przy otwartym ogniu, w chłodny wieczór, podczas podróży albo w minimalistycznym wnętrzu pełnym drewna, skóry i miękkiego światła.",
+      "uk": "<strong>Santal 33</strong> — це аромат, який не намагається бути очевидним. Його характер насамперед створює сухе, шляхетне дерево — сандал і кедр, доповнені кардамоном, ірисом, фіалкою та тонкими шкіряними й димними акцентами.\n\nПочаток свіжіший і більш пряний. <strong>Кардамон</strong> надає композиції легкої гостроти, а <strong>ірис і фіалка</strong> додають м'яких, пудрових нюансів. Але це зовсім не ніжний квітковий аромат — від самого початку в ньому відчувається сухість дерева та характерна глибина.\n\nУ міру розкриття Santal 33 стає більш деревним і димним. <strong>Австралійський сандал і кедр</strong> створюють його основний каркас, а шкіряні та мускусні акценти додають композиції тепла й чуттєвості.\n\nСаме контраст тут є головним: м'якість і суворість, тепло й прохолода, легка пудровість і сухе дерево. Завдяки цьому Santal 33 не є типовим «солодким» ароматом і не потребує гучного звучання, щоб привертати увагу.\n\nВін спокійний, але впізнаваний. Мінімалістичний, але легко запам'ятовується.\n\nSantal 33 добре підходить людині, яка не хоче пахнути як усі. Замість класичної елегантності він пропонує більш сучасне відчуття стилю — вільне, впевнене й трохи нетипове.\n\nЦе аромат, який легко уявити біля відкритого вогню, прохолодного вечора, під час подорожі або в мінімалістичному просторі, наповненому деревом, шкірою та м'яким світлом."
+    },
+    "facts": [
+      {
+        "pl": "🔥 <strong>Otwarty ogień Zachodu.</strong> Inspiracją dla Santal 33 stał się obraz otwartego ognia na rozległych terenach amerykańskiego Zachodu — samotność, nocne niebo, drewno i dym.",
+        "uk": "🔥 <strong>Вогонь американського Заходу.</strong> Натхненням для Santal 33 став образ відкритого вогню на просторах американського Заходу — самотність, нічне небо, дерево та дим."
+      },
+      {
+        "pl": "🌵 <strong>Wolność i przestrzeń.</strong> Le Labo opisuje Santal 33 jako interpretację poczucia wolności i przestrzeni, a nie dosłowne odwzorowanie jednego miejsca czy składnika.",
+        "uk": "🌵 <strong>Свобода і простір.</strong> Le Labo описує Santal 33 як інтерпретацію відчуття свободи та простору, а не буквальне відтворення конкретного місця чи одного інгредієнта."
+      },
+      {
+        "pl": "🪵 <strong>Drzewny szkielet.</strong> Charakterystyczny efekt zapachu powstał wokół połączenia australijskiego sandałowca i cedru z kardamonem, irysem, fiołkiem oraz akcentami skóry i piżma.",
+        "uk": "🪵 <strong>Деревний каркас.</strong> Характерне звучання аромату побудоване навколо поєднання австралійського сандалу та кедра з кардамоном, ірисом, фіалкою, а також шкіряними й мускусними акцентами."
+      },
+      {
+        "pl": "🧪 <strong>Frank Voelkl, 2011.</strong> Za kompozycję Santal 33 odpowiada perfumiarz Frank Voelkl. Zapach został wprowadzony w 2011 roku.",
+        "uk": "🧪 <strong>Frank Voelkl, 2011.</strong> Автор композиції Santal 33 — парфумер Frank Voelkl. Аромат був представлений у 2011 році."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "leather", "spicy"],
+      "accords": ["woody", "leather", "warm-spicy", "smoky", "musky", "amber"],
+      "notes": {
+        "top": ["cardamom"],
+        "heart": ["iris", "violet"],
+        "base": [
+          "australian-sandalwood",
+          "leather",
+          "papyrus",
+          "virginia-cedar",
+          "amber",
+          "musk"
+        ]
+      }
+    },
+    "character": {
+      "sweetness": 1,
+      "freshness": 3,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "spring", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["casual", "daily", "date", "evening", "office", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 1300,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 2000,
+        "stock": false
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 14
+    },
+    "featured": true,
+    "new": false,
+    "bestseller": true,
+    "similar": ["creed-aventus-edp-100", "byredo-gypsy-water-edp-100"],
+    "tags": [
+      "woody",
+      "sandalwood",
+      "leather",
+      "smoky",
+      "spicy",
+      "minimalist",
+      "unisex",
+      "signature",
+      "niche"
+    ]
+  },
+  {
+    "id": "diptyque-philosykos-edt-100",
+    "brandId": "diptyque",
+    "name": "Philosykos",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDT",
+    "year": 1996,
+    "perfumer": "Olivia Giacobetti",
+    "country": "France",
+    "image": "main.png",
+    "gallery": [],
+    "description": {
+      "pl": "Poetycki zapach figi oddający całe drzewo — liście, drewno i owoc — zielony, kremowy i śródziemnomorski.",
+      "uk": "Поетичний аромат інжиру, що передає ціле дерево — листя, деревину й плід — зелений, кремовий і середземноморський."
+    },
+    "shortDescription": {
+      "pl": "Liść figowy, drewno figowe i kokos — śródziemnomorski sen.",
+      "uk": "Листя інжиру, деревина інжиру і кокос — середземноморська мрія."
+    },
+    "story": {
+      "pl": "Philosykos oznacza „przyjaciel drzewa figowego”. Pozostaje jednym z najbardziej ukochanych zapachów figowych w niszy.",
+      "uk": "Philosykos означає «друг інжирового дерева». Залишається одним із найулюбленіших інжирних ароматів у ніші."
+    },
+    "facts": [
+      {
+        "pl": "Stworzony przez Olivię Giacobetti.",
+        "uk": "Створений Олівією Джакобетті."
+      },
+      {
+        "pl": "Oddaje całe drzewo figowe, nie tylko owoc.",
+        "uk": "Передає ціле інжирове дерево, а не лише плід."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "green"],
+      "accords": ["green", "woody", "fruity", "fresh"],
+      "notes": {
+        "top": ["fig-leaf", "fig"],
+        "heart": ["coconut", "green-notes"],
+        "base": ["woody-notes", "cedar"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 4,
+      "warmth": 2,
+      "intensity": 2
+    },
+    "wearing": {
+      "seasons": ["spring", "summer"],
+      "timeOfDay": ["day"],
+      "occasions": ["daily", "casual", "office"]
+    },
+    "performance": {
+      "longevity": 3,
+      "sillage": 2
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 145,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 195,
+        "stock": true
+      }
+    ],
+    "featured": false,
+    "new": false,
+    "bestseller": true,
+    "similar": ["byredo-gypsy-water-edp-100"],
+    "tags": ["fig", "green", "summer", "mediterranean"]
+  },
+  {
+    "id": "initio-oud-for-greatness-edp-090",
+    "brandId": "initio",
+    "name": "Oud for Greatness",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2018,
+    "perfumer": "",
+    "country": "France",
+    "image": "main.png",
+    "gallery": [],
+    "description": {
+      "pl": "Potężny zapach oud z szafranem, gałką muszkatołową i paczulą — intensywny, magnetyczny i bezkompromisowo odważny.",
+      "uk": "Потужний аромат уду з шафраном, мускатним горіхом і пачулі — інтенсивний, магнетичний і безкомпромісно сміливий."
+    },
+    "shortDescription": {
+      "pl": "Oud, szafran i paczula — wielkość w flakonie.",
+      "uk": "Уд, шафран і пачулі — велич у флаконі."
+    },
+    "story": {
+      "pl": "Oud for Greatness wyraża ideę osobistej mocy poprzez gęstą, korzenną kompozycję oud o wyjątkowej trwałości.",
+      "uk": "Oud for Greatness виражає ідею особистої сили через щільну пряну композицію уду з винятковою стійкістю."
+    },
+    "facts": [
+      {
+        "pl": "Część kolekcji The Absolutes domu Initio.",
+        "uk": "Частина колекції The Absolutes дому Initio."
+      },
+      {
+        "pl": "Znany z wyjątkowej projekcji i trwałości.",
+        "uk": "Відомий винятковою проєкцією та стійкістю."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "woody"],
+      "accords": ["oud", "warm-spicy", "woody", "amber", "animalic"],
+      "notes": {
+        "top": ["saffron", "nutmeg"],
+        "heart": ["oud", "lavender"],
+        "base": ["patchouli", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["special", "evening", "date", "party"]
+    },
+    "performance": {
+      "longevity": 5,
+      "sillage": 5
+    },
+    "sizes": [
+      {
+        "ml": 90,
+        "price": 349,
+        "stock": true
+      }
+    ],
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": ["tom-ford-oud-wood-edp-050", "mfk-baccarat-rouge-540-edp-070"],
+    "tags": ["oud", "powerful", "saffron", "intense"]
+  },
+  {
+    "id": "mfk-baccarat-rouge-540-edp-070",
+    "brandId": "mfk",
+    "name": "Baccarat Rouge 540 Extrait de Parfum",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2017,
+    "perfumer": "Francis Kurkdjian",
+    "country": "France",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Ikoniczny amberowo-drzewny zapach z szafranem i jaśminem — promienny, krystaliczny i natychmiast rozpoznawalny.",
+      "uk": "Культовий амброво-деревний аромат із шафраном і жасмином — променистий, кристалічний і миттєво впізнаваний."
+    },
+    "shortDescription": {
+      "pl": "Intensywny, świetlisty i magnetyczny zapach, w którym pikantny szafran spotyka się z gorzkim migdałem, jaśminem i ciepłą ambrą.",
+      "uk": "Насичений, сяйливий і магнетичний аромат, у якому пряний шафран зустрічається з гірким мигдалем, жасмином та теплою амбровою базою."
+    },
+    "story": {
+      "pl": "<strong>Baccarat Rouge 540 Extrait</strong> to zapach kontrastów, w którym powietrze, ogień i minerały spotykają się w jednej kompozycji. Otwiera się wyrazistym połączeniem gorzkiego migdału i szafranu — ciepłym, korzennym, lekko suchym i niemal metalicznym.\n\nZ czasem zapach nabiera objętości. W sercu pojawia się <strong>jaśmin egipski</strong>, który wnosi do kompozycji światło, kwiatową głębię i wyjątkową zmysłowość. Towarzyszy mu cedr wirginijski, tworząc suchą, drzewną strukturę i równoważąc kompozycję.\n\nW bazie zapach zyskuje charakterystyczną mineralną głębię. <strong>Akord ambrowy</strong>, nuty drzewne i piżmo tworzą ciepłe, nasycone brzmienie, a Ambroxan i Cashmeran dodają mu współczesnej przejrzystości, miękkości i objętości.\n\nExtrait pachnie gęściej i głębiej niż Eau de Parfum, a jednocześnie zachowuje niezwykłą lekkość w powietrzu. Jest jednocześnie ciepły i chłodny, transparentny i intensywny, miękki i bardzo wyrazisty.\n\nWyjątkowość <strong>Baccarat Rouge 540 Extrait</strong> polega na tym, że nie rozwija się wokół jednej oczywistej nuty. Migdał i szafran tworzą charakterystyczne otwarcie, jaśmin wnosi światło, drewno nadaje strukturę, a ambrowo-piżmowa baza pozostawia rozpoznawalny, niemal nieważki ślad.\n\nTo zapach dla tych, którzy szukają nie tylko pięknego aromatu, lecz także wyrazistego perfumeryjnego charakteru — kompozycji, która z czasem staje się częścią wizerunku osoby, która ją nosi.\n\n<strong>Baccarat Rouge 540 Extrait pozostawia po sobie coś więcej niż zapach. Tworzy wokół człowieka własną aurę.</strong>",
+      "uk": "<strong>Baccarat Rouge 540 Extrait</strong> — це аромат контрастів, у якому повітря, вогонь і мінерали зустрічаються в одній композиції. Його звучання починається з виразного поєднання гіркого мигдалю та шафрану — теплого, пряного, трохи сухого й майже металевого.\n\nПоступово аромат стає більш об'ємним. У серці з'являється <strong>єгипетський жасмин</strong>, який додає композиції світла, квіткової глибини та особливої чуттєвості. Поруч із ним звучить вирджинський кедр, створюючи сухий деревний каркас і не дозволяючи композиції стати надто солодкою.\n\nУ базі аромат набуває своєї характерної мінеральної глибини. <strong>Амбровий акорд</strong>, деревні ноти та мускус створюють тепле й насичене звучання, а Ambroxan і Cashmeran додають йому сучасної прозорості, м'якості та об'єму.\n\nExtrait звучить щільніше й глибше, ніж Eau de Parfum, але при цьому зберігає ту саму дивовижну легкість у повітрі. Він одночасно теплий і прохолодний, прозорий і насичений, м'який і дуже виразний.\n\nОсобливість <strong>Baccarat Rouge 540 Extrait</strong> саме в тому, що він не розкривається однією очевидною нотою. Мигдаль і шафран створюють характерний початок, жасмин додає світла, дерево — структури, а амброво-мускусна база залишає за собою впізнаваний, майже невагомий слід.\n\nЦе аромат для тих, хто шукає не просто приємний запах, а впізнаваний парфумерний почерк — композицію, яка поступово стає частиною образу людини, що її носить.\n\n<strong>Baccarat Rouge 540 Extrait залишає після себе не просто аромат. Він створює навколо людини власну ауру.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🔴 <strong>NAZWA ZWIĄZANA Z KRYSZTAŁEM</strong>\n\nNazwa Baccarat Rouge 540 nawiązuje do słynnego czerwonego kryształu Baccarat. Liczba 540 odnosi się do temperatury 540°C związanej z procesem powstawania charakterystycznego czerwonego odcienia kryształu.",
+        "uk": "🔴 <strong>НАЗВА, ПОВ'ЯЗАНА З КРИШТАЛЕМ</strong>\n\nНазва Baccarat Rouge 540 пов'язана з легендарним червоним кришталем Baccarat. Число 540 відсилає до температури 540°C, за якої під час виробництва кришталю формується характерний насичений червоний відтінок."
+      },
+      {
+        "pl": "💎 <strong>PERFUMERYJNA INTERPRETACJA KRYSZTAŁU</strong>\n\nBaccarat Rouge 540 powstał jako efekt twórczej współpracy Baccarat i perfumiarza Francisa Kurkdjiana. Ideą było przeniesienie skojarzeń związanych ze słynnym czerwonym kryształem do świata zapachów.",
+        "uk": "💎 <strong>ПАРФУМЕРНЕ ВТІЛЕННЯ КРИШТАЛЮ</strong>\n\nBaccarat Rouge 540 народився в результаті творчої співпраці між Baccarat та парфумером Francis Kurkdjian. Ідея полягала в тому, щоб передати у світі ароматів відчуття, пов'язані з легендарним червоним кришталем."
+      },
+      {
+        "pl": "🔥 <strong>TRZY AURY</strong>\n\nKoncepcja Baccarat Rouge 540 opiera się na trzech obrazach — powietrzu, ogniu i minerale. To właśnie gra pomiędzy lekkością, ciepłem i mineralnością stała się jednym z kluczowych elementów charakteru zapachu.",
+        "uk": "🔥 <strong>ТРИ АУРИ</strong>\n\nКонцепція Baccarat Rouge 540 побудована навколо трьох образів — повітря, вогню та мінералу. Саме ця гра між легкістю, теплом і мінеральністю стала одним із ключових елементів характеру аромату."
+      },
+      {
+        "pl": "✨ <strong>EXTRAIT POJAWIŁ SIĘ PÓŹNIEJ</strong>\n\nBaccarat Rouge 540 Eau de Parfum został wprowadzony w 2015 roku, natomiast Baccarat Rouge 540 Extrait de Parfum pojawił się w 2017 roku jako bardziej intensywna i głębsza interpretacja oryginalnej kompozycji.",
+        "uk": "✨ <strong>EXTRAIT З'ЯВИВСЯ ПІЗНІШЕ</strong>\n\nBaccarat Rouge 540 Eau de Parfum був представлений у 2015 році, а Baccarat Rouge 540 Extrait de Parfum з'явився у 2017 році як більш насичена та глибока інтерпретація оригінальної композиції."
+      },
+      {
+        "pl": "👃 <strong>TWÓRCA KOMPOZYCJI</strong>\n\nBaccarat Rouge 540 oraz Baccarat Rouge 540 Extrait de Parfum stworzył francuski perfumiarz Francis Kurkdjian. Jego zamysłem nie było dosłowne odtworzenie zapachu kryształu, lecz stworzenie abstrakcyjnej olfaktorycznej interpretacji jego koloru, blasku i materialności.",
+        "uk": "👃 <strong>АВТОР КОМПОЗИЦІЇ</strong>\n\nBaccarat Rouge 540 та Baccarat Rouge 540 Extrait de Parfum створив французький парфумер Francis Kurkdjian. Його задум полягав не в буквальному відтворенні запаху кришталю, а у створенні абстрактної ольфакторної інтерпретації його кольору, сяйва та матеріальності."
+      },
+      {
+        "pl": "🔴 <strong>DLACZEGO EXTRAIT MA CZERWONY FLAKON</strong>\n\nCzerwony flakon Extrait kontynuuje wizualną historię Baccarat Rouge 540 i nawiązuje do słynnego czerwonego kryształu Baccarat. Złote detale wzmacniają skojarzenie z luksusem i estetyką biżuterii.",
+        "uk": "🔴 <strong>ЧОМУ EXTRAIT МАЄ ЧЕРВОНИЙ ФЛАКОН</strong>\n\nЧервоний флакон Extrait продовжує візуальну історію Baccarat Rouge 540 і відсилає до знаменитого червоного кришталю Baccarat. Золоті деталі підсилюють асоціацію з розкішшю та ювелірною естетикою."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "woody"],
+      "accords": ["amber", "woody", "saffron", "sweet", "musky", "jasmine"],
+      "notes": {
+        "top": ["bitter-almond", "saffron"],
+        "heart": ["egyptian-jasmine", "virginia-cedar"],
+        "base": ["amber", "woody-notes", "musk", "ambroxan", "cashmeran"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["special", "date", "evening", "party"]
+    },
+    "performance": {
+      "longevity": 5,
+      "sillage": 5
+    },
+    "sizes": [
+      {
+        "ml": 5,
+        "price": 240,
+        "stock": false
+      },
+      {
+        "ml": 70,
+        "price": 399,
+        "stock": false
+      },
+      {
+        "ml": 200,
+        "price": 2900,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 15
+    },
+    "featured": true,
+    "new": false,
+    "bestseller": true,
+    "similar": ["tom-ford-oud-wood-edp-050", "ysl-black-opium-edp-090"],
+    "tags": ["iconic", "amber", "saffron", "unisex"]
+  },
+  {
+    "id": "byredo-blanche-edp-100",
+    "brandId": "byredo",
+    "name": "Blanche",
+    "collection": "niche",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2009,
+    "perfumer": "",
+    "country": "Sweden",
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "description": {
+      "pl": "Byredo Blanche Eau de Parfum — czysty, elegancki i minimalistyczny zapach z aldehydami, różą, piwonią i piżmem. Oryginalny produkt w AromaShop.",
+      "uk": "Byredo Blanche Eau de Parfum — чистий, елегантний і мінімалістичний аромат з альдегідами, трояндою, півонією та мускусом. Оригінальний продукт в AromaShop."
+    },
+    "shortDescription": {
+  "pl": "Świeżo wyprana biała koszula, delikatne kwiaty, miękka skóra i czyste piżmo. Blanche to czystość, która staje się zmysłowa, gdy ktoś podejdzie naprawdę blisko.",
+  "uk": "Свіжа біла сорочка, ніжні квіти, м’яка шкіра та чистий мускус. Blanche — це чистота, яка стає чуттєвою, коли хтось підходить зовсім близько."
+},
+"story": {
+  "pl": "<strong>Blanche pachnie jak moment, kiedy ktoś właśnie wyszedł spod prysznica i założył świeżą białą koszulę.</strong>\n\nPierwsze wrażenie jest niemal krystalicznie czyste. Delikatne aldehydy nadają kompozycji świeżość świeżo upranej tkaniny, a róża i różowy pieprz dodają jej subtelnego, kobiecego charakteru.\n\n<strong>Ale Blanche nie pozostaje tylko zapachem czystości.</strong>\n\nPiwonia i fiołek sprawiają, że kompozycja staje się miękka i lekko pudrowa. Z czasem coraz mocniej pojawia się białe piżmo — ciepłe, kremowe i niezwykle bliskie skórze. W bazie sandałowiec dodaje delikatnego, spokojnego ciepła.\n\nTo zapach, który nie udaje luksusu. On pachnie czymś znacznie bardziej osobistym — świeżą pościelą, czystą skórą, włosami jeszcze lekko wilgotnymi po kąpieli i ubraniem, które dopiero co wyjęto z szafy.\n\nI właśnie dlatego Blanche potrafi być tak zmysłowy. Nie przez ciężką wanilię ani prowokacyjne nuty. Jego siła tkwi w bliskości. W tym, że pachnie niemal jak naturalna czystość skóry — tylko piękniej.\n\nTo kobiecość bez makijażu i bez wysiłku. Biała koszula, bose stopy, miękkie światło poranka. Ale wieczorem Blanche potrafi zmienić charakter — na ciepłej skórze staje się bardziej kremowy, intymny i kuszący.\n\nIdealny dla kobiety, która nie potrzebuje mocnego zapachu, żeby zostać zapamiętaną. Dla kogoś, kto chce pachnieć świeżo, elegancko i niezwykle blisko.\n\n<strong>Blanche — czystość, która ma temperaturę skóry. Delikatna na pierwszy rzut oka, uzależniająca, kiedy podejdziesz bliżej.</strong>",
+  "uk": "<strong>Blanche пахне як момент, коли хтось щойно вийшов із душу й одягнув свіжу білу сорочку.</strong>\n\nПерше враження майже кришталево чисте. Делікатні альдегіди створюють відчуття свіжовипраної тканини, а троянда та рожевий перець додають композиції тонкого, жіночного характеру.\n\n<strong>Але Blanche не залишається просто ароматом чистоти.</strong>\n\nПівонія та фіалка роблять композицію м’якою і трохи пудровою. З часом дедалі виразніше з’являється білий мускус — теплий, кремовий і надзвичайно близький до шкіри. У базі сандал додає делікатного, спокійного тепла.\n\nЦе аромат, який не намагається демонструвати розкіш. Він пахне чимось набагато особистішим — свіжою постіллю, чистою шкірою, волоссям, яке ще трохи вологе після душу, і одягом, який щойно дістали з шафи.\n\nІ саме тому Blanche може бути таким чуттєвим. Не завдяки важкій ванілі чи провокативним нотам. Його сила — у близькості. У тому, що він пахне майже як природна чистота шкіри — тільки красивіше.\n\nЦе жіночність без макіяжу й без зайвих зусиль. Біла сорочка, босі ноги, м’яке ранкове світло. Але ввечері Blanche може змінитися — на теплій шкірі він стає більш кремовим, інтимним і спокусливим.\n\nІдеальний для жінки, якій не потрібен гучний аромат, щоб її запам’ятали. Для тієї, хто хоче пахнути свіжо, елегантно й надзвичайно близько.\n\n<strong>Blanche — чистота, яка має температуру шкіри. Ніжна на перший погляд, але така, від якої складно відірватися, коли підійдеш ближче.</strong>"
+},
+"facts": [
+  {
+    "pl": "🤍 <strong>2009 — narodziny Blanche.</strong> Blanche została wprowadzona w 2009 roku jako jeden z charakterystycznych zapachów Byredo.",
+    "uk": "🤍 <strong>2009 — народження Blanche.</strong> Blanche був представлений у 2009 році як один із характерних ароматів Byredo."
+  },
+  {
+    "pl": "👤 <strong>Osobista inspiracja.</strong> Założyciel Byredo, Ben Gorham, stworzył Blanche jako zapach oparty na jego wyobrażeniu o zapachu kobiety, którą kochał. To dlatego kompozycja miała być przede wszystkim obrazem czystości, niewinności i bliskości.",
+    "uk": "👤 <strong>Особисте натхнення.</strong> Засновник Byredo Бен Горем створив Blanche як аромат, заснований на його уявленні про запах жінки, яку він кохав. Саме тому композиція мала передавати насамперед чистоту, невинність і близькість."
+  },
+  {
+    "pl": "🌹 <strong>Kwiatowa miękkość.</strong> W kompozycji spotykają się róża i różowy pieprz, następnie piwonia i fiołek, a bazę tworzą piżmo i sandałowiec. Dzięki temu Blanche przechodzi od świeżości do miękkiego, kremowego wykończenia.",
+    "uk": "🌹 <strong>Квіткова м’якість.</strong> У композиції зустрічаються троянда та рожевий перець, потім півонія та фіалка, а базу формують мускус і сандал. Завдяки цьому Blanche переходить від свіжості до м’якого кремового завершення."
+  },
+  {
+    "pl": "🫧 <strong>Czystość zamiast klasycznej słodyczy.</strong> Blanche nie opiera swojego charakteru na ciężkich słodkich nutach. Jego rozpoznawalność budują przede wszystkim aldehydowa świeżość, kwiaty, piżmo i delikatne drewno.",
+    "uk": "🫧 <strong>Чистота замість класичної солодкості.</strong> Blanche не будує свого характеру на важких солодких нотах. Його впізнаваність створюють насамперед альдегідна свіжість, квіти, мускус і делікатне дерево."
+  },
+  {
+    "pl": "🧺 <strong>Inspiracja świeżym praniem.</strong> Byredo opisuje Blanche jako zapach inspirowany ideą „czystego prania”, ale jego kompozycja została zbudowana tak, aby świeżość stopniowo przechodziła w bardziej miękki i cielesny charakter.",
+    "uk": "🧺 <strong>Натхнення свіжою білизною.</strong> Byredo описує Blanche як аромат, натхненний ідеєю «чистої білизни», але композиція побудована так, щоб свіжість поступово переходила у більш м’який і тілесний характер."
+  },
+  {
+    "pl": "🤍 <strong>Minimalistyczna estetyka Byredo.</strong> Blanche doskonale wpisuje się w charakterystyczny styl marki — prosty flakon i oszczędna forma mają pozostawić główną rolę samemu zapachowi.",
+    "uk": "🤍 <strong>Мінімалістична естетика Byredo.</strong> Blanche чудово відповідає характерному стилю бренду — простий флакон і стримана форма залишають головну роль самому аромату."
+  },
+  {
+    "pl": "🛍️ <strong>Oryginalny produkt.</strong> Blanche dostępny w AromaShop jest oryginalnym produktem marki Byredo.",
+    "uk": "🛍️ <strong>Оригінальний продукт.</strong> Blanche в AromaShop — оригінальний продукт бренду Byredo."
+  }
+],
+    "fragrance": {
+      "families": ["floral", "fresh", "woody"],
+      "accords": [
+        "musky",
+        "floral",
+        "ozonic",
+        "powdery",
+        "woody",
+        "white-floral"
+      ],
+      "notes": {
+        "top": ["aldehydes", "pink-pepper", "rose"],
+        "heart": ["peony", "violet", "neroli"],
+        "base": ["musk", "sandalwood", "blonde-woods"]
+      }
+    },
+    "character": {
+      "sweetness": 1,
+      "freshness": 5,
+      "warmth": 1,
+      "intensity": 3
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "casual", "office", "date", "special"]
+    },
+    "performance": {
+      "longevity": 3,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 800,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 1100,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 12
+    },
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": [
+      "maison-margiela-replica-lazy-sunday-morning-edt-100",
+      "clean-warm-cotton-edp-060"
+    ],
+    "tags": [
+      "clean",
+      "fresh",
+      "musk",
+      "white",
+      "linen",
+      "minimal",
+      "elegant",
+      "skin scent"
+    ],
+    "moods": ["clean", "musk", "modern-feminine", "fresh"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 13.5
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mfk-grand-soir-edp-070",
+    "brandId": "mfk",
+    "name": "Grand Soir",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2016,
+    "perfumer": "Francis Kurkdjian",
+    "country": "France",
+    "moods": ["amber", "warm-vanilla", "evening", "luxury"],
+    "description": {
+      "pl": "Maison Francis Kurkdjian Grand Soir Eau de Parfum — głęboka, bursztynowa kompozycja z ambrą, wanilią i benzoiną. Oryginalny produkt w AromaShop.",
+      "uk": "Maison Francis Kurkdjian Grand Soir Eau de Parfum — глибока бурштинова композиція з амброю, ваніллю та бензоїном. Оригінальний продукт в AromaShop."
+    },
+    "shortDescription": {
+    "pl": "Ciepłe światło wieczoru, szlachetna ambra i wanilia otulona miękkim drewnem. Grand Soir to zmysłowy, elegancki zapach, który pachnie jak wielki wieczór, na który czekało się od dawna.",
+    "uk": "Тепле вечірнє світло, благородна амбра та ваніль, огорнута м’яким деревом. Grand Soir — чуттєвий, елегантний аромат, який пахне як великий вечір, на який чекали давно."
+  },
+
+  "story": {
+    "pl": "<strong>Grand Soir — zapach chwili, kiedy dzień powoli gaśnie, a miasto zaczyna lśnić.</strong>\n\nWyobraź sobie wieczór tuż przed zapaleniem świateł. Niebo ma kolor miodu i bursztynu, powietrze jest jeszcze ciepłe, a Ty zakładasz coś, w czym czujesz się wyjątkowo. Właśnie w takim momencie zaczyna się Grand Soir.\n\nPierwsze zetknięcie ze skórą przynosi głębię labdanum, aromatyczny lawandin i subtelnie korzenny akcent liścia cynamonowca. Nie jest to jednak chłodna, sucha kompozycja. Po chwili pojawia się jej prawdziwe serce — <strong>gęsta, ciepła i niezwykle zmysłowa ambra</strong> spleciona z wanilią i balsamicznym benzoesem.\n\nGrand Soir ma w sobie coś niemal hipnotycznego. Jest słodki, ale nie cukierkowy. Ciepły, ale nie ciężki. Elegancki, lecz pozbawiony dystansu. Na skórze rozwija się jak miękkie światło — coraz głębsze, coraz bardziej otulające.\n\nTo zapach, który świetnie pasuje do wieczornej elegancji, ale jego największa siła pojawia się wtedy, gdy jest już bardzo blisko skóry. Ciepła ambra, wanilia i balsamiczne nuty tworzą aurę, która przyciąga bez potrzeby podnoszenia głosu.\n\n<strong>Grand Soir nie próbuje zrobić wrażenia. On sprawia, że trudno przestać o nim myśleć.</strong>\n\nJest jak późny wieczór w Paryżu: złote światła, ciemne drewno, ciepło skóry i atmosfera, w której wszystko staje się odrobinę bardziej intensywne. Zapach dla tych chwil, kiedy zwyczajny wieczór przestaje być zwyczajny.",
+    
+    "uk": "<strong>Grand Soir — аромат тієї миті, коли день повільно згасає, а місто починає сяяти.</strong>\n\nУявіть вечір перед тим, як запалюються міські вогні. Небо набуває медово-бурштинового відтінку, повітря ще зберігає тепло, а ви вдягаєте щось особливе — те, у чому почуваєтеся неймовірно. Саме в таку мить починається Grand Soir.\n\nПерша зустріч зі шкірою відкриває глибину лабдануму, ароматичного лавандину та тонкий пряний відтінок листя коричного дерева. Але це зовсім не холодна й суха композиція. Через мить проявляється її справжнє серце — <strong>густа, тепла й надзвичайно чуттєва амбра</strong>, переплетена з ваніллю та бальзамічним бензоїном.\n\nGrand Soir має майже гіпнотичну силу. Він солодкий, але не цукерковий. Теплий, але не важкий. Елегантний, але без холодної дистанції. На шкірі він розгортається, мов м’яке світло — стає дедалі глибшим, теплішим і більш огортаючим.\n\nЦе аромат, який чудово пасує до вечірньої елегантності, але його справжня магія проявляється тоді, коли він залишається зовсім близько до шкіри. Тепла амбра, ваніль і бальзамічні ноти створюють ауру, яка притягує без жодної потреби підвищувати голос.\n\n<strong>Grand Soir не намагається справити враження. Він просто змушує про себе думати.</strong>\n\nВін як пізній вечір у Парижі: золоті вогні, темне дерево, тепло шкіри та атмосфера, у якій усе стає трохи більш насиченим. Аромат для тих моментів, коли звичайний вечір раптом перестає бути звичайним."
+  },
+
+  "facts": [
+    {
+      "pl": "✨ <strong>2016 — narodziny Grand Soir.</strong> Grand Soir został wprowadzony na rynek w 2016 roku jako kompozycja Maison Francis Kurkdjian o charakterze ambrowo-drzewnym.",
+      "uk": "✨ <strong>2016 — народження Grand Soir.</strong> Grand Soir вийшов у 2016 році як амброво-деревний аромат Maison Francis Kurkdjian."
+    },
+    {
+      "pl": "👃 <strong>Za kompozycją stoi Francis Kurkdjian.</strong> Twórcą Grand Soir jest Francis Kurkdjian — jeden z najbardziej rozpoznawalnych współczesnych perfumiarzy i założyciel własnego domu perfumeryjnego.",
+      "uk": "👃 <strong>Автор композиції — Франсіс Куркджян.</strong> Grand Soir створив Франсіс Куркджян — один із найвідоміших сучасних парфумерів і засновник власного парфумерного дому."
+    },
+    {
+      "pl": "🌅 <strong>Inspiracją jest moment przed zapaleniem świateł miasta.</strong> Maison Francis Kurkdjian opisuje Grand Soir poprzez obraz wieczornego nieba przechodzącego od miodowych tonów do głębokiego bursztynu, tuż przed rozświetleniem miasta.",
+      "uk": "🌅 <strong>Натхненням стала мить перед запаленням міських вогнів.</strong> Maison Francis Kurkdjian описує Grand Soir через образ вечірнього неба, яке переходить від медових відтінків до глибокого бурштину саме перед тим, як місто починає сяяти."
+    },
+    {
+      "pl": "🧡 <strong>Serce kompozycji tworzy akord ambrowo-waniliowy.</strong> Oficjalna kompozycja łączy ciepłą ambrę i wanilię z balsamicznymi niuansami benzoesu, tworząc charakterystyczną, miękką głębię zapachu.",
+      "uk": "🧡 <strong>Серце композиції — амброво-ванільний акорд.</strong> В офіційній композиції тепла амбра та ваніль поєднуються з бальзамічними нюансами бензоїну, створюючи характерну м’яку глибину аромату."
+    },
+    {
+      "pl": "🌿 <strong>Labdanum nadaje Grand Soir głębi.</strong> Cistus labdanum to żywiczny składnik o ciepłych, balsamicznych i lekko zwierzęcych niuansach. W Grand Soir stanowi jeden z kluczowych elementów budujących ambrowy charakter kompozycji.",
+      "uk": "🌿 <strong>Лабданум надає Grand Soir глибини.</strong> Лабданум — смолистий компонент із теплими, бальзамічними та злегка тваринними нюансами. У Grand Soir він є одним із ключових елементів, що формують амбровий характер композиції."
+    },
+    {
+      "pl": "🌶️ <strong>Ciekawy detal: liść cynamonowca.</strong> W Grand Soir wykorzystano olejek z liści Cinnamomum zeylanicum, który różni się od klasycznej esencji cynamonowej. Ma bardziej złożony, drzewno-korzenny charakter z delikatnym akcentem goździkowym.",
+      "uk": "🌶️ <strong>Цікавий нюанс: листя коричного дерева.</strong> У Grand Soir використано олію з листя Cinnamomum zeylanicum, яка відрізняється від класичної есенції кориці. Вона має складніший деревно-пряний характер із легким відтінком гвоздики."
+    },
+    {
+      "pl": "🕯️ <strong>Grand Soir należy do zapachów, które budują atmosferę.</strong> Oficjalnie jest klasyfikowany jako kompozycja ambrowa i drzewna, a jego konstrukcja została oparta na kontrastach: aromatycznej świeżości, żywicznych nutach oraz ciepłej waniliowo-ambrowej bazie.",
+      "uk": "🕯️ <strong>Grand Soir належить до ароматів, які створюють атмосферу.</strong> Офіційно він класифікується як амброво-деревна композиція, побудована на контрастах: ароматичній свіжості, смолистих нотах і теплій ванільно-амбровій базі."
+    },
+    {
+      "pl": "🛍️ <strong>Oryginalny produkt.</strong> Maison Francis Kurkdjian Grand Soir dostępny w AromaShop jest oryginalnym produktem marki Maison Francis Kurkdjian.",
+      "uk": "🛍️ <strong>Оригінальний продукт.</strong> Maison Francis Kurkdjian Grand Soir в AromaShop — оригінальний продукт бренду Maison Francis Kurkdjian."
+    }
+  ],
+    "fragrance": {
+      "families": ["oriental", "woody"],
+      "accords": [
+        "amber",
+        "vanilla",
+        "balsamic",
+        "warm-spicy",
+        "sweet",
+        "woody"
+      ],
+      "notes": {
+        "top": ["amber", "benzoin"],
+        "heart": ["vanilla", "tonka-bean"],
+        "base": ["labdanum", "amber", "vanilla"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["evening", "date", "special"]
+    },
+    "performance": {
+      "longevity": 5,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 35,
+        "price": 950,
+        "stock": true
+      },
+      {
+        "ml": 70,
+        "price": 1070,
+        "stock": true
+      },
+      {
+        "ml": 200,
+        "price": 2300,
+        "stock": true
+      }
+    ],
+    
+    "similar": [
+      "tom-ford-tobacco-vanille-edp-100",
+      "mfk-baccarat-rouge-540-edp-070"
+    ],
+    "tags": ["amber", "vanilla", "evening", "luxury", "warm"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 14.3651
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "diptyque-fleur-de-peau-edp-075",
+    "brandId": "diptyque",
+    "name": "Fleur de Peau",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2018,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["musk", "skin", "floral", "clean"],
+    "description": {
+      "pl": "Diptyque Fleur de Peau Eau de Parfum — piżmowo-irysowy zapach o skórnym charakterze. Oryginał w AromaShop.",
+      "uk": "Diptyque Fleur de Peau Eau de Parfum — мускусно-ірисовий аромат зі шкірним характером. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Kwiat skóry: irys, piżmo i miękka zmysłowość.",
+      "uk": "Квітка шкіри: ірис, мускус і м’яка чуттєвість."
+    },
+    "story": {
+      "pl": "Fleur de Peau otwiera się od <strong>irysa i piżma</strong> — pudrowo, skórnie i nowocześnie, bez ciężkiej orientalności.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Diptyque.\n\n<strong>Jedna z najbardziej „skórnych” kompozycji Diptyque.</strong>",
+      "uk": "Fleur de Peau починається з <strong>ірису та мускусу</strong> — пудрово, шкірно й сучасно, без важкої орієнтальності.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Diptyque.\n\n<strong>Одна з найбільш «шкірних» композицій Diptyque.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🤍 <strong>Fleur de Peau.</strong> Piżmowo-irysowa kompozycja o intymnym charakterze.",
+        "uk": "🤍 <strong>Fleur de Peau.</strong> Мускусно-ірисова композиція з інтимним характером."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Fleur de Peau w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Fleur de Peau в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "woody"],
+      "accords": ["musky", "powdery", "floral", "woody"],
+      "notes": {
+        "top": ["pink-pepper"],
+        "heart": ["iris", "rose"],
+        "base": ["white-musk", "ambrette", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 2,
+      "warmth": 3,
+      "intensity": 3
+    },
+    "wearing": {
+      "seasons": ["spring", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "office", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 687,
+        "stock": true
+      },
+      {
+        "ml": 75,
+        "price": 1148,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "byredo-blanche-edp-100",
+      "maison-margiela-replica-lazy-sunday-morning-edt-100",
+      "glossier-you-edp-050",
+      "diptyque-philosykos-edt-100"
+    ],
+    "tags": ["musk", "iris", "skin", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 8.4887
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "parfums-de-marly-layton-edp-125",
+    "brandId": "parfums-de-marly",
+    "name": "Layton",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2016,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["woody", "spicy", "sweet", "warm-vanilla"],
+    "description": {
+      "pl": "Parfums de Marly Layton — jabłkowo-korzenny niszowy zapach z wanilią i drzewami. Oryginał w AromaShop.",
+      "uk": "Parfums de Marly Layton — яблучно-пряний нішевий аромат із ваніллю та деревами. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Soczyste jabłko, przyprawy i luksusowa słodycz PdM.",
+      "uk": "Соковите яблуко, спеції та люксова солодкість PdM."
+    },
+    "story": {
+      "pl": "Layton otwiera się od <strong>jabłka i bergamotki</strong>, a następnie rozkwita geranium, lawendą i wanilią w bogatej drzewnej bazie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Parfums de Marly.\n\n<strong>Jeden z najbardziej rozpoznawalnych współczesnych PdM.</strong>",
+      "uk": "Layton починається з <strong>яблука та бергамоту</strong>, а далі розквітає геранню, лавандою й ваніллю в багатій деревній базі.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Parfums de Marly.\n\n<strong>Один із найбільш упізнаваних сучасних PdM.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🐎 <strong>Layton.</strong> Filowy niszowy bestseller Parfums de Marly.",
+        "uk": "🐎 <strong>Layton.</strong> Ключовий нішевий бестселер Parfums de Marly."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Layton w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Layton в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "woody", "aromatic"],
+      "accords": ["vanilla", "woody", "warm-spicy", "aromatic", "sweet"],
+      "notes": {
+        "top": ["apple", "bergamot", "lavender"],
+        "heart": ["geranium", "violet", "jasmine"],
+        "base": ["vanilla", "cardamom", "sandalwood", "pepper", "guaiac-wood"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 75,
+        "price": 1113,
+        "stock": true
+      },
+      {
+        "ml": 125,
+        "price": 1015,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "creed-aventus-edp-100",
+      "mfk-baccarat-rouge-540-edp-070",
+      "parfums-de-marly-delina-edp-075"
+    ],
+    "tags": ["pdm", "woody", "sweet", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 14.50
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "parfums-de-marly-delina-exclusif-edp-075",
+    "brandId": "parfums-de-marly",
+    "name": "Delina Exclusif",
+    "collection": "niche",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2018,
+    "perfumer": "Quentin Bisch",
+    "country": "France",
+    "moods": ["floral", "sweet", "modern-feminine"],
+    "description": {
+      "pl": "Parfums de Marly Delina — różano-owocowy niszowy zapach z maliną, piwonią i wanilią. Oryginał w AromaShop.",
+      "uk": "Parfums de Marly Delina — трояндово-фруктовий нішевий аромат із малиною, півонією та ваніллю. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+    "pl": "Mroczna róża o zmierzchu, soczyste liczi i gruszka otulone wanilią, piżmem i delikatnym kadzidłem. Delina Exclusif to zmysłowa, elegancka i hipnotyzująca wersja kobiecości.",
+    "uk": "Темна троянда у сутінках, соковиті лічі та груша, огорнуті ваніллю, мускусом і тонким ладом. Delina Exclusif — чуттєва, елегантна й гіпнотична версія жіночності."
+  },
+  "story": {
+    "pl": "<strong>Delina Exclusif — róża po zmroku. Bardziej tajemnicza, bardziej zmysłowa i zdecydowanie trudniejsza do zapomnienia.</strong>\n\nWyobraź sobie ogród Château de Marly tuż po zachodzie słońca. Powietrze staje się chłodniejsze, światło mięknie, a róże zaczynają pachnieć głębiej i bardziej intensywnie. Właśnie taki obraz stoi za Delina Exclusif — różą, która nie potrzebuje światła dnia, żeby przyciągać uwagę.\n\nPierwsze sekundy są soczyste i kuszące. <strong>Liczi i gruszka</strong> nadają otwarciu aksamitną owocową słodycz, a bergamotka wnosi odrobinę świeżości. To nie jest jednak niewinna, lekka owocowa kompozycja. Od początku czuć, że za tą słodyczą kryje się coś znacznie bardziej zmysłowego.\n\nW centrum pojawia się <strong>róża damasceńska</strong> — bogata, miękka i głęboka. Nie przypomina świeżo zerwanej róży z ogrodu. Jest bardziej aksamitna, niemal kremowa, a kadzidło dodaje jej tajemniczego, lekko orientalnego charakteru.\n\nPotem zapach zaczyna otulać skórę. <strong>Wanilia, piżmo, fasola tonka i miękkie nuty bazowe</strong> tworzą ciepły, zmysłowy ślad. Delina Exclusif staje się wtedy bardziej miękka, głęboka i niezwykle kobieca.\n\nTo właśnie tutaj tkwi jej charakter. Nie jest słodka tylko po to, żeby być słodka. Nie jest różana tylko po to, żeby być romantyczna. Łączy soczyste owoce, szlachetną różę i ciepłą waniliową bazę w sposób, który tworzy aurę luksusu i pewności siebie.\n\n<strong>Delina Exclusif pachnie jak kobieta, która pojawia się wieczorem i nie musi niczego udowadniać.</strong> Jej obecność zostaje w pamięci — w spojrzeniu, w powietrzu, na skórze.\n\nTo zapach na wieczór, wyjątkową okazję, kolację przy świecach albo moment, kiedy po prostu chcesz poczuć się bardziej zmysłowo. Jest elegancki, ale nie chłodny. Kobiecy, ale nie banalny. Słodki, ale z głębią.\n\n<strong>Delina Exclusif — róża po zmroku, zamknięta w aksamitnej chmurze wanilii, piżma i tajemnicy.</strong>",
+    "uk": "<strong>Delina Exclusif — троянда після заходу сонця. Більш загадкова, більш чуттєва й така, яку значно важче забути.</strong>\n\nУявіть сад Château de Marly одразу після заходу сонця. Повітря стає прохолоднішим, світло м’якшає, а троянди починають пахнути глибше й насиченіше. Саме такий образ стоїть за Delina Exclusif — трояндою, якій не потрібне денне світло, щоб привертати увагу.\n\nПерші секунди — соковиті й спокусливі. <strong>Лічі та груша</strong> створюють оксамитову фруктову солодкість, а бергамот додає трохи свіжості. Але це зовсім не невинна легка фруктова композиція. Від самого початку відчувається, що за цією солодкістю приховане щось значно більш чуттєве.\n\nУ серці з’являється <strong>дамаська троянда</strong> — багата, м’яка та глибока. Вона не нагадує щойно зрізану садову троянду. Її звучання більш оксамитове, майже кремове, а ладан додає загадкового, трохи східного характеру.\n\nПоступово аромат починає огортати шкіру. <strong>Ваніль, мускус, боби тонка та м’які базові ноти</strong> створюють теплий, чуттєвий шлейф. Саме тоді Delina Exclusif стає ще м’якшою, глибшою та надзвичайно жіночною.\n\nУ цьому і полягає її характер. Вона не солодка лише заради солодкості. Не трояндова лише заради романтики. Вона поєднує соковиті фрукти, шляхетну троянду та теплу ванільну базу, створюючи ауру розкоші й упевненості.\n\n<strong>Delina Exclusif пахне як жінка, яка з’являється ввечері й не повинна нічого доводити.</strong> Її присутність залишається в пам’яті — у погляді, у повітрі, на шкірі.\n\nЦе аромат для вечора, особливої нагоди, вечері при свічках або просто моменту, коли хочеться відчути себе більш чуттєвою. Він елегантний, але не холодний. Жіночний, але не банальний. Солодкий, але з глибиною.\n\n<strong>Delina Exclusif — троянда після заходу сонця, огорнута оксамитовою хмарою ванілі, мускусу та таємниці.</strong>"
+  },
+  "facts": [
+    {
+      "pl": "✨ <strong>2018 — premiera Delina Exclusif.</strong> Zapach został stworzony jako bardziej intensywna, wieczorowa interpretacja świata Deliny.",
+      "uk": "✨ <strong>2018 — прем’єра Delina Exclusif.</strong> Аромат створений як більш насичена, вечірня інтерпретація світу Delina."
+    },
+    {
+      "pl": "👃 <strong>Perfumiarz: Quentin Bisch.</strong> To właśnie on stworzył kompozycję Delina Exclusif.",
+      "uk": "👃 <strong>Парфумер: Quentin Bisch.</strong> Саме він створив композицію Delina Exclusif."
+    },
+    {
+      "pl": "🌹 <strong>Róża o zmierzchu.</strong> Julien Sprecher, założyciel i dyrektor kreatywny Parfums de Marly, opisał swoją wizję Delina Exclusif jako głęboką różę damasceńską rozkwitającą o zmierzchu w ogrodach Château de Marly.",
+      "uk": "🌹 <strong>Троянда у сутінках.</strong> Julien Sprecher, засновник і креативний директор Parfums de Marly, описав своє бачення Delina Exclusif як глибоку дамаську троянду, що розквітає у сутінках садах Château de Marly."
+    },
+    {
+      "pl": "🍐 <strong>Owocowe otwarcie.</strong> Oficjalna piramida zapachu obejmuje bergamotkę, gruszkę i liczi w nucie głowy.",
+      "uk": "🍐 <strong>Фруктовий початок.</strong> В офіційній піраміді аромату у верхніх нотах зазначені бергамот, груша та лічі."
+    },
+    {
+      "pl": "🌹 <strong>Serce z różą damasceńską.</strong> Charakterystyczną część kompozycji tworzą róża damasceńska i kadzidło.",
+      "uk": "🌹 <strong>Серце з дамаською трояндою.</strong> Характерну частину композиції створюють дамаська троянда та ладан."
+    },
+    {
+      "pl": "🍦 <strong>Ciepła baza.</strong> Wanilia, piżmo, mech i fasola tonka nadają zapachowi miękkość, głębię i otulające wykończenie.",
+      "uk": "🍦 <strong>Тепла база.</strong> Ваніль, мускус, мох і боби тонка надають аромату м’якості, глибини та огортаючого звучання."
+    },
+    {
+      "pl": "🏰 <strong>Świat Château de Marly.</strong> Kolekcja Delina czerpie inspirację z kobiet dworu Ludwika XV — ich elegancji, wpływu, wyrafinowania i swobodnego ducha.",
+      "uk": "🏰 <strong>Світ Château de Marly.</strong> Колекція Delina натхненна жінками двору Людовика XV — їхньою елегантністю, впливом, витонченістю та вільним духом."
+    },
+    {
+      "pl": "🛍️ <strong>Oryginalny produkt.</strong> Delina Exclusif w AromaShop to oryginalny produkt marki Parfums de Marly.",
+      "uk": "🛍️ <strong>Оригінальний продукт.</strong> Delina Exclusif в AromaShop — оригінальний продукт бренду Parfums de Marly."
+    }
+  ],
+    "fragrance": {
+      "families": ["floral", "fruity"],
+      "accords": ["rose", "fruity", "floral", "sweet", "musky"],
+      "notes": {
+        "top": ["lychee", "pear", "bergamot", "pink-pepper", "grapefruit"],
+        "heart": ["rose", "oud", "nutmeg"],
+        "base": ["vanilla", "amber", "musk", "woody-notes", "vetiver", "evernyl"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 3,
+      "warmth": 3,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "special", "evening"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 5,
+        "price": 85,
+        "stock": true
+      },
+      {
+        "ml": 30,
+        "price": 650,
+        "stock": true
+      },
+      {
+        "ml": 75,
+        "price": 980,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "chanel-chance-eau-tendre-edt-100",
+      "ysl-libre-edp-090"
+    ],
+    "tags": ["rose", "fruity", "women", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 8.612
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "xerjoff-naxos-edp-100",
+    "brandId": "xerjoff",
+    "name": "Naxos",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2015,
+    "perfumer": "",
+    "country": "Italy",
+    "moods": ["warm-vanilla", "tobacco", "sweet", "spicy", "luxury"],
+    "description": {
+      "pl": "Xerjoff Naxos — miodowo-tytoniowy niszowy zapach z lawendą i wanilią. Oryginał w AromaShop.",
+      "uk": "Xerjoff Naxos — медово-тютюновий нішевий аромат із лавандою та ваніллю. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Sycylijski luksus: miód, tytoń, lawenda i ciepła wanilia.",
+      "uk": "Сицилійська розкіш: мед, тютюн, лаванда й тепла ваніль."
+    },
+    "story": {
+      "pl": "Naxos otwiera się od <strong>cytrusów i lawendy</strong>, a następnie przechodzi w miód, tytoń i wanilię — bogato, dojrzale i bardzo charakterystycznie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Xerjoff.\n\n<strong>Jeden z najbardziej lubianych współczesnych Xerjoffów.</strong>",
+      "uk": "Naxos починається з <strong>цитрусів і лаванди</strong>, а далі — мед, тютюн і ваніль — богато, зріло й дуже характерно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Xerjoff.\n\n<strong>Один із найбільш улюблених сучасних Xerjoff.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍯 <strong>Naxos.</strong> Kompozycja z linii 1861 Xerjoff.",
+        "uk": "🍯 <strong>Naxos.</strong> Композиція з лінії 1861 Xerjoff."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Naxos w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Naxos в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "aromatic", "gourmand"],
+      "accords": ["vanilla", "tobacco", "sweet", "aromatic", "warm-spicy"],
+      "notes": {
+        "top": ["bergamot", "lemon", "lavender"],
+        "heart": ["honey", "cinnamon", "cashmeran"],
+        "base": ["tobacco", "vanilla", "tonka-bean", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 100,
+        "price": 824,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-tobacco-vanille-edp-100",
+      "mfk-grand-soir-edp-070",
+      "kilian-angels-share-edp-050"
+    ],
+    "tags": ["honey", "tobacco", "vanilla", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 8.6557
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "bdk-gris-charnel-edp-100",
+    "brandId": "bdk",
+    "name": "Gris Charnel",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2019,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["woody", "spicy", "luxury", "evening"],
+    "description": {
+      "pl": "BDK Gris Charnel — figowo-drzewny paryski zapach z kardamonem i sandałowcem. Oryginał w AromaShop.",
+      "uk": "BDK Gris Charnel — інжирно-деревний паризький аромат із кардамоном і сандалом. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Figa, kardamon i kremowy sandałowiec — zmysłowy paryski klimat.",
+      "uk": "Інжир, кардамон і кремовий сандал — чуттєвий паризький клімат."
+    },
+    "story": {
+      "pl": "Gris Charnel otwiera się od <strong>kardamonu i figi</strong>, a baza opiera się na sandałowcu, tonce i irisie — kremowo i nowocześnie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi BDK.\n\n<strong>Współczesny paryski woody-spicy.</strong>",
+      "uk": "Gris Charnel починається з <strong>кардамону та інжиру</strong>, а база тримається на сандалі, тонці й ірисі — кремово й сучасно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру BDK.\n\n<strong>Сучасний паризький woody-spicy.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🩶 <strong>Gris Charnel.</strong> Jedna z najbardziej rozpoznawalnych kompozycji BDK.",
+        "uk": "🩶 <strong>Gris Charnel.</strong> Одна з найбільш упізнаваних композицій BDK."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Gris Charnel w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Gris Charnel в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "spicy", "oriental"],
+      "accords": ["woody", "warm-spicy", "powdery", "fruity"],
+      "notes": {
+        "top": ["cardamom", "fig", "black-tea"],
+        "heart": ["iris", "vetiver"],
+        "base": ["sandalwood", "tonka-bean", "vanilla"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "office", "evening"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 100,
+        "price": 828,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "le-labo-santal-33-edp-100",
+      "diptyque-philosykos-edt-100",
+      "marc-antoine-barrois-ganymede-edp-100"
+    ],
+    "tags": ["fig", "sandalwood", "paris", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 17
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "kilian-angels-share-edp-050",
+    "brandId": "kilian",
+    "name": "Angels' Share",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2020,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["gourmand", "warm-vanilla", "spicy", "evening", "luxury"],
+    "description": {
+      "pl": "Kilian Angels' Share — koniakowo-pralinowy niszowy zapach z cynamonem i wanilią. Oryginał w AromaShop.",
+      "uk": "Kilian Angels' Share — коньячно-праліновий нішевий аромат із корицею та ваніллю. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Konjak, cynamon, dębowe beczki, pralina i wanilia. Angels' Share to uzależniająca mieszanka ciepła, luksusu i zmysłowej słodyczy.",
+      "uk": "Коньяк, кориця, дубові бочки, праліне та ваніль. Angels' Share — це спокуслива суміш тепла, розкоші та чуттєвої солодкості."
+    },
+    "story": {
+      "pl": "<strong>Angels' Share — zapach, który pachnie jak noc, której nie chcesz kończyć.</strong>\n\nPierwszy kontakt jest niemal hipnotyczny — ciepły, głęboki aromat koniaku otwiera drzwi do świata dębowych beczek, przypraw i słodkiego luksusu. Nie jest to jednak zapach samego alkoholu. To wspomnienie chwili, kiedy kieliszek pozostaje na stole, światła przygasają, a noc dopiero zaczyna nabierać tempa.\n\n<strong>Potem pojawia się cynamon.</strong>\n\nRozgrzewa kompozycję i nadaje jej charakteru, podczas gdy dębowe akordy wprowadzają szlachetną, lekko wytrawną głębię. Po chwili wszystko mięknie — pojawia się pralina, wanilia i sandałowiec, tworząc aksamitną, kremową słodycz, której naprawdę trudno się oprzeć.\n\nAngels' Share jest gourmandem, ale nie takim, który pachnie jak deser. To słodycz dla dorosłych. Ciepła, ciemna i odrobinę niegrzeczna. Jak deser jedzony późno w nocy po kilku łykach dobrego koniaku.\n\nNa skórze rozwija się powoli i zostawia za sobą niezwykle kuszący ślad. Blisko skóry jest miękki i otulający, z każdym ruchem przypomina jednak o swojej obecności. To jeden z tych zapachów, przy których ktoś może podejść bliżej tylko po to, żeby zapytać: <strong>„Czym tak pięknie pachniesz?”</strong>\n\nIdealny na chłodne wieczory, elegancką kolację, randkę przy przygaszonym świetle albo noc, która zdecydowanie nie powinna kończyć się zbyt wcześnie. Uniseks, ale zdecydowanie nie nijaki — na każdej osobie może odkryć inną stronę swojego charakteru.\n\n<strong>Angels' Share — kropla koniaku, odrobina zakazanego luksusu i ciepło skóry. Zapach, któremu bardzo łatwo ulec.</strong>",
+      "uk": "<strong>Angels' Share — аромат, який пахне як ніч, яку зовсім не хочеться закінчувати.</strong>\n\nПерше враження майже гіпнотичне — теплий, глибокий аромат коньяку відкриває двері у світ дубових бочок, спецій і солодкої розкоші. Але це не запах самого алкоголю. Це спогад про момент, коли келих залишається на столі, світло стає приглушеним, а ніч лише починає набирати обертів.\n\n<strong>А потім з’являється кориця.</strong>\n\nВона зігріває композицію й надає їй характеру, а дубові акорди додають благородної, трохи сухої глибини. Через мить усе стає м’якшим — з’являються праліне, ваніль і сандал, створюючи оксамитову, кремову солодкість, перед якою справді важко встояти.\n\nAngels' Share — гурманський аромат, але не такий, що пахне просто десертом. Це солодкість для дорослих. Тепла, темна й трохи зухвала. Наче десерт пізно вночі після кількох ковтків хорошого коньяку.\n\nНа шкірі він розкривається поступово й залишає неймовірно спокусливий шлейф. Близько до шкіри він м’який та огортаючий, але з кожним рухом нагадує про свою присутність. Це один із тих ароматів, через які хтось може підійти ближче лише для того, щоб запитати: <strong>«Чим ти так неймовірно пахнеш?»</strong>\n\nІдеальний для прохолодних вечорів, елегантної вечері, побачення при приглушеному світлі або ночі, яку зовсім не хочеться закінчувати надто рано. Унісекс, але точно не безликий — на кожній людині він може відкрити іншу грань свого характеру.\n\n<strong>Angels' Share — крапля коньяку, трохи забороненої розкоші й тепло шкіри. Аромат, якому дуже легко піддатися.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🥃 <strong>2020 — narodziny Angels' Share.</strong> Zapach został wprowadzony w 2020 roku jako część kolekcji The Liquors marki KILIAN Paris.",
+        "uk": "🥃 <strong>2020 — народження Angels' Share.</strong> Аромат вийшов у 2020 році як частина колекції The Liquors бренду KILIAN Paris."
+      },
+      {
+        "pl": "👃 <strong>Twórca kompozycji.</strong> Angels' Share stworzył francuski perfumiarz Benoist Lapouza. Była to jego pierwsza współpraca z KILIAN Paris.",
+        "uk": "👃 <strong>Автор композиції.</strong> Angels' Share створив французький парфумер Бенуа Лапуза. Це була його перша співпраця з KILIAN Paris."
+      },
+      {
+        "pl": "🥃 <strong>Skąd wzięła się nazwa?</strong> „Angels' Share”, czyli „la part des anges”, to określenie używane w świecie koniaku na część alkoholu, która naturalnie odparowuje z beczek podczas wieloletniego dojrzewania. KILIAN Hennessy uczynił z tego zjawiska centralną inspirację dla zapachu.",
+        "uk": "🥃 <strong>Звідки взялася назва?</strong> «Angels' Share», або «la part des anges» — так у світі коньяку називають частину алкоголю, яка природно випаровується з бочок під час багаторічної витримки. Кіліан Геннессі зробив це явище центральним натхненням для аромату."
+      },
+      {
+        "pl": "🏛️ <strong>Osobista historia Kiliana Hennessy'ego.</strong> Twórca marki dorastał w otoczeniu wielowiekowych piwnic koniakowych swojej rodziny. Zapach drewna, alkoholu i beczek stał się częścią jego pamięci i później zainspirował powstanie Angels' Share.",
+        "uk": "🏛️ <strong>Особиста історія Кіліана Геннессі.</strong> Засновник бренду виріс в оточенні багатовікових коньячних погребів своєї родини. Запах дерева, алкоголю та бочок став частиною його пам’яті й згодом надихнув на створення Angels' Share."
+      },
+      {
+        "pl": "🌰 <strong>Gourmand z charakterem.</strong> Kompozycja otwiera się koniakiem, a następnie łączy dębowe akordy i cynamon z tonką. W bazie pojawiają się sandałowiec, pralina i wanilia, tworząc charakterystyczne ciepłe i słodkie wykończenie.",
+        "uk": "🌰 <strong>Гурманський аромат із характером.</strong> Композиція відкривається коньяком, а потім поєднує дубові акорди та корицю з тонкою. У базі з’являються сандал, праліне й ваніль, створюючи характерне тепле та солодке завершення."
+      },
+      {
+        "pl": "🍸 <strong>Zapach inspirowany nie tylko perfumami.</strong> KILIAN Paris stworzył również koktajl inspirowany Angels' Share — z koniakiem Hennessy, wanilią, cynamonem i nutami orzechowymi.",
+        "uk": "🍸 <strong>Аромат, натхненний не лише парфумерією.</strong> KILIAN Paris створив також коктейль, натхненний Angels' Share — з коньяком Hennessy, ваніллю, корицею та горіховими відтінками."
+      },
+      {
+        "pl": "✨ <strong>Flakon jak karafka.</strong> Charakterystyczny flakon Angels' Share nawiązuje kształtem do klasycznej karafki koniakowej, a jego detale zostały zaprojektowane tak, by podkreślać związek zapachu ze światem luksusowych alkoholi.",
+        "uk": "✨ <strong>Флакон як карафа.</strong> Характерний флакон Angels' Share за формою нагадує класичну коньячну карафу, а його деталі підкреслюють зв’язок аромату зі світом розкішних алкогольних напоїв."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Angels' Share dostępny w AromaShop jest oryginalnym produktem marki KILIAN Paris.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Angels' Share в AromaShop — оригінальний продукт бренду KILIAN Paris."
+      }
+    ],
+    "fragrance": {
+      "families": ["gourmand", "oriental", "spicy"],
+      "accords": ["boozy", "vanilla", "sweet", "warm-spicy", "woody"],
+      "notes": {
+        "top": ["cognac", "cinnamon"],
+        "heart": ["tonka-bean", "oak"],
+        "base": ["praline", "vanilla", "sandalwood"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 1200,
+        "stock": false
+      },
+      {
+        "ml": 100,
+        "price": 1700,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-tobacco-vanille-edp-100",
+      "mfk-grand-soir-edp-070",
+      "xerjoff-naxos-edp-100"
+    ],
+    "tags": ["boozy", "gourmand", "winter", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 5
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "juliette-has-a-gun-not-a-perfume-edp-100",
+    "brandId": "juliette-has-a-gun",
+    "name": "Not A Perfume",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2010,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["skin", "clean", "musk", "fresh"],
+    "description": {
+      "pl": "Juliette Has A Gun Not A Perfume — minimalistyczna kompozycja oparta na Cetalox. Oryginał w AromaShop.",
+      "uk": "Juliette Has A Gun Not A Perfume — мінімалістична композиція на основі Cetalox. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+    "pl": "Czysta skóra, miękkie drewno i subtelna zmysłowość. Not a Perfume to minimalistyczna kompozycja zbudowana wokół jednej molekuły — Cetaloxu. Pachnie jak Ty, tylko trochę bardziej intrygująco.",
+    "uk": "Чиста шкіра, м’яке дерево та тонка чуттєвість. Not a Perfume — мінімалістична композиція, побудована навколо однієї молекули — Cetalox. Пахне як ти, тільки трохи більш загадково."
+  },
+
+  "story": {
+    "pl": "<strong>Not a Perfume — zapach, który nie chce pachnieć jak perfumy.</strong>\n\nNie znajdziesz tutaj klasycznego początku, serca i ciężkiej bazy. Nie ma bukietu kwiatów ani słodkiej wanilii. Jest jedna molekuła i cała przestrzeń, którą może stworzyć na Twojej skórze.\n\n<strong>Cetalox.</strong> Zwykle wykorzystywany jako składnik bazy, tutaj wychodzi na pierwszy plan. Na skórze jest miękki, czysty, lekko drzewny, piżmowy i ambrowy. Nie narzuca się — raczej wtapia się w naturalny zapach ciała.\n\nI właśnie dlatego Not a Perfume potrafi być tak osobisty. Na jednej osobie będzie przypominał świeżą, czystą skórę. Na innej pojawi się bardziej drzewnie, ciepło i kremowo. Po pewnym czasie możesz przestać go zauważać… aż nagle wróci przy ruchu ręki albo gdy ktoś podejdzie bliżej.\n\n<strong>To zapach, który nie mówi „pachnę perfumami”. Mówi „tak pachnie moja skóra”.</strong>\n\nJest świeży, elegancki i niezwykle łatwy do noszenia. Pasuje do białej koszuli, jeansów, jedwabnej sukienki, nagiej skóry i zwykłego dnia, który nagle może stać się trochę bardziej wyjątkowy.\n\nAle Not a Perfume ma jeszcze jedną niezwykłą cechę — może być samodzielnym zapachem albo niewidzialną warstwą pod innymi perfumami. Cetalox potrafi nadać kompozycjom więcej miękkości, głębi i charakterystycznego, czystego śladu.\n\nNie jest krzykliwy. Nie próbuje zdobyć całego pomieszczenia. <strong>Jego siła zaczyna się wtedy, kiedy ktoś znajduje się wystarczająco blisko, żeby go naprawdę poczuć.</strong>\n\nNot a Perfume to zapach dla tych, którzy chcą pachnieć pięknie, ale nieoczywiście. Dla niej. Dla niego. Dla każdego, kto zamiast gotowej historii chce stworzyć własną.\n\n<strong>Not a Perfume — jedna molekuła, Twoja skóra i cała reszta zależy już od Ciebie.</strong>",
+
+    "uk": "<strong>Not a Perfume — аромат, який не хоче пахнути як парфуми.</strong>\n\nТут немає класичного початку, серця й важкої бази. Немає квіткового букета чи солодкої ванілі. Є одна молекула і весь простір, який вона може створити на твоїй шкірі.\n\n<strong>Cetalox.</strong> Зазвичай його використовують як компонент бази, але тут він виходить на перший план. На шкірі він м’який, чистий, трохи деревний, мускусний та амбровий. Не нав’язується — радше зливається з природним запахом тіла.\n\nСаме тому Not a Perfume може бути таким особистим. На одній людині він нагадує свіжу, чисту шкіру. На іншій звучить більш деревно, тепло й кремово. Через деякий час ти можеш перестати його помічати… а потім раптом знову відчути під час руху руки або коли хтось підійде ближче.\n\n<strong>Це аромат, який не говорить «я пахну парфумами». Він говорить «так пахне моя шкіра».</strong>\n\nВін свіжий, елегантний і надзвичайно легкий у носінні. Пасує до білої сорочки, джинсів, шовкової сукні, оголеної шкіри та звичайного дня, який раптом може стати трохи особливішим.\n\nАле Not a Perfume має ще одну цікаву особливість — він може бути самостійним ароматом або невидимим шаром під іншими парфумами. Cetalox здатний додати композиціям більше м’якості, глибини та характерного чистого шлейфу.\n\nВін не гучний. Не намагається заволодіти всім простором. <strong>Його сила починається саме тоді, коли хтось опиняється достатньо близько, щоб по-справжньому його відчути.</strong>\n\nNot a Perfume — аромат для тих, хто хоче пахнути красиво, але неочевидно. Для неї. Для нього. Для кожного, хто замість готової історії хоче створити власну.\n\n<strong>Not a Perfume — одна молекула, твоя шкіра, а все інше залежить уже від тебе.</strong>"
+  },
+
+  "facts": [
+    {
+      "pl": "✨ <strong>2010 — narodziny Not a Perfume.</strong> Zapach został wprowadzony w 2010 roku i stał się jednym z najbardziej rozpoznawalnych zapachów marki Juliette has a Gun.",
+      "uk": "✨ <strong>2010 — народження Not a Perfume.</strong> Аромат вийшов у 2010 році й став одним із найвідоміших ароматів бренду Juliette has a Gun."
+    },
+    {
+      "pl": "👃 <strong>Stworzył go Romano Ricci.</strong> Założyciel Juliette has a Gun i prawnuk słynnej projektantki Niny Ricci stworzył markę jako nowoczesne, niezależne spojrzenie na perfumiarstwo.",
+      "uk": "👃 <strong>Його створив Романо Річчі.</strong> Засновник Juliette has a Gun і правнук знаменитої дизайнерки Ніни Річчі створив бренд як сучасний, незалежний погляд на парфумерію."
+    },
+    {
+      "pl": "🧪 <strong>Jeden składnik w centrum uwagi.</strong> Not a Perfume opiera się na jednej głównej nucie — Cetaloxie. Marka celowo wykorzystała materiał zwykle kojarzony z bazą perfum jako główny bohater całej kompozycji.",
+      "uk": "🧪 <strong>Один компонент у центрі уваги.</strong> Not a Perfume побудований навколо однієї головної ноти — Cetalox. Бренд навмисно використав матеріал, який зазвичай асоціюється з базою парфумів, як головного героя всієї композиції."
+    },
+    {
+      "pl": "🪵 <strong>Cetalox — miękkie drewno, piżmo i ambra.</strong> Według marki jego obecność daje efekt czystej, miękkiej skóry z subtelnym drzewnym i ambrowym charakterem.",
+      "uk": "🪵 <strong>Cetalox — м’яке дерево, мускус і амбра.</strong> За описом бренду, він створює ефект чистої, м’якої шкіри з тонким деревним та амбровим характером."
+    },
+    {
+      "pl": "🧴 <strong>„My skin but better”.</strong> Marka określa Not a Perfume jako prawdziwy skin scent — zapach, który ma łączyć się z naturalnym zapachem skóry i na każdej osobie tworzyć nieco inny efekt.",
+      "uk": "✨ <strong>«Моя шкіра, тільки краща».</strong> Бренд називає Not a Perfume справжнім skin scent — ароматом, який поєднується з природним запахом шкіри та на кожній людині створює трохи інший ефект."
+    },
+    {
+      "pl": "🔄 <strong>Idealny do warstwowania.</strong> Dzięki minimalistycznej konstrukcji Not a Perfume można nosić samodzielnie, ale marka poleca go również jako fragrance booster — warstwę nakładaną pod inne zapachy.",
+      "uk": "🔄 <strong>Ідеальний для нашарування.</strong> Завдяки мінімалістичній конструкції Not a Perfume можна носити самостійно, але бренд також рекомендує його як fragrance booster — шар під іншими ароматами."
+    },
+    {
+      "pl": "🌿 <strong>Minimalizm bez klasycznej piramidy.</strong> Cetalox pojawia się w opisie zarówno jako nuta głowy, serca, jak i bazy. To celowy zabieg pokazujący, że Not a Perfume nie rozwija się według tradycyjnego schematu perfum.",
+      "uk": "🌿 <strong>Мінімалізм без класичної піраміди.</strong> Cetalox вказаний як верхня, середня та базова нота. Це навмисний прийом, який показує, що Not a Perfume не розкривається за традиційною схемою парфумів."
+    },
+    {
+      "pl": "🛍️ <strong>Oryginalny produkt.</strong> Juliette has a Gun Not a Perfume Eau de Parfum dostępny w AromaShop jest oryginalnym produktem marki Juliette has a Gun.",
+      "uk": "🛍️ <strong>Оригінальний продукт.</strong> Juliette has a Gun Not a Perfume Eau de Parfum в AromaShop — оригінальний продукт бренду Juliette has a Gun."
+    }
+  ],
+    "fragrance": {
+      "families": ["woody", "fresh"],
+      "accords": ["molecular", "musky", "woody", "mineral"],
+      "notes": {
+        "top": ["cetalox"],
+        "heart": ["cetalox"],
+        "base": ["cetalox"]
+      }
+    },
+    "character": {
+      "sweetness": 1,
+      "freshness": 3,
+      "warmth": 2,
+      "intensity": 2
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "office", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 285,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 480,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "escentric-molecules-molecule-01-edt-100",
+      "glossier-you-edp-050",
+      "le-labo-another-13-edp-100"
+    ],
+    "tags": ["molecular", "skin", "discovery", "minimal"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 6.5
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "escentric-molecules-molecule-01-edt-100",
+    "brandId": "escentric-molecules",
+    "name": "Molecule 01",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDT",
+    "year": 2006,
+    "perfumer": "",
+    "country": "Germany",
+    "moods": ["skin", "woody", "clean", "fresh"],
+    "description": {
+      "pl": "Escentric Molecules Molecule 01 — Iso E Super w czystej postaci. Oryginał w AromaShop.",
+      "uk": "Escentric Molecules Molecule 01 — Iso E Super у чистому вигляді. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+    "pl": "Jedna molekuła. Czysta skóra. Niezwykła aura. Molecule 01 to minimalistyczny zapach zbudowany wokół Iso E Super — subtelny, zmysłowy i zaskakująco uzależniający.",
+    "uk": "Одна молекула. Чиста шкіра. Неймовірна аура. Molecule 01 — мінімалістичний аромат, побудований навколо Iso E Super: тонкий, чуттєвий і напрочуд притягальний."
+  },
+
+  "story": {
+    "pl": "<strong>Molecule 01 — zapach, którego prawie nie widać. Ale można go poczuć.</strong>\n\nNie zaczyna się jak typowe perfumy. Nie ma wybuchu cytrusów, bukietu kwiatów ani ciężkiej wanilii. Jest ciszej. Jak ciepła skóra, na której ktoś przed chwilą był bardzo blisko.\n\nMolecule 01 składa się przede wszystkim z jednej niezwykłej substancji — <strong>Iso E Super</strong>. To właśnie ona jest bohaterem całej kompozycji. Zamiast przykrywać ją dziesiątkami innych składników, Escentric Molecules pozwala jej mówić własnym głosem.\n\nNa jednej osobie może wydawać się niemal niewyczuwalna. Na innej pojawia się jako miękkie, aksamitne drewno, lekko pieprzne i ciepłe, z charakterystycznym wrażeniem czystej, ogrzanej skóry. I właśnie to jest w niej najbardziej fascynujące.\n\n<strong>Molecule 01 nie pachnie „perfumami”. Pachnie aurą.</strong>\n\nZapach pojawia się, znika i po chwili znów daje o sobie znać. Możesz przestać go zauważać na własnej skórze, a potem nagle poczuć go przy ruchu ręki, na ubraniu albo kiedy ktoś podejdzie bliżej. To sprawia, że Molecule 01 jest bardziej doświadczeniem niż klasyczną kompozycją zapachową.\n\nNie mówi: „spójrz na mnie”. Raczej szepcze: „podejdź trochę bliżej”. I właśnie dlatego ma w sobie coś niezwykle zmysłowego.\n\nJest idealny dla osób, które nie lubią oczywistych perfum i chcą pachnieć inaczej — czysto, nowocześnie, minimalistycznie, ale z charakterem. Można nosić go samodzielnie albo potraktować jak niewidzialną warstwę pod inne perfumy.\n\n<strong>Molecule 01 — jedna molekuła, zero zbędnego hałasu i bardzo dużo ciekawości.</strong>\n\nCzasem najbardziej intrygujący zapach to właśnie ten, którego nie potrafisz od razu nazwać.",
+
+    "uk": "<strong>Molecule 01 — аромат, якого майже не видно. Але його можна відчути.</strong>\n\nВін не починається, як типові парфуми. Немає вибуху цитрусів, квіткового букета чи важкої ванілі. Він тихіший. Наче тепла шкіра, на якій щойно залишився чийсь дуже близький дотик.\n\nMolecule 01 побудований навколо однієї незвичайної речовини — <strong>Iso E Super</strong>. Саме вона є головним героєм композиції. Замість того щоб приховувати її десятками інших інгредієнтів, Escentric Molecules дозволяє їй звучати самостійно.\n\nНа одній людині аромат може здаватися майже невловимим. На іншій він розкривається як м’яке, оксамитове дерево — трохи пряне, тепле, з характерним відчуттям чистої шкіри, зігрітої теплом тіла. І саме це в ньому найбільш захоплює.\n\n<strong>Molecule 01 пахне не стільки «парфумами», скільки аурою.</strong>\n\nАромат з’являється, зникає, а потім раптом знову нагадує про себе. Ви можете перестати відчувати його на власній шкірі, а за мить зловити аромат під час руху руки, на одязі або коли хтось підійде ближче. Саме тому Molecule 01 — це радше досвід, ніж класична парфумерна композиція.\n\nВін не говорить: «подивись на мене». Він ніби тихо шепоче: «підійди трохи ближче». І саме тому в ньому є щось надзвичайно чуттєве.\n\nЦе аромат для тих, хто не любить очевидних парфумів і хоче пахнути інакше — чисто, сучасно, мінімалістично, але з характером. Його можна носити самостійно або використовувати як невидимий шар під іншими парфумами.\n\n<strong>Molecule 01 — одна молекула, жодного зайвого шуму і дуже багато загадки.</strong>\n\nІноді найбільш захопливий аромат — саме той, який неможливо одразу назвати."
+  },
+
+  "facts": [
+    {
+      "pl": "✨ <strong>2006 — początek fenomenu.</strong> Molecule 01 został wprowadzony w 2006 roku jako debiutancki zapach marki Escentric Molecules i szybko stał się jednym z najbardziej charakterystycznych przykładów minimalistycznej perfumerii.",
+      "uk": "✨ <strong>2006 — початок феномену.</strong> Molecule 01 вийшов у 2006 році як дебютний аромат бренду Escentric Molecules і став одним із найвідоміших прикладів мінімалістичної парфумерії."
+    },
+    {
+      "pl": "👃 <strong>Twórcą jest Geza Schoen.</strong> Niemiecki perfumiarz stworzył Molecule 01 jako eksperyment z ideą perfum zbudowanych wokół pojedynczej cząsteczki zapachowej.",
+      "uk": "👃 <strong>Автор — Геза Шон.</strong> Німецький парфумер створив Molecule 01 як експеримент з ідеєю аромату, побудованого навколо однієї ароматичної молекули."
+    },
+    {
+      "pl": "🧪 <strong>Jedna główna molekuła: Iso E Super.</strong> Molecule 01 jest zbudowany wokół Iso E Super — syntetycznej molekuły o miękkim, drzewnym charakterze. Nie jest to naturalny ekstrakt z konkretnego drzewa, lecz nowoczesny materiał perfumeryjny.",
+      "uk": "🧪 <strong>Одна головна молекула: Iso E Super.</strong> Molecule 01 побудований навколо Iso E Super — синтетичної молекули з м’яким деревним характером. Це не натуральний екстракт конкретного дерева, а сучасний парфумерний матеріал."
+    },
+    {
+      "pl": "🌳 <strong>Iso E Super działa jak „aura” wokół skóry.</strong> Producent opisuje jego charakter jako aksamitny, drzewny i lekko bursztynowy. Na różnych osobach może pachnieć inaczej, a czasami staje się dla noszącego niemal niewyczuwalny.",
+      "uk": "🌳 <strong>Iso E Super створює навколо шкіри своєрідну «ауру».</strong> Виробник описує його характер як оксамитовий, деревний і злегка амбровий. На різних людях він може звучати по-різному, а для самого власника іноді майже зникати з відчуття."
+    },
+    {
+      "pl": "👻 <strong>Dlaczego czasem „znika”?</strong> Przy dłuższym kontakcie z jednym zapachem nos może częściowo przyzwyczaić się do jego obecności. Dlatego Molecule 01 może wydawać się chwilami niewyczuwalny, po czym ponownie pojawić się przy ruchu lub zmianie otoczenia.",
+      "uk": "👻 <strong>Чому він іноді «зникає»?</strong> При тривалому контакті з одним ароматом нюх може частково звикнути до його присутності. Тому Molecule 01 іноді здається невідчутним, а потім знову проявляється під час руху або зміни оточення."
+    },
+    {
+      "pl": "🧬 <strong>To nie klasyczna piramida zapachowa.</strong> W Molecule 01 nie chodzi o tradycyjne otwieranie się kolejnych nut. Cała idea polega na skupieniu uwagi na jednym materiale i jego zachowaniu na skórze.",
+      "uk": "🧬 <strong>Це не класична піраміда аромату.</strong> У Molecule 01 немає традиційного розгортання послідовних нот. Уся ідея полягає в концентрації уваги на одному компоненті та його поведінці на шкірі."
+    },
+    {
+      "pl": "🔄 <strong>Można nosić go solo lub warstwowo.</strong> Molecule 01 został zaprojektowany tak, aby dobrze funkcjonować samodzielnie, ale Iso E Super może być również używane jako sposób na nadanie innym zapachom bardziej miękkiego, drzewnego charakteru.",
+      "uk": "🔄 <strong>Його можна носити самостійно або нашаровувати.</strong> Molecule 01 створений так, щоб чудово звучати окремо, але Iso E Super також може надавати іншим ароматам м’якшого, деревного характеру."
+    },
+    {
+      "pl": "🛍️ <strong>Oryginalny produkt.</strong> Escentric Molecules Molecule 01 Eau de Toilette dostępny w AromaShop jest oryginalnym produktem marki Escentric Molecules.",
+      "uk": "🛍️ <strong>Оригінальний продукт.</strong> Escentric Molecules Molecule 01 Eau de Toilette в AromaShop — оригінальний продукт бренду Escentric Molecules."
+    }
+  ],
+    "fragrance": {
+      "families": ["woody"],
+      "accords": ["molecular", "woody", "mineral"],
+      "notes": {
+        "top": ["iso-e-super"],
+        "heart": ["iso-e-super"],
+        "base": ["iso-e-super"]
+      }
+    },
+    "character": {
+      "sweetness": 1,
+      "freshness": 3,
+      "warmth": 2,
+      "intensity": 2
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "office", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 330,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 649,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "juliette-has-a-gun-not-a-perfume-edp-100",
+      "le-labo-another-13-edp-100",
+      "glossier-you-edp-050"
+    ],
+    "tags": ["molecular", "iso-e", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 4
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mancera-cedrat-boise-edp-120",
+    "brandId": "mancera",
+    "name": "Cedrat Boise",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2011,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["citrus", "woody", "fresh"],
+    "description": {
+      "pl": "Mancera Cedrat Boise — cytrusowo-drzewny niszowy zapach z czarną porzeczką i skórą. Oryginał w AromaShop.",
+      "uk": "Mancera Cedrat Boise — цитрусово-деревний нішевий аромат із чорною смородиною та шкірою. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Soczyste cytrusy, czarna porzeczka, ciepła skóra i suche drewno. Cedrat Boise to zmysłowa mieszanka świeżości, elegancji i odrobiny niebezpiecznego uroku.",
+      "uk": "Цитрусовий спалах, соковиті чорні ягоди та тепла шкіра, огорнуті сухим деревом і м’якою ваніллю. Cedrat Boise — аромат свободи, впевненості та небезпечної привабливості."
+    },
+    "story": {
+      "pl": "<strong>Cedrat Boise — zapach, który nie prosi o uwagę. On po prostu ją przyciąga.</strong>\n\nNa początku pojawia się wyrazisty błysk sycylijskiego cytronu, bergamotki i czarnej porzeczki. Świeży, soczysty i odrobinę bezczelny. Jak pierwszy łyk lodowatego drinka w upalny dzień albo powiew świeżego powietrza po letnim deszczu.\n\n<strong>Ale Cedrat Boise bardzo szybko pokazuje swoją drugą twarz.</strong>\n\nCytrusowa świeżość ustępuje miejsca owocowym akcentom, paczuli i wodnym nutom jaśminu. Z czasem zapach staje się cieplejszy, głębszy i zdecydowanie bardziej zmysłowy. Na skórze pojawiają się cedr, sandałowiec, skóra, białe piżmo i miękka wanilia. Świeżość powoli przechodzi w suche, gładkie, niemal aksamitne ciepło.\n\nJest w nim ten wyjątkowy kontrast, który sprawia, że chce się powąchać go jeszcze raz: <strong>świeży, ale nie chłodny; drzewny, ale nie ciężki; wyrazisty, a jednocześnie bez ograniczeń.</strong>\n\nCedrat Boise przywodzi na myśl kogoś, kto właśnie wysiadł z luksusowego samochodu. Nie spieszy się. Nie próbuje robić wrażenia — i właśnie dlatego je robi. Na skórze pachnie pewnie, elegancko i odrobinę niebezpiecznie.\n\nTo zapach na momenty, kiedy chcesz być zauważony, ale nie musisz o to prosić. Na randkę, wieczorne wyjście do miasta, podróż, koszulę z lekko rozpiętym kołnierzykiem i tę bliskość, przy której zapach staje się szczególnie kuszący.\n\n<strong>Cedrat Boise — świeże powietrze, ciepła skóra i suche drewno. Zapach, który zaczyna się lekko, a kończy ochotą, żeby podejść bliżej.</strong>",
+      "uk": "<strong>Cedrat Boise — це аромат, який не просить уваги. Він просто її забирає.</strong>\n\nСпочатку — яскравий спалах сицилійського цитрону, бергамоту та чорної смородини. Свіжий, соковитий і трохи зухвалий. Наче перший ковток крижаного напою у спекотний день або свіже повітря після літнього дощу.\n\n<strong>Але Cedrat Boise дуже швидко показує свій інший бік.</strong>\n\nЦитрусова свіжість поступається місцем фруктовим відтінкам, пачулі та водяним нотам жасмину. З часом аромат стає теплішим, глибшим і значно чуттєвішим. На шкірі розкриваються кедр, сандал, шкіра, білий мускус і м’яка ваніль. Свіжість поступово перетворюється на сухе, гладке, майже оксамитове тепло.\n\nУ ньому є той особливий контраст, який змушує вдихнути аромат ще раз: <strong>свіжий, але не холодний; деревний, але не важкий; виразний і водночас без обмежень.</strong>\n\nCedrat Boise нагадує людину, яка щойно вийшла з розкішного автомобіля. Не поспішає. Не намагається справити враження — і саме тому його справляє. На шкірі він звучить впевнено, елегантно й трохи небезпечно.\n\nЦе аромат для моментів, коли хочеться бути помітним, але не потрібно привертати до себе увагу силоміць. Для побачення, вечірнього міста, подорожі, сорочки з трохи розстебнутим коміром і тієї самої близької дистанції, на якій аромат стає особливо спокусливим.\n\n<strong>Cedrat Boise — свіже повітря, тепла шкіра та сухе дерево. Аромат, який починається легко, а закінчується бажанням підійти ближче.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍋 <strong>2011 — premiera Cedrat Boise.</strong> Zapach został wprowadzony na rynek w 2011 roku i stał się jednym z najbardziej rozpoznawalnych zapachów marki Mancera.",
+        "uk": "🍋 <strong>2011 — прем’єра Cedrat Boise.</strong> Аромат вийшов у 2011 році й став одним із найвідоміших ароматів бренду Mancera."
+      },
+      {
+        "pl": "👃 <strong>Twórca kompozycji.</strong> Za stworzenie Cedrat Boise odpowiada francuski perfumiarz Pierre Montale, związany z marką Mancera.",
+        "uk": "👃 <strong>Автор композиції.</strong> Над створенням Cedrat Boise працював французький парфумер П’єр Монталь, пов’язаний із брендом Mancera."
+      },
+      {
+        "pl": "🍋 <strong>Skąd nazwa?</strong> „Cedrat” oznacza cytron — aromatyczny owoc cytrusowy, natomiast „boisé” po francusku oznacza „drzewny”. Nazwa doskonale oddaje charakter kompozycji: cytrusową świeżość połączoną z ciepłym, drzewnym wykończeniem.",
+        "uk": "🍋 <strong>Звідки назва?</strong> «Cedrat» означає цитрон — ароматний цитрусовий фрукт, а «boisé» французькою означає «деревний». Назва чудово передає характер композиції: цитрусову свіжість у поєднанні з теплим деревним звучанням."
+      },
+      {
+        "pl": "🌿 <strong>Kontrast, który buduje charakter.</strong> Kompozycja łączy cytrusy i czarną porzeczkę z jaśminem oraz paczulą, a w bazie pojawiają się nuty drzewne, skóra, białe piżmo i wanilia. To właśnie ten kontrast świeżości i ciepła nadaje Cedrat Boise jego charakterystyczny styl.",
+        "uk": "🌿 <strong>Контраст, який створює характер.</strong> У композиції поєднуються цитруси та чорна смородина з жасмином і пачулі, а в базі звучать деревні ноти, шкіра, білий мускус і ваніль. Саме цей контраст свіжості та тепла формує впізнаваний характер Cedrat Boise."
+      },
+      {
+        "pl": "✨ <strong>Uniseks bez kompromisów.</strong> Cedrat Boise został stworzony jako kompozycja uniseks — jego świeżo-drzewny charakter może świetnie współgrać zarówno z męskim, jak i kobiecym stylem.",
+        "uk": "✨ <strong>Унісекс без компромісів.</strong> Cedrat Boise створений як аромат унісекс — його свіжо-деревний характер чудово може підкреслити як чоловічий, так і жіночий стиль."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Cedrat Boise dostępny w AromaShop jest oryginalnym produktem marki Mancera.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Cedrat Boise в AromaShop — оригінальний продукт бренду Mancera."
+      }
+    ],
+    "fragrance": {
+      "families": ["citrus", "woody", "fruity"],
+      "accords": ["citrus", "woody", "fruity", "leather", "musky"],
+      "notes": {
+        "top": ["citron", "bergamot", "blackcurrant"],
+        "heart": ["woody-notes", "aquatic-notes"],
+        "base": ["cedar", "vetiver", "leather", "vanilla", "white-musk"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 4,
+      "warmth": 2,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "casual", "office"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 60,
+        "price": 270,
+        "stock": true
+      },
+      {
+        "ml": 120,
+        "price": 320,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "creed-aventus-edp-100",
+      "mancera-intense-cedrat-boise-edp-120",
+      "montblanc-explorer-edp-100"
+    ],
+    "tags": ["citrus", "woody", "mancera", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 4.2557
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mancera-instant-crush-edp-120",
+    "brandId": "mancera",
+    "name": "Instant Crush",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2019,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["warm-vanilla", "amber", "sweet", "floral"],
+    "description": {
+      "pl": "Mancera Instant Crush — szafranowo-waniliowy niszowy zapach inspirowany współczesnym luksusem. Oryginał w AromaShop.",
+      "uk": "Mancera Instant Crush — шафраново-ванільний нішевий аромат, натхненний сучасною розкішшю. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Szafran, róże i wanilia — ciepły, „crushowy” profil.",
+      "uk": "Шафран, троянди й ваніль — теплий crush-профіль."
+    },
+    "story": {
+      "pl": "Instant Crush otwiera się od <strong>szafranu i róż</strong>, a baza opiera się na wanilii, ambroksanie i drzewach — słodko i nowocześnie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Mancera.\n\n<strong>Ciepły signature Mancera o szerokim odbiorze.</strong>",
+      "uk": "Instant Crush починається з <strong>шафрану та троянд</strong>, а база тримається на ванілі, амброксані й деревах — солодко й сучасно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Mancera.\n\n<strong>Теплий signature Mancera з широким сприйняттям.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "💛 <strong>Instant Crush.</strong> Popularny warmowy profil w ofercie Mancera.",
+        "uk": "💛 <strong>Instant Crush.</strong> Популярний теплий профіль у лінійці Mancera."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Instant Crush w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Instant Crush в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "floral"],
+      "accords": ["vanilla", "saffron", "rose", "amber", "woody"],
+      "notes": {
+        "top": ["saffron", "bergamot", "pink-pepper"],
+        "heart": ["rose", "hedione", "lavender"],
+        "base": ["vanilla", "ambroxan", "sandalwood", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "evening"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 60,
+        "price": 460,
+        "stock": true
+      },
+      {
+        "ml": 120,
+        "price": 488,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "mfk-baccarat-rouge-540-edp-070",
+      "kayali-vanilla-28-edp-100",
+      "mancera-roses-vanille-edp-120"
+    ],
+    "tags": ["saffron", "vanilla", "mancera"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 5.2877
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mancera-red-tobacco-edp-120",
+    "brandId": "mancera",
+    "name": "Red Tobacco",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2017,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["tobacco", "spicy", "dark", "sweet"],
+    "description": {
+      "pl": "Mancera Red Tobacco — intensywny tytoniowo-korzenny niszowy zapach. Oryginał w AromaShop.",
+      "uk": "Mancera Red Tobacco — інтенсивний тютюново-пряний нішевий аромат. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Głośny tytoń, przyprawy i słodycz — bardzo zdecydowany charakter.",
+      "uk": "Гучний тютюн, спеції й солодкість — дуже впевнений характер."
+    },
+    "story": {
+      "pl": "Red Tobacco otwiera się od korzennego otwarcia i przechodzi w <strong>tytoń, cynamon i słodką bazę</strong> — intensywnie i długotrwale.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Mancera.\n\n<strong>Dla fanów mocnych, ciepłych kompozycji.</strong>",
+      "uk": "Red Tobacco починається з пряного відкриття й переходить у <strong>тютюн, корицю та солодку базу</strong> — інтенсивно й стійко.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Mancera.\n\n<strong>Для шанувальників потужних теплих композицій.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🚬 <strong>Red Tobacco.</strong> Jedna z najmocniejszych pozycji Mancera.",
+        "uk": "🚬 <strong>Red Tobacco.</strong> Одна з найпотужніших позицій Mancera."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Red Tobacco w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Red Tobacco в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "spicy", "woody"],
+      "accords": ["tobacco", "warm-spicy", "sweet", "woody", "smoky"],
+      "notes": {
+        "top": ["cinnamon", "saffron", "incense", "nutmeg"],
+        "heart": ["tobacco", "green-notes", "patchouli"],
+        "base": ["vanilla", "oud", "white-musk", "amber"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["evening", "date", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 60,
+        "price": 489,
+        "stock": true
+      },
+      {
+        "ml": 120,
+        "price": 607,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-tobacco-vanille-edp-100",
+      "initio-oud-for-greatness-edp-090",
+      "montale-arabians-tonka-edp-100"
+    ],
+    "tags": ["tobacco", "intense", "mancera", "winter"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 4.1096
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mancera-roses-vanille-edp-120",
+    "brandId": "mancera",
+    "name": "Roses Vanille",
+    "collection": "niche",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2011,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["floral", "warm-vanilla", "sweet", "gourmand"],
+    "description": {
+      "pl": "Mancera Roses Vanille — różano-waniliowy niszowy zapach o słodkim charakterze. Oryginał w AromaShop.",
+      "uk": "Mancera Roses Vanille — трояндово-ванільний нішевий аромат із солодким характером. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Róża i wanilia w gęstym, otulającym wydaniu.",
+      "uk": "Троянда й ваніль у густому обволікаючому звучанні."
+    },
+    "story": {
+      "pl": "Roses Vanille otwiera się od <strong>róży</strong>, a następnie otula skórę wanilią i słodką bazą — kobieco i bez kompleksów.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Mancera.\n\n<strong>Prosta idea, mocne wykonanie.</strong>",
+      "uk": "Roses Vanille починається з <strong>троянди</strong>, а далі огортає шкіру ваніллю та солодкою базою — жіночно й безкомпромісно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Mancera.\n\n<strong>Проста ідея, потужне виконання.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌹 <strong>Roses Vanille.</strong> Klasyczny sweet-floral Mancera.",
+        "uk": "🌹 <strong>Roses Vanille.</strong> Класичний sweet-floral Mancera."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Roses Vanille w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Roses Vanille в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "oriental", "gourmand"],
+      "accords": ["rose", "vanilla", "sweet", "powdery"],
+      "notes": {
+        "top": ["rose", "lemon"],
+        "heart": ["rose", "geranium"],
+        "base": ["vanilla", "white-musk", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "evening"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 60,
+        "price": 410,
+        "stock": true
+      },
+      {
+        "ml": 120,
+        "price": 472,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "kayali-vanilla-28-edp-100",
+      "burberry-goddess-edp-100",
+      "montale-roses-musk-edp-100"
+    ],
+    "tags": ["rose", "vanilla", "sweet", "mancera"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 4.7874
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mancera-amore-caffe-edp-120",
+    "brandId": "mancera",
+    "name": "Amore Caffè",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2022,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["coffee", "gourmand", "sweet", "warm-vanilla"],
+    "description": {
+      "pl": "Mancera Amore Caffè — kawowo-gourmandowy niszowy zapach z mlekiem i wanilią. Oryginał w AromaShop.",
+      "uk": "Mancera Amore Caffè — кавово-гурманський нішевий аромат із молоком і ваніллю. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Kawa latte w flakonie: kremowo, słodko, uzależniająco.",
+      "uk": "Кава лате у флаконі: кремово, солодко, залежно."
+    },
+    "story": {
+      "pl": "Amore Caffè otwiera się od <strong>kawy i kremowej słodyczy</strong>, z wanilią i gourmandową bazą — deserowo, ale nowocześnie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Mancera.\n\n<strong>Dla miłośników kawowych kompozycji.</strong>",
+      "uk": "Amore Caffè починається з <strong>кави та кремової солодкості</strong> з ваніллю та гурманською базою — десертно, але сучасно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Mancera.\n\n<strong>Для любителів кавових композицій.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "☕ <strong>Amore Caffè.</strong> Kawowy gourmand w stylu Mancera.",
+        "uk": "☕ <strong>Amore Caffè.</strong> Кавовий gourmand у стилі Mancera."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Amore Caffè w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Amore Caffè в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["gourmand", "oriental"],
+      "accords": ["coffee", "vanilla", "sweet", "woody"],
+      "notes": {
+        "top": ["coffee", "bergamot"],
+        "heart": ["milk", "caramel", "hazelnut"],
+        "base": ["vanilla", "white-musk", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["casual", "date", "daily"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 60,
+        "price": 483,
+        "stock": true
+      },
+      {
+        "ml": 120,
+        "price": 550,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "ysl-black-opium-edp-090",
+      "montale-intense-cafe-edp-100",
+      "kayali-vanilla-28-edp-100"
+    ],
+    "tags": ["coffee", "gourmand", "mancera", "trend"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 4.9389
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mancera-intense-cedrat-boise-edp-120",
+    "brandId": "mancera",
+    "name": "Intense Cedrat Boise",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2020,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["citrus", "woody", "fresh"],
+    "description": {
+      "pl": "Mancera Intense Cedrat Boise — głębsza, bardziej drzewna wersja Cedrat Boise. Oryginał w AromaShop.",
+      "uk": "Mancera Intense Cedrat Boise — глибша, більш деревна версія Cedrat Boise. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Cedrat Boise z większą głębią i mocniejszą bazą.",
+      "uk": "Cedrat Boise з більшою глибиною та сильнішою базою."
+    },
+    "story": {
+      "pl": "Intense Cedrat Boise otwiera się od cytrusowo-owocowego charakteru oryginału, ale z wyraźniejszą <strong>drzewną i skórzaną</strong> głębią.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Mancera.\n\n<strong>Dla fanów Cedrat Boise, którzy chcą więcej mocy.</strong>",
+      "uk": "Intense Cedrat Boise починається з цитрусово-фруктового характеру оригіналу, але з виразнішою <strong>деревною та шкіряною</strong> глибиною.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Mancera.\n\n<strong>Для шанувальників Cedrat Boise, які хочуть більше сили.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌲 <strong>Intense.</strong> Wzmocniona interpretacja Cedrat Boise.",
+        "uk": "🌲 <strong>Intense.</strong> Посилена інтерпретація Cedrat Boise."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Intense Cedrat Boise w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Intense Cedrat Boise в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["citrus", "woody"],
+      "accords": ["citrus", "woody", "fruity", "leather"],
+      "notes": {
+        "top": ["citron", "bergamot", "apple"],
+        "heart": ["blackcurrant", "aromatic-notes"],
+        "base": ["cedar", "vetiver", "leather", "amber", "white-musk"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 4,
+      "warmth": 3,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "casual", "date"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 60,
+        "price": 460,
+        "stock": true
+      },
+      {
+        "ml": 120,
+        "price": 567,
+        "stock": true
+      }
+    ],
+    "similar": ["mancera-cedrat-boise-edp-120", "creed-aventus-edp-100"],
+    "tags": ["citrus", "woody", "intense", "mancera"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 4
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-arabians-tonka-edp-100",
+    "brandId": "montale",
+    "name": "Arabians Tonka",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2017,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["warm-vanilla", "oud", "sweet", "spicy", "dark"],
+    "description": {
+      "pl": "Montale Arabians Tonka — oudowo-tonkowy niszowy zapach o bogatym orientalnym charakterze. Oryginał w AromaShop.",
+      "uk": "Montale Arabians Tonka — удо-тонковий нішевий аромат із багатим східним характером. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Soczysta róża, szafran, oud, fasola tonka i słodka wanilia. Arabians Tonka to orientalna zmysłowość w wersji bez kompromisów — intensywna, luksusowa i uzależniająca.",
+      "uk": "Соковита троянда, шафран, уд, боби тонка та солодка ваніль. Arabians Tonka — східна чуттєвість без компромісів: інтенсивна, розкішна та неймовірно спокуслива."
+    },
+    "story": {
+      "pl": "<strong>Arabians Tonka nie wchodzi do pomieszczenia. On je przejmuje.</strong>\n\nNajpierw pojawia się szafran i soczysta róża — intensywne, głębokie i lekko hipnotyzujące. Jest w tym coś królewskiego, ale też odrobinę niebezpiecznego. Jak spojrzenie, od którego trudno odwrócić wzrok.\n\n<strong>A potem zaczyna się prawdziwa uczta.</strong>\n\nCiemny oud spotyka się z fasolą tonka, wanilią i cukrem trzcinowym. Słodycz jest gęsta, kremowa i niemal dekadencka, ale oud oraz drewno nadają jej charakteru i sprawiają, że kompozycja nie staje się banalna.\n\nArabians Tonka jest jak noc na Bliskim Wschodzie — rozgrzane powietrze, ciemne drewno, róże, przyprawy i miękkie światło. Luksus nie pokazany wprost, lecz wyczuwalny w każdym szczególe.\n\nNa skórze jest intensywny, ciepły i niezwykle magnetyczny. Zostawia za sobą słodki, orientalny ślad, który potrafi pojawić się w pomieszczeniu chwilę przed tobą. To zdecydowanie jeden z tych zapachów, które nie pozostają niezauważone.\n\nI właśnie dlatego Arabians Tonka nie jest dla każdego. Nie udaje skromnego. Nie próbuje być „bezpieczny”. To zapach dla osoby, która lubi mocny charakter, luksus i odrobinę teatralności.\n\nIdealny na wieczór, randkę, eleganckie wyjście i chłodniejsze dni. Na skórze potrafi być miękki i uwodzicielski, ale w powietrzu pokazuje swoją prawdziwą siłę.\n\n<strong>Arabians Tonka — róża zanurzona w szafranie, ciemny oud i słodycz, której trudno się oprzeć. Zapach, który nie pyta, czy go zauważysz. Sprawia, że po prostu musisz.</strong>",
+      "uk": "<strong>Arabians Tonka не входить у кімнату. Він її захоплює.</strong>\n\nСпочатку з’являються шафран і соковита троянда — інтенсивні, глибокі й трохи гіпнотичні. У цьому є щось королівське, але водночас трохи небезпечне. Як погляд, від якого важко відвести очі.\n\n<strong>А потім починається справжня насолода.</strong>\n\nТемний уд зустрічається з бобами тонка, ваніллю та тростинним цукром. Солодкість густа, кремова й майже декадентська, але уд і деревні ноти додають їй характеру, не дозволяючи композиції стати банальною.\n\nArabians Tonka — наче ніч на Близькому Сході: розпечене повітря, темне дерево, троянди, спеції та м’яке світло. Розкіш, яку не демонструють прямо, але відчувають у кожній деталі.\n\nНа шкірі він інтенсивний, теплий і надзвичайно магнетичний. Залишає по собі солодкий східний шлейф, який може з’явитися в кімнаті на мить раніше за тебе. Це точно один із тих ароматів, які неможливо не помітити.\n\nІ саме тому Arabians Tonka не для кожного. Він не прикидається скромним. Не намагається бути «безпечним». Це аромат для людини, яка любить сильний характер, розкіш і трохи театральності.\n\nІдеальний для вечора, побачення, елегантного виходу та прохолодних днів. На шкірі він може бути м’яким і спокусливим, але в повітрі показує свою справжню силу.\n\n<strong>Arabians Tonka — троянда, занурена в шафран, темний уд і солодкість, перед якою важко встояти. Аромат, який не питає, чи ти його помітиш. Він просто змушує.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🐎 <strong>2017 — premiera Arabians Tonka.</strong> Zapach został wprowadzony w 2017 roku jako część kolekcji Mancera i nawiązuje do charakterystycznego, orientalnego stylu marki.",
+        "uk": "🐎 <strong>2017 — прем’єра Arabians Tonka.</strong> Аромат вийшов у 2017 році як частина колекції Mancera та продовжує характерний східний стиль бренду."
+      },
+      {
+        "pl": "👃 <strong>Twórca kompozycji.</strong> Arabians Tonka został stworzony przez Pierre'a Montale'a — perfumiarza i założyciela marki Mancera.",
+        "uk": "👃 <strong>Автор композиції.</strong> Arabians Tonka створив П'єр Монталь — парфумер і засновник бренду Mancera."
+      },
+      {
+        "pl": "🌹 <strong>Róża spotyka oud.</strong> Kompozycja łączy różę i szafran z oudem oraz nutami drzewnymi, a fasola tonka, wanilia i cukier trzcinowy nadają jej charakterystyczną, intensywną słodycz.",
+        "uk": "🌹 <strong>Троянда зустрічається з удом.</strong> Композиція поєднує троянду та шафран з удом і деревними нотами, а боби тонка, ваніль і тростинний цукор надають їй характерної насиченої солодкості."
+      },
+      {
+        "pl": "🌙 <strong>Orientalny charakter.</strong> Arabians Tonka należy do najbardziej intensywnych, słodkich i orientalnych kompozycji Mancera. To zapach, który szczególnie mocno rozwija się w chłodniejszym powietrzu.",
+        "uk": "🌙 <strong>Східний характер.</strong> Arabians Tonka належить до найбільш інтенсивних, солодких і східних композицій Mancera. Особливо виразно він розкривається у прохолодному повітрі."
+      },
+      {
+        "pl": "🔥 <strong>Nazwa nie jest przypadkowa.</strong> Arabians Tonka można odczytać jako połączenie orientalnego klimatu Arabians z charakterystyczną słodyczą fasoli tonka, która jest jednym z ważnych elementów kompozycji.",
+        "uk": "🔥 <strong>Назва не випадкова.</strong> Arabians Tonka можна сприймати як поєднання східної атмосфери Arabians із характерною солодкістю бобів тонка, які є однією з важливих складових композиції."
+      },
+      {
+        "pl": "✨ <strong>Uniseks.</strong> Arabians Tonka został stworzony jako zapach uniseks. Na jednej osobie może mocniej pokazać różę i słodycz, na innej — oud, drewno i przyprawy.",
+        "uk": "✨ <strong>Унісекс.</strong> Arabians Tonka створений як аромат унісекс. На одній людині він може сильніше показати троянду та солодкість, а на іншій — уд, дерево та спеції."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Arabians Tonka dostępny w AromaShop jest oryginalnym produktem marki Mancera.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Arabians Tonka в AromaShop — оригінальний продукт бренду Mancera."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "woody", "gourmand"],
+      "accords": ["oud", "vanilla", "sweet", "rose", "warm-spicy"],
+      "notes": {
+        "top": ["saffron", "apple", "bergamot"],
+        "heart": ["rose", "oud", "orange-blossom"],
+        "base": ["tonka-bean", "vanilla", "amber", "white-musk"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["evening", "date", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 220,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 360,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "initio-oud-for-greatness-edp-090",
+      "mancera-red-tobacco-edp-120",
+      "mfk-baccarat-rouge-540-edp-070"
+    ],
+    "tags": ["oud", "tonka", "montale", "winter"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 4.7467
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-intense-cafe-edp-100",
+    "brandId": "montale",
+    "name": "Intense Café",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2013,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["coffee", "floral", "gourmand", "sweet"],
+    "description": {
+      "pl": "Montale Intense Café — kawowo-różany niszowy zapach. Oryginał w AromaShop.",
+      "uk": "Montale Intense Café — кавово-трояндовий нішевий аромат. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Kawa i róża: gorzko-słodki, uzależniający kontrast.",
+      "uk": "Кава й троянда: гірко-солодкий залежний контраст."
+    },
+    "story": {
+      "pl": "Intense Café otwiera się od <strong>kawy i róży</strong>, a baza dodaje wanilię i piżmo — deserowo i kwiatowo jednocześnie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Kultowy kawowy Montale.</strong>",
+      "uk": "Intense Café починається з <strong>кави та троянди</strong>, а база додає ваніль і мускус — десертно й квітково водночас.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Культовий кавовий Montale.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "☕ <strong>Intense Café.</strong> Jeden z najbardziej znanych kawowych zapachów niche.",
+        "uk": "☕ <strong>Intense Café.</strong> Один із найбільш відомих кавових ароматів niche."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Intense Café w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Intense Café в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "gourmand", "oriental"],
+      "accords": ["coffee", "rose", "vanilla", "sweet", "floral"],
+      "notes": {
+        "top": ["coffee", "white-flowers"],
+        "heart": ["rose", "coffee"],
+        "base": ["vanilla", "white-musk", "amber"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 369,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 454,
+        "stock": true
+      }
+    ],
+    "similar": ["ysl-black-opium-edp-090", "mancera-amore-caffe-edp-120"],
+    "tags": ["coffee", "rose", "montale", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 5.4241
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-roses-musk-edp-100",
+    "brandId": "montale",
+    "name": "Roses Musk",
+    "collection": "niche",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2009,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["floral", "musk", "clean", "modern-feminine"],
+    "description": {
+      "pl": "Montale Roses Musk — czysta róża z piżmem w intensywnym wydaniu. Oryginał w AromaShop.",
+      "uk": "Montale Roses Musk — чиста троянда з мускусом в інтенсивному звучанні. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Prosta, czysta róża i miękkie piżmo — głośniej niż wygląda.",
+      "uk": "Проста чиста троянда й м’який мускус — гучніше, ніж здається."
+    },
+    "story": {
+      "pl": "Roses Musk otwiera się od <strong>róży i białego piżma</strong> — czysto, kwiatowo i z charakterystyczną mocą Montale.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Róża bez zbędnych ozdobników.</strong>",
+      "uk": "Roses Musk починається з <strong>троянди та білого мускусу</strong> — чисто, квітково й із характерною силою Montale.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Троянда без зайвих прикрас.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌹 <strong>Roses Musk.</strong> Minimalistyczna róża w stylu Montale.",
+        "uk": "🌹 <strong>Roses Musk.</strong> Мінімалістична троянда в стилі Montale."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Roses Musk w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Roses Musk в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral"],
+      "accords": ["rose", "musky", "floral", "powdery"],
+      "notes": {
+        "top": ["rose"],
+        "heart": ["rose", "white-musk"],
+        "base": ["white-musk", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 3,
+      "warmth": 2,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 404,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 519,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "mancera-roses-vanille-edp-120",
+      "chanel-chance-eau-tendre-edt-100",
+      "byredo-blanche-edp-100"
+    ],
+    "tags": ["rose", "musk", "montale"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 5.8379
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-black-aoud-edp-100",
+    "brandId": "montale",
+    "name": "Black Aoud",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2006,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["oud", "dark", "woody", "leather"],
+    "description": {
+      "pl": "Montale Black Aoud — ciemny oudowo-różany niszowy klasyk. Oryginał w AromaShop.",
+      "uk": "Montale Black Aoud — темний удо-трояндовий нішевий класик. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Czarny oud Montale: intensywny, suchy i nieprzejednany.",
+      "uk": "Чорний уд Montale: інтенсивний, сухий і безкомпромісний."
+    },
+    "story": {
+      "pl": "Black Aoud otwiera się od ciemnego <strong>oudu i róży</strong>, z paczulą i skórzanymi niuansami — głęboko i mocno.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Jeden z fundamentów oudowej linii Montale.</strong>",
+      "uk": "Black Aoud починається з темного <strong>уду й троянди</strong> з пачулі та шкіряними нюансами — глибоко й потужно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Один із фундаментів удової лінії Montale.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🖤 <strong>Black Aoud.</strong> Wczesny i ikoniczny oud Montale.",
+        "uk": "🖤 <strong>Black Aoud.</strong> Ранній іконічний уд Montale."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Black Aoud w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Black Aoud в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "oriental", "leather"],
+      "accords": ["oud", "rose", "woody", "smoky", "leather"],
+      "notes": {
+        "top": ["oud", "rose"],
+        "heart": ["patchouli", "leather"],
+        "base": ["oud", "musk", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["evening", "special", "date"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 397,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 558,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-oud-wood-edp-050",
+      "initio-oud-for-greatness-edp-090",
+      "montale-arabians-tonka-edp-100"
+    ],
+    "tags": ["oud", "dark", "montale"]
+  },
+  {
+    "featured": false,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 4.533
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-vanilla-cake-edp-100",
+    "brandId": "montale",
+    "name": "Vanilla Cake",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2021,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["gourmand", "warm-vanilla", "sweet"],
+    "description": {
+      "pl": "Montale Vanilla Cake — deserowy waniliowy niszowy zapach. Oryginał w AromaShop.",
+      "uk": "Montale Vanilla Cake — десертний ванільний нішевий аромат. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Waniliowe ciasto w flakonie — miękko, słodko, gourmandowo.",
+      "uk": "Ванільний торт у флаконі — м’яко, солодко, гурманськи."
+    },
+    "story": {
+      "pl": "Vanilla Cake otwiera się od kremowej <strong>wanilii i deserowych akordów</strong> — otulająco i bezpretensjonalnie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Prosty gourmand na chłodniejsze dni.</strong>",
+      "uk": "Vanilla Cake починається з кремової <strong>ванілі та десертних акордів</strong> — обволікаюче й безпретензійно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Простий gourmand на прохолодніші дні.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍰 <strong>Vanilla Cake.</strong> Deserowy profil w ofercie Montale.",
+        "uk": "🍰 <strong>Vanilla Cake.</strong> Десертний профіль у лінійці Montale."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Vanilla Cake w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Vanilla Cake в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["gourmand", "oriental"],
+      "accords": ["vanilla", "sweet", "powdery"],
+      "notes": {
+        "top": ["vanilla", "sugar"],
+        "heart": ["vanilla", "caramel"],
+        "base": ["vanilla", "white-musk", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["casual", "daily", "date"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 374,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 434,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "kayali-vanilla-28-edp-100",
+      "burberry-goddess-edp-100",
+      "mancera-roses-vanille-edp-120"
+    ],
+    "tags": ["vanilla", "gourmand", "montale", "seasonal"]
+  },
+  {
+    "featured": false,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": null
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-aoud-lemon-mint-edp-100",
+    "brandId": "montale",
+    "name": "Aoud Lemon Mint",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2013,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["citrus", "oud", "fresh", "aromatic"],
+    "description": {
+      "pl": "Montale Aoud Lemon Mint — cytrusowo-miętowy oud o świeższym charakterze. Oryginał w AromaShop.",
+      "uk": "Montale Aoud Lemon Mint — цитрусово-м’ятний уд зі свіжішим характером. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Oud przełamany cytryną i miętą — nietypowo świeży.",
+      "uk": "Уд, перебитий лимоном і м’ятою — нетипово свіжий."
+    },
+    "story": {
+      "pl": "Aoud Lemon Mint otwiera się od <strong>cytryny i mięty</strong>, a następnie pojawia się oud — kontrast świeżości i orientalnej głębi.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Oud na cieplejsze miesiące.</strong>",
+      "uk": "Aoud Lemon Mint починається з <strong>лимона та м’яти</strong>, а далі з’являється уд — контраст свіжості й східної глибини.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Уд на тепліші місяці.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍋 <strong>Aoud Lemon Mint.</strong> Świeższa odsłona oudowej linii Montale.",
+        "uk": "🍋 <strong>Aoud Lemon Mint.</strong> Свіжіше звучання удової лінії Montale."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Aoud Lemon Mint w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Aoud Lemon Mint в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["citrus", "woody", "aromatic"],
+      "accords": ["citrus", "oud", "aromatic", "fresh-spicy"],
+      "notes": {
+        "top": ["lemon", "mint", "bergamot"],
+        "heart": ["oud", "rose"],
+        "base": ["oud", "white-musk", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 4,
+      "warmth": 3,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer"],
+      "timeOfDay": ["day"],
+      "occasions": ["daily", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 100,
+        "price": null,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "montale-black-aoud-edp-100",
+      "tom-ford-oud-wood-edp-050",
+      "mancera-cedrat-boise-edp-120"
+    ],
+    "tags": ["oud", "citrus", "mint", "seasonal"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 9.0949
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "nishane-hacivat-extrait-100",
+    "brandId": "nishane",
+    "name": "Hacivat",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2017,
+    "perfumer": "",
+    "country": "Turkey",
+    "moods": ["woody", "citrus", "fresh", "luxury"],
+    "description": {
+      "pl": "Nishane Hacivat Extrait — ananasowo-drzewny niszowy extrait o wysokiej koncentracji. Oryginał w AromaShop.",
+      "uk": "Nishane Hacivat Extrait — ананасово-деревний нішевий extrait високої концентрації. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Ananas, grapefruit i dębowy mech — chypre w współczesnym wydaniu.",
+      "uk": "Ананас, грейпфрут і дубовий мох — шипр у сучасному звучанні."
+    },
+    "story": {
+      "pl": "Hacivat otwiera się od <strong>ananasa i grapefruita</strong>, a baza buduje dębowy mech i drzewa — świeżo, ale z niszą głębią.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Nishane.\n\n<strong>Jeden z wizytowych extrait Nishane.</strong>",
+      "uk": "Hacivat починається з <strong>ананаса та грейпфрута</strong>, а база будує дубовий мох і дерева — свіжо, але з нішевою глибиною.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Nishane.\n\n<strong>Один із візитних extrait Nishane.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🎭 <strong>Hacivat.</strong> Extrait de parfum o rozpoznawalnym owocowo-drzewnym profilu.",
+        "uk": "🎭 <strong>Hacivat.</strong> Extrait de parfum із впізнаваним фруктово-деревним профілем."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Hacivat w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Hacivat в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["chypre", "woody", "fruity"],
+      "accords": ["fruity", "woody", "citrus", "earthy"],
+      "notes": {
+        "top": ["pineapple", "grapefruit", "bergamot"],
+        "heart": ["jasmine", "woody-notes"],
+        "base": ["oakmoss", "patchouli", "cedar", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 4,
+      "warmth": 3,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "special", "office"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 652,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 870,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "creed-aventus-edp-100",
+      "mancera-cedrat-boise-edp-120",
+      "dior-sauvage-edp-100"
+    ],
+    "tags": ["pineapple", "chypre", "nishane", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 9.5825
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "nishane-ani-extrait-100",
+    "brandId": "nishane",
+    "name": "Ani",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2019,
+    "perfumer": "",
+    "country": "Turkey",
+    "moods": ["warm-vanilla", "spicy", "woody", "luxury"],
+    "description": {
+      "pl": "Nishane Ani Extrait — waniliowo-korzenny niszowy extrait. Oryginał w AromaShop.",
+      "uk": "Nishane Ani Extrait — ванільно-пряний нішевий extrait. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Wanilia, różowy pieprz i drzewa — elegancka słodycz Nishane.",
+      "uk": "Ваніль, рожевий перець і дерева — елегантна солодкість Nishane."
+    },
+    "story": {
+      "pl": "Ani otwiera się od <strong>różowego pieprzu i bergamotki</strong>, a serce i baza budują wanilię, benzoes i drzewa.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Nishane.\n\n<strong>Ciepły extrait o wysokiej elegancji.</strong>",
+      "uk": "Ani починається з <strong>рожевого перцю та бергамоту</strong>, а серце й база будують ваніль, бензоїн і дерева.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Nishane.\n\n<strong>Теплий extrait високої елегантності.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🏛️ <strong>Ani.</strong> Inspiracją jest historyczne miasto Ani.",
+        "uk": "🏛️ <strong>Ani.</strong> Натхненням є історичне місто Ані."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Ani w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Ani в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "woody", "spicy"],
+      "accords": ["vanilla", "warm-spicy", "woody", "powdery"],
+      "notes": {
+        "top": ["pink-pepper", "bergamot", "ginger"],
+        "heart": ["vanilla", "sandalwood", "rosewood"],
+        "base": ["benzoin", "vanilla", "amber", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 625,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 917,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "kayali-vanilla-28-edp-100",
+      "mfk-grand-soir-edp-070",
+      "nishane-hundred-silent-ways-extrait-100"
+    ],
+    "tags": ["vanilla", "spicy", "nishane"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 8.6666
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "nishane-hundred-silent-ways-extrait-100",
+    "brandId": "nishane",
+    "name": "Hundred Silent Ways",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2016,
+    "perfumer": "",
+    "country": "Turkey",
+    "moods": ["floral", "warm-vanilla", "sweet", "modern-feminine"],
+    "description": {
+      "pl": "Nishane Hundred Silent Ways — tuberózowo-waniliowy niszowy extrait. Oryginał w AromaShop.",
+      "uk": "Nishane Hundred Silent Ways — туберозово-ванільний нішевий extrait. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Tuberoza, wanilia i miękka zmysłowość w wysokiej koncentracji.",
+      "uk": "Тубероза, ваніль і м’яка чуттєвість у високій концентрації."
+    },
+    "story": {
+      "pl": "Hundred Silent Ways otwiera się od kwiatowej słodyczy <strong>tuberozy</strong>, a baza otula wanilią i piżmem — zmysłowo, ale nie krzykliwie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Nishane.\n\n<strong>Kwiatowy extrait o intymnym charakterze.</strong>",
+      "uk": "Hundred Silent Ways починається з квіткової солодкості <strong>туберози</strong>, а база огортає ваніллю й мускусом — чуттєво, але не крикливо.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Nishane.\n\n<strong>Квітковий extrait з інтимним характером.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌸 <strong>Hundred Silent Ways.</strong> Poetycki floral-gourmand Nishane.",
+        "uk": "🌸 <strong>Hundred Silent Ways.</strong> Поетичний floral-gourmand Nishane."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Hundred Silent Ways w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Hundred Silent Ways в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "oriental"],
+      "accords": ["white-floral", "vanilla", "sweet", "powdery"],
+      "notes": {
+        "top": ["mandarin", "bergamot"],
+        "heart": ["tuberose", "orange-blossom", "jasmine"],
+        "base": ["vanilla", "sandalwood", "amber", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["date", "evening", "special", "daily"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 625,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 829,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "ysl-libre-edp-090",
+      "nishane-ani-extrait-100",
+      "kayali-vanilla-28-edp-100"
+    ],
+    "tags": ["tuberose", "vanilla", "nishane"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 6.3841
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "tiziana-terenzi-kirke-extrait-100",
+    "brandId": "tiziana-terenzi",
+    "name": "Kirke",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2015,
+    "perfumer": "",
+    "country": "Italy",
+    "moods": ["sweet", "fresh", "floral"],
+    "description": {
+      "pl": "Tiziana Terenzi Kirke — owocowo-piżmowy niszowy extrait o mocnej projekcji. Oryginał w AromaShop.",
+      "uk": "Tiziana Terenzi Kirke — фруктово-мускусний нішевий extrait із сильною проекцією. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Soczyste owoce i piżmo — głośny, słodki i bardzo rozpoznawalny.",
+      "uk": "Соковиті фрукти й мускус — гучний, солодкий і дуже впізнаваний."
+    },
+    "story": {
+      "pl": "Kirke otwiera się od <strong>owocowego koktajlu</strong> — brzoskwinia, passiflora, malina — a baza jest piżmowo-drzewna i długotrwała.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Tiziana Terenzi.\n\n<strong>Jeden z najbardziej „głośnych” extrait dekady.</strong>",
+      "uk": "Kirke починається з <strong>фруктового коктейлю</strong> — персик, маракуя, малина — а база мускусно-деревна й стійка.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Tiziana Terenzi.\n\n<strong>Один із найбільш «гучних» extrait десятиліття.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍑 <strong>Kirke.</strong> Owocowo-piżmowy signature Tiziana Terenzi.",
+        "uk": "🍑 <strong>Kirke.</strong> Фруктово-мускусний signature Tiziana Terenzi."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Kirke w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Kirke в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["fruity", "floral"],
+      "accords": ["fruity", "sweet", "musky", "woody"],
+      "notes": {
+        "top": ["peach", "passionfruit", "raspberry", "pear"],
+        "heart": ["lily-of-the-valley", "heliotrope"],
+        "base": ["musk", "sandalwood", "vanilla", "patchouli"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 3,
+      "warmth": 3,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "party", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 100,
+        "price": 611,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "xerjoff-erba-pura-edp-100",
+      "mfk-baccarat-rouge-540-edp-070",
+      "parfums-de-marly-delina-edp-075"
+    ],
+    "tags": ["fruity", "musk", "loud", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 17.3471
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "mfk-gentle-fluidity-gold-edp-070",
+    "brandId": "mfk",
+    "name": "Gentle Fluidity Gold",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2019,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["warm-vanilla", "woody", "spicy", "luxury"],
+    "description": {
+      "pl": "Maison Francis Kurkdjian Gentle Fluidity Gold — waniliowo-korzenny niszowy zapach. Oryginał w AromaShop.",
+      "uk": "Maison Francis Kurkdjian Gentle Fluidity Gold — ванільно-пряний нішевий аромат. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Złota Fluidity: wanilia, gałka muszkatołowa i miękkie drzewa.",
+      "uk": "Золота Fluidity: ваніль, мускатний горіх і м’які дерева."
+    },
+    "story": {
+      "pl": "Gentle Fluidity Gold otwiera się od korzennej elegancji i przechodzi w <strong>wanilię, muszkatołowiec i drzewne piżmo</strong> — gładko i luksusowo.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Maison Francis Kurkdjian.\n\n<strong>Ciepła, unisexowa elegancja MFK.</strong>",
+      "uk": "Gentle Fluidity Gold починається з пряної елегантності й переходить у <strong>ваніль, мускат і деревний мускус</strong> — гладко й розкішно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Maison Francis Kurkdjian.\n\n<strong>Тепла унісекс-елегантність MFK.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "✨ <strong>Gold.</strong> Waniliowo-korzenna odsłona duetu Gentle Fluidity.",
+        "uk": "✨ <strong>Gold.</strong> Ванільно-пряне звучання дуету Gentle Fluidity."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Gentle Fluidity Gold w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Gentle Fluidity Gold в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "woody"],
+      "accords": ["vanilla", "warm-spicy", "woody", "musky"],
+      "notes": {
+        "top": ["nutmeg", "coriander"],
+        "heart": ["vanilla"],
+        "base": ["woody-notes", "musk", "amber"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "office", "date", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 35,
+        "price": 901,
+        "stock": true
+      },
+      {
+        "ml": 70,
+        "price": 1161,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "mfk-grand-soir-edp-070",
+      "mfk-baccarat-rouge-540-edp-070",
+      "kayali-vanilla-28-edp-100"
+    ],
+    "tags": ["vanilla", "mfk", "unisex", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 11.7796
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "initio-side-effect-edp-090",
+    "brandId": "initio",
+    "name": "Side Effect",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2016,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["tobacco", "sweet", "spicy", "dark", "evening"],
+    "description": {
+      "pl": "Initio Side Effect — rumowo-tytoniowy niszowy zapach o uzależniającym charakterze. Oryginał w AromaShop.",
+      "uk": "Initio Side Effect — ромово-тютюновий нішевий аромат із залежним характером. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Rum, tytoń, wanilia — ciemny i magnetyczny.",
+      "uk": "Ром, тютюн, ваніль — темний і магнетичний."
+    },
+    "story": {
+      "pl": "Side Effect otwiera się od <strong>rumu i przypraw</strong>, a następnie przechodzi w tytoń i wanilię — boozy, ciemno i bardzo osobowościowo.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Initio.\n\n<strong>Initio w wersji uzależniającej.</strong>",
+      "uk": "Side Effect починається з <strong>рому та спецій</strong>, а далі — тютюн і ваніль — boozy, темно й дуже характерно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Initio.\n\n<strong>Initio в залежній версії.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🥃 <strong>Side Effect.</strong> Boozy-tobacco signature Initio.",
+        "uk": "🥃 <strong>Side Effect.</strong> Boozy-tobacco signature Initio."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Side Effect w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Side Effect в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["oriental", "spicy", "gourmand"],
+      "accords": ["boozy", "tobacco", "vanilla", "warm-spicy", "sweet"],
+      "notes": {
+        "top": ["rum", "cinnamon", "saffron"],
+        "heart": ["tobacco", "vanilla"],
+        "base": ["sandalwood", "woody-notes", "amber"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["date", "evening", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 824,
+        "stock": true
+      },
+      {
+        "ml": 90,
+        "price": 1014,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-tobacco-vanille-edp-100",
+      "initio-oud-for-greatness-edp-090",
+      "kilian-angels-share-edp-050"
+    ],
+    "tags": ["rum", "tobacco", "initio", "evening"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 11.3591
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "memo-paris-african-leather-edp-075",
+    "brandId": "memo-paris",
+    "name": "African Leather",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2015,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["leather", "spicy", "woody", "dark"],
+    "description": {
+      "pl": "Memo Paris African Leather — skórzano-korzenny niszowy zapach podróżniczy. Oryginał w AromaShop.",
+      "uk": "Memo Paris African Leather — шкіряно-пряний нішевий мандрівний аромат. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Skóra, kardamon i geranium — dziko i elegancko.",
+      "uk": "Шкіра, кардамон і герань — дико й елегантно."
+    },
+    "story": {
+      "pl": "African Leather otwiera się od <strong>kardamonu i geranium</strong>, a baza buduje skórę, wetiwer i patchouli — sucho, korzennie i podróżniczo.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Memo Paris.\n\n<strong>Skóra w wersji awanturniczej.</strong>",
+      "uk": "African Leather починається з <strong>кардамону та герані</strong>, а база будує шкіру, ветивер і пачулі — сухо, пряно й мандрівно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Memo Paris.\n\n<strong>Шкіра в авантюрній версії.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🧳 <strong>Travel notes.</strong> Kompozycja z podróżniczej linii Memo Paris.",
+        "uk": "🧳 <strong>Travel notes.</strong> Композиція з мандрівної лінії Memo Paris."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> African Leather w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> African Leather в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["leather", "spicy", "woody"],
+      "accords": ["leather", "warm-spicy", "woody", "aromatic"],
+      "notes": {
+        "top": ["cardamom", "bergamot", "geranium"],
+        "heart": ["leather", "geranium", "black-pepper"],
+        "base": ["patchouli", "vetiver", "oud", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "date", "special", "evening"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 603,
+        "stock": true
+      },
+      {
+        "ml": 75,
+        "price": 815,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-oud-wood-edp-050",
+      "initio-oud-for-greatness-edp-090",
+      "marc-antoine-barrois-ganymede-edp-100"
+    ],
+    "tags": ["leather", "spicy", "memo", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 28.0657
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "nasomatto-black-afgano-extrait-030",
+    "brandId": "nasomatto",
+    "name": "Black Afgano",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2009,
+    "perfumer": "",
+    "country": "Netherlands",
+    "moods": ["dark", "oud", "woody", "evening"],
+    "description": {
+      "pl": "Nasomatto Black Afgano — ciemny, żywiczny extrait o uzależniającej intensywności. Oryginał w AromaShop.",
+      "uk": "Nasomatto Black Afgano — темний смолистий extrait із залежною інтенсивністю. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Żywice, hashishowy klimat i głęboka ciemność Nasomatto.",
+      "uk": "Смоли, hashish-клімат і глибока темрява Nasomatto."
+    },
+    "story": {
+      "pl": "Black Afgano otwiera się od ciemnych <strong>żywic i dymnych akordów</strong> — gęsto, animalicznie i bez kompromisów.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Nasomatto.\n\n<strong>Kultowy ciemny extrait.</strong>",
+      "uk": "Black Afgano починається з темних <strong>смол і димних акордів</strong> — густо, анімалістично й безкомпромісно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Nasomatto.\n\n<strong>Культовий темний extrait.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🖤 <strong>Black Afgano.</strong> Jedna z najbardziej kultowych kompozycji Nasomatto.",
+        "uk": "🖤 <strong>Black Afgano.</strong> Одна з найбільш культових композицій Nasomatto."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Black Afgano w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Black Afgano в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "oriental"],
+      "accords": ["smoky", "woody", "oud", "earthy", "animalic"],
+      "notes": {
+        "top": ["green-notes", "herbal-notes"],
+        "heart": ["resins", "tobacco", "coffee"],
+        "base": ["oud", "woody-notes", "amber"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 1,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["evening", "special", "date"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 805,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "initio-oud-for-greatness-edp-090",
+      "montale-black-aoud-edp-100",
+      "tom-ford-oud-wood-edp-050"
+    ],
+    "tags": ["dark", "resin", "nasomatto", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": true,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 8.2261
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "xerjoff-erba-pura-edp-100",
+    "brandId": "xerjoff",
+    "name": "Erba Pura",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2019,
+    "perfumer": "",
+    "country": "Italy",
+    "moods": ["sweet", "fresh", "floral"],
+    "description": {
+      "pl": "Xerjoff Erba Pura — owocowo-piżmowy niszowy zapach o wysokiej projekcji. Oryginał w AromaShop.",
+      "uk": "Xerjoff Erba Pura — фруктово-мускусний нішевий аромат із високою проекцією. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Sycylijskie owoce i białe piżmo — słodko, głośno, słonecznie.",
+      "uk": "Сицилійські фрукти й білий мускус — солодко, гучно, сонячно."
+    },
+    "story": {
+      "pl": "Erba Pura otwiera się od <strong>owocowego blasku</strong> — pomarańcza, brzoskwinia, mango — a baza jest piżmowa i długotrwała.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Xerjoff.\n\n<strong>Słoneczny głośny Xerjoff.</strong>",
+      "uk": "Erba Pura починається з <strong>фруктового блиску</strong> — апельсин, персик, манго — а база мускусна й стійка.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Xerjoff.\n\n<strong>Сонячний гучний Xerjoff.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍊 <strong>Erba Pura.</strong> Owocowo-piżmowy hit linii V Casamorati / Xerjoff popularnych kompozycji.",
+        "uk": "🍊 <strong>Erba Pura.</strong> Фруктово-мускусний хіт популярних композицій Xerjoff."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Erba Pura w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Erba Pura в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["fruity", "floral"],
+      "accords": ["fruity", "sweet", "musky", "citrus"],
+      "notes": {
+        "top": ["orange", "bergamot", "orange"],
+        "heart": ["peach", "mango", "fruity-notes"],
+        "base": ["white-musk", "amber", "vanilla"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 3,
+      "warmth": 3,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["spring", "summer"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "party", "date", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 591,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 787,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tiziana-terenzi-kirke-extrait-100",
+      "mfk-baccarat-rouge-540-edp-070",
+      "parfums-de-marly-delina-edp-075"
+    ],
+    "tags": ["fruity", "musk", "loud", "core"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 22.998
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "maison-crivelli-hibiscus-mahajad-extrait-050",
+    "brandId": "maison-crivelli",
+    "name": "Hibiscus Mahajád",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2018,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["floral", "leather", "spicy", "luxury"],
+    "description": {
+      "pl": "Maison Crivelli Hibiscus Mahajád — hibiskusowo-skórzany niszowy extrait. Oryginał w AromaShop.",
+      "uk": "Maison Crivelli Hibiscus Mahajád — гібіскусно-шкіряний нішевий extrait. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Kwasowy hibiskus, róża i skóra — kontrastowy i nowoczesny.",
+      "uk": "Кислий гібіскус, троянда й шкіра — контрастний і сучасний."
+    },
+    "story": {
+      "pl": "Hibiscus Mahajád otwiera się od <strong>hibiskusa i róży</strong>, a baza łączy skórę i warmowe akordy — kwiatowo, ale z ostrzejszym charakterem.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Maison Crivelli.\n\n<strong>Discovery o wyraźnej osobowości.</strong>",
+      "uk": "Hibiscus Mahajád починається з <strong>гібіскуса та троянди</strong>, а база поєднує шкіру й теплі акорди — квітково, але з гострішим характером.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Maison Crivelli.\n\n<strong>Discovery з виразною особистістю.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌺 <strong>Hibiscus Mahajád.</strong> Kontrastowy extrait Maison Crivelli.",
+        "uk": "🌺 <strong>Hibiscus Mahajád.</strong> Контрастний extrait Maison Crivelli."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Hibiscus Mahajád w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Hibiscus Mahajád в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "leather", "oriental"],
+      "accords": ["floral", "leather", "fruity", "rose"],
+      "notes": {
+        "top": ["hibiscus", "raspberry", "pink-pepper"],
+        "heart": ["rose", "osmanthus"],
+        "base": ["leather", "vanilla", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["date", "special", "evening"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 1456,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 2200,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "tom-ford-oud-wood-edp-050",
+      "memo-paris-african-leather-edp-075",
+      "parfums-de-marly-delina-edp-075"
+    ],
+    "tags": ["hibiscus", "leather", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 6.9675
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "essential-parfums-bois-imperial-edp-100",
+    "brandId": "essential-parfums",
+    "name": "Bois Impérial",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2020,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["woody", "fresh", "spicy"],
+    "description": {
+      "pl": "Essential Parfums Bois Impérial — nowoczesny drzewno-pieprzowy niszowy zapach (Quentin Bisch). Oryginał w AromaShop.",
+      "uk": "Essential Parfums Bois Impérial — сучасний деревно-перцевий нішевий аромат (Quentin Bisch). Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Timut pepper i petioryka — suche, zielone, współczesne drewno.",
+      "uk": "Перець тимут і петитгрейн — сухе, зелене, сучасне дерево."
+    },
+    "story": {
+      "pl": "Bois Impérial otwiera się od <strong>pieprzu timut i petigrain</strong>, a baza buduje akord drzewny o mineralnej świeżości.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Essential Parfums.\n\n<strong>Przejrzysty contemporary woody.</strong>",
+      "uk": "Bois Impérial починається з <strong>перцю тимут і петитгрейну</strong>, а база будує деревний акорд із мінеральною свіжістю.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Essential Parfums.\n\n<strong>Прозорий contemporary woody.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌲 <strong>Bois Impérial.</strong> Kompozycja Quentina Bisch dla Essential Parfums.",
+        "uk": "🌲 <strong>Bois Impérial.</strong> Композиція Quentin Bisch для Essential Parfums."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Bois Impérial w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Bois Impérial в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "aromatic", "fresh"],
+      "accords": ["woody", "fresh-spicy", "aromatic", "green"],
+      "notes": {
+        "top": ["timut-pepper", "petigrain", "bergamot"],
+        "heart": ["thai-basil", "guaiac-wood", "geranium"],
+        "base": ["indonesian-patchouli", "woody-notes", "ambroxan"]
+      }
+    },
+    "character": {
+      "sweetness": 1,
+      "freshness": 4,
+      "warmth": 2,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "office", "casual"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 595,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 666,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "marc-antoine-barrois-ganymede-edp-100",
+      "le-labo-santal-33-edp-100",
+      "burberry-hero-edp-100"
+    ],
+    "tags": ["woody", "pepper", "discovery", "modern"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [1, 5, 10, 15, 20],
+      "pricePerMl": 10.5151
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "marc-antoine-barrois-ganymede-edp-100",
+    "brandId": "marc-antoine-barrois",
+    "name": "Ganymede",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2019,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["mineral", "woody", "leather", "fresh"],
+    "description": {
+      "pl": "Marc-Antoine Barrois Ganymede — mineralno-skórzany niszowy zapach Quentina Bisch. Oryginał w AromaShop.",
+      "uk": "Marc-Antoine Barrois Ganymede — мінерально-шкіряний нішевий аромат Quentin Bisch. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Mandarynka, immortelle i mineralna skóra — kosmicznie nowocześnie.",
+      "uk": "Мандарин, безсмертник і мінеральна шкіра — космічно сучасно."
+    },
+    "story": {
+      "pl": "Ganymede otwiera się od <strong>mandarynki i immortelle</strong>, a baza buduje mineralną, prawie metaliczną skórę — chłodno i fascynująco.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Marc-Antoine Barrois.\n\n<strong>Discovery o rzadkim, współczesnym charakterze.</strong>",
+      "uk": "Ganymede починається з <strong>мандарина та безсмертника</strong>, а база будує мінеральну, майже металеву шкіру — прохолодно й захопливо.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Marc-Antoine Barrois.\n\n<strong>Discovery з рідкісним сучасним характером.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🪐 <strong>Ganymede.</strong> Współczesny mineralny signature MAB × Quentin Bisch.",
+        "uk": "🪐 <strong>Ganymede.</strong> Сучасний мінеральний signature MAB × Quentin Bisch."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Ganymede w AromaShop to oryginalny produkt.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Ganymede в AromaShop — оригінальний продукт."
+      }
+    ],
+    "fragrance": {
+      "families": ["woody", "leather", "fresh"],
+      "accords": ["mineral", "leather", "woody", "fruity", "metallic"],
+      "notes": {
+        "top": ["mandarin", "saffron"],
+        "heart": ["immortelle", "violet"],
+        "base": ["suede", "mineral-notes", "woody-notes"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 3,
+      "warmth": 3,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "office", "special", "date"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 588,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 1006,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "essential-parfums-bois-imperial-edp-100",
+      "le-labo-santal-33-edp-100",
+      "bdk-gris-charnel-edp-100"
+    ],
+    "tags": ["mineral", "leather", "discovery"]
+  },
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 17
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "le-labo-another-13-edp-100",
+    "brandId": "le-labo",
+    "name": "Another 13",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2010,
+    "perfumer": "",
+    "country": "United States",
+    "moods": ["skin", "woody", "clean", "musk"],
+    "description": {
+      "pl": "Le Labo Another 13 — ambroksanowo-piżmowy niszowy skin scent. Oryginał w AromaShop.",
+      "uk": "Le Labo Another 13 — амброксаново-мускусний нішевий skin scent. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+  "pl": "Czysta skóra, miękkie piżmo, ambroksyd i delikatna nuta owocowej świeżości. Another 13 to zapach bliskości — minimalistyczny, tajemniczy i uzależniająco zmysłowy.",
+  "uk": "Чиста шкіра, м’який мускус, амброксид і легкий відтінок фруктової свіжості. Another 13 — аромат близькості: мінімалістичний, загадковий і неймовірно чуттєвий."
+},
+"story": {
+  "pl": "<strong>Another 13 nie pachnie jak perfumy. Pachnie jak Ty — tylko trochę bardziej uzależniająco.</strong>\n\nPierwsze spotkanie jest niemal nieuchwytne. Na skórze pojawia się czysta, miękka świeżość, delikatny owocowy akcent i coś, czego nie da się łatwo nazwać. Nie kwiat. Nie drewno. Nie klasyczne piżmo. Raczej wrażenie idealnie czystej skóry, która ma swój własny, fascynujący zapach.\n\n<strong>I właśnie wtedy zaczyna się magia.</strong>\n\nAmbroksyd stopniowo przejmuje kompozycję — ciepły, lekko mineralny, miękki i niezwykle zmysłowy. Jaśmin dodaje mu subtelnego światła, a mech wprowadza odrobinę zielonej głębi. Całość pozostaje blisko skóry, jakby zapach był jej naturalną częścią.\n\nAnother 13 nie próbuje wypełnić całego pomieszczenia. Wręcz przeciwnie. Zmusza do podejścia bliżej. To zapach, który ktoś zauważa dopiero wtedy, gdy znajduje się naprawdę blisko Ciebie — i właśnie dlatego potrafi być tak intymny.\n\nMa w sobie coś hipnotycznego. Czystość połączoną z czymś lekko cielesnym, świeżość z ciepłem i minimalizm z niezwykłą zmysłowością. Jest nowoczesny, trochę chłodny, trochę miękki i całkowicie nieoczywisty.\n\nTo idealny zapach dla osoby, która nie chce pachnieć „jak wszyscy”. Dla białej koszuli, nagiej skóry, minimalistycznej biżuterii, kawy wypitej samotnie i wieczoru, kiedy ktoś siedzi obok trochę bliżej, niż powinien.\n\n<strong>Another 13 — zapach, który nie mówi „poczuj mnie”. Mówi „podejdź bliżej”. A kiedy już podejdziesz, trudno przestać go wąchać.</strong>",
+  "uk": "<strong>Another 13 не пахне як парфуми. Він пахне як ти — тільки трохи більш спокусливо.</strong>\n\nПерша зустріч майже невловима. На шкірі з’являється чиста, м’яка свіжість, легкий фруктовий відтінок і щось, що складно одразу назвати. Не квіти. Не дерево. Не класичний мускус. Радше відчуття ідеально чистої шкіри, яка має власний, неймовірно привабливий запах.\n\n<strong>І саме тоді починається магія.</strong>\n\nАмброксид поступово бере композицію під контроль — теплий, трохи мінеральний, м’який і надзвичайно чуттєвий. Жасмин додає йому делікатного світла, а мох — трохи зеленої глибини. Усе залишається близько до шкіри, ніби аромат є її природною частиною.\n\nAnother 13 не намагається заповнити собою всю кімнату. Навпаки. Він змушує підійти ближче. Це аромат, який помічаєш лише тоді, коли опиняєшся зовсім поруч — і саме тому він може бути таким інтимним.\n\nУ ньому є щось гіпнотичне. Чистота, поєднана з легкою тілесністю, свіжість із теплом і мінімалізм із надзвичайною чуттєвістю. Він сучасний, трохи прохолодний, трохи м’який і абсолютно неочевидний.\n\nЦе ідеальний аромат для людини, яка не хоче пахнути «як усі». Для білої сорочки, оголеної шкіри, мінімалістичних прикрас, кави наодинці та вечора, коли хтось сидить поруч трохи ближче, ніж варто.\n\n<strong>Another 13 — аромат, який не каже «відчуй мене». Він каже «підійди ближче». А коли ти вже поруч, від нього важко відірватися.</strong>"
+},
+"facts": [
+  {
+    "pl": "🖤 <strong>2010 — narodziny Another 13.</strong> W 2010 roku AnOther Magazine zlecił Le Labo stworzenie ekskluzywnego zapachu. Pomysł na współpracę wyszedł od Sarah z paryskiego concept store'u Colette, która połączyła Le Labo z Jeffersonem Hackiem, redaktorem naczelnym magazynu.",
+    "uk": "🖤 <strong>2010 — народження Another 13.</strong> У 2010 році AnOther Magazine замовив Le Labo створення ексклюзивного аромату. Ідею співпраці запропонувала Sarah із паризького концепт-стору Colette, яка познайомила Le Labo з Джефферсоном Гаком, головним редактором журналу."
+  },
+  {
+    "pl": "🔢 <strong>Dlaczego „13”?</strong> Pierwsza wersja zapachu była przygotowana jako ekskluzywny projekt dla AnOther Magazine i została zbudowana wokół 13 składników. W premierowej wersji wybrano m.in. zielone cytrusy, nasiona ambrette, jabłko i gruszkę, a całość oparto na ambroksie.",
+    "uk": "🔢 <strong>Чому «13»?</strong> Перша версія аромату була створена як ексклюзивний проєкт для AnOther Magazine та побудована навколо 13 інгредієнтів. У початковій версії використовувалися, зокрема, зелені цитруси, насіння амбретти, яблуко та груша, а основою композиції став амброкс."
+  },
+  {
+    "pl": "🧪 <strong>Ambroksyd jest sercem kompozycji.</strong> Le Labo opisuje Another 13 jako kompozycję zbudowaną wokół ambroxydu — syntetycznego składnika o piżmowym, ciepłym i lekko mineralnym charakterze. To właśnie on odpowiada za charakterystyczne „drugie życie” zapachu na skórze.",
+    "uk": "🧪 <strong>Амброксид — серце композиції.</strong> Le Labo описує Another 13 як композицію, побудовану навколо амброксиду — синтетичного компонента з мускусним, теплим і трохи мінеральним характером. Саме він значною мірою відповідає за характерне «друге життя» аромату на шкірі."
+  },
+  {
+    "pl": "🌿 <strong>Minimalizm zamiast klasycznej piramidy.</strong> Oprócz ambroxydu Le Labo wskazuje między innymi jaśmin i mech, które nadają kompozycji więcej światła, charakteru i zielonej głębi.",
+    "uk": "🌿 <strong>Мінімалізм замість класичної піраміди.</strong> Окрім амброксиду, Le Labo вказує, зокрема, жасмин і мох, які додають композиції більше світла, характеру та зеленої глибини."
+  },
+  {
+    "pl": "📰 <strong>Z magazynu do światowej kolekcji.</strong> Another 13 początkowo miał być zapachem ekskluzywnym i powstał w limitowanej liczbie 500 flakonów. Po zamknięciu Colette w 2017 roku Le Labo włączyło go do swojej Classic Collection.",
+    "uk": "📰 <strong>Від журналу до світової колекції.</strong> Спочатку Another 13 мав бути ексклюзивним ароматом і був випущений обмеженою серією у 500 флаконів. Після закриття Colette у 2017 році Le Labo додав його до своєї Classic Collection."
+  },
+  {
+    "pl": "🧑‍🤝‍🧑 <strong>Zapach uniseks.</strong> Another 13 został stworzony jako kompozycja dla każdego. Jego charakter nie opiera się na klasycznym podziale na zapachy damskie i męskie, lecz na tym, jak ambroksyd rozwija się na konkretnej skórze.",
+    "uk": "🧑‍🤝‍🧑 <strong>Аромат унісекс.</strong> Another 13 створений як композиція для кожного. Його характер не ґрунтується на класичному поділі на жіночі та чоловічі аромати, а на тому, як амброксид розкривається на конкретній шкірі."
+  },
+  {
+    "pl": "🛍️ <strong>Oryginalny produkt.</strong> Another 13 dostępny w AromaShop jest oryginalnym produktem marki Le Labo.",
+    "uk": "🛍️ <strong>Оригінальний продукт.</strong> Another 13 в AromaShop — оригінальний продукт бренду Le Labo."
+  }
+],
+    "fragrance": {
+      "families": ["woody", "fresh"],
+      "accords": ["molecular", "musky", "woody", "fruity"],
+      "notes": {
+        "top": ["pear", "apple"],
+        "heart": ["ambroxan", "jasmine", "iso-e-super"],
+        "base": ["ambroxan", "oakmoss", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 3,
+      "warmth": 2,
+      "intensity": 3
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn", "winter"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["daily", "office", "casual", "date"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 1474,
+        "stock": false
+      },
+      {
+        "ml": 100,
+        "price": 1700,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "le-labo-santal-33-edp-100",
+      "glossier-you-edp-050",
+      "escentric-molecules-molecule-01-edt-100",
+      "juliette-has-a-gun-not-a-perfume-edp-100"
+    ],
+    "tags": ["ambroxan", "skin", "molecular", "discovery"]
+  }
+]

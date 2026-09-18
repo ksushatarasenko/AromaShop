@@ -1,0 +1,509 @@
+[
+  {
+    "id": "ysl",
+    "name": "Yves Saint Laurent",
+    "slug": "ysl",
+    "type": "luxury",
+    "country": "France",
+    "logo": "ysl.png",
+    "description": {
+      "pl": "Yves Saint Laurent to francuski dom luksusowy znany z odważnych, nowoczesnych zapachów o trwałym wpływie kulturowym.",
+      "uk": "Yves Saint Laurent — французький люксовий дім, відомий сміливими сучасними ароматами з тривалим культурним впливом."
+    },
+    "website": "https://www.ysl.com"
+  },
+  {
+    "id": "tom-ford",
+    "name": "Tom Ford",
+    "slug": "tom-ford",
+    "type": "luxury",
+    "country": "United States",
+    "logo": "tom-ford.png",
+    "description": {
+      "pl": "Tom Ford Beauty oferuje wyrafinowane, zmysłowe zapachy definiujące współczesny luksus.",
+      "uk": "Tom Ford Beauty пропонує вишукані чуттєві аромати, що визначають сучасну розкіш."
+    },
+    "website": "https://www.tomfordbeauty.com"
+  },
+  {
+    "id": "mfk",
+    "name": "Maison Francis Kurkdjian",
+    "slug": "mfk",
+    "type": "luxury",
+    "country": "France",
+    "logo": "mfk.png",
+    "description": {
+      "pl": "Maison Francis Kurkdjian tworzy wysoką sztukę perfumeryjną z wyjątkowym rzemiosłem i nowoczesną elegancją.",
+      "uk": "Maison Francis Kurkdjian створює високе парфумерне мистецтво з винятковою майстерністю та сучасною елегантністю."
+    },
+    "website": "https://www.franciskurkdjian.com"
+  },
+  {
+    "id": "dior",
+    "name": "Dior",
+    "slug": "dior",
+    "type": "luxury",
+    "country": "France",
+    "logo": "dior.png",
+    "description": {
+      "pl": "Zapachy Dior łączą dziedzictwo francuskiej haute couture z wyrafinowaną kompozycją olfaktoryczną.",
+      "uk": "Аромати Dior поєднують спадщину французької haute couture з вишуканою ольфакторною композицією."
+    },
+    "website": "https://www.dior.com"
+  },
+  {
+    "id": "chanel",
+    "name": "Chanel",
+    "slug": "chanel",
+    "type": "luxury",
+    "country": "France",
+    "logo": "chanel.png",
+    "description": {
+      "pl": "Chanel tworzy ponadczasowe zapachy zakorzenione w elegancji, precyzji i francuskiej tradycji perfumeryjnej.",
+      "uk": "Chanel створює позачасові аромати, вкорінені в елегантності, точності та французькій парфумерній традиції."
+    },
+    "website": "https://www.chanel.com"
+  },
+  {
+    "id": "creed",
+    "name": "Creed",
+    "slug": "creed",
+    "type": "niche",
+    "country": "France",
+    "logo": "creed.png",
+    "description": {
+      "pl": "Creed to historyczny dom niszowy tworzący ekskluzywne zapachy z dziedzictwem królewskiego patronatu.",
+      "uk": "Creed — історичний нішевий дім, що створює ексклюзивні аромати зі спадщиною королівського патронату."
+    },
+    "website": "https://www.creedboutique.com"
+  },
+  {
+    "id": "byredo",
+    "name": "Byredo",
+    "slug": "byredo",
+    "type": "niche",
+    "country": "Sweden",
+    "logo": "byredo.png",
+    "description": {
+      "pl": "Byredo tworzy współczesne niszowe zapachy inspirowane pamięcią, emocją i minimalistyczną estetyką.",
+      "uk": "Byredo створює сучасні нішеві аромати, натхненні пам’яттю, емоцією та мінімалістичною естетикою."
+    },
+    "website": "https://www.byredo.com"
+  },
+  {
+    "id": "le-labo",
+    "name": "Le Labo",
+    "slug": "le-labo",
+    "type": "niche",
+    "country": "United States",
+    "logo": "le-labo.png",
+    "description": {
+      "pl": "Le Labo to niszowy dom znany z rzemieślniczych kompozycji i laboratoryjnego podejścia.",
+      "uk": "Le Labo — нішевий дім, відомий ремісничими композиціями та лабораторним підходом."
+    },
+    "website": "https://www.lelabofragrances.com"
+  },
+  {
+    "id": "diptyque",
+    "name": "Diptyque",
+    "slug": "diptyque",
+    "type": "niche",
+    "country": "France",
+    "logo": "diptyque.png",
+    "description": {
+      "pl": "Diptyque tworzy charakterystyczne niszowe zapachy z artystyczną wrażliwością i paryskim dziedzictwem.",
+      "uk": "Diptyque створює характерні нішеві аромати з мистецькою чутливістю та паризькою спадщиною."
+    },
+    "website": "https://www.diptyqueparis.com"
+  },
+  {
+    "id": "initio",
+    "name": "Initio Parfums Privés",
+    "slug": "initio",
+    "type": "niche",
+    "country": "France",
+    "logo": "initio.png",
+    "description": {
+      "pl": "Initio bada związek między zapachem a emocją poprzez mocne niszowe kompozycje.",
+      "uk": "Initio досліджує зв’язок між ароматом і емоцією через потужні нішеві композиції."
+    },
+    "website": "https://www.initioparfums.com"
+  },
+  {
+    "id": "fragrance-world",
+    "name": "Fragrance World",
+    "slug": "fragrance-world",
+    "type": "luxury",
+    "country": "United Arab Emirates",
+    "logo": "fragrance-world.png",
+    "description": {
+      "pl": "Fragrance World tworzy dostępne reinterpretacje współczesnych zapachów z naciskiem na charakter i siłę kompozycji.",
+      "uk": "Fragrance World створює доступні реінтерпретації сучасних ароматів із акцентом на характер і силу композиції."
+    },
+    "website": ""
+  },
+  {
+    "id": "maison-margiela",
+    "name": "Maison Margiela",
+    "slug": "maison-margiela",
+    "type": "luxury",
+    "country": "France",
+    "logo": "maison-margiela.png",
+    "description": {
+      "pl": "Maison Margiela tworzy współczesne zapachy o narracyjnym charakterze — linia REPLICA przywołuje wspomnienia i atmosferę konkretnych miejsc oraz chwil.",
+      "uk": "Maison Margiela створює сучасні аромати з наративним характером — лінія REPLICA викликає спогади та атмосферу конкретних місць і моментів."
+    },
+    "website": "https://www.maisonmargiela-fragrances.com"
+  },
+  {
+    "id": "clean",
+    "name": "CLEAN",
+    "slug": "clean",
+    "type": "luxury",
+    "country": "United States",
+    "logo": "clean.png",
+    "description": {
+      "pl": "CLEAN to marka znana z czystych, świeżych i łatwych do noszenia zapachów inspirowanych poczuciem świeżości i codziennej pielęgnacji.",
+      "uk": "CLEAN — бренд, відомий чистими, свіжими й легкими для носіння ароматами, натхненними відчуттям свіжості та щоденного догляду."
+    },
+    "website": "https://www.cleanperfume.com"
+  },
+  {
+    "id": "narciso-rodriguez",
+    "name": "Narciso Rodriguez",
+    "slug": "narciso-rodriguez",
+    "type": "luxury",
+    "country": "United States",
+    "logo": "narciso-rodriguez.png",
+    "description": {
+      "pl": "Narciso Rodriguez tworzy współczesne, piżmowe i kwiatowe zapachy o minimalistycznej, eleganckiej tożsamości.",
+      "uk": "Narciso Rodriguez створює сучасні мускусні й квіткові аромати з мінімалістичною, елегантною ідентичністю."
+    },
+    "website": "https://www.narcisorodriguez.com"
+  },
+  {
+    "id": "kayali",
+    "name": "Kayali",
+    "slug": "kayali",
+    "type": "luxury",
+    "country": "United States",
+    "logo": "kayali.png",
+    "description": {
+      "pl": "Kayali to współczesna marka znana z warstwowych, gourmandowych i zmysłowych kompozycji — w tym charakterystycznej Vanilla 28.",
+      "uk": "Kayali — сучасний бренд, відомий шаруватими гурманськими й чуттєвими композиціями, зокрема характерною Vanilla 28."
+    },
+    "website": "https://www.kayali.com"
+  },
+  {
+    "id": "prada",
+    "name": "Prada",
+    "slug": "prada",
+    "type": "luxury",
+    "country": "Italy",
+    "logo": "prada.png",
+    "description": {
+      "pl": "Prada tworzy nowoczesne luksusowe zapachy łączące intelektualną elegancję z wyrazistym, współczesnym charakterem.",
+      "uk": "Prada створює сучасні люксові аромати, що поєднують інтелектуальну елегантність із виразним сучасним характером."
+    },
+    "website": "https://www.prada.com"
+  },
+  {
+    "id": "burberry",
+    "name": "Burberry",
+    "slug": "burberry",
+    "type": "luxury",
+    "country": "United Kingdom",
+    "logo": "burberry.png",
+    "description": {
+      "pl": "Burberry łączy brytyjską elegancję z nowoczesnymi, kobiecymi i ciepłymi kompozycjami zapachowymi.",
+      "uk": "Burberry поєднує британську елегантність із сучасними жіночими та теплими ароматичними композиціями."
+    },
+    "website": "https://www.burberry.com"
+  },
+  {
+    "id": "valentino",
+    "name": "Valentino",
+    "slug": "valentino",
+    "type": "luxury",
+    "country": "Italy",
+    "logo": "valentino.png",
+    "description": {
+      "pl": "Valentino tworzy współczesne luksusowe zapachy o włoskiej elegancji.",
+      "uk": "Valentino створює сучасні люксові аромати з італійською елегантністю."
+    },
+    "website": "https://www.valentino.com"
+  },
+  {
+    "id": "jo-malone",
+    "name": "Jo Malone London",
+    "slug": "jo-malone",
+    "type": "luxury",
+    "country": "United Kingdom",
+    "logo": "jo-malone.png",
+    "description": {
+      "pl": "Jo Malone London oferuje wyraziste, warstwowe kolonie i EDP o czystym brytyjskim stylu.",
+      "uk": "Jo Malone London пропонує виразні шаруваті одеколони та EDP у чистому британському стилі."
+    },
+    "website": "https://www.jomalone.com"
+  },
+  {
+    "id": "montblanc",
+    "name": "Montblanc",
+    "slug": "montblanc",
+    "type": "luxury",
+    "country": "Germany",
+    "logo": "montblanc.png",
+    "description": {
+      "pl": "Montblanc łączy dziedzictwo rzemiosła z nowoczesnymi zapachami męskimi.",
+      "uk": "Montblanc поєднує спадщину ремесла із сучасними чоловічими ароматами."
+    },
+    "website": "https://www.montblanc.com"
+  },
+  {
+    "id": "giorgio-armani",
+    "name": "Giorgio Armani",
+    "slug": "giorgio-armani",
+    "type": "luxury",
+    "country": "Italy",
+    "logo": "giorgio-armani.png",
+    "description": {
+      "pl": "Giorgio Armani tworzy eleganckie, współczesne zapachy o włoskiej precyzji.",
+      "uk": "Giorgio Armani створює елегантні сучасні аромати з італійською точністю."
+    },
+    "website": "https://www.armani.com"
+  },
+  {
+    "id": "azzaro",
+    "name": "Azzaro",
+    "slug": "azzaro",
+    "type": "luxury",
+    "country": "France",
+    "logo": "azzaro.png",
+    "description": {
+      "pl": "Azzaro oferuje odważne, zmysłowe zapachy męskie.",
+      "uk": "Azzaro пропонує сміливі чуттєві чоловічі аромати."
+    },
+    "website": "https://www.azzaro.com"
+  },
+  {
+    "id": "versace",
+    "name": "Versace",
+    "slug": "versace",
+    "type": "luxury",
+    "country": "Italy",
+    "logo": "versace.png",
+    "description": {
+      "pl": "Versace tworzy świeże i wyraziste zapachy inspirowane śródziemnomorskim luksusem.",
+      "uk": "Versace створює свіжі й виразні аромати, натхненні середземноморською розкішшю."
+    },
+    "website": "https://www.versace.com"
+  },
+  {
+    "id": "parfums-de-marly",
+    "name": "Parfums de Marly",
+    "slug": "parfums-de-marly",
+    "type": "niche",
+    "country": "France",
+    "logo": "parfums-de-marly.png",
+    "description": {
+      "pl": "Parfums de Marly tworzy niszowe zapachy inspirowane francuską tradycją królewską.",
+      "uk": "Parfums de Marly створює нішеві аромати, натхненні французькою королівською традицією."
+    },
+    "website": "https://www.parfums-de-marly.com"
+  },
+  {
+    "id": "xerjoff",
+    "name": "Xerjoff",
+    "slug": "xerjoff",
+    "type": "niche",
+    "country": "Italy",
+    "logo": "xerjoff.png",
+    "description": {
+      "pl": "Xerjoff to włoski dom niszowy znany z bogatych, wyrafinowanych kompozycji.",
+      "uk": "Xerjoff — італійський нішевий дім, відомий багатими витонченими композиціями."
+    },
+    "website": "https://www.xerjoff.com"
+  },
+  {
+    "id": "bdk",
+    "name": "BDK Parfums",
+    "slug": "bdk",
+    "type": "niche",
+    "country": "France",
+    "logo": "bdk.png",
+    "description": {
+      "pl": "BDK Parfums tworzy współczesne paryskie zapachy o wyrafinowanym charakterze.",
+      "uk": "BDK Parfums створює сучасні паризькі аромати з витонченим характером."
+    },
+    "website": "https://www.bdkparfums.com"
+  },
+  {
+    "id": "kilian",
+    "name": "Kilian Paris",
+    "slug": "kilian",
+    "type": "niche",
+    "country": "France",
+    "logo": "kilian.png",
+    "description": {
+      "pl": "Kilian Paris tworzy luksusowe niszowe kompozycje o narracyjnym podejściu.",
+      "uk": "Kilian Paris створює люксові нішеві композиції з наративним підходом."
+    },
+    "website": "https://www.bykilian.com"
+  },
+  {
+    "id": "juliette-has-a-gun",
+    "name": "Juliette Has A Gun",
+    "slug": "juliette-has-a-gun",
+    "type": "niche",
+    "country": "France",
+    "logo": "juliette-has-a-gun.png",
+    "description": {
+      "pl": "Juliette Has A Gun łączy minimalizm z nowoczesną, często piżmową wrażliwością.",
+      "uk": "Juliette Has A Gun поєднує мінімалізм із сучасною, часто мускусною чутливістю."
+    },
+    "website": "https://www.juliettehasagun.com"
+  },
+  {
+    "id": "escentric-molecules",
+    "name": "Escentric Molecules",
+    "slug": "escentric-molecules",
+    "type": "niche",
+    "country": "Germany",
+    "logo": "escentric-molecules.png",
+    "description": {
+      "pl": "Escentric Molecules bada pojedyncze molekuły zapachowe i ich wpływ na percepcję.",
+      "uk": "Escentric Molecules досліджує окремі парфумерні молекули та їхній вплив на сприйняття."
+    },
+    "website": "https://www.escentric.com"
+  },
+  {
+    "id": "mancera",
+    "name": "Mancera",
+    "slug": "mancera",
+    "type": "niche",
+    "country": "France",
+    "logo": "mancera.png",
+    "description": {
+      "pl": "Mancera tworzy niszowe, często wyraziste i długotrwałe kompozycje.",
+      "uk": "Mancera створює нішеві, часто виразні й стійкі композиції."
+    },
+    "website": "https://www.mancera-parfums.com"
+  },
+  {
+    "id": "montale",
+    "name": "Montale",
+    "slug": "montale",
+    "type": "niche",
+    "country": "France",
+    "logo": "montale.png",
+    "description": {
+      "pl": "Montale jest znany z intensywnych niszowych zapachów, w tym oudów i gourmandów.",
+      "uk": "Montale відомий інтенсивними нішевими ароматами, зокрема удами та гурманськими."
+    },
+    "website": "https://www.montaleparfums.com"
+  },
+  {
+    "id": "nishane",
+    "name": "Nishane",
+    "slug": "nishane",
+    "type": "niche",
+    "country": "Turkey",
+    "logo": "nishane.png",
+    "description": {
+      "pl": "Nishane to stambulski dom niszowy tworzący bogate extrait.",
+      "uk": "Nishane — стамбульський нішевий дім, що створює багаті extrait."
+    },
+    "website": "https://www.nishane.com"
+  },
+  {
+    "id": "tiziana-terenzi",
+    "name": "Tiziana Terenzi",
+    "slug": "tiziana-terenzi",
+    "type": "niche",
+    "country": "Italy",
+    "logo": "tiziana-terenzi.png",
+    "description": {
+      "pl": "Tiziana Terenzi tworzy narracyjne niszowe zapachy inspirowane podróżą i emocją.",
+      "uk": "Tiziana Terenzi створює наративні нішеві аромати, натхненні подорожжю та емоцією."
+    },
+    "website": "https://www.tizianaterenzi.com"
+  },
+  {
+    "id": "memo-paris",
+    "name": "Memo Paris",
+    "slug": "memo-paris",
+    "type": "niche",
+    "country": "France",
+    "logo": "memo-paris.png",
+    "description": {
+      "pl": "Memo Paris tworzy podróżnicze niszowe zapachy łączące skórę i orientalne akordy.",
+      "uk": "Memo Paris створює мандрівні нішеві аромати, що поєднують шкіру та східні акорди."
+    },
+    "website": "https://www.memoparis.com"
+  },
+  {
+    "id": "nasomatto",
+    "name": "Nasomatto",
+    "slug": "nasomatto",
+    "type": "niche",
+    "country": "Netherlands",
+    "logo": "nasomatto.png",
+    "description": {
+      "pl": "Nasomatto tworzy intensywne, eksperymentalne extrait o mocnej osobowości.",
+      "uk": "Nasomatto створює інтенсивні експериментальні extrait із сильною особистістю."
+    },
+    "website": "https://www.nasomatto.com"
+  },
+  {
+    "id": "maison-crivelli",
+    "name": "Maison Crivelli",
+    "slug": "maison-crivelli",
+    "type": "niche",
+    "country": "France",
+    "logo": "maison-crivelli.png",
+    "description": {
+      "pl": "Maison Crivelli tworzy współczesne niszowe zapachy o kontrastowych akordach.",
+      "uk": "Maison Crivelli створює сучасні нішеві аромати з контрастними акордами."
+    },
+    "website": "https://www.maisoncrivelli.com"
+  },
+  {
+    "id": "essential-parfums",
+    "name": "Essential Parfums",
+    "slug": "essential-parfums",
+    "type": "niche",
+    "country": "France",
+    "logo": "essential-parfums.png",
+    "description": {
+      "pl": "Essential Parfums oferuje przejrzyste, współczesne niszowe kompozycje.",
+      "uk": "Essential Parfums пропонує прозорі сучасні нішеві композиції."
+    },
+    "website": "https://www.essentialparfums.com"
+  },
+  {
+    "id": "marc-antoine-barrois",
+    "name": "Marc-Antoine Barrois",
+    "slug": "marc-antoine-barrois",
+    "type": "niche",
+    "country": "France",
+    "logo": "marc-antoine-barrois.png",
+    "description": {
+      "pl": "Marc-Antoine Barrois tworzy wyrafinowane niszowe zapachy z Quentinem Bisch.",
+      "uk": "Marc-Antoine Barrois створює витончені нішеві аромати з Quentin Bisch."
+    },
+    "website": "https://www.marcantoinebarrois.com"
+  },
+  {
+    "id": "glossier",
+    "name": "Glossier",
+    "slug": "glossier",
+    "type": "luxury",
+    "country": "United States",
+    "logo": "glossier.png",
+    "description": {
+      "pl": "Glossier to współczesna marka beauty znana z miękkiego skórnego zapachu You.",
+      "uk": "Glossier — сучасний beauty-бренд, відомий м’яким шкірним ароматом You."
+    },
+    "website": "https://www.glossier.com"
+  }
+]

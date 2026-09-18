@@ -1,0 +1,38 @@
+{
+  "name": "AromaShop",
+  "currency": "zł",
+  "locale": {
+    "pl": "pl-PL",
+    "uk": "uk-UA"
+  },
+  "defaultLang": "pl",
+  "supportedLangs": ["pl", "uk"],
+  "contacts": {
+    "email": "orders@aromashop.pl",
+    "phone": "+48 000 000 000",
+    "telegram": "https://t.me/aromashop",
+    "whatsapp": "https://wa.me/48000000000",
+    "instagram": ""
+  },
+  "logo": {
+    "enabled": true,
+    "src": "aromashop-logo.png",
+    "compact": "aromashop-log_kolo.png",
+    "light": "aromashop-logo-light.png",
+    "favicon": "/favicon.svg",
+    "alt": "AromaShop — Original Luxury & Niche Fragrances"
+  },
+  "images": {
+    "perfumePlaceholder": "/assets/brand/perfume-placeholder.svg",
+    "home": {
+      "hero": "hero.jpg",
+      "selected": "selected.jpg",
+      "journal": "journal.jpg",
+      "authenticity": "authenticity.jpg"
+    }
+  },
+  "watermark": {
+    "enabled": false,
+    "src": "aromashop-logo.png"
+  }
+}
