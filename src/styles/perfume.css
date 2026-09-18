@@ -183,6 +183,13 @@
   max-width: 100%;
   min-width: 0;
   box-sizing: border-box;
+
+  position: sticky;
+  top: calc(var(--header-height) + 1rem);
+
+  max-height: calc(100vh - var(--header-height) - 2rem);
+  overflow-y: auto;
+  align-self: start;
 }
 
 .filter-group {
@@ -285,10 +292,7 @@
     display: none;
   }
 
-  .filter-panel {
-    position: sticky;
-    top: calc(var(--header-height) + 1rem);
-  }
+  
 
   .perfume-grid {
     grid-template-columns: repeat(3, minmax(0, 1fr));

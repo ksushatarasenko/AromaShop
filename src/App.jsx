@@ -13,6 +13,7 @@ import About from './pages/About.jsx';
 import Authenticity from './pages/Authenticity.jsx';
 import Note from './pages/Note.jsx';
 import Cart from './pages/Cart.jsx';
+import ScrollToTop from './components/ScrollToTop.jsx';
 
 function LanguageGate() {
   const { lang } = useParams();
@@ -62,6 +63,8 @@ function LocalizedRoutes() {
 export default function App() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL.replace(/\/$/, '')}>
+      <ScrollToTop />
+
       <CartProvider>
         <Routes>
           <Route path="/" element={<Navigate to={`/${DEFAULT_LANG}`} replace />} />
