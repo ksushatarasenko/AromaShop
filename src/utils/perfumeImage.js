@@ -1,12 +1,34 @@
 import { site, getBrandById } from '../data/index.js';
 
+const BASE_URL = import.meta.env.BASE_URL;
+
 const ASSETS = {
-  perfumes: '/assets/perfumes',
-  brands: '/assets/brands',
-  journal: '/assets/journal',
-  home: '/assets/home',
-  brand: '/assets/brand',
+  perfumes: `${BASE_URL}assets/perfumes`,
+  brands: `${BASE_URL}assets/brands`,
+  journal: `${BASE_URL}assets/journal`,
+  home: `${BASE_URL}assets/home`,
+  brand: `${BASE_URL}assets/brand`,
 };
+
+function withBasePath(path) {
+  if (!path) return path;
+
+  const value = String(path);
+
+  if (value.startsWith('http://') || value.startsWith('https://')) {
+    return value;
+  }
+
+  if (value.startsWith(BASE_URL)) {
+    return value;
+  }
+
+  if (value.startsWith('/')) {
+    return `${BASE_URL}${value.slice(1)}`;
+  }
+
+  return `${BASE_URL}${value}`;
+}
 
 /**
  * Preferred order: PNG first, then other still formats for fallback.
@@ -61,9 +83,14 @@ export function getPerfumeAssetDir(perfume) {
  */
 export function perfumeFileUrl(perfume, filename) {
   if (!filename) return null;
-  if (String(filename).startsWith('/')) return filename;
+
+  if (String(filename).startsWith('/')) {
+    return withBasePath(filename);
+  }
+
   const dir = getPerfumeAssetDir(perfume);
   if (!dir) return null;
+
   return `${dir}/${filename}`;
 }
 
@@ -87,9 +114,9 @@ export function getPerfumeImage(perfume, imageName = 'main') {
 }
 
 export function getPlaceholderImage() {
-  return (
+  return withBasePath(
     site.images?.perfumePlaceholder ||
-    `${ASSETS.brand}/perfume-placeholder.svg`
+      `${ASSETS.brand}/perfume-placeholder.svg`
   );
 }
 

@@ -1,7 +1,28 @@
 import { site } from '../data/index.js';
 import { IMAGE_EXTENSIONS } from './perfumeImage.js';
 
-const NOTES_ASSETS = '/assets/notes';
+const BASE_URL = import.meta.env.BASE_URL;
+const NOTES_ASSETS = `${BASE_URL}assets/notes`;
+
+function withBasePath(path) {
+  if (!path) return path;
+
+  const value = String(path);
+
+  if (value.startsWith('http://') || value.startsWith('https://')) {
+    return value;
+  }
+
+  if (value.startsWith(BASE_URL)) {
+    return value;
+  }
+
+  if (value.startsWith('/')) {
+    return `${BASE_URL}${value.slice(1)}`;
+  }
+
+  return `${BASE_URL}${value}`;
+}
 
 function unique(list) {
   return [...new Set(list.filter(Boolean))];
@@ -13,15 +34,19 @@ function stripExtension(filename) {
 
 function noteFileUrl(filename) {
   if (!filename) return null;
-  if (filename.startsWith('/')) return filename;
+
+  if (filename.startsWith('/')) {
+    return withBasePath(filename);
+  }
+
   return `${NOTES_ASSETS}/${filename}`;
 }
 
 export function getNotePlaceholderImage() {
-  return (
+  return withBasePath(
     site.images?.notePlaceholder ||
-    site.images?.perfumePlaceholder ||
-    '/assets/brand/perfume-placeholder.svg'
+      site.images?.perfumePlaceholder ||
+      '/assets/brand/perfume-placeholder.svg'
   );
 }
 
