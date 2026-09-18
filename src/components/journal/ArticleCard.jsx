@@ -3,21 +3,42 @@ import JournalImage from './JournalImage.jsx';
 import { useLanguage } from '../../i18n/LanguageContext.jsx';
 
 export default function ArticleCard({ article }) {
-  const { t, tl } = useLanguage();
+  const { tl, t } = useLanguage();
 
   return (
     <article className="article-card">
-      <JournalImage article={article} className="article-card__image" />
-      <p className="article-card__category">{article.category}</p>
-      <h3>
-        <LocaleLink to="article" params={{ slug: article.slug }}>
+      <LocaleLink
+        to="article"
+        params={{ slug: article.slug }}
+        className="article-card__image-link"
+      >
+        <JournalImage
+          article={article}
+          className="article-card__image"
+        />
+      </LocaleLink>
+
+      <h3 className="article-card__title">
+        <LocaleLink
+          to="article"
+          params={{ slug: article.slug }}
+        >
           {tl(article.title)}
         </LocaleLink>
       </h3>
-      <p>{tl(article.excerpt)}</p>
-      <p className="article-meta">
-        {article.publishedAt} · {article.readTime} {t('journal.minRead')}
+
+      <p className="article-card__excerpt">
+        {tl(article.excerpt)}
       </p>
+
+      <LocaleLink
+        to="article"
+        params={{ slug: article.slug }}
+        className="article-card__read-more"
+      >
+        {t('home.readMore')}
+        <span aria-hidden="true">→</span>
+      </LocaleLink>
     </article>
   );
 }

@@ -8,13 +8,20 @@ import { ROUTE_SEGMENTS } from "../i18n/config.js";
 function renderArticleText(text, lang) {
   if (!text) return null;
 
-  const perfumeTagRegex = /<perfume>(.*?)<\/perfume>/gi;
+  /*
+   * Поддерживаем:
+   * <perfume>Brand Perfume</perfume>
+   * <strong>важный текст</strong>
+   */
+
+  const tagRegex = /<(perfume|strong)>(.*?)<\/\1>/gis;
+
   const parts = [];
   let lastIndex = 0;
   let match;
 
-  while ((match = perfumeTagRegex.exec(text)) !== null) {
-    // Обычный текст перед названием парфюма
+  while ((match = tagRegex.exec(text)) !== null) {
+    // Обычный текст перед тегом
     if (match.index > lastIndex) {
       parts.push({
         type: "text",
@@ -22,37 +29,57 @@ function renderArticleText(text, lang) {
       });
     }
 
-    const perfumeName = match[1].trim();
+    const tagName = match[1].toLowerCase();
+    const tagContent = match[2].trim();
 
-    // Ищем парфюм по названию
-    const perfume = allPerfumes.find((item) => {
-      const brand = brands.find((brand) => brand.id === item.brandId);
-
-      const fullName = `${brand?.name || ""} ${item.name || ""}`
-        .trim()
-        .toLowerCase();
-
-      return fullName === perfumeName.toLowerCase();
-    });
-
-    if (perfume) {
+    /*
+     * <strong>
+     */
+    if (tagName === "strong") {
       parts.push({
-        type: "perfume",
-        name: perfumeName,
-        id: perfume.id,
-      });
-    } else {
-      // Если парфюм не найден — оставляем название обычным текстом
-      parts.push({
-        type: "text",
-        value: perfumeName,
+        type: "strong",
+        value: tagContent,
       });
     }
 
-    lastIndex = perfumeTagRegex.lastIndex;
+    /*
+     * <perfume>
+     */
+    if (tagName === "perfume") {
+      const perfumeName = tagContent;
+
+      const perfume = allPerfumes.find((item) => {
+        const brand = brands.find(
+          (brand) => brand.id === item.brandId
+        );
+
+        const fullName = `${brand?.name || ""} ${item.name || ""}`
+          .trim()
+          .toLowerCase();
+
+        return fullName === perfumeName.toLowerCase();
+      });
+
+      if (perfume) {
+        parts.push({
+          type: "perfume",
+          name: perfumeName,
+          id: perfume.id,
+        });
+      } else {
+        // Если парфюм не найден,
+        // оставляем его обычным текстом
+        parts.push({
+          type: "text",
+          value: perfumeName,
+        });
+      }
+    }
+
+    lastIndex = tagRegex.lastIndex;
   }
 
-  // Оставшийся текст после последнего <perfume>
+  // Текст после последнего тега
   if (lastIndex < text.length) {
     parts.push({
       type: "text",
@@ -60,7 +87,7 @@ function renderArticleText(text, lang) {
     });
   }
 
-  // Если в тексте вообще нет <perfume>
+  // Если тегов вообще нет
   if (parts.length === 0) {
     return text;
   }
@@ -68,6 +95,20 @@ function renderArticleText(text, lang) {
   const perfumeRoute = ROUTE_SEGMENTS[lang].perfume;
 
   return parts.map((part, index) => {
+    /*
+     * Жирный текст
+     */
+    if (part.type === "strong") {
+      return (
+        <strong key={index}>
+          {part.value}
+        </strong>
+      );
+    }
+
+    /*
+     * Ссылка на парфюм
+     */
     if (part.type === "perfume") {
       return (
         <Link
@@ -82,7 +123,18 @@ function renderArticleText(text, lang) {
       );
     }
 
-    return <span key={index}>{part.value}</span>;
+    /*
+     * Обычный текст
+     *
+     * dangerouslySetInnerHTML здесь НЕ используем.
+     * Поэтому HTML из текста не сможет случайно
+     * превратиться в настоящий HTML.
+     */
+    return (
+      <span key={index}>
+        {part.value}
+      </span>
+    );
   });
 }
 
@@ -95,7 +147,11 @@ export default function Article() {
     return (
       <div className="page container">
         <h1>{t("journal.notFound")}</h1>
-        <LocaleLink to="journal" className="btn btn--text">
+
+        <LocaleLink
+          to="journal"
+          className="btn btn--text"
+        >
           {t("journal.back")}
         </LocaleLink>
       </div>
@@ -104,31 +160,53 @@ export default function Article() {
 
   return (
     <div className="page">
-      <SEO title={tl(article.title)} description={tl(article.excerpt)} />
+      <SEO
+        title={tl(article.title)}
+        description={tl(article.excerpt)}
+      />
 
       <article className="container container--editorial">
         <header className="page-header">
-          <p className="eyebrow">{article.category}</p>
+          <p className="eyebrow">
+            {article.category}
+          </p>
 
-          <h1>{tl(article.title)}</h1>
+          <h1>
+            {tl(article.title)}
+          </h1>
 
           <p className="article-meta">
-            {article.publishedAt} · {article.readTime} {t("journal.minRead")}
+            {article.publishedAt} · {article.readTime}{" "}
+            {t("journal.minRead")}
           </p>
         </header>
 
         <div className="article-body">
           {article.content.map((block, index) => {
             if (block.type === "heading") {
-              return <h2 key={index}>{tl(block.text)}</h2>;
+              return (
+                <h2 key={index}>
+                  {tl(block.text)}
+                </h2>
+              );
             }
 
-            return <p key={index}>{renderArticleText(tl(block.text), lang)}</p>;
+            return (
+              <p key={index}>
+                {renderArticleText(
+                  tl(block.text),
+                  lang
+                )}
+              </p>
+            );
           })}
         </div>
 
         <p style={{ marginTop: "3rem" }}>
-          <LocaleLink to="journal" className="btn btn--text">
+          <LocaleLink
+            to="journal"
+            className="btn btn--text"
+          >
             {t("journal.back")}
           </LocaleLink>
         </p>

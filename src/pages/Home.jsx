@@ -1,3 +1,5 @@
+import { useRef } from 'react';
+
 import SEO from '../components/common/SEO.jsx';
 import Button from '../components/common/Button.jsx';
 import SectionHeader from '../components/common/SectionHeader.jsx';
@@ -14,13 +16,31 @@ import {
 } from '../data/index.js';
 import { useLanguage } from '../i18n/LanguageContext.jsx';
 
+
 export default function Home() {
   const { t } = useLanguage();
+
+  const journalRef = useRef(null);
+
   const selected = getFeaturedPerfumes().slice(0, 4);
   const arrivals = getNewPerfumes().slice(0, 3);
   const luxury = getPerfumesByCollection('luxury').slice(0, 3);
   const niche = getPerfumesByCollection('niche').slice(0, 3);
-  const journal = articles.filter((a) => a.featured).slice(0, 3);
+
+  const journal = articles
+    .filter((a) => a.featured)
+    .slice(0, 6);
+
+  const scrollJournal = (direction) => {
+    if (!journalRef.current) return;
+
+    const amount = journalRef.current.clientWidth * 0.85;
+
+    journalRef.current.scrollBy({
+      left: direction === 'next' ? amount : -amount,
+      behavior: 'smooth',
+    });
+  };
 
   return (
     <>
@@ -43,6 +63,57 @@ export default function Home() {
         </div>
       </section>
 
+      {/* JOURNAL CAROUSEL */}
+      <section className="section journal-section">
+        <div className="container">
+
+          <div className="journal-carousel-header">
+            <SectionHeader
+              eyebrow={t('home.journalEyebrow')}
+              title={t('home.journalTitle')}
+              actionLabel={t('home.readMore')}
+              actionTo="journal"
+            />
+
+            <div className="journal-carousel-controls">
+              <button
+                type="button"
+                className="journal-carousel-arrow"
+                onClick={() => scrollJournal('prev')}
+                aria-label="Previous articles"
+              >
+                ←
+              </button>
+
+              <button
+                type="button"
+                className="journal-carousel-arrow"
+                onClick={() => scrollJournal('next')}
+                aria-label="Next articles"
+              >
+                →
+              </button>
+            </div>
+          </div>
+
+          <div
+            ref={journalRef}
+            className="journal-carousel"
+          >
+            {journal.map((article) => (
+              <div
+                className="journal-carousel__item"
+                key={article.id}
+              >
+                <ArticleCard article={article} />
+              </div>
+            ))}
+          </div>
+
+        </div>
+      </section>
+
+{/* container */}
       <section className="section">
         <div className="container">
           <SectionHeader
@@ -109,7 +180,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="section">
+      {/* <section className="section">
         <div className="container">
           <SectionHeader
             eyebrow={t('home.journalEyebrow')}
@@ -123,7 +194,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       <section className="section section--tight">
         <div className="container">

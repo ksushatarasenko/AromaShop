@@ -1,54 +1,372 @@
 [
   {
-    "id": "perfume-notes-explained",
-    "slug": "perfume-notes-explained",
-    "category": "notes",
-    "publishedAt": "2026-09-12",
-    "readTime": 7,
+    "id": "autumn-2026",
+    "slug": "autumn-2026",
+    "category": "seasonal",
+    "publishedAt": "2026-09-18",
+    "readTime": 10,
     "featured": true,
-    "tags": ["notes", "education", "pyramid"],
+    "image": "autumn-2026.jpg",
+    "tags": [
+      "autumn-2026",
+      "seasonal",
+      "selection",
+      "gourmand",
+      "dark-fruits",
+      "vanilla",
+      "woody",
+      "niche",
+      "luxury"
+    ],
     "title": {
-      "pl": "Nuty perfumeryjne: język, który warto nauczyć się czytać",
-      "uk": "Парфумерні ноти: мова, яку варто навчитися читати"
+      "pl": "Jesień 2026: zapachy, które mają charakter",
+      "uk": "Осінь 2026: аромати, які мають характер"
     },
     "excerpt": {
-      "pl": "Bergamotka, irys, ambra, piżmo… Co naprawdę kryje się za nazwą nuty i dlaczego ta sama nuta potrafi zabrzmieć zupełnie inaczej w dwóch zapachach?",
-      "uk": "Бергамот, ірис, амбра, мускус… Що насправді стоїть за назвою ноти і чому одна й та сама нота може звучати зовсім по-різному у двох ароматах?"
+      "pl": "Jesień 2026 nie pachnie już po prostu wanilią. To sezon mlecznych gourmandów, ciemnych owoców, skóry, drewna, tytoniu i słodyczy przełamanej czymś nieoczywistym.",
+      "uk": "Осінь 2026 вже не пахне просто ваніллю. Це сезон молочних gourmand-ароматів, темних фруктів, шкіри, дерева, тютюну та солодкості, яку врівноважує щось несподіване."
     },
     "content": [
       {
         "type": "paragraph",
         "text": {
-          "pl": "Lista nut na karcie perfum jest jak mapa. Pokazuje kierunek, ale nie opowiada całej podróży. Bergamotka nie zawsze oznacza cytrusową świeżość, wanilia nie zawsze jest słodka, a piżmo może być czyste, pudrowe, kremowe albo niemal niewyczuwalne.",
-          "uk": "Список нот на картці парфумів — це карта. Вона показує напрямок, але не розповідає всю подорож. Бергамот не завжди означає цитрусову свіжість, ваніль не завжди солодка, а мускус може бути чистим, пудровим, кремовим або майже невловимим."
-        }
-      },
-      {
-        "type": "heading",
-        "text": {
-          "pl": "Najpierw: nuta nie jest pojedynczym zapachem",
-          "uk": "Спочатку: нота — це не один-єдиний запах"
+          "pl": "Jest taki moment na początku jesieni, kiedy lato jeszcze nie zdążyło całkiem odejść, ale powietrze nagle pachnie inaczej. Chłodniej. Głębiej. Bardziej miękko. Zmieniamy lekkie ubrania na płaszcze, kawę pijemy dłużej, a wieczory zaczynają mieć zupełnie inny rytm.",
+          "uk": "Є такий момент на початку осені, коли літо ще не встигло повністю піти, але повітря раптом пахне інакше. Прохолодніше. Глибше. М’якше. Ми змінюємо легкий одяг на пальта, довше п’ємо каву, а вечори набувають зовсім іншого ритму."
         }
       },
       {
         "type": "paragraph",
         "text": {
-          "pl": "W perfumerii nazwa nuty może oznaczać naturalny składnik, materiał aromatyczny albo efekt uzyskany przez połączenie wielu molekuł. Dlatego „róża” w dwóch kompozycjach może opowiadać dwie zupełnie różne historie.",
-          "uk": "У парфумерії назва ноти може означати натуральний інгредієнт, ароматичний матеріал або ефект, створений поєднанням багатьох молекул. Тому «троянда» у двох композиціях може розповідати дві зовсім різні історії."
-        }
-      },
-      {
-        "type": "heading",
-        "text": {
-          "pl": "Głowa, serce i baza",
-          "uk": "Верх, серце і база"
+          "pl": "I właśnie wtedy zmieniają się również perfumy. Jesień 2026 nie chce już jednak tylko ciężkich żywic, dymu i bardzo słodkiej wanilii. Najciekawsze kompozycje tego sezonu grają kontrastem: mleko spotyka pieprz, karmel drewno, śliwka skórę, wanilia tytoń, a kwiaty ciemne owoce.",
+          "uk": "І саме тоді змінюються й парфуми. Але осінь 2026 більше не хоче лише важких смол, диму та дуже солодкої ванілі. Найцікавіші композиції цього сезону грають на контрастах: молоко зустрічається з перцем, карамель — із деревом, слива — зі шкірою, ваніль — із тютюном, а квіти — з темними фруктами."
         }
       },
       {
         "type": "paragraph",
         "text": {
-          "pl": "Nuty głowy tworzą pierwsze sekundy i minuty. Serce pojawia się, gdy otwarcie zaczyna się uspokajać. Baza zostaje z Tobą najdłużej. Właśnie dlatego test na pasku po kilku sekundach może być ciekawy, ale jeszcze nie jest odpowiedzią.",
-          "uk": "Верхні ноти створюють перші секунди й хвилини. Серце проявляється, коли старт композиції починає заспокоюватися. База залишається з вами найдовше. Саме тому тест на блотері через кілька секунд може бути цікавим, але це ще не відповідь."
+          "pl": "To właśnie dlatego tegoroczna jesień jest tak interesująca. Gourmand dojrzewa, owoce stają się ciemniejsze, skóra mięknie, a drewno przestaje być chłodne i surowe. Liczy się nie sama nuta, ale to, z czym zostanie połączona.",
+          "uk": "Саме тому цьогорічна осінь така цікава. Gourmand стає дорослішим, фрукти — темнішими, шкіра — м’якшою, а дерево перестає бути холодним і суворим. Важлива вже не сама нота, а те, з чим її поєднали."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Mleko, karmel i gourmand 2.0",
+          "uk": "Молоко, карамель і Gourmand 2.0"
+        }
+      },
+      {
+        "type": "story",
+        "text": {
+          "pl": "Jednym z najmocniejszych kierunków jesieni 2026 jest <strong>Gourmand 2.0</strong>. Słodkie zapachy nadal są pożądane, ale przestają pachnieć jak prosty deser. Wanilia, karmel, mleko czy tonka dostają nowe towarzystwo: pieprz, przyprawy, drewno, piżmo, tytoń albo ambrowe molekuły. Dzięki temu słodycz staje się bardziej wyrafinowana i zdecydowanie bardziej uzależniająca.",
+          "uk": "Один із найсильніших напрямів осені 2026 — <strong>Gourmand 2.0</strong>. Солодкі аромати все ще бажані, але вони вже не пахнуть просто десертом. Ваніль, карамель, молоко чи тонка отримують нових партнерів: перець, прянощі, дерево, мускус, тютюн або амброві молекули. Завдяки цьому солодкість стає більш витонченою і значно цікавішою."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>BORNTOSTANDOUT Dirty Milk</perfume> pokazuje tę tendencję bez żadnych zahamowań. Mleko, karmel i mleko skondensowane spotykają się z czarnym pieprzem, Akigalawood, wanilią i tonką. To nie jest niewinny, słodki zapach. Jest kremowy, miękki i jednocześnie trochę niegrzeczny.",
+          "uk": "<perfume>BORNTOSTANDOUT Dirty Milk</perfume> показує цей напрям без жодних компромісів. Молоко, карамель і згущене молоко зустрічаються з чорним перцем, Akigalawood, ваніллю та тонкою. Це не невинний солодкий аромат. Він кремовий, м’який і водночас трохи зухвалий."
+        }
+      },
+      {
+        "type": "story",
+        "text": {
+          "pl": "<perfume>Essential Parfums Ambre Latte</perfume> wybiera bardziej elegancką drogę. Mleko migdałowe, dulce de leche, wanilia i prażona tonka tworzą kremową, niemal apetyczną miękkość, ale pod nią pojawiają się ambrowe i drzewne molekuły. To gourmand, który za chwilę może przestać pachnieć jak deser, a zacząć pachnieć jak ciepła skóra i kaszmirowy sweter.",
+          "uk": "<perfume>Essential Parfums Ambre Latte</perfume> обирає більш елегантний шлях. Мигдальне молоко, dulce de leche, ваніль і підсмажена тонка створюють кремову, майже апетитну м’якість, але під нею з’являються амброві та деревні молекули. Це gourmand, який за мить перестає нагадувати десерт і починає пахнути теплою шкірою та кашеміровим светром."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Ciemne owoce wychodzą z lata",
+          "uk": "Темні фрукти виходять із літа"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Latem owoce są jasne, soczyste i pełne światła. Jesienią robią się głębsze. Śliwka, czarna wiśnia, czarna porzeczka, figa czy ciemne jagody stają się bardziej aksamitne, tajemnicze i zmysłowe. To jeden z najbardziej charakterystycznych kierunków sezonu 2026.",
+          "uk": "Влітку фрукти яскраві, соковиті та наповнені світлом. Восени вони стають глибшими. Слива, чорна вишня, чорна смородина, інжир і темні ягоди набувають оксамитового, загадкового та чуттєвого звучання. Це один із найхарактерніших напрямів сезону 2026."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>Byredo Bibliothèque</perfume> jest niemal definicją tego nastroju. Śliwka spotyka fiołek, skórzany akord, brzozowe drewno, paczulę i wanilię. Powstaje zapach przypominający starą bibliotekę po zmroku — miękki, lekko pudrowy, skórzany i niezwykle atmosferyczny.",
+          "uk": "<perfume>Byredo Bibliothèque</perfume> — майже ідеальне втілення цього настрою. Слива зустрічається з фіалкою, шкіряним акордом, березовою деревиною, пачулі та ваніллю. Виникає аромат старої бібліотеки після заходу сонця — м’який, трохи пудровий, шкіряний і надзвичайно атмосферний."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>Parfums de Marly Delina Exclusif</perfume> pokazuje ciemniejszą stronę kobiecej róży. Soczyste liczi i gruszka otwierają kompozycję, ale szybko pojawia się róża damasceńska, kadzidło, wanilia, piżmo i fasola tonka. To róża po zmroku — bardziej aksamitna, głęboka i zmysłowa.",
+          "uk": "<perfume>Parfums de Marly Delina Exclusif</perfume> показує темнішу сторону жіночої троянди. Соковиті лічі та груша відкривають композицію, але дуже швидко з’являються дамаська троянда, ладан, ваніль, мускус і боби тонка. Це троянда після заходу сонця — більш оксамитова, глибока та чуттєва."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Skóra, drewno i jesienny charakter",
+          "uk": "Шкіра, дерево та осінній характер"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Drugim ważnym kierunkiem sezonu jest tekstura. Skóra i zamsz nie muszą już być ciężkie ani agresywne. Coraz częściej pojawiają się w otoczeniu wanilii, owoców, piżma i miękkich drewien. Dzięki temu pachną bardziej jak materiał, którego chce się dotknąć — jak zamszowa kurtka, skórzany fotel albo kaszmirowy płaszcz.",
+          "uk": "Другий важливий напрям сезону — текстура. Шкіра та замша більше не повинні бути важкими чи агресивними. Все частіше вони з’являються поруч із ваніллю, фруктами, мускусом і м’якими деревними нотами. Завдяки цьому вони нагадують матеріал, до якого хочеться доторкнутися — замшеву куртку, шкіряне крісло або кашемірове пальто."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>YSL Le Vestiaire des Parfums Caban</perfume> pokazuje bardziej elegancką, wytrawną stronę jesieni. Pieprz, ambra, drewno i kremowe akcenty tworzą kompozycję, która nie potrzebuje cukru, żeby być ciepła i otulająca.",
+          "uk": "<perfume>YSL Le Vestiaire des Parfums Caban</perfume> показує більш елегантну та стриману сторону осені. Перець, амбра, дерево та кремові акценти створюють композицію, якій не потрібна солодкість, щоб бути теплою та огортаючою."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>Penhaligon's The Blazing Mister Sam</perfume> idzie jeszcze dalej w stronę przypraw i drewna. Czarny pieprz, kardamon, cedr i paczula tworzą zapach o wyraźnej osobowości — ciepły, elegancki i zdecydowany. To propozycja dla tych, którzy lubią, kiedy perfumy wchodzą do pomieszczenia razem z nimi.",
+          "uk": "<perfume>Penhaligon's The Blazing Mister Sam</perfume> іде ще далі в бік прянощів та дерева. Чорний перець, кардамон, кедр і пачулі створюють аромат із виразною індивідуальністю — теплий, елегантний і впевнений. Це вибір для тих, хто любить, коли парфуми заходять у кімнату разом із ними."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Czekolada i tytoń — jesień po zmroku",
+          "uk": "Шоколад і тютюн — осінь після заходу сонця"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Jeśli istnieje zapachowy moment, który naprawdę kojarzy się z późną jesienią, to jest nim połączenie tytoniu, ciemnej czekolady, przypraw i ciepłego drewna. W 2026 roku ten kierunek dostał wyjątkowo nowoczesną odsłonę.",
+          "uk": "Якщо існує ароматний момент, який по-справжньому нагадує пізню осінь, то це поєднання тютюну, темного шоколаду, прянощів і теплого дерева. У 2026 році цей напрям отримав особливо сучасне звучання."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>Tom Ford Tobacco Chocolat</perfume> łączy bogactwo ciemnej czekolady i kakao z tytoniem, pomarańczą, paczulą, balsamiczną głębią i Ambrofix. To gourmand, który nie chce pachnieć jak deser. Bardziej przypomina wieczorny rytuał — ciemny, ciepły i luksusowy.",
+          "uk": "<perfume>Tom Ford Tobacco Chocolat</perfume> поєднує насиченість темного шоколаду та какао з тютюном, апельсином, пачулі, бальзамічною глибиною та Ambrofix. Це gourmand, який не хоче пахнути просто десертом. Він радше нагадує вечірній ритуал — темний, теплий і розкішний."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>Tom Ford Tobacco Vanille</perfume> pozostaje jednym z najbardziej charakterystycznych przykładów tego kierunku. Tytoń, wanilia, tonka i kakao tworzą zapach przypominający elegancki klub po zmroku, ciepłe drewno i słodki dym unoszący się w powietrzu.",
+          "uk": "<perfume>Tom Ford Tobacco Vanille</perfume> залишається одним із найхарактерніших прикладів цього напряму. Тютюн, ваніль, тонка та какао створюють аромат, що нагадує елегантний клуб після заходу сонця, тепле дерево та солодкий дим у повітрі."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "A jeśli nie chcesz ciężkiej jesieni?",
+          "uk": "А якщо ви не хочете важкої осені?"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Jesień nie oznacza obowiązku noszenia ciężkich perfum. Właśnie dlatego w naszej selekcji zostawiliśmy również zapach, który pokazuje spokojniejszą stronę sezonu.",
+          "uk": "Осінь не означає, що потрібно обов’язково носити важкі парфуми. Саме тому в нашій добірці є аромат, який показує спокійнішу сторону сезону."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<perfume>Vilhelm Parfumerie Dear Polly</perfume> łączy herbatę, cytrusy, jabłko, piżmo i drewno. Jest bardziej intymny niż monumentalny, bardziej miękki niż ciężki. To zapach na jesienne poranki, pracę, kawiarnię, spacer i te dni, kiedy chcesz pachnieć pięknie, ale nie chcesz dominować przestrzeni.",
+          "uk": "<perfume>Vilhelm Parfumerie Dear Polly</perfume> поєднує чай, цитруси, яблуко, мускус і дерево. Він більш інтимний, ніж монументальний, більш м’який, ніж важкий. Це аромат для осіннього ранку, роботи, кав’ярні, прогулянки та тих днів, коли хочеться пахнути красиво, але не заповнювати собою весь простір."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "5 luksusowych. 5 niszowych. Jedna jesień.",
+          "uk": "5 люксових. 5 нішевих. Одна осінь."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "W tym sezonie nie ma jednego właściwego sposobu na jesienny zapach. Możesz wybrać kremowe mleko i karmel. Możesz pójść w stronę ciemnej śliwki i skóry. Możesz otulić się tytoniem i wanilią albo wybrać herbatę i miękkie drewno.",
+          "uk": "Цього сезону немає одного правильного осіннього аромату. Ви можете обрати кремове молоко та карамель. Можете піти в бік темної сливи та шкіри. Можете огорнути себе тютюном і ваніллю або обрати чай та м’яке дерево."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "W naszej selekcji spotykają się zarówno luksusowe kompozycje <perfume>Tom Ford Tobacco Chocolat</perfume>, <perfume>Tom Ford Tobacco Vanille</perfume>, <perfume>Byredo Bibliothèque</perfume>, <perfume>Dior Bois d'Argent</perfume> i <perfume>YSL Caban</perfume>, jak i niszowe historie <perfume>BORNTOSTANDOUT Dirty Milk</perfume>, <perfume>Essential Parfums Ambre Latte</perfume>, <perfume>Delina Exclusif</perfume>, <perfume>Penhaligon's The Blazing Mister Sam</perfume> oraz <perfume>Vilhelm Parfumerie Dear Polly</perfume>.",
+          "uk": "У нашій добірці зустрічаються як люксові композиції <perfume>Tom Ford Tobacco Chocolat</perfume>, <perfume>Tom Ford Tobacco Vanille</perfume>, <perfume>Byredo Bibliothèque</perfume>, <perfume>Dior Bois d'Argent</perfume> та <perfume>YSL Caban</perfume>, так і нішеві історії <perfume>BORNTOSTANDOUT Dirty Milk</perfume>, <perfume>Essential Parfums Ambre Latte</perfume>, <perfume>Delina Exclusif</perfume>, <perfume>Penhaligon's The Blazing Mister Sam</perfume> та <perfume>Vilhelm Parfumerie Dear Polly</perfume>."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Nie wybieraj perfum. Wybierz swoją jesień.",
+          "uk": "Не обирайте просто парфуми. Оберіть свою осінь."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Bo najlepszy jesienny zapach nie musi być najbardziej intensywny, najdroższy ani najbardziej popularny. Powinien pasować do Ciebie.",
+          "uk": "Бо найкращий осінній аромат не обов’язково має бути найінтенсивнішим, найдорожчим чи найпопулярнішим. Він має підходити саме вам."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Do płaszcza zarzuconego na ramiona. Do pierwszej kawy wypitej przy chłodnym oknie. Do wieczoru, kiedy miasto pachnie mokrymi ulicami. Do randki, na której chcesz zostać zapamiętana. Do spokojnego wieczoru, kiedy jesteś tylko Ty, książka i ciepłe światło.",
+          "uk": "До пальта, накинутого на плечі. До першої кави біля прохолодного вікна. До вечора, коли місто пахне мокрими вулицями. До побачення, на якому хочеться залишитися в пам’яті. До тихого вечора, коли є лише ви, книжка й тепле світло."
+        }
+      },
+      {
+        "type": "story",
+        "text": {
+          "pl": "I najważniejsze: nie oceniaj zapachu po pierwszych kilku minutach. Jesienne kompozycje często mają przed sobą całą historię. Daj im czas, pozwól rozgrzać się na skórze i zobacz, co zostanie po godzinie.",
+          "uk": "І найважливіше: не оцінюйте аромат за першими кількома хвилинами. Осінні композиції часто мають цілу історію попереду. Дайте їм час, дозвольте їм розігрітися на шкірі й подивіться, що залишиться через годину."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Bo właśnie wtedy zaczynają się prawdziwe perfumy.</strong> Nie wtedy, gdy czujesz je pierwszy raz. Tylko wtedy, gdy po kilku godzinach nadal masz ochotę podnieść nadgarstek do nosa.",
+          "uk": "<strong>Бо саме тоді починаються справжні парфуми.</strong> Не тоді, коли ви відчуваєте їх уперше. А тоді, коли через кілька годин вам усе ще хочеться піднести зап’ястя до носа."
+        }
+      }
+    ]
+  },
+  {
+    "id": "perfume-notes-explained",
+    "slug": "perfume-notes-explained",
+    "category": "notes",
+    "publishedAt": "2026-09-12",
+    "readTime": 9,
+    "featured": true,
+    "image": "perfume-notes-explained.jpg",
+    "tags": ["notes", "education", "pyramid", "perfumery"],
+    "title": {
+      "pl": "Nuty perfumeryjne: język, który warto nauczyć się czytać",
+      "uk": "Парфумерні ноти: мова, яку варто навчитися читати"
+    },
+    "excerpt": {
+      "pl": "Bergamotka, irys, ambra, piżmo… Nazwy nut brzmią znajomo, ale za każdą z nich może kryć się zupełnie inny świat. Dowiedz się, jak czytać piramidę zapachu i dlaczego ta sama nuta potrafi zabrzmieć zupełnie inaczej w dwóch perfumach.",
+      "uk": "Бергамот, ірис, амбра, мускус… Назви нот здаються знайомими, але за кожною з них може ховатися зовсім інший світ. Дізнайтеся, як читати піраміду аромату і чому одна й та сама нота може звучати абсолютно по-різному у двох парфумах."
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Czytając opis perfum, często zatrzymujemy się na kilku znajomych słowach: wanilia, róża, bergamotka, piżmo, oud. Wydaje się, że już wiemy, czego się spodziewać. A potem spryskujemy skórę… i nagle zapach opowiada zupełnie inną historię.",
+          "uk": "Читаючи опис парфумів, ми часто зупиняємося на кількох знайомих словах: ваніль, троянда, бергамот, мускус, уд. Здається, що ми вже знаємо, чого очікувати. А потім наносимо аромат на шкіру… і раптом він розповідає зовсім іншу історію."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "I właśnie dlatego warto nauczyć się czytać nuty. Nie po to, aby przewidzieć zapach co do ostatniej kropli, lecz żeby zrozumieć jego kierunek, charakter i emocje, które może w sobie nieść.",
+          "uk": "І саме тому варто навчитися читати ноти. Не для того, щоб передбачити аромат до останньої краплі, а щоб зрозуміти його напрям, характер та емоції, які він може в собі нести."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Nuty to mapa, nie cały zapach",
+          "uk": "Ноти — це карта, а не весь аромат"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Lista nut na karcie perfum jest trochę jak mapa. Pokazuje kierunek, ale nie pokazuje całej podróży. Bergamotka może być jasna i musująca, ale w innym zapachu może stać się bardziej zielona, gorzka albo miękka. Wanilia może przypominać cukier i krem, ale może też być sucha, dymna, pudrowa lub niemal drzewna.",
+          "uk": "Список нот на картці парфумів — це своєрідна карта. Вона показує напрям, але не показує всю подорож. Бергамот може бути яскравим і іскристим, а в іншому ароматі — більш зеленим, гіркуватим або м’яким. Ваніль може нагадувати цукор і крем, але також може бути сухою, димною, пудровою або майже деревною."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Co więcej, nuta nie zawsze oznacza jeden konkretny składnik. W perfumerii może odnosić się do naturalnego surowca, pojedynczej substancji zapachowej albo całego efektu stworzonego przez połączenie wielu materiałów. Tak właśnie powstają akordy — połączenia, które razem tworzą wrażenie określonego zapachu.",
+          "uk": "Більше того, нота не завжди означає один конкретний інгредієнт. У парфумерії вона може означати натуральний матеріал, окрему ароматичну речовину або цілий ефект, створений поєднанням багатьох матеріалів. Саме так виникають акорди — поєднання, які разом створюють відчуття певного запаху."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego „róża” w dwóch kompozycjach może być zupełnie różna. Jedna może być świeża i świetlista, druga ciemna i aksamitna. Jedna romantyczna, druga niemal zmysłowo skórzana. Ta sama nazwa — zupełnie inna historia.",
+          "uk": "Тому «троянда» у двох композиціях може бути абсолютно різною. Одна — свіжою та світлою, інша — темною й оксамитовою. Одна — романтичною, інша — майже чуттєво-шкіряною. Та сама назва — зовсім інша історія."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Naturalne czy syntetyczne? To nie jest konkurs",
+          "uk": "Натуральне чи синтетичне? Це не змагання"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Warto też pozbyć się jednego z najczęstszych mitów: naturalne nie zawsze znaczy lepsze, a syntetyczne nie oznacza gorszego. Współczesna perfumeria korzysta z obu światów. Naturalne surowce mogą dawać niezwykle złożone, żywe niuanse, podczas gdy molekuły zapachowe pozwalają tworzyć efekty, których natura nie daje wprost, a także budować trwałość, przestrzeń i nowe tekstury.",
+          "uk": "Варто позбутися й одного з найпоширеніших міфів: натуральне не завжди означає краще, а синтетичне не означає гірше. Сучасна парфумерія використовує обидва світи. Натуральні матеріали можуть давати надзвичайно складні й живі нюанси, тоді як ароматичні молекули дозволяють створювати ефекти, яких природа не дає безпосередньо, а також формувати стійкість, простір і нові текстури."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "To właśnie z połączenia natury i chemii perfumiarz buduje swoją paletę. Tak jak malarz nie ogranicza się do jednego rodzaju farby, perfumiarz pracuje z wieloma materiałami, aby stworzyć jeden określony obraz zapachowy.",
+          "uk": "Саме з поєднання природи та хімії парфумер створює свою палітру. Так само як художник не обмежується одним видом фарби, парфумер працює з багатьма матеріалами, щоб створити один певний ароматичний образ."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Głowa, serce i baza — trzy akty jednej historii",
+          "uk": "Верх, серце і база — три акти однієї історії"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Klasyczna piramida zapachu dzieli kompozycję na nuty głowy, serca i bazy. To pomocny sposób opisywania tego, jak zapach może rozwijać się w czasie — ale nie należy traktować go jak dokładnego harmonogramu, w którym jedna nuta znika, a następna natychmiast zajmuje jej miejsce.",
+          "uk": "Класична піраміда аромату поділяє композицію на верхні ноти, серце та базу. Це зручний спосіб описати, як аромат може розвиватися з часом, але не варто сприймати її як точний розклад, у якому одна нота зникає, а наступна миттєво займає її місце."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Nuty głowy odpowiadają za pierwsze wrażenie — często są świeże, lekkie i bardziej lotne. Serce zaczyna wyraźniej pokazywać charakter kompozycji. Baza buduje dłuższe, głębsze wrażenie i pozostaje na skórze najdłużej. Poszczególne materiały mogą jednak być wyczuwalne w kilku fazach jednocześnie.",
+          "uk": "Верхні ноти формують перше враження — часто вони свіжі, легкі та більш леткі. Серце виразніше показує характер композиції. База створює довше, глибше звучання та найдовше залишається на шкірі. Водночас окремі матеріали можуть бути відчутними одразу в кількох фазах."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego test po kilku sekundach mówi Ci tylko, jak pachnie początek. Prawdziwie interesująca część może pojawić się dopiero później.",
+          "uk": "Тому тест через кілька секунд показує лише те, яким є початок. Найцікавіша частина може проявитися значно пізніше."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Dlaczego ta sama nuta pachnie inaczej?",
+          "uk": "Чому одна й та сама нота пахне по-різному?"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Wyobraź sobie wanilię. Sama w sobie może kojarzyć się z czymś kremowym, słodkim i ciepłym. Ale dodaj do niej tytoń, a pojawi się ciemniejsza głębia. Połącz ją z drewnem — stanie się bardziej sucha i elegancka. Z piżmem może być miękka i bliskoskórna. Z owocami — soczysta i apetyczna.",
+          "uk": "Уявіть ваніль. Сама по собі вона може нагадувати щось кремове, солодке й тепле. Але додайте до неї тютюн — і з’явиться темніша глибина. Поєднайте її з деревом — і вона стане сухішою та елегантнішою. З мускусом може бути м’якою та близькою до шкіри. З фруктами — соковитою й апетитною."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "To właśnie sąsiedztwo nut tworzy charakter. Perfumiarz nie układa listy składników jak przepis na ciasto. Buduje relacje między materiałami — kontrasty, przejścia, napięcia i harmonie.",
+          "uk": "Саме сусідство нот створює характер. Парфумер не складає список інгредієнтів, як рецепт торта. Він будує взаємозв’язки між матеріалами — контрасти, переходи, напругу та гармонію."
         }
       },
       {
@@ -61,15 +379,85 @@
       {
         "type": "paragraph",
         "text": {
-          "pl": "Zamiast pytać „czy lubię wanilię?”, spróbuj zapytać: „czy lubię wanilię w połączeniu z drewnem, piżmem, kawą albo owocami?”. To właśnie sąsiedztwo nut buduje charakter perfum.",
-          "uk": "Замість запитання «чи люблю я ваніль?» спробуйте запитати: «чи люблю я ваніль у поєднанні з деревом, мускусом, кавою або фруктами?». Саме сусідство нот створює характер парфумів."
+          "pl": "Zamiast pytać: „Czy lubię wanilię?”, spróbuj zapytać: „Czy lubię wanilię w połączeniu z drewnem, kawą, owocami, piżmem albo tytoniem?”. Zamiast: „Nie lubię róży” — sprawdź, czy nie chodzi tylko o świeżą, klasycznie kwiatową różę. Być może pokochasz różę z oud, pieprzem, skórą albo paczulą.",
+          "uk": "Замість запитання: «Чи люблю я ваніль?», спробуйте запитати: «Чи люблю я ваніль у поєднанні з деревом, кавою, фруктами, мускусом або тютюном?». Замість: «Я не люблю троянду» — спробуйте зрозуміти, можливо, справа лише у свіжій класичній квітковій троянді. Адже вам може сподобатися троянда з удом, перцем, шкірою або пачулі."
         }
       },
       {
         "type": "paragraph",
         "text": {
-          "pl": "W kolejnych artykułach będziemy rozkładać pojedyncze nuty na części pierwsze — tak, aby nazwa na karcie produktu zaczęła coś naprawdę znaczyć.",
-          "uk": "У наступних статтях ми будемо розбирати окремі ноти до найменших деталей — щоб назва на картці аромату почала для вас щось по-справжньому означати."
+          "pl": "Patrz również na całość. Jeśli widzisz wanilię, tonkę, karmel i mleko, prawdopodobnie możesz spodziewać się kremowego, gourmandowego kierunku. Jeśli pojawiają się oud, szafran, skóra i kadzidło, kompozycja może pójść w stronę ciemniejszą, bardziej suchą i orientalną. To wskazówki, nie gwarancja — ale bardzo dobra mapa przed pierwszym testem.",
+          "uk": "Дивіться також на всю картину. Якщо бачите ваніль, тонку, карамель і молоко, ймовірно, аромат рухатиметься у кремовому гурманському напрямі. Якщо з’являються уд, шафран, шкіра та ладан, композиція може стати темнішою, сухішою й більш східною. Це підказки, а не гарантія — але дуже хороша карта перед першим тестуванням."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Blotter mówi jedno. Twoja skóra — drugie.",
+          "uk": "Блотер говорить одне. Ваша шкіра — інше."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Perfumy warto testować zarówno na papierku, jak i na skórze. Blotter pomaga spokojnie porównać kilka kompozycji, ale skóra wnosi własne ciepło i chemię, przez co ten sam zapach może wydać się bardziej miękki, suchy, słodki albo intensywny.",
+          "uk": "Парфуми варто тестувати і на блотері, і на шкірі. Блотер допомагає спокійно порівняти кілька композицій, але шкіра додає власне тепло та хімію, через що той самий аромат може здаватися м’якшим, сухішим, солодшим або інтенсивнішим."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego daj zapachowi czas. Powąchaj go po kilku minutach. Wróć po godzinie. Jeśli możesz, sprawdź go jeszcze później. Czasem właśnie wtedy pojawia się nuta, której nie zauważyłeś na początku — i nagle rozumiesz, dlaczego perfumy zostały stworzone właśnie tak.",
+          "uk": "Тому дайте аромату час. Відчуйте його через кілька хвилин. Поверніться до нього через годину. Якщо є можливість — перевірте його ще пізніше. Іноді саме тоді проявляється нота, якої ви не помітили на початку, — і раптом стає зрозуміло, чому парфум створений саме таким."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Najważniejsze: nie ucz się nut na pamięć",
+          "uk": "Найважливіше: не вчіть ноти напам’ять"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Znajomość nut nie ma służyć temu, abyś potrafił odtworzyć formułę perfum. Ma pomóc Ci lepiej rozumieć własny gust.",
+          "uk": "Знання нот потрібне не для того, щоб ви могли відтворити формулу парфумів. Воно має допомогти вам краще зрозуміти власний смак."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Po pewnym czasie zaczniesz zauważać własne wzorce. Może odkryjesz, że wracasz do wanilii, ale tylko wtedy, gdy jest przełamana drewnem. Że lubisz różę, ale bardziej tę z pieprzem niż romantyczną. Że piżmo podoba Ci się wtedy, gdy jest czyste i miękkie. Albo że wszystkie Twoje ulubione zapachy mają w tle coś wspólnego — nawet jeśli wcześniej tego nie zauważałeś.",
+          "uk": "З часом ви почнете помічати власні закономірності. Можливо, ви виявите, що постійно повертаєтеся до ванілі, але лише тоді, коли вона врівноважена деревом. Що любите троянду, але більше ту, що звучить із перцем, ніж романтичну. Що мускус подобається вам, коли він чистий і м’який. Або що всі ваші улюблені аромати мають щось спільне — хоча раніше ви цього не помічали."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "I właśnie wtedy lista nut przestaje być listą. Zaczyna być językiem, dzięki któremu możesz powiedzieć: „Wiem, czego szukam”.",
+          "uk": "І саме тоді список нот перестає бути просто списком. Він стає мовою, якою ви можете сказати: «Я знаю, чого шукаю»."
+        }
+      },
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Zacznijmy czytać zapachy głębiej",
+          "uk": "Почнімо читати аромати глибше"
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "W kolejnych artykułach AromaShop będziemy zaglądać pod powierzchnię pojedynczych nut: skąd pochodzą, jak pachną w perfumerii, jak się je pozyskuje, z czym najlepiej się łączą i dlaczego potrafią zmieniać charakter całej kompozycji.",
+          "uk": "У наступних статтях AromaShop ми заглядатимемо під поверхню окремих нот: звідки вони походять, як звучать у парфумерії, як їх отримують, із чим вони найкраще поєднуються та чому здатні змінити характер усієї композиції."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Bo perfumy nie są listą nut. Są historią, którą te nuty opowiadają razem.</strong>",
+          "uk": "<strong>Бо парфуми — це не список нот. Це історія, яку ці ноти розповідають разом.</strong>"
         }
       }
     ]
@@ -79,8 +467,9 @@
     "slug": "how-to-choose-perfume",
     "category": "education",
     "publishedAt": "2026-09-13",
-    "readTime": 8,
+    "readTime": 10,
     "featured": true,
+    "image": "how-to-choose-perfume.jpg",
     "tags": ["choosing", "beginners", "skin", "tips"],
     "title": {
       "pl": "Jak wybrać perfumy? Daj im chwilę, zanim powiesz „tak”",
@@ -94,10 +483,18 @@
       {
         "type": "paragraph",
         "text": {
-          "pl": "Najczęstszy błąd przy wyborze perfum? Decyzja podjęta po pierwszym psiknięciu. W pierwszej chwili słyszysz przede wszystkim otwarcie kompozycji. Tymczasem prawdziwy charakter często pojawia się dopiero później.",
-          "uk": "Найпоширеніша помилка під час вибору парфумів? Рішення після першого розпилення. У першу мить ви чуєте насамперед старт композиції. А справжній характер часто з’являється пізніше."
+          "pl": "Jest taki moment w perfumerii: jedno psiknięcie, pierwszy oddech i nagle pojawia się myśl — <strong>„To jest to!”</strong> Albo odwrotnie: „Nie, absolutnie nie”. Problem w tym, że obie decyzje mogą być przedwczesne. Pierwsze sekundy pokazują tylko początek historii. A perfumy dopiero zaczynają ją opowiadać.",
+          "uk": "Є такий момент у парфумерії: одне розпилення, перший вдих — і раптом з’являється думка: <strong>«Ось воно!»</strong> Або навпаки: «Ні, точно не моє». Проблема в тому, що обидва рішення можуть бути передчасними. Перші секунди показують лише початок історії. А парфуми тільки починають її розповідати."
         }
       },
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Wybór perfum to nie konkurs na najlepsze pierwsze wrażenie. To spotkanie z zapachem, który powinien dobrze czuć się nie tylko w pierwszej minucie, ale również wtedy, gdy minie zachwyt nowością.",
+          "uk": "Вибір парфумів — це не конкурс на найкраще перше враження. Це знайомство з ароматом, який має подобатися не лише в першу хвилину, а й тоді, коли минає ефект новизни."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
@@ -105,13 +502,23 @@
           "uk": "Перша хвилина — це лише «добрий день»"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Spryskaj skórę i nie oceniaj od razu. Pozwól, aby alkohol odparował, a pierwsze nuty zaczęły ustępować miejsca sercu. Jeśli możesz, wróć do zapachu po 20–30 minutach, a następnie po kilku godzinach.",
-          "uk": "Нанесіть аромат на шкіру й не оцінюйте його одразу. Дайте спирту випаруватися, а першим нотам — поступитися місцем серцю. Якщо можете, поверніться до аромату через 20–30 хвилин, а потім ще через кілька годин."
+          "pl": "Po rozpyleniu na skórze najpierw pojawia się otwarcie kompozycji. Może być jasne, cytrusowe, soczyste, ostre, zielone albo bardzo intensywne. To moment, który potrafi zrobić ogromne wrażenie — ale nie zawsze mówi najwięcej o tym, jak perfumy będą pachnieć później.",
+          "uk": "Після нанесення на шкіру спочатку з’являється старт композиції. Він може бути яскравим, цитрусовим, соковитим, гострим, зеленим або дуже насиченим. Саме цей момент часто справляє найбільше враження — але не завжди розповідає найважливіше про те, якими парфуми стануть згодом."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego nie spiesz się z werdyktem. Pozwól alkoholowi odparować i daj kompozycji kilka chwil na przejście w kolejne fazy. <strong>Pierwsze wrażenie jest jak zwiastun filmu. Nie pokazuje całej historii.</strong>",
+          "uk": "Тому не поспішайте з висновком. Дайте спирту випаруватися і дозвольте композиції поступово перейти до наступних етапів. <strong>Перше враження — це як трейлер до фільму. Воно не показує всієї історії.</strong>"
+        }
+      },
+
       {
         "type": "heading",
         "text": {
@@ -119,13 +526,71 @@
           "uk": "Парфумам потрібен час"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Ten sam zapach może przejść od świeżego do kremowego, od owocowego do drzewnego, od słodkiego do bardziej suchego. Nie oznacza to, że perfumy się „zmieniły”. To właśnie ich rozwój na skórze.",
-          "uk": "Один і той самий аромат може пройти шлях від свіжого до кремового, від фруктового до деревного, від солодкого до сухішого. Це не означає, що парфуми «змінилися». Це і є їхнє розкриття на шкірі."
+          "pl": "Ten sam zapach może w ciągu kilku godzin zmienić swoje oblicze. Najpierw może być świeży i lekki, później kremowy lub kwiatowy, a na końcu bardziej miękki, drzewny, pudrowy, waniliowy czy piżmowy.",
+          "uk": "Один і той самий аромат протягом кількох годин може змінювати своє звучання. Спочатку він може бути свіжим і легким, потім кремовим або квітковим, а наприкінці — м’якшим, деревним, пудровим, ванільним чи мускусним."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "To nie znaczy, że perfumy „zmieniły się w coś innego”. Właśnie na tym polega ich rozwój. Poszczególne materiały nie pojawiają się zawsze jeden po drugim jak rozdziały książki. Często nakładają się na siebie, tworząc nowe wrażenie wraz z upływem czasu.",
+          "uk": "Це не означає, що парфуми «перетворилися на щось інше». Саме так і відбувається їхнє розкриття. Окремі матеріали не завжди з’являються один за одним, наче розділи книги. Часто вони накладаються один на одного, створюючи нове враження з плином часу."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Nie wybieraj perfum tylko po nazwie nuty",
+          "uk": "Не обирайте парфуми лише за назвою ноти"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Lubisz wanilię? To jeszcze nie oznacza, że polubisz każdy zapach waniliowy. Wanilia może być kremowa i mleczna, sucha i pudrowa, ciemna i balsamiczna, karmelowa, dymna albo otulona drewnem.",
+          "uk": "Любите ваніль? Це ще не означає, що вам сподобається кожен ванільний аромат. Ваніль може бути кремовою й молочною, сухою та пудровою, темною й бальзамічною, карамельною, димною або огорнутою деревиною."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "To samo dotyczy róży, piżma, ambry, irysa czy drewna. <strong>Nuta jest wskazówką, nie gotową odpowiedzią.</strong> Jej charakter zależy od tego, z czym została połączona i jak została zbudowana cała kompozycja.",
+          "uk": "Те саме стосується троянди, мускусу, амбри, ірису чи деревних нот. <strong>Нота — це підказка, а не готова відповідь.</strong> Її характер залежить від того, з чим її поєднали та як побудована вся композиція."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Skóra ma własny głos",
+          "uk": "Шкіра має власний голос"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlaczego perfumy, które zachwyciły Cię na papierku, na skórze brzmią inaczej? Ponieważ blotter pokazuje przede wszystkim samą kompozycję, natomiast na skórze dochodzą warunki, w których zapach się rozwija: ciepło skóry, jej powierzchnia i indywidualna chemia.",
+          "uk": "Чому парфуми, які захопили вас на блотері, на шкірі звучать інакше? Тому що блотер показує передусім саму композицію, а на шкірі додаються умови, в яких аромат розкривається: тепло шкіри, її поверхня та індивідуальна хімія."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego blotter jest świetnym pierwszym filtrem, ale <strong>skóra powinna mieć ostatnie słowo</strong>. Jeśli zapach naprawdę Cię interesuje, przetestuj go na skórze i sprawdź, jak czujesz się z nim po czasie.",
+          "uk": "Тому блотер — чудовий перший фільтр, але <strong>останнє слово має залишатися за шкірою</strong>. Якщо аромат справді вас зацікавив, протестуйте його на шкірі й подивіться, як ви почуваєтеся з ним через деякий час."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
@@ -133,25 +598,124 @@
           "uk": "Не тестуйте десять ароматів одночасно"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Nos szybko się męczy. Na jednej wizycie lepiej poznać kilka kompozycji niż stworzyć na skórze małą perfumeryjną katastrofę. Testery, blottery i krótkie przerwy pomagają zachować świeże odczucia.",
-          "uk": "Нюх швидко втомлюється. За один візит краще познайомитися з кількома композиціями, ніж влаштувати на шкірі маленьку парфумерну катастрофу. Блотери, тестери та короткі перерви допомагають зберегти чисте сприйняття."
+          "pl": "Nasz nos ma swoje granice. Po kilku intensywnych zapachach różnice zaczynają się zacierać, a wszystko może nagle pachnieć podobnie. To moment, w którym łatwo pomylić „podoba mi się” z „już niczego nie czuję”.",
+          "uk": "Наш нюх має свої межі. Після кількох насичених ароматів відмінності починають стиратися, і раптом усе може пахнути схоже. Саме в цей момент легко переплутати «мені подобається» з «я вже нічого не відчуваю»."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Lepiej wybrać kilka kompozycji, które naprawdę Cię zainteresowały, niż urządzać na skórze mały perfumeryjny maraton. Blotter, przerwa, świeże powietrze — czasem to najlepszy sposób, żeby odzyskać nos.",
+          "uk": "Краще обрати кілька композицій, які справді вас зацікавили, ніж влаштовувати на шкірі маленький парфумерний марафон. Блотер, перерва, свіже повітря — іноді це найкращий спосіб повернути нюху ясність."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Najważniejsze pytanie",
-          "uk": "Найважливіше запитання"
+          "pl": "Spróbuj testu „trzech spotkań”",
+          "uk": "Спробуйте тест «трьох зустрічей»"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Nie pytaj tylko „czy ten zapach jest ładny?”. Zapytaj: „czy chcę pachnieć tak za trzy godziny?”. Jeśli odpowiedź nadal brzmi „tak” — wtedy zaczyna się prawdziwe dopasowanie.",
-          "uk": "Не питайте лише «чи красивий цей аромат?». Запитайте себе: «чи хочу я пахнути так через три години?». Якщо відповідь усе ще «так» — ось тоді й починається справжнє попадання."
+          "pl": "<strong>Pierwsze spotkanie — kilka minut.</strong> Czy otwarcie Cię przyciąga? Czy masz ochotę powąchać skórę jeszcze raz?",
+          "uk": "<strong>Перша зустріч — кілька хвилин.</strong> Чи приваблює вас старт? Чи хочеться знову піднести зап’ястя до носа?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Drugie spotkanie — około 30–60 minut.</strong> Co dzieje się, gdy pierwsza świeżość zaczyna ustępować? Czy zapach robi się ciekawszy, spokojniejszy, cieplejszy?",
+          "uk": "<strong>Друга зустріч — приблизно через 30–60 хвилин.</strong> Що відбувається, коли перша свіжість починає відступати? Чи стає аромат цікавішим, спокійнішим, теплішим?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Trzecie spotkanie — po kilku godzinach.</strong> To właśnie tutaj często pojawia się prawdziwa odpowiedź. Czy baza nadal Ci się podoba? Czy chciałabyś lub chciałbyś tak pachnieć przez cały dzień?",
+          "uk": "<strong>Третя зустріч — через кілька годин.</strong> Саме тут часто з’являється справжня відповідь. Чи подобається вам база? Чи хотілося б вам пахнути так увесь день?"
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Nie pytaj tylko: „Czy to ładne?”",
+          "uk": "Не питайте себе лише: «Чи це красиво?»"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "„Ładny” to za mało. Zapach może być piękny, a mimo to zupełnie nie Twój. Dlatego spróbuj zadawać sobie bardziej osobiste pytania: <strong>Czy dobrze się z nim czuję? Czy chcę go czuć na sobie? Czy pasuje do mojego rytmu dnia? Czy wywołuje emocję, do której chcę wracać?</strong>",
+          "uk": "«Красивий» — цього замало. Аромат може бути прекрасним, але зовсім не вашим. Тому спробуйте ставити собі особистіші запитання: <strong>Чи добре я почуваюся з ним? Чи хочу відчувати його на собі? Чи відповідає він моєму ритму життя? Чи викликає емоцію, до якої хочеться повертатися?</strong>"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Bo perfumy nie są obrazem, który oglądasz z daleka. <strong>To coś, w czym spędzasz swój dzień.</strong> Powinny więc pasować nie tylko do Twojego nosa, ale również do Ciebie.",
+          "uk": "Бо парфуми — це не картина, на яку ви дивитеся здалеку. <strong>Це те, у чому ви проживаєте свій день.</strong> Тому вони мають підходити не лише вашому нюху, а й вам."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "A jeśli podoba Ci się kilka zapachów?",
+          "uk": "А якщо вам подобається кілька ароматів?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Nie próbuj od razu znaleźć jednego „idealnego”. Zamiast tego zauważ, co łączy zapachy, które wybierasz. Może często wraca w nich wanilia? Może lubisz suche drewno, czyste piżmo, kwaśne owoce, pudrowe kwiaty albo ciepłe ambrowe akordy?",
+          "uk": "Не намагайтеся одразу знайти один «ідеальний» аромат. Натомість зверніть увагу, що об’єднує парфуми, які вам подобаються. Можливо, у них часто повторюється ваніль? Або ви любите суху деревину, чистий мускус, кислуваті фрукти, пудрові квіти чи теплі амброві акорди?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "W ten sposób zaczynasz odkrywać własny język zapachowy. I nagle wybieranie perfum staje się prostsze. Nie dlatego, że znasz wszystkie nuty. <strong>Dlatego, że zaczynasz rozumieć siebie.</strong>",
+          "uk": "Так ви поступово відкриваєте власну парфумерну мову. І раптом вибирати аромати стає простіше. Не тому, що ви знаєте всі ноти. <strong>А тому, що починаєте краще розуміти себе.</strong>"
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Nie kupuj pierwszego zachwytu. Kup zapach, do którego chcesz wracać.",
+          "uk": "Не купуйте перше захоплення. Обирайте аромат, до якого хочеться повертатися."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Najlepsze dopasowanie nie zawsze wygląda jak miłość od pierwszego psiknięcia. Czasem zaczyna się znacznie spokojniej. Od ciekawości. Od drugiego powąchania. Od myśli, która wraca wieczorem: <strong>„Chcę poczuć go jeszcze raz”.</strong>",
+          "uk": "Найкраще попадання не завжди виглядає як кохання з першого розпилення. Іноді воно починається набагато тихіше. З цікавості. З другого вдиху. З думки, яка повертається ввечері: <strong>«Я хочу відчути його ще раз».</strong>"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "I może właśnie wtedy zaczyna się coś więcej niż wybór perfum. Zaczyna się znalezienie zapachu, który nie tylko dobrze pachnie, ale <strong>staje się częścią Twojej historii.</strong>",
+          "uk": "І, можливо, саме тоді починається щось більше, ніж просто вибір парфумів. Починається пошук аромату, який не просто добре пахне, а <strong>стає частиною вашої історії.</strong>"
         }
       }
     ]
@@ -161,72 +725,232 @@
     "slug": "luxury-vs-niche",
     "category": "brands",
     "publishedAt": "2026-09-14",
-    "readTime": 8,
+    "readTime": 10,
     "featured": true,
+    "image": "luxury-vs-niche.jpg",
     "tags": ["luxury", "niche", "brands"],
     "title": {
       "pl": "Luksusowe vs niszowe: dwa światy, jedna pasja",
       "uk": "Люксові vs нішеві: два світи, одна пристрасть"
     },
     "excerpt": {
-      "pl": "Czy luksus oznacza popularność, a nisza — dziwność? Nie. Zobacz, skąd naprawdę bierze się różnica między tymi światami.",
-      "uk": "Чи означає люкс популярність, а ніша — дивність? Ні. Подивімося, звідки насправді береться різниця між цими світами."
+      "pl": "Czy luksus oznacza popularność, a nisza — dziwność? Nie. Dwa światy perfum różnią się przede wszystkim sposobem tworzenia, opowiadania i udostępniania zapachów.",
+      "uk": "Чи означає люкс популярність, а ніша — дивність? Ні. Ці два світи відрізняються передусім способом створення, подачі та поширення ароматів."
     },
     "content": [
       {
         "type": "paragraph",
         "text": {
-          "pl": "Słowa „luksusowe” i „niszowe” często brzmią jak dwa przeciwne bieguny. W rzeczywistości nie opisują po prostu jakości. Opowiadają o sposobie budowania marki, dystrybucji, stylu i relacji z odbiorcą.",
-          "uk": "Слова «люксові» та «нішеві» часто звучать як два протилежні полюси. Насправді вони не просто описують якість. Вони розповідають про спосіб побудови бренду, дистрибуцію, стиль і стосунки з покупцем."
+          "pl": "Wyobraź sobie dwie perfumerie. W jednej wszystko jest znajome: rozpoznawalne flakony, charakterystyczne kampanie, marki, które widujesz od lat. W drugiej możesz trafić na zapach pachnący atramentem, mokrym drewnem, ryżem, dymem albo czymś, czego trudno nazwać po pierwszym spotkaniu. <strong>I właśnie tutaj zaczyna się różnica między światem luksusowym a niszowym.</strong>",
+          "uk": "Уявіть дві парфумерії. В одній усе знайоме: впізнавані флакони, характерні рекламні кампанії, бренди, які ви бачите роками. В іншій можна натрапити на аромат, що пахне чорнилом, мокрою деревиною, рисом, димом або чимось, що складно назвати після першого знайомства. <strong>І саме тут починається різниця між світом люксу та ніші.</strong>"
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Ale zacznijmy od najważniejszego: <strong>luxury i niche nie są prostą skalą jakości.</strong> To nie jest historia o tym, że jeden świat jest „lepszy”, a drugi „gorszy”. Te określenia opisują przede wszystkim sposób działania marki, jej historię, dystrybucję, komunikację oraz podejście do tworzenia zapachów.",
+          "uk": "Але почнімо з головного: <strong>luxury та niche — це не проста шкала якості.</strong> Це не історія про те, що один світ «кращий», а інший «гірший». Ці поняття передусім описують спосіб роботи бренду, його історію, дистрибуцію, комунікацію та підхід до створення ароматів."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Luksus: perfekcja, dziedzictwo, rozpoznawalność",
-          "uk": "Люкс: досконалість, спадщина, впізнаваність"
+          "pl": "Luksus: zapach jako część większej historii",
+          "uk": "Люкс: аромат як частина більшої історії"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Domy luksusowe często budują zapach wokół silnej estetyki, historii i rozpoznawalnego języka marki. Kompozycja ma być dopracowana, a flakon, kampania i doświadczenie zakupu tworzą jedną opowieść.",
-          "uk": "Люксові доми часто будують аромат навколо сильної естетики, історії та впізнаваної мови бренду. Композиція має бути вивіреною, а флакон, кампанія й досвід покупки складаються в одну історію."
+          "pl": "W świecie luksusowym perfumy często są częścią większego domu i jego estetyki. Zapach może być związany z modą, biżuterią, sztuką, historią marki albo konkretnym stylem życia. Flakon, opakowanie, kampania i sama kompozycja tworzą spójne doświadczenie.",
+          "uk": "У світі люксу парфуми часто є частиною більшого бренду та його естетики. Аромат може бути пов’язаний із модою, ювелірним мистецтвом, культурою, історією бренду або певним стилем життя. Флакон, упаковка, рекламна кампанія та сама композиція створюють єдиний досвід."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego luksusowy zapach często musi działać na kilku poziomach jednocześnie. Ma dobrze pachnieć, ale również wyglądać, pasować do świata marki i być rozpoznawalny jako jej część.",
+          "uk": "Тому люксовий аромат часто має працювати одразу на кількох рівнях. Він має добре звучати, але водночас виглядати, відповідати світу бренду й бути впізнаваним як його частина."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Nisza: najpierw pomysł",
-          "uk": "Ніша: спочатку ідея"
+          "pl": "Nisza: najpierw pomysł, potem granice",
+          "uk": "Ніша: спочатку ідея, а вже потім межі"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Marki niszowe częściej pozwalają sobie na nietypowe zestawienia, mniejszą skalę dystrybucji i mocniejszą autorską wizję. Nie każda kompozycja musi podobać się wszystkim — czasem ma przede wszystkim coś opowiedzieć.",
-          "uk": "Нішеві бренди частіше дозволяють собі незвичні поєднання, менший масштаб дистрибуції та сильніше авторське бачення. Не кожна композиція повинна подобатися всім — інколи вона передусім має щось розповісти."
+          "pl": "Marki niszowe często budują swoją tożsamość przede wszystkim wokół perfum. Mogą pozwolić sobie na bardziej eksperymentalne zestawienia, nietypowe tematy i mniejszą presję, aby kompozycja spodobała się możliwie szerokiej publiczności.",
+          "uk": "Нішеві бренди часто будують свою ідентичність насамперед навколо парфумерії. Вони можуть дозволити собі більш експериментальні поєднання, незвичні теми та меншу залежність від необхідності сподобатися якомога ширшій аудиторії."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego nisza potrafi zaskakiwać. Mleko może spotkać się z czarnym pieprzem. Owoc może zostać zestawiony ze skórą. Wanilia może przestać być słodkim deserem i stać się ciemna, dymna albo drzewna. <strong>Nie chodzi o dziwność dla samej dziwności. Chodzi o możliwość pokazania innej interpretacji zapachu.</strong>",
+          "uk": "Саме тому ніша часто дивує. Молоко може зустрітися з чорним перцем. Фрукт — зі шкірою. Ваніль може перестати бути просто солодким десертом і стати темною, димною або деревною. <strong>Справа не в дивності заради дивності. А в можливості показати іншу інтерпретацію аромату.</strong>"
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "A gdzie jest jakość?",
-          "uk": "А де ж якість?"
+          "pl": "Popularny nie znaczy prosty",
+          "uk": "Популярний — не означає простий"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Jakości nie da się uczciwie odczytać z etykiety „luxury” albo „niche”. Liczą się składniki, konstrukcja kompozycji, wykonanie, sposób noszenia i — przede wszystkim — to, jak zapach działa właśnie na Tobie.",
-          "uk": "Якість не можна чесно визначити лише за написом «luxury» або «niche». Важливі сировина, побудова композиції, виконання, поведінка на шкірі й — насамперед — те, як аромат звучить саме на вас."
+          "pl": "To jeden z najczęstszych mitów. Jeśli zapach jest popularny, łatwo pomyśleć, że został stworzony „dla wszystkich”, a więc musi być przewidywalny. Tymczasem kompozycja może być bardzo precyzyjnie zbudowana i jednocześnie trafiać do szerokiego grona odbiorców.",
+          "uk": "Це один із найпоширеніших міфів. Якщо аромат популярний, легко подумати, що його створили «для всіх», а отже він має бути передбачуваним. Але композиція може бути дуже точно побудована й водночас подобатися широкому колу людей."
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Dlatego w AromaShop nie chcemy wybierać za Ciebie. Chcemy dać Ci język i narzędzia, dzięki którym łatwiej rozpoznasz, co naprawdę Cię przyciąga.",
-          "uk": "Тому в AromaShop ми не хочемо обирати за вас. Ми хочемо дати вам мову й інструменти, завдяки яким буде легше зрозуміти, що саме вас по-справжньому приваблює."
+          "pl": "Podobnie niszowość nie gwarantuje automatycznie wyjątkowości. <strong>Sam napis „niche” nie mówi jeszcze, czy konkretny zapach będzie interesujący właśnie dla Ciebie.</strong> O tym decyduje sama kompozycja i Twoje osobiste odczucia.",
+          "uk": "Так само нішевість автоматично не гарантує унікальності. <strong>Сам напис «niche» ще не говорить, чи буде конкретний аромат цікавим саме для вас.</strong> Це визначає сама композиція та ваші особисті відчуття."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "A gdzie w tym wszystkim jest cena?",
+          "uk": "А де в усьому цьому ціна?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Cena również nie jest prostym wyznacznikiem jakości. Na koszt perfum wpływają między innymi składniki, koncentracja, flakon i opakowanie, skala produkcji, dystrybucja, marketing oraz pozycjonowanie marki.",
+          "uk": "Ціна також не є простим показником якості. На вартість парфумів впливають, зокрема, сировина, концентрація, флакон і упаковка, масштаб виробництва, дистрибуція, маркетинг та позиціонування бренду."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego dwa zapachy o podobnej cenie mogą reprezentować zupełnie różne filozofie. I odwrotnie — w jednym i drugim świecie można znaleźć kompozycje o bardzo różnych poziomach cenowych.",
+          "uk": "Тому два аромати приблизно однакової ціни можуть представляти абсолютно різні філософії. І навпаки — і в одному, і в іншому світі можна знайти композиції з дуже різною вартістю."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Nie każda nisza chce być „dla odważnych”",
+          "uk": "Не кожна ніша хоче бути «для сміливих»"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Kolejny stereotyp? Niszowe perfumy muszą być trudne, ciężkie albo kontrowersyjne. W rzeczywistości nisza może być bardzo różna: od minimalistycznej i czystej, przez kwiatową i delikatną, aż po ciemną, eksperymentalną czy niemal abstrakcyjną.",
+          "uk": "Ще один стереотип? Нішеві парфуми обов’язково мають бути складними, важкими або провокаційними. Насправді ніша може бути дуже різною: від мінімалістичної та чистої до квіткової й делікатної, темної, експериментальної чи майже абстрактної."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Podobnie luksus nie oznacza wyłącznie klasycznej elegancji. Wśród luksusowych domów również znajdziemy zapachy odważne, nieoczywiste i bardzo charakterne.",
+          "uk": "Так само люкс не означає лише класичну елегантність. Серед люксових домів також є сміливі, незвичні та дуже характерні композиції."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Dwa światy, które coraz częściej się spotykają",
+          "uk": "Два світи, які дедалі частіше зустрічаються"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Granica między luxury i niche nie jest dziś tak oczywista jak kiedyś. Duże domy eksperymentują z bardziej wyszukanymi kolekcjami, a marki niszowe rozwijają szeroką dystrybucję i coraz bardziej rozbudowaną komunikację.",
+          "uk": "Межа між luxury та niche сьогодні вже не така очевидна, як колись. Великі парфумерні доми експериментують із більш складними колекціями, а нішеві бренди розширюють дистрибуцію та створюють дедалі масштабнішу комунікацію."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego zamiast pytać „luxury czy niche?”, warto zadać inne pytanie: <strong>„Jakiej historii szukam?”</strong> Czasem będzie to doskonale znany język klasycznego domu. Innym razem — zupełnie nowy akord, który trzeba najpierw oswoić.",
+          "uk": "Тому замість запитання «luxury чи niche?» варто поставити інше: <strong>«Якої історії я шукаю?»</strong> Іноді це буде добре знайома мова класичного дому. А іншим разом — абсолютно новий акорд, до якого спочатку потрібно звикнути."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "A co naprawdę warto sprawdzać?",
+          "uk": "А на що насправді варто дивитися?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Zamiast zatrzymywać się na etykiecie luxury lub niche, spójrz głębiej. Sprawdź nuty i akordy, sposób rozwoju zapachu, jego charakter, projekcję, trwałość, okazję do noszenia i przede wszystkim własną reakcję na skórze.",
+          "uk": "Замість того щоб зупинятися на позначці luxury або niche, подивіться глибше. Зверніть увагу на ноти й акорди, розвиток аромату, його характер, шлейф, стійкість, ситуацію для носіння і, найголовніше, власну реакцію на шкірі."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Możesz odkryć, że w luksusowych kolekcjach najbardziej przyciąga Cię pewien rodzaj wanilii. Albo że w niszy ciągle wracasz do czystych piżm, chłodnych kwiatów czy ciemnych, drzewnych kompozycji. <strong>To właśnie te powtarzające się wybory mówią o Twoim guście więcej niż sama etykieta marki.</strong>",
+          "uk": "Ви можете виявити, що в люксових колекціях вас найбільше приваблює певний тип ванілі. Або що в ніші ви постійно повертаєтеся до чистих мускусів, холодних квітів чи темних деревних композицій. <strong>Саме ці повторювані вподобання розповідають про ваш смак більше, ніж сама назва бренду.</strong>"
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "W AromaShop patrzymy na perfumy trochę szerzej",
+          "uk": "В AromaShop ми дивимося на парфуми трохи ширше"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Nie chcemy stawiać luksusu i niszy po dwóch stronach barykady. Oba światy mają swoje języki, własną historię i różne sposoby budowania emocji. Jeden zapach może zachwycić swoją dopracowaną harmonią. Drugi — pomysłem, którego wcześniej nie spotkaliśmy.",
+          "uk": "Ми не хочемо ставити люкс і нішу по різні боки барикад. Обидва світи мають власну мову, свою історію та різні способи створювати емоції. Один аромат може захопити своєю вивіреною гармонією. Інший — ідеєю, з якою ви раніше не зустрічалися."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dlatego w AromaShop nie chcemy wybierać za Ciebie. Chcemy dać Ci język, kontekst i narzędzia, dzięki którym łatwiej będzie Ci odkrywać własny gust — niezależnie od tego, czy flakon pochodzi z wielkiego domu, czy z małej niszowej pracowni.",
+          "uk": "Тому в AromaShop ми не хочемо обирати за вас. Ми хочемо дати вам мову, контекст та інструменти, завдяки яким буде легше відкривати власний смак — незалежно від того, чи походить флакон із великого дому, чи з невеликої нішевої парфумерної студії."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Bo ostatecznie nie wybierasz między luksusem a niszą. Wybierasz zapach, który coś w Tobie porusza.</strong>",
+          "uk": "<strong>Бо зрештою ви обираєте не між люксом і нішею. Ви обираєте аромат, який щось у вас пробуджує.</strong>"
         }
       }
     ]
@@ -236,93 +960,271 @@
     "slug": "what-is-decant",
     "category": "education",
     "publishedAt": "2026-09-15",
-    "readTime": 7,
+    "readTime": 10,
     "featured": true,
+    "image": "what-is-decant.jpg",
     "tags": ["decant", "sampling", "buying"],
     "title": {
       "pl": "Co to jest rozlew (decant)? Mała pojemność, wielkie odkrycie",
       "uk": "Що таке розпив (decant)? Маленький флакон — велике відкриття"
     },
     "excerpt": {
-      "pl": "Nie musisz od razu kupować całego flakonu. Rozlew pozwala poznać zapach w prawdziwym życiu — na własnej skórze i przez kilka dni.",
-      "uk": "Не обов’язково одразу купувати цілий флакон. Розпив дає змогу пізнати аромат у реальному житті — на власній шкірі та протягом кількох днів."
+      "pl": "Nie musisz od razu kupować całego flakonu. Rozlew pozwala poznać zapach naprawdę — na własnej skórze, w swoim rytmie i przez kilka dni.",
+      "uk": "Не обов’язково одразу купувати цілий флакон. Розпив дає змогу по-справжньому пізнати аромат — на власній шкірі, у своєму ритмі та протягом кількох днів."
     },
     "content": [
       {
         "type": "paragraph",
         "text": {
-          "pl": "Decant, czyli rozlew, to niewielka ilość oryginalnych perfum przelana do małego, praktycznego atomizera. To nie „miniatura marki” — to próbka zapachu pobrana z większego flakonu, przeznaczona do testowania i noszenia.",
-          "uk": "Decant, або розпив, — це невелика кількість оригінальних парфумів, перелита у маленький практичний атомайзер. Це не «мініатюра бренду» — це частина аромату з більшого флакону, призначена для тестування та носіння."
+          "pl": "Wyobraź sobie, że zakochałaś się w zapachu. Kilka psiknięć w perfumerii, szybki zachwyt i już widzisz go na swojej półce. Tylko że perfumy, podobnie jak ludzie, potrafią zrobić zupełnie inne wrażenie przy pierwszym spotkaniu niż po kilku wspólnie spędzonych dniach.",
+          "uk": "Уявіть, що ви закохалися в аромат. Кілька розпилень у парфумерії, швидке захоплення — і ви вже бачите його на своїй полиці. Але парфуми, як і люди, можуть справити зовсім інше враження під час першої зустрічі, ніж після кількох днів знайомства."
         }
       },
-      {
-        "type": "heading",
-        "text": {
-          "pl": "Po co kupować rozlew?",
-          "uk": "Навіщо купувати розпив?"
-        }
-      },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Bo perfumy trzeba poznać w czasie. Kilka psiknięć w perfumerii mówi niewiele o tym, jak kompozycja zachowuje się po dwóch godzinach, wieczorem albo następnego dnia. Kilka mililitrów pozwala wrócić do zapachu bez pośpiechu.",
-          "uk": "Тому що парфуми потрібно пізнати в часі. Кілька розпилень у магазині мало розкажуть про те, як композиція поводиться через дві години, увечері або наступного дня. Кілька мілілітрів дають змогу повернутися до аромату без поспіху."
+          "pl": "I właśnie tutaj pojawia się <strong>decant, czyli rozlew</strong>. Mała ilość oryginalnych perfum pozwala zabrać zapach ze sobą, nosić go w prawdziwym życiu i sprawdzić, czy pierwsze „wow” zamienia się w coś więcej.",
+          "uk": "І саме тут з’являється <strong>decant, або розпив</strong>. Невелика кількість оригінальних парфумів дає змогу забрати аромат із собою, носити його в реальному житті та перевірити, чи перше «вау» перетворюється на щось більше."
         }
       },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Rozlew to nie to samo co tester",
-          "uk": "Розпив — це не те саме, що тестер"
+          "pl": "Co właściwie oznacza „decant”?",
+          "uk": "Що насправді означає «decant»?"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Tester jest pełnym flakonem przeznaczonym do prezentacji zapachu. Decant to mniejsza porcja perfum. W ofercie warto zawsze sprawdzić, z jakiego źródła pochodzi zawartość i czy jest deklarowana jako oryginalna.",
-          "uk": "Тестер — це повноцінний флакон для демонстрації аромату. Розпив — менша порція парфумів. В описі завжди варто перевіряти, звідки походить вміст і чи заявлений він як оригінальний."
+          "pl": "Decant to niewielka ilość perfum pochodzących z większego flakonu, przelana do małego atomizera. Nie jest to fabryczna miniatura ani osobny produkt wyprodukowany przez markę — to <strong>porcja konkretnego zapachu przygotowana w mniejszym formacie</strong>.",
+          "uk": "Decant — це невелика кількість парфумів із більшого флакону, перелита в маленький атомайзер. Це не фабрична мініатюра і не окремий продукт, виготовлений брендом, — це <strong>порція конкретного аромату в меншому форматі</strong>."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dzięki temu nie musisz podejmować decyzji na podstawie kilku minut w perfumerii. Możesz sprawdzić zapach wtedy, gdy naprawdę ma znaczenie — rano przed wyjściem, w pracy, podczas spaceru, wieczorem, a nawet następnego dnia.",
+          "uk": "Завдяки цьому не потрібно приймати рішення на основі кількох хвилин у парфумерії. Ви можете перевірити аромат саме тоді, коли це справді важливо — вранці перед виходом, на роботі, під час прогулянки, увечері або навіть наступного дня."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Ile ml wybrać?",
-          "uk": "Скільки мл обрати?"
+          "pl": "Dlaczego kilka dni mówi więcej niż jedno psiknięcie?",
+          "uk": "Чому кілька днів розповідають більше, ніж одне розпилення?"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "2–5 ml świetnie sprawdzi się jako pierwsze spotkanie. 10 ml daje więcej czasu na spokojny test, a większe pojemności mogą być wygodne, jeśli zapach już Cię przekonał. Najważniejsze: potraktuj rozlew jako etap poznawania, nie wyścig do zakupu flakonu.",
-          "uk": "2–5 мл чудово підійдуть для першого знайомства. 10 мл дають більше часу для спокійного тесту, а більші об’єми зручні, якщо аромат уже вас переконав. Головне: сприймайте розпив як етап знайомства, а не як гонитву за повним флаконом."
+          "pl": "Perfumy mają czas, temperaturę, kontekst i Twoją skórę. Ten sam zapach może wydawać się świeży rano, bardziej kremowy po południu, a wieczorem pokazać zupełnie inną, cieplejszą stronę.",
+          "uk": "Парфуми мають час, температуру, контекст і вашу шкіру. Один і той самий аромат може здаватися свіжим вранці, більш кремовим удень, а ввечері показати зовсім інший, тепліший бік."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Co więcej, pierwsze wrażenie może się zmienić. Zapach, który początkowo wydawał się zbyt słodki, po kilku godzinach może stać się miękki i otulający. Ten, który wydawał się chłodny, może po czasie pokazać ciepłe drewno, piżmo albo wanilię.",
+          "uk": "Більше того, перше враження може змінитися. Аромат, який спочатку здавався надто солодким, через кілька годин може стати м’яким і затишним. Той, що здавався холодним, згодом може показати теплу деревину, мускус або ваніль."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Decant pozwala sprawdzić nie tylko, czy lubisz zapach. Pozwala sprawdzić, czy naprawdę chcesz z nim żyć.</strong>",
+          "uk": "<strong>Розпив дає змогу перевірити не лише те, чи подобається вам аромат. Він допомагає зрозуміти, чи справді ви хочете жити з ним.</strong>"
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Decant, próbka, miniatura i tester — to nie to samo",
+          "uk": "Розпив, пробник, мініатюра та тестер — це не одне й те саме"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Próbka</strong> to zazwyczaj niewielka porcja przygotowana jako materiał do testowania, często w bardzo małej pojemności. <strong>Miniatura</strong> jest małą, fabrycznie wyprodukowaną wersją produktu marki. <strong>Tester</strong> to pełnowymiarowy produkt przeznaczony przede wszystkim do prezentacji zapachu. <strong>Decant</strong> natomiast to mniejsza porcja perfum pobrana z większego flakonu i umieszczona w osobnym atomizerze.",
+          "uk": "<strong>Пробник</strong> — це зазвичай невелика порція аромату для тестування, часто в дуже маленькому об’ємі. <strong>Мініатюра</strong> — маленька фабрично виготовлена версія продукту бренду. <strong>Тестер</strong> — повнорозмірний продукт, призначений переважно для демонстрації аромату. <strong>Decant</strong> — менша порція парфумів із більшого флакону, перелита в окремий атомайзер."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Warto również zwrócić uwagę na określenia takie jak „pozostałość we flakonie”, „drening” czy „rozlew z flakonu”. Nie zawsze oznaczają dokładnie to samo, dlatego przy zakupie najważniejsze jest sprawdzenie <strong>źródła perfum, ich oryginalności oraz sposobu przygotowania rozlewu</strong>.",
+          "uk": "Також варто звертати увагу на такі позначення, як «залишок у флаконі», «драмінг» або «розпив із флакону». Вони не завжди означають абсолютно одне й те саме, тому під час покупки найважливіше перевірити <strong>походження парфумів, їхню оригінальність і спосіб підготовки розпиву</strong>."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Ile mililitrów wybrać?",
+          "uk": "Скільки мілілітрів обрати?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>2 ml</strong> to dobre rozwiązanie, jeśli chcesz po prostu sprawdzić pierwsze wrażenie i rozwój zapachu. <strong>5 ml</strong> daje już więcej możliwości — możesz wrócić do perfum kilka razy i przetestować je w różnych sytuacjach. <strong>10 ml</strong> pozwala potraktować zapach niemal jak małego towarzysza na kilka dni.",
+          "uk": "<strong>2 мл</strong> — хороший варіант, якщо ви хочете просто перевірити перше враження та розвиток аромату. <strong>5 мл</strong> дають уже більше можливостей — можна повернутися до парфумів кілька разів і протестувати їх у різних ситуаціях. <strong>10 мл</strong> дають змогу сприймати аромат майже як маленького супутника на кілька днів."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Większe pojemności mogą być dobrym wyborem, jeśli zapach już Cię przekonał, ale nadal nie potrzebujesz pełnego flakonu. Wszystko zależy od tego, czy dopiero poznajesz kompozycję, czy już wiesz, że chcesz mieć ją częściej przy sobie.",
+          "uk": "Більші об’єми можуть бути хорошим вибором, якщо аромат уже вас переконав, але повнорозмірний флакон поки не потрібен. Усе залежить від того, чи ви лише знайомитеся з композицією, чи вже знаєте, що хочете мати її під рукою частіше."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Dlaczego decant szczególnie dobrze sprawdza się przy drogich perfumach?",
+          "uk": "Чому decant особливо зручний для дорогих парфумів?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Niektóre zapachy wymagają czasu, aby je naprawdę zrozumieć. Szczególnie dotyczy to kompozycji niszowych, intensywnych lub bardzo charakterystycznych. Pełny flakon może być dużą decyzją, zwłaszcza jeśli zapach kosztuje kilkaset złotych lub więcej.",
+          "uk": "Деяким ароматам потрібен час, щоб їх по-справжньому зрозуміти. Особливо це стосується нішевих, насичених або дуже характерних композицій. Повнорозмірний флакон може бути серйозним рішенням, особливо якщо аромат коштує кілька сотень злотих або більше."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Decant pozwala przesunąć decyzję w czasie. Najpierw poznajesz zapach. Potem sprawdzasz, jak zachowuje się na Twojej skórze. A dopiero na końcu decydujesz, czy chcesz całego flakonu.",
+          "uk": "Розпив дає змогу відкласти рішення. Спочатку ви знайомитеся з ароматом. Потім перевіряєте, як він поводиться на вашій шкірі. І лише після цього вирішуєте, чи хочете повнорозмірний флакон."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Jak dobrze testować decant?",
+          "uk": "Як правильно тестувати розпив?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Nie próbuj wszystkiego jednego dnia. Wybierz jeden lub dwa zapachy i daj im przestrzeń. Rano, po kilku godzinach i wieczorem zwróć uwagę nie tylko na to, jak pachną, ale również na to, <strong>jak się z nimi czujesz</strong>.",
+          "uk": "Не намагайтеся протестувати все за один день. Оберіть один або два аромати й дайте їм простір. Вранці, через кілька годин і ввечері звертайте увагу не лише на те, як вони пахнуть, а й на те, <strong>як ви почуваєтеся разом із ними</strong>."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Możesz nawet zapisać pierwsze skojarzenie, późniejsze wrażenie i to, co zostało na skórze pod koniec dnia. Po kilku testach zaczynasz zauważać powtarzające się wzorce — i właśnie wtedy coraz lepiej poznajesz własny gust.",
+          "uk": "Можна навіть записати першу асоціацію, пізніше враження та те, що залишилося на шкірі наприкінці дня. Після кількох тестів ви починаєте помічати повторювані закономірності — і саме тоді дедалі краще пізнаєте власний смак."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Mały flakon, duża decyzja",
+          "uk": "Маленький флакон — велике рішення"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Decant nie jest po prostu mniejszą wersją perfum. To <strong>czas na poznanie zapachu bez presji</strong>. Możesz zabrać go ze sobą, sprawdzić w różnych warunkach, pozwolić mu się rozwinąć i przekonać się, czy po kilku dniach nadal masz ochotę sięgnąć po niego ponownie.",
+          "uk": "Розпив — це не просто менша версія парфумів. Це <strong>час для знайомства з ароматом без тиску</strong>. Ви можете взяти його із собою, перевірити в різних умовах, дозволити йому розкритися та зрозуміти, чи хочеться вам знову потягнутися до нього через кілька днів."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Czasem po takim teście pojawia się decyzja: „Tak, chcę cały flakon”. Czasem: „Piękny, ale nie dla mnie”. I obie odpowiedzi są wartościowe, bo każda z nich oznacza, że <strong>nie kupiłaś tylko perfum — naprawdę je poznałaś</strong>.",
+          "uk": "Іноді після такого тесту з’являється рішення: «Так, я хочу повний флакон». Іноді: «Красивий, але не мій». І обидві відповіді цінні, адже кожна означає, що <strong>ви не просто купили парфуми — ви справді їх пізнали</strong>."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Bo czasem największe odkrycie mieści się w zaledwie kilku mililitrach.</strong>",
+          "uk": "<strong>Бо іноді найбільше відкриття вміщується всього в кількох мілілітрах.</strong>"
         }
       }
     ]
   },
+
   {
     "id": "edt-edp-parfum",
     "slug": "edt-edp-parfum",
     "category": "education",
     "publishedAt": "2026-09-16",
-    "readTime": 8,
+    "readTime": 10,
     "featured": true,
+    "image": "edt-edp-parfum.jpg",
     "tags": ["edt", "edp", "parfum", "concentration"],
     "title": {
-      "pl": "EDT, EDP czy Parfum? Zawsze sprawdzaj, co naprawdę kupujesz",
-      "uk": "EDT, EDP чи Parfum? Завжди перевіряйте, що саме ви купуєте"
+      "pl": "EDT, EDP czy Parfum? Zanim kupisz, poznaj różnicę",
+      "uk": "EDT, EDP чи Parfum? Перш ніж купувати, розберіться в різниці"
     },
     "excerpt": {
-      "pl": "Ta sama nazwa nie zawsze oznacza ten sam zapach. Stężenie może zmienić sposób noszenia, a różnica między wersjami bywa większa, niż sugeruje flakon.",
-      "uk": "Одна й та сама назва не завжди означає той самий аромат. Концентрація може змінити характер носіння, а різниця між версіями буває більшою, ніж здається."
+      "pl": "EDT, EDP i Parfum to nie tylko skróty na flakonie. Różne wersje tego samego zapachu mogą rozwijać się inaczej, mieć inny charakter i zupełnie inaczej zachowywać się na skórze.",
+      "uk": "EDT, EDP та Parfum — це не просто скорочення на флаконі. Різні версії одного аромату можуть розкриватися по-різному, мати інший характер і зовсім інакше поводитися на шкірі."
     },
     "content": [
       {
         "type": "paragraph",
         "text": {
-          "pl": "EDT, EDP i Parfum to nie ozdobne skróty. To informacje, które warto sprawdzać przed zakupem. Co ważne, wyższe stężenie nie jest automatycznie synonimem „lepszych perfum”, a trwałość nie zależy wyłącznie od samego procentu koncentratu.",
-          "uk": "EDT, EDP і Parfum — це не декоративні скорочення. Це інформація, яку варто перевіряти перед покупкою. Важливо: вища концентрація автоматично не означає «кращі парфуми», а стійкість залежить не лише від відсотка ароматичного концентрату."
+          "pl": "Stoisz przed półką. Ten sam flakon, ta sama marka, podobna nazwa — a jednak obok siebie pojawiają się trzy litery: EDT, EDP, Parfum. Czy to tylko różnica w intensywności? Czy jedna wersja jest „lepsza”? I dlaczego zapach o tej samej nazwie potrafi pachnieć inaczej?",
+          "uk": "Ви стоїте перед полицею. Той самий флакон, той самий бренд, схожа назва — але поруч з’являються три позначення: EDT, EDP, Parfum. Чи це лише різниця в інтенсивності? Чи одна версія «краща»? І чому аромат з однаковою назвою може звучати по-різному?"
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Właśnie tutaj łatwo wpaść w jedną z najczęstszych pułapek świata perfum: <strong>„więcej koncentratu = lepsze perfumy = większa trwałość”.</strong> Rzeczywistość jest znacznie ciekawsza.",
+          "uk": "Саме тут легко потрапити в одну з найпоширеніших пасток парфумерного світу: <strong>«більше концентрату = кращі парфуми = більша стійкість».</strong> Насправді все набагато цікавіше."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Co właściwie oznacza EDT, EDP i Parfum?",
+          "uk": "Що насправді означають EDT, EDP та Parfum?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Skróty odnoszą się do rodzaju i poziomu koncentracji kompozycji zapachowej w gotowym produkcie. Nie są jednak uniwersalnym zegarkiem trwałości ani prostą skalą jakości. Poszczególne marki mogą stosować własne rozwiązania, a sama konstrukcja zapachu ma ogromne znaczenie dla jego zachowania na skórze.",
+          "uk": "Ці скорочення стосуються типу та рівня концентрації ароматичної композиції в готовому продукті. Але вони не є універсальним показником стійкості чи простою шкалою якості. Різні бренди можуть використовувати власні рішення, а сама побудова аромату має величезне значення для його поведінки на шкірі."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
@@ -330,13 +1232,23 @@
           "uk": "Eau de Toilette — EDT"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "EDT często daje lżejsze, bardziej przewiewne otwarcie i może być świetnym wyborem na dzień. Ale nie zakładaj z góry, że każdy EDT jest krótkotrwały — formuła konkretnego zapachu ma ogromne znaczenie.",
-          "uk": "EDT часто дає легший, більш повітряний старт і може чудово підходити для дня. Але не варто заздалегідь вважати, що кожен EDT нестійкий — формула конкретного аромату має величезне значення."
+          "pl": "EDT często kojarzy się z lżejszym, bardziej przejrzystym sposobem noszenia. Wiele kompozycji w tej formie mocniej podkreśla świeżość, cytrusy, aromatyczne akordy lub jasne nuty w otwarciu.",
+          "uk": "EDT часто асоціюється з легшим, більш прозорим звучанням. У багатьох композиціях така форма сильніше підкреслює свіжість, цитруси, ароматичні акорди або яскраві ноти на старті."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Ale EDT nie oznacza automatycznie „krótko”. Niektóre wody toaletowe potrafią pozostawać wyczuwalne przez wiele godzin, podczas gdy niektóre bardziej skoncentrowane kompozycje mogą być zaskakująco bliskie skóry.",
+          "uk": "Але EDT автоматично не означає «ненадовго». Деякі туалетні води можуть залишатися відчутними багато годин, тоді як деякі більш концентровані композиції можуть напрочуд близько сидіти до шкіри."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
@@ -344,280 +1256,174 @@
           "uk": "Eau de Parfum — EDP"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "EDP zwykle oferuje bardziej skoncentrowane, pełniejsze brzmienie, choć między markami występują duże różnice. To właśnie dlatego warto patrzeć nie tylko na skrót, ale również na opis konkretnej wersji.",
-          "uk": "EDP зазвичай пропонує більш концентроване, повніше звучання, хоча між брендами є великі відмінності. Саме тому варто дивитися не лише на скорочення, а й на опис конкретної версії."
+          "pl": "EDP zazwyczaj zawiera większy udział koncentratu zapachowego niż EDT, ale najważniejsze jest to, co z tej koncentracji powstaje. Kompozycja może być pełniejsza, głębsza lub bardziej otulająca, lecz nie jest to obowiązkowa reguła dla każdego zapachu.",
+          "uk": "EDP зазвичай містить більшу частку ароматичного концентрату, ніж EDT, але найважливіше — те, якою стає композиція завдяки цьому. Вона може бути повнішою, глибшою або більш огортаючою, але це не є обов’язковим правилом для кожного аромату."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Czasem EDP i EDT tej samej marki są bardzo bliskimi interpretacjami. Innym razem różnią się znacznie — nie tylko mocą, ale również proporcjami składników, akcentami i sposobem prowadzenia całej historii zapachu.",
+          "uk": "Іноді EDP та EDT одного бренду є дуже близькими інтерпретаціями. В інших випадках вони можуть суттєво відрізнятися — не лише насиченістю, а й пропорціями компонентів, акцентами та способом побудови всієї історії аромату."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Parfum / Extrait",
-          "uk": "Parfum / Extrait"
+          "pl": "Parfum / Extrait — kiedy zapach zwalnia",
+          "uk": "Parfum / Extrait — коли аромат сповільнюється"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Parfum lub Extrait zazwyczaj oznacza wyższy udział koncentratu zapachowego i często bardziej gęsty sposób rozwijania się kompozycji. Nie musi jednak oznaczać większej projekcji — zapach może być intensywny, ale bliski skórze.",
-          "uk": "Parfum або Extrait зазвичай означає вищу частку ароматичного концентрату й часто щільніший спосіб розкриття композиції. Але це не обов’язково означає більший шлейф — аромат може бути насиченим, але близьким до шкіри."
+          "pl": "Parfum lub Extrait zwykle oznacza wyższy udział kompozycji zapachowej. Często kojarzy się to z bardziej gęstym, miękkim i skoncentrowanym sposobem rozwijania zapachu.",
+          "uk": "Parfum або Extrait зазвичай означає вищу частку ароматичної композиції. Часто це пов’язано з більш щільним, м’яким і концентрованим способом розкриття аромату."
         }
       },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "I tutaj pojawia się ważny szczegół: <strong>intensywność nie zawsze oznacza projekcję.</strong> Zapach może być bogaty i bardzo długo pozostawać na skórze, ale jednocześnie rozwijać się blisko ciała. Inny może mieć niższą koncentrację, a mimo to mocno zaznaczać swoją obecność w pierwszych godzinach.",
+          "uk": "І тут з’являється важлива деталь: <strong>насиченість не завжди означає шлейф.</strong> Аромат може бути багатим і дуже довго залишатися на шкірі, але водночас розкриватися близько до тіла. Інший може мати нижчу концентрацію, але активно заявляти про себе в перші години."
+        }
+      },
+
       {
         "type": "heading",
         "text": {
-          "pl": "Jedna zasada przed zakupem",
-          "uk": "Одне правило перед покупкою"
+          "pl": "Trwałość, projekcja i koncentracja — trzy różne rzeczy",
+          "uk": "Стійкість, шлейф і концентрація — це три різні речі"
         }
       },
+
       {
         "type": "paragraph",
         "text": {
-          "pl": "Zawsze sprawdzaj pełną nazwę, wersję i stężenie. Jeśli widzisz „Libre”, „Black Opium” czy inną znaną nazwę, nie zakładaj, że każda wersja pachnie identycznie. EDT, EDP i Parfum mogą być osobnymi interpretacjami.",
-          "uk": "Завжди перевіряйте повну назву, версію та концентрацію. Якщо бачите «Libre», «Black Opium» чи іншу відому назву, не припускайте, що кожна версія пахне однаково. EDT, EDP і Parfum можуть бути окремими інтерпретаціями."
+          "pl": "<strong>Trwałość</strong> mówi o tym, jak długo zapach pozostaje wyczuwalny. <strong>Projekcja</strong> opisuje, jak daleko od skóry zapach jest zauważalny. <strong>Koncentracja</strong> odnosi się natomiast do udziału kompozycji zapachowej w produkcie. Te trzy pojęcia są ze sobą powiązane, ale nie oznaczają tego samego.",
+          "uk": "<strong>Стійкість</strong> показує, як довго аромат залишається відчутним. <strong>Шлейф</strong> описує, наскільки далеко від шкіри його можна відчути. <strong>Концентрація</strong> натомість стосується частки ароматичної композиції в продукті. Ці три поняття пов’язані між собою, але не означають одного й того самого."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "To właśnie dlatego dwa zapachy o podobnym stężeniu mogą zachowywać się zupełnie inaczej. Wpływ mają między innymi użyte materiały, konstrukcja kompozycji, proporcje składników, sposób aplikacji i indywidualna skóra.",
+          "uk": "Саме тому два аромати з приблизно однаковою концентрацією можуть поводитися зовсім по-різному. На це впливають, зокрема, використані матеріали, побудова композиції, пропорції компонентів, спосіб нанесення та індивідуальна шкіра."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Ta sama nazwa nie zawsze oznacza ten sam zapach",
+          "uk": "Однакова назва не завжди означає однаковий аромат"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "To szczególnie ważne przy popularnych liniach perfum. Jeśli widzisz nazwę znaną z flakonu EDT, a później znajdujesz EDP, Parfum, Extrait lub inną wersję, nie zakładaj automatycznie, że dostałaś dokładnie ten sam zapach w „mocniejszym wydaniu”.",
+          "uk": "Це особливо важливо для популярних парфумерних ліній. Якщо ви бачите знайому назву EDT, а потім знаходите EDP, Parfum, Extrait або іншу версію, не припускайте автоматично, що це той самий аромат у «сильнішій версії»."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Czasem różnica jest subtelna. Czasem zmienia się charakter całej kompozycji: świeże otwarcie może ustąpić bardziej kremowej bazie, kwiaty mogą stać się głębsze, a słodycz bardziej balsamiczna lub drzewna.",
+          "uk": "Іноді різниця ледь помітна. А іноді змінюється характер усієї композиції: свіже відкриття може поступитися більш кремовій базі, квіти стати глибшими, а солодкість — більш бальзамічною або деревною."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Czy wyższe stężenie oznacza „lepsze” perfumy?",
+          "uk": "Чи означає вища концентрація «кращі» парфуми?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Nie. To trochę tak, jakby powiedzieć, że mocniejsza kawa zawsze jest lepsza od delikatniejszej. Wszystko zależy od tego, czego szukasz.",
+          "uk": "Ні. Це приблизно те саме, що сказати, ніби міцніша кава завжди краща за легшу. Усе залежить від того, чого саме ви шукаєте."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "EDT może być idealne, gdy chcesz czegoś lekkiego i swobodnego. EDP może dać Ci pełniejsze, bardziej otulające doświadczenie. Parfum może zainteresować wtedy, gdy szukasz większej gęstości i spokojniejszego, bliższego skórze charakteru. <strong>Nie ma jednej właściwej wersji — jest ta, która pasuje do Ciebie.</strong>",
+          "uk": "EDT може бути ідеальним, якщо ви шукаєте щось легке й невимушене. EDP може подарувати повніше, більш огортаюче звучання. Parfum може зацікавити, якщо вам хочеться більшої щільності та спокійнішого, ближчого до шкіри характеру. <strong>Не існує однієї правильної версії — є та, яка підходить саме вам.</strong>"
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Jak czytać oznaczenie na flakonie?",
+          "uk": "Як читати позначення на флаконі?"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Przed zakupem zatrzymaj się na kilka sekund. Sprawdź pełną nazwę, dokładną wersję, rodzaj koncentracji i pojemność. Jeśli produkt występuje w kilku wariantach, nie porównuj ich wyłącznie po nazwie.",
+          "uk": "Перед покупкою зупиніться на кілька секунд. Перевірте повну назву, точну версію, тип концентрації та об’єм. Якщо продукт існує в кількох варіантах, не порівнюйте їх лише за назвою."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Dotyczy to również zapachów, które wydają się oczywiste: <strong>Libre, Black Opium, Sauvage czy La Vie Est Belle</strong> mogą występować w różnych interpretacjach. Znajoma nazwa nie powinna zastępować dokładnego sprawdzenia produktu.",
+          "uk": "Це стосується навіть ароматів, які здаються очевидними: <strong>Libre, Black Opium, Sauvage чи La Vie Est Belle</strong> можуть існувати в різних інтерпретаціях. Знайома назва не повинна замінювати уважну перевірку конкретного продукту."
+        }
+      },
+
+      {
+        "type": "heading",
+        "text": {
+          "pl": "Najlepszy sposób? Pozwól zapachowi przemówić",
+          "uk": "Найкращий спосіб? Дозвольте аромату заговорити"
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Jeśli wahasz się między EDT, EDP i Parfum, nie podejmuj decyzji wyłącznie na podstawie procentów, opinii czy obietnicy trwałości. Sprawdź każdą wersję na skórze, jeśli masz taką możliwość, i obserwuj ją przez kilka godzin.",
+          "uk": "Якщо ви вагаєтеся між EDT, EDP та Parfum, не приймайте рішення лише на основі відсотків, відгуків чи обіцянок стійкості. Якщо маєте можливість, протестуйте кожну версію на шкірі та поспостерігайте за нею протягом кількох годин."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "Być może odkryjesz, że EDT jest dokładnie tym, czego szukałaś. A może EDP pokaże Ci głębię, której brakowało w pierwszym spotkaniu. Albo właśnie Parfum okaże się najbardziej miękką i osobistą wersją tej samej historii.",
+          "uk": "Можливо, ви відкриєте, що EDT — саме те, що шукали. А можливо, EDP покаже глибину, якої бракувало під час першого знайомства. Або саме Parfum виявиться найм’якшою та найбільш особистою версією тієї самої історії."
+        }
+      },
+
+      {
+        "type": "paragraph",
+        "text": {
+          "pl": "<strong>Nie pytaj więc: „Które stężenie jest najlepsze?”. Zapytaj: „Która wersja opowiada tę historię tak, jak chcę ją nosić?”</strong>",
+          "uk": "<strong>Тож не питайте: «Яка концентрація найкраща?». Запитайте: «Яка версія розповідає цю історію саме так, як я хочу її носити?»</strong>"
         }
       }
     ]
-  },
-  {
-  "id": "autumn-2026",
-  "slug": "autumn-2026",
-  "category": "seasonal",
-  "publishedAt": "2026-09-18",
-  "readTime": 10,
-  "featured": true,
-  "tags": [
-    "autumn-2026",
-    "seasonal",
-    "selection",
-    "gourmand",
-    "dark-fruits",
-    "vanilla",
-    "woody",
-    "niche",
-    "luxury"
-  ],
-  "title": {
-    "pl": "Jesień 2026: zapachy, które mają charakter",
-    "uk": "Осінь 2026: аромати, які мають характер"
-  },
-  "excerpt": {
-    "pl": "Jesień 2026 nie pachnie już po prostu wanilią. To sezon mlecznych gourmandów, ciemnych owoców, skóry, drewna, tytoniu i słodyczy przełamanej czymś nieoczywistym.",
-    "uk": "Осінь 2026 вже не пахне просто ваніллю. Це сезон молочних gourmand-ароматів, темних фруктів, шкіри, дерева, тютюну та солодкості, яку врівноважує щось несподіване."
-  },
-  "content": [
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Jest taki moment na początku jesieni, kiedy lato jeszcze nie zdążyło całkiem odejść, ale powietrze nagle pachnie inaczej. Chłodniej. Głębiej. Bardziej miękko. Zmieniamy lekkie ubrania na płaszcze, kawę pijemy dłużej, a wieczory zaczynają mieć zupełnie inny rytm.",
-        "uk": "Є такий момент на початку осені, коли літо ще не встигло повністю піти, але повітря раптом пахне інакше. Прохолодніше. Глибше. М’якше. Ми змінюємо легкий одяг на пальта, довше п’ємо каву, а вечори набувають зовсім іншого ритму."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "I właśnie wtedy zmieniają się również perfumy. Jesień 2026 nie chce już jednak tylko ciężkich żywic, dymu i bardzo słodkiej wanilii. Najciekawsze kompozycje tego sezonu grają kontrastem: mleko spotyka pieprz, karmel drewno, śliwka skórę, wanilia tytoń, a kwiaty ciemne owoce.",
-        "uk": "І саме тоді змінюються й парфуми. Але осінь 2026 більше не хоче лише важких смол, диму та дуже солодкої ванілі. Найцікавіші композиції цього сезону грають на контрастах: молоко зустрічається з перцем, карамель — із деревом, слива — зі шкірою, ваніль — із тютюном, а квіти — з темними фруктами."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "To właśnie dlatego tegoroczna jesień jest tak interesująca. Gourmand dojrzewa, owoce stają się ciemniejsze, skóra mięknie, a drewno przestaje być chłodne i surowe. Liczy się nie sama nuta, ale to, z czym zostanie połączona.",
-        "uk": "Саме тому цьогорічна осінь така цікава. Gourmand стає дорослішим, фрукти — темнішими, шкіра — м’якшою, а дерево перестає бути холодним і суворим. Важлива вже не сама нота, а те, з чим її поєднали."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "Mleko, karmel i gourmand 2.0",
-        "uk": "Молоко, карамель і Gourmand 2.0"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Jednym z najmocniejszych kierunków jesieni 2026 jest <strong>Gourmand 2.0</strong>. Słodkie zapachy nadal są pożądane, ale przestają pachnieć jak prosty deser. Wanilia, karmel, mleko czy tonka dostają nowe towarzystwo: pieprz, przyprawy, drewno, piżmo, tytoń albo ambrowe molekuły. Dzięki temu słodycz staje się bardziej wyrafinowana i zdecydowanie bardziej uzależniająca.",
-        "uk": "Один із найсильніших напрямів осені 2026 — <strong>Gourmand 2.0</strong>. Солодкі аромати все ще бажані, але вони вже не пахнуть просто десертом. Ваніль, карамель, молоко чи тонка отримують нових партнерів: перець, прянощі, дерево, мускус, тютюн або амброві молекули. Завдяки цьому солодкість стає більш витонченою і значно цікавішою."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>BORNTOSTANDOUT Dirty Milk</perfume> pokazuje tę tendencję bez żadnych zahamowań. Mleko, karmel i mleko skondensowane spotykają się z czarnym pieprzem, Akigalawood, wanilią i tonką. To nie jest niewinny, słodki zapach. Jest kremowy, miękki i jednocześnie trochę niegrzeczny.",
-        "uk": "<perfume>BORNTOSTANDOUT Dirty Milk</perfume> показує цей напрям без жодних компромісів. Молоко, карамель і згущене молоко зустрічаються з чорним перцем, Akigalawood, ваніллю та тонкою. Це не невинний солодкий аромат. Він кремовий, м’який і водночас трохи зухвалий."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Essential Parfums Ambre Latte</perfume> wybiera bardziej elegancką drogę. Mleko migdałowe, dulce de leche, wanilia i prażona tonka tworzą kremową, niemal apetyczną miękkość, ale pod nią pojawiają się ambrowe i drzewne molekuły. To gourmand, który za chwilę może przestać pachnieć jak deser, a zacząć pachnieć jak ciepła skóra i kaszmirowy sweter.",
-        "uk": "<perfume>Essential Parfums Ambre Latte</perfume> обирає більш елегантний шлях. Мигдальне молоко, dulce de leche, ваніль і підсмажена тонка створюють кремову, майже апетитну м’якість, але під нею з’являються амброві та деревні молекули. Це gourmand, який за мить перестає нагадувати десерт і починає пахнути теплою шкірою та кашеміровим светром."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "Ciemne owoce wychodzą z lata",
-        "uk": "Темні фрукти виходять із літа"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Latem owoce są jasne, soczyste i pełne światła. Jesienią robią się głębsze. Śliwka, czarna wiśnia, czarna porzeczka, figa czy ciemne jagody stają się bardziej aksamitne, tajemnicze i zmysłowe. To jeden z najbardziej charakterystycznych kierunków sezonu 2026.",
-        "uk": "Влітку фрукти яскраві, соковиті та наповнені світлом. Восени вони стають глибшими. Слива, чорна вишня, чорна смородина, інжир і темні ягоди набувають оксамитового, загадкового та чуттєвого звучання. Це один із найхарактерніших напрямів сезону 2026."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Byredo Bibliothèque</perfume> jest niemal definicją tego nastroju. Śliwka spotyka fiołek, skórzany akord, brzozowe drewno, paczulę i wanilię. Powstaje zapach przypominający starą bibliotekę po zmroku — miękki, lekko pudrowy, skórzany i niezwykle atmosferyczny.",
-        "uk": "<perfume>Byredo Bibliothèque</perfume> — майже ідеальне втілення цього настрою. Слива зустрічається з фіалкою, шкіряним акордом, березовою деревиною, пачулі та ваніллю. Виникає аромат старої бібліотеки після заходу сонця — м’який, трохи пудровий, шкіряний і надзвичайно атмосферний."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Parfums de Marly Delina Exclusif</perfume> pokazuje ciemniejszą stronę kobiecej róży. Soczyste liczi i gruszka otwierają kompozycję, ale szybko pojawia się róża damasceńska, kadzidło, wanilia, piżmo i fasola tonka. To róża po zmroku — bardziej aksamitna, głęboka i zmysłowa.",
-        "uk": "<perfume>Parfums de Marly Delina Exclusif</perfume> показує темнішу сторону жіночої троянди. Соковиті лічі та груша відкривають композицію, але дуже швидко з’являються дамаська троянда, ладан, ваніль, мускус і боби тонка. Це троянда після заходу сонця — більш оксамитова, глибока та чуттєва."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "Skóra, drewno i jesienny charakter",
-        "uk": "Шкіра, дерево та осінній характер"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Drugim ważnym kierunkiem sezonu jest tekstura. Skóra i zamsz nie muszą już być ciężkie ani agresywne. Coraz częściej pojawiają się w otoczeniu wanilii, owoców, piżma i miękkich drewien. Dzięki temu pachną bardziej jak materiał, którego chce się dotknąć — jak zamszowa kurtka, skórzany fotel albo kaszmirowy płaszcz.",
-        "uk": "Другий важливий напрям сезону — текстура. Шкіра та замша більше не повинні бути важкими чи агресивними. Все частіше вони з’являються поруч із ваніллю, фруктами, мускусом і м’якими деревними нотами. Завдяки цьому вони нагадують матеріал, до якого хочеться доторкнутися — замшеву куртку, шкіряне крісло або кашемірове пальто."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>YSL Le Vestiaire des Parfums Caban</perfume> pokazuje bardziej elegancką, wytrawną stronę jesieni. Pieprz, ambra, drewno i kremowe akcenty tworzą kompozycję, która nie potrzebuje cukru, żeby być ciepła i otulająca.",
-        "uk": "<perfume>YSL Le Vestiaire des Parfums Caban</perfume> показує більш елегантну та стриману сторону осені. Перець, амбра, дерево та кремові акценти створюють композицію, якій не потрібна солодкість, щоб бути теплою та огортаючою."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Penhaligon's The Blazing Mister Sam</perfume> idzie jeszcze dalej w stronę przypraw i drewna. Czarny pieprz, kardamon, cedr i paczula tworzą zapach o wyraźnej osobowości — ciepły, elegancki i zdecydowany. To propozycja dla tych, którzy lubią, kiedy perfumy wchodzą do pomieszczenia razem z nimi.",
-        "uk": "<perfume>Penhaligon's The Blazing Mister Sam</perfume> іде ще далі в бік прянощів та дерева. Чорний перець, кардамон, кедр і пачулі створюють аромат із виразною індивідуальністю — теплий, елегантний і впевнений. Це вибір для тих, хто любить, коли парфуми заходять у кімнату разом із ними."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "Czekolada i tytoń — jesień po zmroku",
-        "uk": "Шоколад і тютюн — осінь після заходу сонця"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Jeśli istnieje zapachowy moment, który naprawdę kojarzy się z późną jesienią, to jest nim połączenie tytoniu, ciemnej czekolady, przypraw i ciepłego drewna. W 2026 roku ten kierunek dostał wyjątkowo nowoczesną odsłonę.",
-        "uk": "Якщо існує ароматний момент, який по-справжньому нагадує пізню осінь, то це поєднання тютюну, темного шоколаду, прянощів і теплого дерева. У 2026 році цей напрям отримав особливо сучасне звучання."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Tom Ford Tobacco Chocolat</perfume> łączy bogactwo ciemnej czekolady i kakao z tytoniem, pomarańczą, paczulą, balsamiczną głębią i Ambrofix. To gourmand, który nie chce pachnieć jak deser. Bardziej przypomina wieczorny rytuał — ciemny, ciepły i luksusowy.",
-        "uk": "<perfume>Tom Ford Tobacco Chocolat</perfume> поєднує насиченість темного шоколаду та какао з тютюном, апельсином, пачулі, бальзамічною глибиною та Ambrofix. Це gourmand, який не хоче пахнути просто десертом. Він радше нагадує вечірній ритуал — темний, теплий і розкішний."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Tom Ford Tobacco Vanille</perfume> pozostaje jednym z najbardziej charakterystycznych przykładów tego kierunku. Tytoń, wanilia, tonka i kakao tworzą zapach przypominający elegancki klub po zmroku, ciepłe drewno i słodki dym unoszący się w powietrzu.",
-        "uk": "<perfume>Tom Ford Tobacco Vanille</perfume> залишається одним із найхарактерніших прикладів цього напряму. Тютюн, ваніль, тонка та какао створюють аромат, що нагадує елегантний клуб після заходу сонця, тепле дерево та солодкий дим у повітрі."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "A jeśli nie chcesz ciężkiej jesieni?",
-        "uk": "А якщо ви не хочете важкої осені?"
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Jesień nie oznacza obowiązku noszenia ciężkich perfum. Właśnie dlatego w naszej selekcji zostawiliśmy również zapach, który pokazuje spokojniejszą stronę sezonu.",
-        "uk": "Осінь не означає, що потрібно обов’язково носити важкі парфуми. Саме тому в нашій добірці є аромат, який показує спокійнішу сторону сезону."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<perfume>Vilhelm Parfumerie Dear Polly</perfume> łączy herbatę, cytrusy, jabłko, piżmo i drewno. Jest bardziej intymny niż monumentalny, bardziej miękki niż ciężki. To zapach na jesienne poranki, pracę, kawiarnię, spacer i te dni, kiedy chcesz pachnieć pięknie, ale nie chcesz dominować przestrzeni.",
-        "uk": "<perfume>Vilhelm Parfumerie Dear Polly</perfume> поєднує чай, цитруси, яблуко, мускус і дерево. Він більш інтимний, ніж монументальний, більш м’який, ніж важкий. Це аромат для осіннього ранку, роботи, кав’ярні, прогулянки та тих днів, коли хочеться пахнути красиво, але не заповнювати собою весь простір."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "5 luksusowych. 5 niszowych. Jedna jesień.",
-        "uk": "5 люксових. 5 нішевих. Одна осінь."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "W tym sezonie nie ma jednego właściwego sposobu na jesienny zapach. Możesz wybrać kremowe mleko i karmel. Możesz pójść w stronę ciemnej śliwki i skóry. Możesz otulić się tytoniem i wanilią albo wybrać herbatę i miękkie drewno.",
-        "uk": "Цього сезону немає одного правильного осіннього аромату. Ви можете обрати кремове молоко та карамель. Можете піти в бік темної сливи та шкіри. Можете огорнути себе тютюном і ваніллю або обрати чай та м’яке дерево."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "W naszej selekcji spotykają się zarówno luksusowe kompozycje <perfume>Tom Ford Tobacco Chocolat</perfume>, <perfume>Tom Ford Tobacco Vanille</perfume>, <perfume>Byredo Bibliothèque</perfume>, <perfume>Dior Bois d'Argent</perfume> i <perfume>YSL Caban</perfume>, jak i niszowe historie <perfume>BORNTOSTANDOUT Dirty Milk</perfume>, <perfume>Essential Parfums Ambre Latte</perfume>, <perfume>Delina Exclusif</perfume>, <perfume>Penhaligon's The Blazing Mister Sam</perfume> oraz <perfume>Vilhelm Parfumerie Dear Polly</perfume>.",
-        "uk": "У нашій добірці зустрічаються як люксові композиції <perfume>Tom Ford Tobacco Chocolat</perfume>, <perfume>Tom Ford Tobacco Vanille</perfume>, <perfume>Byredo Bibliothèque</perfume>, <perfume>Dior Bois d'Argent</perfume> та <perfume>YSL Caban</perfume>, так і нішеві історії <perfume>BORNTOSTANDOUT Dirty Milk</perfume>, <perfume>Essential Parfums Ambre Latte</perfume>, <perfume>Delina Exclusif</perfume>, <perfume>Penhaligon's The Blazing Mister Sam</perfume> та <perfume>Vilhelm Parfumerie Dear Polly</perfume>."
-      }
-    },
-    {
-      "type": "heading",
-      "text": {
-        "pl": "Nie wybieraj perfum. Wybierz swoją jesień.",
-        "uk": "Не обирайте просто парфуми. Оберіть свою осінь."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Bo najlepszy jesienny zapach nie musi być najbardziej intensywny, najdroższy ani najbardziej popularny. Powinien pasować do Ciebie.",
-        "uk": "Бо найкращий осінній аромат не обов’язково має бути найінтенсивнішим, найдорожчим чи найпопулярнішим. Він має підходити саме вам."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "Do płaszcza zarzuconego na ramiona. Do pierwszej kawy wypitej przy chłodnym oknie. Do wieczoru, kiedy miasto pachnie mokrymi ulicami. Do randki, na której chcesz zostać zapamiętana. Do spokojnego wieczoru, kiedy jesteś tylko Ty, książka i ciepłe światło.",
-        "uk": "До пальта, накинутого на плечі. До першої кави біля прохолодного вікна. До вечора, коли місто пахне мокрими вулицями. До побачення, на якому хочеться залишитися в пам’яті. До тихого вечора, коли є лише ви, книжка й тепле світло."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "I najważniejsze: nie oceniaj zapachu po pierwszych kilku minutach. Jesienne kompozycje często mają przed sobą całą historię. Daj im czas, pozwól rozgrzać się na skórze i zobacz, co zostanie po godzinie.",
-        "uk": "І найважливіше: не оцінюйте аромат за першими кількома хвилинами. Осінні композиції часто мають цілу історію попереду. Дайте їм час, дозвольте їм розігрітися на шкірі й подивіться, що залишиться через годину."
-      }
-    },
-    {
-      "type": "paragraph",
-      "text": {
-        "pl": "<strong>Bo właśnie wtedy zaczynają się prawdziwe perfumy.</strong> Nie wtedy, gdy czujesz je pierwszy raz. Tylko wtedy, gdy po kilku godzinach nadal masz ochotę podnieść nadgarstek do nosa.",
-        "uk": "<strong>Бо саме тоді починаються справжні парфуми.</strong> Не тоді, коли ви відчуваєте їх уперше. А тоді, коли через кілька годин вам усе ще хочеться піднести зап’ястя до носа."
-      }
-    }
-  ]
-}
+  }
 ]

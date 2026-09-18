@@ -1,9 +1,9 @@
 .hero {
   position: relative;
-  min-height: calc(100vh - var(--header-height));
+  min-height: 30vh;
   display: grid;
   align-items: end;
-  padding-block: var(--space-9) var(--space-8);
+  padding: 30px;
   overflow: hidden;
 }
 
@@ -315,5 +315,150 @@
 @media (min-width: 1024px) {
   .article-grid--home {
     grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* =========================================
+   JOURNAL CAROUSEL
+   ========================================= */
+
+.journal-section {
+  overflow: hidden;
+}
+
+.journal-carousel-header {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.journal-carousel-controls {
+  display: flex;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+
+.journal-carousel-arrow {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+
+  font-size: 1.1rem;
+  cursor: pointer;
+
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.journal-carousel-controls {
+  display: flex;
+  gap: 0.75rem;
+  flex-shrink: 0;
+}
+
+.journal-carousel-arrow {
+  width: 52px;
+  height: 52px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+
+  font-family: inherit;
+  font-size: 1.35rem;
+  line-height: 1;
+
+  cursor: pointer;
+
+  transition:
+    opacity 0.25s ease,
+    border-color 0.25s ease,
+    transform 0.25s ease;
+}
+
+.journal-carousel-arrow:hover {
+  background: transparent;
+  color: var(--color-text);
+  border-color: var(--color-text);
+}
+
+.journal-carousel-arrow:first-child:hover {
+  transform: translateX(-2px);
+}
+
+.journal-carousel-arrow:last-child:hover {
+  transform: translateX(2px);
+}
+
+.journal-carousel-arrow:active {
+  transform: scale(0.96);
+}
+
+.journal-carousel {
+  display: flex;
+  gap: 1.5rem;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+
+  padding-bottom: 1rem;
+
+  scrollbar-width: thin;
+}
+
+.journal-carousel::-webkit-scrollbar {
+  height: 4px;
+}
+
+.journal-carousel__item {
+  flex: 0 0 calc((100% - 3rem) / 3);
+  min-width: 0;
+
+  scroll-snap-align: start;
+}
+
+/* TABLET */
+
+@media (max-width: 899px) {
+  .journal-carousel__item {
+    flex: 0 0 calc((100% - 1.5rem) / 2);
+  }
+}
+
+/* MOBILE */
+
+@media (max-width: 599px) {
+  .journal-carousel-header {
+    align-items: flex-start;
+  }
+
+  .journal-carousel-controls {
+    display: none;
+  }
+
+  .journal-carousel {
+    gap: 1rem;
+    scroll-snap-type: x mandatory;
+  }
+
+  .journal-carousel__item {
+    flex: 0 0 86%;
   }
 }

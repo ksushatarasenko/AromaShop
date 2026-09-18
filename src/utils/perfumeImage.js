@@ -214,9 +214,14 @@ export function getBrandLogo(brand) {
 
 export function getJournalImage(article) {
   const file = article?.image || article?.cover;
+
   if (!file) return null;
-  if (file.startsWith('/')) return file;
-  return `${ASSETS.journal}/${file}`;
+
+  if (file.startsWith('/')) {
+    return file;
+  }
+
+  return `${import.meta.env.BASE_URL}${ASSETS.journal.replace(/^\//, '')}/${file}`;
 }
 
 export function getHomeImage(key) {
