@@ -218,10 +218,10 @@ export function getJournalImage(article) {
   if (!file) return null;
 
   if (file.startsWith('/')) {
-    return file;
+    return withBasePath(file);
   }
 
-  return `${import.meta.env.BASE_URL}${ASSETS.journal.replace(/^\//, '')}/${file}`;
+  return `${ASSETS.journal}/${file}`;
 }
 
 export function getHomeImage(key) {
