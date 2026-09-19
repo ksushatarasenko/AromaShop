@@ -60,8 +60,30 @@ export function getEffectiveDecantPricePerMl(perfume, referenceBottle) {
  * Decant retail = (zł/ml × ml) + bottle fee.
  * Fee is once per physical decant, not per ml.
  */
+export const DECANT_BOTTLE_FEE_SMALL = 3;
+export const DECANT_BOTTLE_FEE_LARGE = 12;
+
+export function getDecantBottleFee(ml) {
+  const size = Number(ml);
+
+  if (!size) return 0;
+
+  return size <= 10
+    ? DECANT_BOTTLE_FEE_SMALL
+    : DECANT_BOTTLE_FEE_LARGE;
+}
+
 export function calculateDecantPrice(ml, pricePerMlValue) {
-  if (!ml || pricePerMlValue == null || Number.isNaN(pricePerMlValue)) return null;
+  if (
+    !ml ||
+    pricePerMlValue == null ||
+    Number.isNaN(pricePerMlValue)
+  ) {
+    return null;
+  }
+
   const liquid = Number(ml) * Number(pricePerMlValue);
-  return Math.round((liquid + DECANT_BOTTLE_FEE) * 100) / 100;
+  const bottleFee = getDecantBottleFee(ml);
+
+  return Math.round((liquid + bottleFee) * 100) / 100;
 }

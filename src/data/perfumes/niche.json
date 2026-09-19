@@ -2252,11 +2252,11 @@
     "bestseller": true,
     "decant": {
       "enabled": true,
-      "sizes": [1, 5, 10, 15, 20],
-      "pricePerMl": 4.7467
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 5
     },
-    "image": "main.jpg",
-    "gallery": ["02.jpg", "03.jpg"],
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
     "id": "montale-intense-cafe-edp-100",
     "brandId": "montale",
     "name": "Intense Café",
@@ -2268,32 +2268,56 @@
     "country": "France",
     "moods": ["coffee", "floral", "gourmand", "sweet"],
     "description": {
-      "pl": "Montale Intense Café — kawowo-różany niszowy zapach. Oryginał w AromaShop.",
-      "uk": "Montale Intense Café — кавово-трояндовий нішевий аромат. Оригінал в AromaShop."
+      "pl": "Montale Intense Café — zmysłowy uniseks, w którym aksamitna róża spotyka ciepłą kawę, wanilię, bursztyn i białe piżmo. Oryginał w AromaShop.",
+      "uk": "Montale Intense Café — чуттєвий унісекс, у якому оксамитова троянда зустрічається з теплою кавою, ваніллю, амброю та білим мускусом. Оригінал в AromaShop."
     },
     "shortDescription": {
-      "pl": "Kawa i róża: gorzko-słodki, uzależniający kontrast.",
-      "uk": "Кава й троянда: гірко-солодкий залежний контраст."
+      "pl": "Aksamitna róża, ciepła kawa, wanilia i białe piżmo. Intense Café jest słodki, miękki i zmysłowy — jak wieczór w małej kawiarni, kiedy za oknem robi się już ciemno.",
+      "uk": "Оксамитова троянда, тепла кава, ваніль і білий мускус. Intense Café — солодкий, м’який і чуттєвий, наче вечір у маленькій кав’ярні, коли за вікном уже темніє."
     },
     "story": {
-      "pl": "Intense Café otwiera się od <strong>kawy i róży</strong>, a baza dodaje wanilię i piżmo — deserowo i kwiatowo jednocześnie.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Kultowy kawowy Montale.</strong>",
-      "uk": "Intense Café починається з <strong>кави та троянди</strong>, а база додає ваніль і мускус — десертно й квітково водночас.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Культовий кавовий Montale.</strong>"
+      "pl": "<strong>Intense Café zaczyna się jak filiżanka kawy wypita późnym wieczorem — ciepło, miękko i trochę niebezpiecznie.</strong>\n\nPierwsze sekundy są słodkie i kwiatowe. Zanim zdążysz pomyśleć o klasycznej róży, pojawia się kawa. Nie czarna, gorzka i surowa, ale otulona miękkim ciepłem kompozycji. To właśnie ten moment, w którym Intense Café zaczyna grać własnymi zasadami.\n\n<strong>Róża i kawa spotykają się tutaj bliżej, niż można się spodziewać.</strong>\n\nRóża jest aksamitna, soczysta i lekko pudrowa. Kawa dodaje jej ciemniejszego tonu — odrobiny goryczy, głębi i charakteru. Słodycz nie znika, ale przestaje być niewinna.\n\nPo chwili kompozycja robi się jeszcze bardziej miękka. Wanilia wygładza ostrość, bursztyn dodaje ciepła, a białe piżmo sprawia, że zapach zaczyna osiadać na skórze jak miękki kaszmirowy szal.\n\nTo właśnie tutaj Intense Café pokazuje swoją najbardziej zmysłową stronę. Nie jest krzykliwy. Nie próbuje wejść do pokoju pierwszy. Raczej zostaje blisko skóry i tworzy wokół niej ciepłą, słodką aurę.\n\nWyobraź sobie małą kawiarnię późnym wieczorem. Za oknem mokry chodnik odbija światła miasta. Na stole stygnie kawa, obok leży bukiet róż. W powietrzu jest coś słodkiego, kremowego i odrobinę ciemnego. Właśnie tak może pachnieć Intense Café.\n\n<strong>I jest w nim piękny paradoks.</strong>\n\nNazwa obiecuje kawę, ale kompozycja nie chce być po prostu kawowym zapachem. Kawa jest tutaj częścią większej historii — róża nadaje jej miękkość, wanilia słodycz, bursztyn ciepło, a białe piżmo sprawia, że całość staje się niezwykle przyjemna dla skóry.\n\nTo zapach dla kogoś, kto lubi słodycz, ale potrzebuje w niej odrobiny ciemności. Dla osoby, która może założyć jedwabną koszulę, ciężki płaszcz albo zwykły czarny sweter — i w każdej z tych wersji nadal wyglądać jak sobą.\n\n<strong>Intense Café — róża po zmroku, kawa w ciepłym świetle i słodycz, która nauczyła się mieć charakter.</strong>",
+      "uk": "<strong>Intense Café починається як чашка кави, випита пізнього вечора — тепло, м’яко й трохи небезпечно.</strong>\n\nПерші секунди — солодкі та квіткові. Ще до того, як ти встигаєш подумати про класичну троянду, з’являється кава. Не чорна, гірка й різка, а огорнута м’яким теплом композиції. Саме тут Intense Café починає грати за власними правилами.\n\n<strong>Троянда й кава тут зустрічаються ближче, ніж можна було очікувати.</strong>\n\nТроянда — оксамитова, соковита, трохи пудрова. Кава додає їй темнішого відтінку — краплю гіркоти, глибини та характеру. Солодкість нікуди не зникає, але перестає бути невинною.\n\nЧерез деякий час композиція стає ще м’якшою. Ваніль згладжує гостроту, амбра додає тепла, а білий мускус змушує аромат осідати на шкірі, наче м’який кашеміровий шарф.\n\nСаме тут Intense Café показує свою найбільш чуттєву сторону. Він не кричить. Не намагається першим увійти до кімнати. Він просто залишається близько до шкіри, створюючи навколо неї теплу, солодку ауру.\n\nУяви маленьку кав’ярню пізнього вечора. За вікном мокрий тротуар відбиває міські вогні. На столі холоне кава, поруч лежить букет троянд. У повітрі — щось солодке, кремове й трохи темне. Саме так може звучати Intense Café.\n\n<strong>І в ньому є прекрасний парадокс.</strong>\n\nНазва обіцяє каву, але композиція не хоче бути просто кавовим ароматом. Кава тут — лише частина великої історії: троянда дарує їй м’якість, ваніль — солодкість, амбра — тепло, а білий мускус робить усе звучання надзвичайно приємним для шкіри.\n\nЦе аромат для тих, хто любить солодкість, але потребує в ній трохи темряви. Для людини, яка може вдягнути шовкову сорочку, важке пальто або звичайний чорний светр — і в кожному з цих образів залишатися собою.\n\n<strong>Intense Café — троянда після настання темряви, кава в теплому світлі та солодкість, яка навчилася мати характер.</strong>"
     },
     "facts": [
       {
-        "pl": "☕ <strong>Intense Café.</strong> Jeden z najbardziej znanych kawowych zapachów niche.",
-        "uk": "☕ <strong>Intense Café.</strong> Один із найбільш відомих кавових ароматів niche."
+        "pl": "☕ <strong>2013 — początek historii.</strong> Intense Café zadebiutował w 2013 roku jako część charakterystycznego, niszowego świata Montale. Już podczas targów Esxence 2013 w Mediolanie prezentowano go jako nowość poświęconą kawie, połączoną z nutami kwiatowymi, ambrą, wanilią i białym piżmem. :contentReference[oaicite:1]{index=1}",
+        "uk": "☕ <strong>2013 — початок історії.</strong> Intense Café вийшов у 2013 році як частина характерного нішевого світу Montale. Уже на виставці Esxence 2013 у Мілані його представляли як новинку, присвячену каві, поєднаній із квітковими нотами, амброю, ваніллю та білим мускусом. :contentReference[oaicite:2]{index=2}"
       },
       {
-        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Intense Café w AromaShop to oryginalny produkt.",
-        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Intense Café в AromaShop — оригінальний продукт."
+        "pl": "👃 <strong>Za kompozycją stoi Pierre Montale.</strong> To właśnie Pierre Montale jest podawany jako twórca Intense Café. Jego nazwisko jest mocno związane z charakterystycznym stylem marki, w którym intensywność, orientalne akordy i wyrazisty ślad są częścią olfaktorycznego DNA Montale. :contentReference[oaicite:3]{index=3}",
+        "uk": "👃 <strong>Автор композиції — Pierre Montale.</strong> Саме Pierre Montale зазначений як творець Intense Café. Його ім’я тісно пов’язане з характерним стилем бренду, де інтенсивність, східні акорди та виразний шлейф стали частиною парфумерної ДНК Montale. :contentReference[oaicite:4]{index=4}"
+      },
+      {
+        "pl": "🌹 <strong>Róża spotyka kawę.</strong> Oficjalna piramida Montale jest zbudowana wokół kwiatowego otwarcia, róży i kawy w sercu oraz ambry, wanilii i białego piżma w bazie. To właśnie ten kontrast — kwiatowa miękkość i ciemniejszy kawowy akcent — nadaje Intense Café jego charakter. :contentReference[oaicite:5]{index=5}",
+        "uk": "🌹 <strong>Троянда зустрічається з кавою.</strong> Офіційна піраміда Montale побудована навколо квіткового відкриття, троянди та кави в серці, а в базі залишаються амбра, ваніль і білий мускус. Саме цей контраст — квіткова м’якість і темніший кавовий акцент — формує характер Intense Café. :contentReference[oaicite:6]{index=6}"
+      },
+      {
+        "pl": "☕ <strong>To nie jest zwykły zapach kawy.</strong> Sama nazwa może sugerować intensywne espresso, ale konstrukcja kompozycji jest znacznie bardziej kwiatowo-waniliowa. Kawa nie występuje tu samotnie — jest spleciona z różą i otulona wanilią, ambrą oraz białym piżmem. Oficjalna Montale opisuje tę kombinację jako aksamitną różę spotykającą zmysłową kawę. :contentReference[oaicite:7]{index=7}",
+        "uk": "☕ <strong>Це не просто аромат кави.</strong> Сама назва може натякати на міцний еспресо, але композиція значно більш квітково-ванільна. Кава тут не звучить окремо — вона переплітається з трояндою та огортається ваніллю, амброю й білим мускусом. Montale описує це поєднання як зустріч оксамитової троянди та чуттєвої кави. :contentReference[oaicite:8]{index=8}"
+      },
+      {
+        "pl": "🖤 <strong>Aluminiowa butelka to znak rozpoznawczy Montale.</strong> Marka podkreśla, że jej charakterystyczne aluminiowe flakony mają chronić kompozycje przed światłem. Pierre Montale traktuje perfumy jako żywy materiał, a tradycja dojrzewania koncentratów w metalowych zbiornikach stała się inspiracją dla tej formy opakowania. :contentReference[oaicite:9]{index=9}",
+        "uk": "🖤 <strong>Алюмінієвий флакон — впізнаваний знак Montale.</strong> Бренд зазначає, що характерні алюмінієві флакони захищають композиції від світла. Pierre Montale розглядає парфуми як живий матеріал, а традиція витримування концентратів у металевих ємностях стала натхненням для такої форми флакону. :contentReference[oaicite:10]{index=10}"
+      },
+      {
+        "pl": "🌹 <strong>Intense Café ma ciekawą rodzinę.</strong> Z czasem Montale rozwinęło kawowo-różany kierunek także w innych kompozycjach, czego przykładem jest Ristretto Intense Café. W tej wersji kawa jest jeszcze bardziej wyeksponowana — pojawiają się kawa, woda różana i ziarna kawy, a baza wzbogaca się o toffi. :contentReference[oaicite:11]{index=11}",
+        "uk": "🌹 <strong>Intense Café має цікаву парфумерну «родину».</strong> Згодом Montale розвинув кавово-трояндовий напрям і в інших композиціях, зокрема Ristretto Intense Café. У цій версії каву зробили ще виразнішою — з’явилися кава, трояндова вода та кавові зерна, а база доповнилася ірискою. :contentReference[oaicite:12]{index=12}"
+      },
+      {
+        "pl": "🪄 <strong>Uniseks z wyraźnym charakterem.</strong> Intense Café jest oficjalnie kompozycją dla kobiet i mężczyzn. Jego słodycz, róża i piżmowa baza mogą być odbierane jako miękkie i zmysłowe, ale kawa i ambra nadają całości ciemniejszego, bardziej zdecydowanego tonu. :contentReference[oaicite:13]{index=13}",
+        "uk": "🪄 <strong>Унісекс із виразним характером.</strong> Intense Café офіційно створений для жінок і чоловіків. Його солодкість, троянда та мускусна база можуть звучати м’яко й чуттєво, але кава та амбра додають композиції темнішого, більш впевненого характеру. :contentReference[oaicite:14]{index=14}"
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Intense Café dostępny w AromaShop jest oryginalnym produktem marki Montale.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Intense Café в AromaShop — оригінальний продукт бренду Montale."
       }
     ],
     "fragrance": {
       "families": ["floral", "gourmand", "oriental"],
       "accords": ["coffee", "rose", "vanilla", "sweet", "floral"],
       "notes": {
-        "top": ["coffee", "white-flowers"],
+        "top": ["white-flowers"],
         "heart": ["rose", "coffee"],
         "base": ["vanilla", "white-musk", "amber"]
       }
@@ -2316,12 +2340,12 @@
     "sizes": [
       {
         "ml": 50,
-        "price": 369,
+        "price": 280,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 454,
+        "price": 395,
         "stock": true
       }
     ],
@@ -2421,8 +2445,8 @@
     "bestseller": false,
     "decant": {
       "enabled": true,
-      "sizes": [1, 5, 10, 15, 20],
-      "pricePerMl": 5.8379
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 5
     },
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],
@@ -2433,29 +2457,58 @@
     "gender": "unisex",
     "concentration": "EDP",
     "year": 2006,
+    "visible": false,
     "perfumer": "",
     "country": "France",
     "moods": ["oud", "dark", "woody", "leather"],
     "description": {
-      "pl": "Montale Black Aoud — ciemny oudowo-różany niszowy klasyk. Oryginał w AromaShop.",
-      "uk": "Montale Black Aoud — темний удо-трояндовий нішевий класик. Оригінал в AromaShop."
+      "pl": "Montale Black Aoud — intensywny uniseks, w którym ciemna róża spotyka oud, paczulę, labdanum i miękkie piżmo. Głęboki, zmysłowy i bezkompromisowy. Oryginał w AromaShop.",
+      "uk": "Montale Black Aoud — інтенсивний унісекс, у якому темна троянда зустрічається з удом, пачулі, лабданумом і м’яким мускусом. Глибокий, чуттєвий і безкомпромісний. Оригінал в AromaShop."
     },
     "shortDescription": {
-      "pl": "Czarny oud Montale: intensywny, suchy i nieprzejednany.",
-      "uk": "Чорний уд Montale: інтенсивний, сухий і безкомпромісний."
+      "pl": "Ciemna róża, szorstki oud, paczula i ciepłe piżmo. Black Aoud pachnie jak ogród różany po zmroku — chłodne powietrze, wilgotne płatki i dymna, lekko tajemnicza głębia.",
+      "uk": "Темна троянда, сухий уд, пачулі й теплий мускус. Black Aoud пахне як трояндовий сад після настання темряви — прохолодне повітря, вологі пелюстки та димна, трохи загадкова глибина."
     },
     "story": {
-      "pl": "Black Aoud otwiera się od ciemnego <strong>oudu i róży</strong>, z paczulą i skórzanymi niuansami — głęboko i mocno.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Montale.\n\n<strong>Jeden z fundamentów oudowej linii Montale.</strong>",
-      "uk": "Black Aoud починається з темного <strong>уду й троянди</strong> з пачулі та шкіряними нюансами — глибоко й потужно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Montale.\n\n<strong>Один із фундаментів удової лінії Montale.</strong>"
+      "pl": "<strong>Black Aoud nie prosi o uwagę. Bierze ją od pierwszego oddechu.</strong>\n\nPierwsze spotkanie jest intensywne. Ciemna róża pojawia się niemal natychmiast — gęsta, głęboka, pozbawiona niewinnej słodyczy. Tuż za nią wychodzi oud: suchy, drewniany, lekko dymny i celowo surowy.\n\n<strong>To nie jest róża z bukietu na stole.</strong>\n\nTo róża późnego wieczoru. Ciemnoczerwona, niemal czarna, rosnąca w chłodnym ogrodzie, kiedy światło powoli znika. Jej aksamitność spotyka się z charakterystyczną szorstkością oudu, a paczula dodaje kompozycji ziemistej głębi.\n\nPo kilku minutach Black Aoud zaczyna się zmieniać. Początkowa ostrość powoli mięknie. Mimo to zapach nie staje się grzeczny. Labdanum dodaje mu ciepła i balsamicznej gęstości, piżmo wygładza krawędzie, a róża pozostaje w centrum całej historii.\n\n<strong>Najciekawsze jest to, że Black Aoud ma dwa oblicza.</strong>\n\nZ pewnej odległości jest ciemny, dymny i niemal kadzidlany. Z bliska staje się bardziej miękki — róża wychodzi na pierwszy plan, oud zostaje bliżej skóry, a paczula i piżmo tworzą pod spodem ciepłe, lekko ziemiste tło.\n\nMandarynka pojawia się jak krótki błysk światła w tej ciemnej kompozycji. Nie próbuje rozjaśnić jej całkowicie. Tylko na moment przecina cięższą atmosferę i znika, pozostawiając miejsce dla róży, oudu i paczuli.\n\nTo zapach o wyraźnym charakterze. Nie jest stworzony po to, żeby podobać się wszystkim od pierwszej sekundy. Black Aoud ma własny język — intensywny, orientalny, ciemny i trochę dziki.\n\nWyobraź sobie czarne ubranie, chłodne powietrze i ogród różany po zachodzie słońca. Gdzieś w oddali unosi się cienka smuga dymu. Płatki róż są jeszcze wilgotne, ziemia pachnie po całym dniu, a na skórze zostaje ciepły, głęboki ślad.\n\n<strong>To właśnie jest Black Aoud.</strong>\n\nDla osoby, która nie potrzebuje bezpiecznych wyborów. Dla kogoś, kto lubi zapachy z charakterem, wyrazistym śladem i odrobiną mroku.\n\nTo nie jest oud, który stoi spokojnie w tle. I nie jest to róża, która chce być delikatna.\n\n<strong>Black Aoud — ciemna róża, która nauczyła się pachnieć jak noc.</strong>",
+      "uk": "<strong>Black Aoud не просить уваги. Він забирає її з першого вдиху.</strong>\n\nПерша зустріч — інтенсивна. Темна троянда з’являється майже одразу — густа, глибока, позбавлена невинної солодкості. Слідом виходить уд: сухий, деревний, трохи димний і навмисно шорсткий.\n\n<strong>Це не троянда з букета на столі.</strong>\n\nЦе троянда пізнього вечора. Темно-червона, майже чорна, що росте в прохолодному саду, коли світло поступово зникає. Її оксамитовість зустрічається з характерною шорсткістю уду, а пачулі додають композиції земної глибини.\n\nЧерез кілька хвилин Black Aoud починає змінюватися. Початкова різкість поступово пом’якшується. Але слухняним аромат не стає. Лабданум додає йому тепла та бальзамічної густоти, мускус згладжує краї, а троянда залишається в центрі всієї історії.\n\n<strong>Найцікавіше те, що Black Aoud має два обличчя.</strong>\n\nНа відстані він темний, димний і майже ладановий. Зблизька стає м’якшим — троянда виходить на перший план, уд залишається ближче до шкіри, а пачулі та мускус створюють під ними тепле, трохи землисте тло.\n\nМандарин з’являється як короткий спалах світла в цій темній композиції. Він не намагається повністю її освітлити. Лише на мить прорізає густу атмосферу — і зникає, залишаючи місце троянді, уду та пачулі.\n\nЦе аромат із виразним характером. Він не створений для того, щоб подобатися всім із першої секунди. Black Aoud має власну мову — інтенсивну, східну, темну й трохи дику.\n\nУяви чорний одяг, прохолодне повітря та трояндовий сад після заходу сонця. Десь удалині тягнеться тонка смуга диму. Пелюстки троянд ще вологі, земля пахне після цілого дня, а на шкірі залишається теплий, глибокий слід.\n\n<strong>Саме таким є Black Aoud.</strong>\n\nДля людини, якій не потрібні безпечні рішення. Для тих, хто любить аромати з характером, виразним шлейфом і краплею темряви.\n\nЦе не уд, який спокійно залишається на задньому плані. І не троянда, яка хоче бути ніжною.\n\n<strong>Black Aoud — темна троянда, яка навчилася пахнути як ніч.</strong>"
     },
     "facts": [
       {
-        "pl": "🖤 <strong>Black Aoud.</strong> Wczesny i ikoniczny oud Montale.",
-        "uk": "🖤 <strong>Black Aoud.</strong> Ранній іконічний уд Montale."
+        "pl": "🖤 <strong>2006 — początek historii.</strong> Black Aoud został wprowadzony na rynek w 2006 roku. To jedna z kompozycji, które mocno kojarzą się z charakterystycznym, intensywnym stylem Montale i jego fascynacją oudem. ([Fragrantica](https://www.fragrantica.com/perfume/Montale/Black-Aoud-1142.html))",
+        "uk": "🖤 <strong>2006 — початок історії.</strong> Black Aoud вийшов у 2006 році. Це одна з композицій, яка дуже добре передає характерний інтенсивний стиль Montale та його захоплення удовими композиціями. ([Fragrantica](https://www.fragrantica.com/perfume/Montale/Black-Aoud-1142.html))"
       },
       {
-        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Black Aoud w AromaShop to oryginalny produkt.",
-        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Black Aoud в AromaShop — оригінальний продукт."
+        "pl": "👃 <strong>Twórca kompozycji.</strong> Za Black Aoud stoi Pierre Montale — perfumiarz, którego nazwisko jest nierozerwalnie związane z rozwojem marki. Według historii Montale Pierre Montale przez lata poznawał tradycję orientalnego perfumiarstwa i stał się jednym z ważnych popularyzatorów oudu w Europie. ([Montale](https://www.montaleparfums.com/en/))",
+        "uk": "👃 <strong>Автор композиції.</strong> Black Aoud створив Pierre Montale — парфумер, чиє ім’я нерозривно пов’язане з розвитком бренду. За історією Montale, Pierre Montale роками знайомився з традиціями східної парфумерії та став одним із важливих популяризаторів уду в Європі. ([Montale](https://www.montaleparfums.com/en/))"
+      },
+      {
+        "pl": "🌹 <strong>Róża i oud — duet, który definiuje Black Aoud.</strong> Kompozycja opiera się przede wszystkim na róży i agarwood, czyli oudzie. Towarzyszą im paczula, piżmo, francuski labdanum i mandarynka. To właśnie połączenie kwiatowej miękkości z ciemnym, drewnianym oudem nadaje zapachowi jego charakter. ([Fragrantica](https://www.fragrantica.com/perfume/Montale/Black-Aoud-1142.html))",
+        "uk": "🌹 <strong>Троянда та уд — дует, що визначає Black Aoud.</strong> Композиція насамперед побудована на троянді та agarwood — удовій ноті. Їм акомпанують пачулі, мускус, французький лабданум і мандарин. Саме поєднання квіткової м’якості з темним деревним удом створює характер аромату. ([Fragrantica](https://www.fragrantica.com/perfume/Montale/Black-Aoud-1142.html))"
+      },
+      {
+        "pl": "🌑 <strong>Dlaczego „Black”?</strong> Nazwa nie opisuje jednej konkretnej nuty. Oddaje raczej atmosferę kompozycji — ciemną, gęstą i intensywną. Róża nie jest tutaj świeżym, jasnym kwiatem, a oud nadaje jej bardziej mroczny i zdecydowany charakter.",
+        "uk": "🌑 <strong>Чому «Black»?</strong> Назва не описує якусь одну конкретну ноту. Вона радше передає атмосферу композиції — темну, густу та інтенсивну. Троянда тут не свіжа й світла, а уд надає їй більш похмурого та виразного характеру."
+      },
+      {
+        "pl": "🌹 <strong>Róża nie jest dodatkiem.</strong> W Black Aoud róża pozostaje jednym z głównych bohaterów kompozycji. Oud nie przykrywa jej całkowicie — przeciwnie, tworzy dla niej ciemniejsze, bardziej surowe tło.",
+        "uk": "🌹 <strong>Троянда тут не просто доповнення.</strong> У Black Aoud вона залишається однією з головних героїнь композиції. Уд не перекриває її повністю — навпаки, створює для неї темніше, більш шорстке тло."
+      },
+      {
+        "pl": "🧭 <strong>Montale i fascynacja oudem.</strong> Historia marki mocno związana jest z orientem i oudowym surowcem. Montale opisuje Pierre'a Montale jako perfumiarza-eksploratora, który odkrywał sekrety orientalnej perfumerii i uczynił oud jednym z najważniejszych elementów swojego stylu. ([Montale](https://www.montaleparfums.com/en/))",
+        "uk": "🧭 <strong>Montale та захоплення удом.</strong> Історія бренду тісно пов’язана зі Сходом і удовою сировиною. Montale називає Pierre Montale парфумером-дослідником, який відкривав для себе секрети східної парфумерії та зробив уд одним із ключових елементів свого стилю. ([Montale](https://www.montaleparfums.com/en/))"
+      },
+      {
+        "pl": "🖤 <strong>Aluminiowy flakon ma swoją historię.</strong> Charakterystyczne metalowe opakowania Montale nie są przypadkowe. Marka wiąże je z ochroną koncentratów przed światłem oraz z tradycją przechowywania i dojrzewania kompozycji w metalowych zbiornikach. ([Montale](https://www.montaleparfums.com/en/))",
+        "uk": "🖤 <strong>Алюмінієвий флакон має свою історію.</strong> Характерні металеві флакони Montale з’явилися не випадково. Бренд пов’язує їх із захистом парфумерних концентратів від світла та традицією зберігання й витримування композицій у металевих ємностях. ([Montale](https://www.montaleparfums.com/en/))"
+      },
+      {
+        "pl": "🌙 <strong>Zapach dla kobiet i mężczyzn.</strong> Black Aoud jest dziś traktowany jako kompozycja uniseksowa. Jego charakter nie opiera się na klasycznym podziale na „kobiece” i „męskie”, lecz na kontraście róży, oudu, paczuli i piżma.",
+        "uk": "🌙 <strong>Аромат для жінок і чоловіків.</strong> Black Aoud сьогодні сприймається як унісекс-композиція. Його характер не будується на класичному поділі на «жіноче» та «чоловіче», а на контрасті троянди, уду, пачулі й мускусу."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Black Aoud dostępny w AromaShop jest oryginalnym produktem marki Montale.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Black Aoud в AromaShop — оригінальний продукт бренду Montale."
       }
     ],
     "fragrance": {
@@ -2949,6 +3002,7 @@
     "concentration": "Extrait",
     "year": 2015,
     "perfumer": "",
+    "visible": false,
     "country": "Italy",
     "moods": ["sweet", "fresh", "floral"],
     "description": {
@@ -3620,8 +3674,8 @@
     "bestseller": false,
     "decant": {
       "enabled": true,
-      "sizes": [1, 5, 10, 15, 20],
-      "pricePerMl": 10.5151
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 12
     },
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],
@@ -3636,25 +3690,53 @@
     "country": "France",
     "moods": ["mineral", "woody", "leather", "fresh"],
     "description": {
-      "pl": "Marc-Antoine Barrois Ganymede — mineralno-skórzany niszowy zapach Quentina Bisch. Oryginał w AromaShop.",
-      "uk": "Marc-Antoine Barrois Ganymede — мінерально-шкіряний нішевий аромат Quentin Bisch. Оригінал в AromaShop."
+      "pl": "Marc-Antoine Barrois Ganymede — niezwykły uniseks łączący soczystą mandarynkę, szafran, fiołek i mineralną skórę. Chłodny, świetlisty i niemal futurystyczny. Oryginał w AromaShop.",
+      "uk": "Marc-Antoine Barrois Ganymede — незвичайний унісекс, що поєднує соковитий мандарин, шафран, фіалку та мінеральну шкіру. Холодний, світлий і майже футуристичний. Оригінал в AromaShop."
     },
     "shortDescription": {
-      "pl": "Mandarynka, immortelle i mineralna skóra — kosmicznie nowocześnie.",
-      "uk": "Мандарин, безсмертник і мінеральна шкіра — космічно сучасно."
+      "pl": "Soczysta mandarynka, chłodny szafran, fiołek i mineralna skóra. Ganymede pachnie jak świat, którego jeszcze nie znamy — czysto, przestrzennie, metalicznie i niezwykle elegancko.",
+      "uk": "Соковитий мандарин, холодний шафран, фіалка та мінеральна шкіра. Ganymede пахне як світ, якого ми ще не знаємо — чисто, просторо, металево й надзвичайно елегантно."
     },
     "story": {
-      "pl": "Ganymede otwiera się od <strong>mandarynki i immortelle</strong>, a baza buduje mineralną, prawie metaliczną skórę — chłodno i fascynująco.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Marc-Antoine Barrois.\n\n<strong>Discovery o rzadkim, współczesnym charakterze.</strong>",
-      "uk": "Ganymede починається з <strong>мандарина та безсмертника</strong>, а база будує мінеральну, майже металеву шкіру — прохолодно й захопливо.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Marc-Antoine Barrois.\n\n<strong>Discovery з рідкісним сучасним характером.</strong>"
+      "pl": "<strong>Ganymede nie pachnie jak coś, co już znasz.</strong>\n\nPierwszy kontakt jest niemal zaskakujący. Soczysta mandarynka rozbłyska na skórze, ale zamiast przejść w typową cytrusową świeżość, niemal natychmiast spotyka chłodny szafran. Powstaje coś jasnego, suchego i lekko pikantnego.\n\n<strong>A potem pojawia się skóra — ale zupełnie inna, niż można się spodziewać.</strong>\n\nNie ciężka, nie dymna, nie zwierzęca. Bardziej jak idealnie gładki zamsz dotknięty chłodnym metalem. Mineralny, czysty i niemal abstrakcyjny. Jakby zapach miał własną temperaturę.\n\nFiołek i osmantus dodają kompozycji miękkości. W osmantusie można wyczuć delikatnie owocową, morelową niuansowość, a fiołek wnosi chłodny, lekko pudrowy odcień. Ale Ganymede bardzo szybko wymyka się klasycznym kategoriom.\n\n<strong>To nie jest „ładny” zapach w oczywistym znaczeniu.</strong>\n\nTo zapach przestrzeni.\n\nWyobraź sobie pusty, jasny budynek z marmuru. Ogromne okna. Chłodne światło. Na skórze pozostaje ślad soli po kąpieli w morzu, a w powietrzu unosi się lekko metaliczna, czysta nuta. Wszystko jest minimalistyczne, ale nic nie wydaje się puste.\n\nWłaśnie na tym polega magia Ganymede.\n\nZ jednej strony jest świeży i niemal czysty. Z drugiej — ma w sobie skórę, szafran, paczulę i Akigalawood, które nadają mu głębię i charakter. Jest miękki, ale chłodny. Jasny, ale nie słoneczny. Elegancki, ale pozbawiony klasycznej formalności.\n\n<strong>Ganymede cały czas balansuje pomiędzy przeciwieństwami.</strong>\n\nCiepła skóra i chłodny minerał. Soczysta mandarynka i suchy szafran. Pudrowy fiołek i metaliczna przestrzeń. Naturalne skojarzenia i coś, co wydaje się niemal stworzone w laboratorium przyszłości.\n\nNa skórze zapach nie siedzi ciężko. Raczej unosi się wokół niej — jak przezroczysta warstwa powietrza. I właśnie dlatego jego ślad potrafi być tak charakterystyczny. Czujesz go, zanim zaczniesz go analizować.\n\nTo zapach dla osoby, która nie potrzebuje oczywistych rzeczy. Kogoś, kto wybiera prostą formę, ale zwraca uwagę na detal. Czystą linię zamiast dekoracji. Charakter zamiast demonstracji.\n\nGanymede może pasować do białej koszuli, czarnego garnituru, minimalistycznej biżuterii albo zwykłego T-shirtu. Nie narzuca stylu. Raczej nadaje mu własną temperaturę.\n\n<strong>Ganymede — zapach skóry dotkniętej światłem odległej planety.</strong>",
+      "uk": "<strong>Ganymede не пахне як щось, що ти вже знаєш.</strong>\n\nПерша зустріч майже дивує. Соковитий мандарин спалахує на шкірі, але замість звичної цитрусової свіжості майже одразу зустрічається з холодним шафраном. Виникає щось світле, сухе й трохи пряне.\n\n<strong>А потім з’являється шкіра — але зовсім не така, як можна очікувати.</strong>\n\nНе важка, не димна, не тваринна. Радше ідеально гладкий замш, якого торкнувся холодний метал. Мінеральний, чистий і майже абстрактний. Наче аромат має власну температуру.\n\nФіалка та османтус додають композиції м’якості. В османтусі можна відчути делікатний фруктовий, абрикосовий відтінок, а фіалка приносить прохолодну, трохи пудрову грань. Але Ganymede дуже швидко вислизає за межі звичних категорій.\n\n<strong>Це не просто «гарний» аромат у звичному розумінні.</strong>\n\nЦе аромат простору.\n\nУяви порожню світлу будівлю з мармуру. Величезні вікна. Холодне світло. На шкірі залишається слід солі після купання в морі, а в повітрі зависає легка металева, чиста нота. Усе мінімалістичне, але ніщо не здається порожнім.\n\nСаме в цьому магія Ganymede.\n\nЗ одного боку, він свіжий і майже чистий. З іншого — у ньому є шкіра, шафран, пачулі та Akigalawood, які додають глибини й характеру. Він м’який, але холодний. Світлий, але не сонячний. Елегантний, але позбавлений класичної офіційності.\n\n<strong>Ganymede постійно балансує між протилежностями.</strong>\n\nТепла шкіра й холодний мінерал. Соковитий мандарин і сухий шафран. Пудрова фіалка та металева просторість. Природні асоціації та щось, що здається майже створеним у лабораторії майбутнього.\n\nНа шкірі аромат не лежить важко. Він радше зависає навколо неї — наче прозорий шар повітря. І саме тому його шлейф може бути таким впізнаваним. Ти відчуваєш його ще до того, як починаєш його аналізувати.\n\nЦе аромат для людини, якій не потрібні очевидні речі. Для того, хто обирає просту форму, але помічає деталі. Чисту лінію замість декору. Характер замість демонстрації.\n\nGanymede може пасувати до білої сорочки, чорного костюма, мінімалістичних прикрас або звичайної футболки. Він не диктує стиль. Він радше надає йому власної температури.\n\n<strong>Ganymede — аромат шкіри, якої торкнулося світло далекої планети.</strong>"
     },
     "facts": [
       {
-        "pl": "🪐 <strong>Ganymede.</strong> Współczesny mineralny signature MAB × Quentin Bisch.",
-        "uk": "🪐 <strong>Ganymede.</strong> Сучасний мінеральний signature MAB × Quentin Bisch."
+        "pl": "🪐 <strong>2019 — narodziny Ganymede.</strong> Zapach został wprowadzony 1 kwietnia 2019 roku. Jego nazwa pochodzi od Ganimedesa — księżyca Jowisza odkrytego przez Galileusza. Marka połączyła tę astronomiczną inspirację z wizją nowoczesnej, niemal pozaziemskiej elegancji. :contentReference[oaicite:1]{index=1}",
+        "uk": "🪐 <strong>2019 — народження Ganymede.</strong> Аромат вийшов 1 квітня 2019 року. Його назва походить від Ганімеда — супутника Юпітера, відкритого Галілеєм. Бренд поєднав цю астрономічну історію з баченням сучасної, майже позаземної елегантності. :contentReference[oaicite:2]{index=2}"
       },
       {
-        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Ganymede w AromaShop to oryginalny produkt.",
-        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Ganymede в AromaShop — оригінальний продукт."
+        "pl": "👃 <strong>Za Ganymede stoi Quentin Bisch.</strong> To właśnie francuski perfumiarz Quentin Bisch stworzył kompozycję dla projektanta Marca-Antoine'a Barroisa. Ich współpraca rozpoczęła się wcześniej przy B683, a Ganymede stał się kolejnym wspólnym projektem, opartym na bardziej futurystycznej wizji skóry. :contentReference[oaicite:3]{index=3}",
+        "uk": "👃 <strong>Автор Ganymede — Quentin Bisch.</strong> Саме французький парфумер Quentin Bisch створив композицію для дизайнера Marc-Antoine Barrois. Їхня співпраця почалася раніше з B683, а Ganymede став наступним спільним проєктом — уже з більш футуристичним баченням шкіри. :contentReference[oaicite:4]{index=4}"
+      },
+      {
+        "pl": "✨ <strong>Pomysł nie zaczynał się od klasycznej piramidy nut.</strong> Barrois i Bisch pracowali przede wszystkim nad wyobrażeniem tego, jak mogłaby pachnieć „boska skóra” — świeża, lekko słona, rozgrzana, ale jednocześnie mineralna i chłodna. Dopiero z tej fantazji powstała konkretna konstrukcja zapachu. :contentReference[oaicite:5]{index=5}",
+        "uk": "✨ <strong>Ідея почалася не з класичної піраміди нот.</strong> Barrois і Bisch спочатку працювали над уявленням про те, як могла б пахнути «божественна шкіра» — свіжа, трохи солона, зігріта, але водночас мінеральна й прохолодна. І лише з цієї фантазії народилася конкретна композиція. :contentReference[oaicite:6]{index=6}"
+      },
+      {
+        "pl": "🍊 <strong>Mandarynka nie prowadzi do typowej cytrusowej świeżości.</strong> W Ganymede szybko spotyka się z szafranem i chłodnymi, mineralnymi akordami. Dzięki temu otwarcie jest jasne, ale nie banalnie świeże — bardziej świetliste i przestrzenne. :contentReference[oaicite:7]{index=7}",
+        "uk": "🍊 <strong>Мандарин тут не веде до звичної цитрусової свіжості.</strong> У Ganymede він швидко зустрічається із шафраном і холодними мінеральними акордами. Тому початок звучить світло, але не банально свіжо — радше сяйливо та просторово. :contentReference[oaicite:8]{index=8}"
+      },
+      {
+        "pl": "🧥 <strong>Skóra, ale bardziej zamsz niż ciężka skóra.</strong> Jednym z najważniejszych efektów Ganymede jest mineralno-skórzany akord. Oficjalna historia marki opisuje go jako niemal metaliczną mineralną skórę, podczas gdy osmantus i fiołek dodają jej miękkości. :contentReference[oaicite:9]{index=9}",
+        "uk": "🧥 <strong>Шкіра, але радше замш, ніж важка шкіра.</strong> Один із головних ефектів Ganymede — мінерально-шкіряний акорд. Офіційна історія бренду описує його як майже металеву мінеральну шкіру, тоді як османтус і фіалка додають їй м’якості. :contentReference[oaicite:10]{index=10}"
+      },
+      {
+        "pl": "🏆 <strong>Już w 2020 roku pojawiły się ważne wyróżnienia.</strong> Ganymede zdobył nagrodę „Best Fragrance from an Independent Brand” we Francji oraz „Perfume Extraordinaire” w Wielkiej Brytanii podczas FiFi Awards 2020. :contentReference[oaicite:11]{index=11}",
+        "uk": "🏆 <strong>Уже у 2020 році — важливі нагороди.</strong> Ganymede отримав нагороду «Best Fragrance from an Independent Brand» у Франції та «Perfume Extraordinaire» у Великій Британії на FiFi Awards 2020. :contentReference[oaicite:12]{index=12}"
+      },
+      {
+        "pl": "♾️ <strong>Bez reformulacji.</strong> Marc-Antoine Barrois podaje, że od premiery 1 kwietnia 2019 roku Ganymede nigdy nie został przeformułowany. To ciekawy szczegół dla osób, które chcą poznać zapach w formule możliwie bliskiej jego pierwotnej wersji. :contentReference[oaicite:13]{index=13}",
+        "uk": "♾️ <strong>Без реформуляції.</strong> Marc-Antoine Barrois зазначає, що від прем’єри 1 квітня 2019 року Ganymede жодного разу не реформулювали. Це цікавий факт для тих, хто хоче познайомитися з ароматом у формулі, максимально близькій до початкової. :contentReference[oaicite:14]{index=14}"
+      },
+      {
+        "pl": "🌌 <strong>Ganymede jest celowo minimalistyczny.</strong> Quentin Bisch opisywał jego ideę jako nową „mapę olfaktoryczną” — kompozycję zbudowaną nie z ogromnej liczby efektów, lecz z kilku kontrastów: mandarynki, fiołka, skóry i mineralnej przestrzeni. :contentReference[oaicite:15]{index=15}",
+        "uk": "🌌 <strong>Ganymede навмисно мінімалістичний.</strong> Quentin Bisch описував його ідею як нову «нюхову карту» — композицію, побудовану не на величезній кількості ефектів, а на кількох контрастах: мандарині, фіалці, шкірі та мінеральному просторі. :contentReference[oaicite:16]{index=16}"
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Ganymede dostępny w AromaShop jest oryginalnym produktem marki Marc-Antoine Barrois.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Ganymede в AromaShop — оригінальний продукт бренду Marc-Antoine Barrois."
       }
     ],
     "fragrance": {
@@ -3662,8 +3744,8 @@
       "accords": ["mineral", "leather", "woody", "fruity", "metallic"],
       "notes": {
         "top": ["mandarin", "saffron"],
-        "heart": ["immortelle", "violet"],
-        "base": ["suede", "mineral-notes", "woody-notes"]
+        "heart": ["immortelle", "violet", "osmanthus"],
+        "base": ["suede", "mineral-notes", "woody-notes", "musk", "patchouli", "cedar"]
       }
     },
     "character": {
@@ -3684,12 +3766,12 @@
     "sizes": [
       {
         "ml": 30,
-        "price": 588,
+        "price": 585,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 1006,
+        "price": 996,
         "stock": true
       }
     ],
