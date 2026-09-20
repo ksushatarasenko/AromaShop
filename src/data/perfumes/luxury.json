@@ -337,45 +337,73 @@
     ]
   },
   {
-    "id": "dior-sauvage-edp-100",
+    "id": "dior-sauvage-edt-100",
     "brandId": "dior",
     "name": "Sauvage",
     "collection": "luxury",
     "gender": "men",
-    "concentration": "EDP",
-    "year": 2018,
+    "concentration": "EDT",
+    "year": 2015,
     "perfumer": "",
     "country": "France",
-    "image": "main.png",
-    "gallery": [],
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
     "description": {
-      "pl": "Świeżo-korzenny męski zapach z bergamotką i ambroxanem — czysty, mocny i powszechnie rozpoznawalny.",
-      "uk": "Свіжо-пряний чоловічий аромат із бергамотом і амброксаном — чистий, потужний і широко впізнаваний."
+      "pl": "Dior Sauvage Eau de Toilette — świeży, wyrazisty męski zapach, w którym soczysta bergamotka spotyka pieprz, ambroxan i szlachetne akordy drzewne. Oryginał w AromaShop.",
+      "uk": "Dior Sauvage Eau de Toilette — свіжий, виразний чоловічий аромат, у якому соковитий бергамот зустрічається з перцем, амброксаном і благородними деревними акордами. Оригінал в AromaShop."
     },
     "shortDescription": {
-      "pl": "Bergamotka i ambroxan — surowa świeżość z trwałą obecnością.",
-      "uk": "Бергамот і амброксан — сувора свіжість із тривалою присутністю."
+      "pl": "Soczysta bergamotka, pieprz syczuański i chłodna, ambrowa głębia. Sauvage pachnie jak pierwszy głęboki oddech po wyjściu z miasta — czysto, przestrzennie i z charakterem.",
+      "uk": "Соковитий бергамот, сичуанський перець і прохолодна амброва глибина. Sauvage пахне як перший глибокий вдих після виходу з міста — чисто, просторо й з характером."
     },
     "story": {
-      "pl": "Sauvage EDP pogłębia oryginalną koncepcję cieplejszymi drzewami, zachowując charakterystyczne świeże otwarcie.",
-      "uk": "Sauvage EDP поглиблює оригінальну концепцію теплішими деревами, зберігаючи характерне свіже відкриття."
+      "pl": "<strong>Sauvage zaczyna się jak nagły podmuch powietrza.</strong>\n\nNie delikatny. Nie cichy. Bergamotka wpada na skórę z soczystą, niemal iskrzącą świeżością, a pieprzny akcent dodaje jej energii. Przez chwilę wszystko jest jasne, chłodne i otwarte — jak niebo bez jednej chmury.\n\n<strong>A potem przestrzeń zaczyna się zmieniać.</strong>\n\nCytrusowa świeżość zostaje, ale pod nią pojawia się coś bardziej suchego i mineralnego. Ambroxan wnosi charakterystyczne ciepło i morsko-drzewną głębię, a żywiczne akcenty nadają całości bardziej surową fakturę.\n\nSauvage nie jest świeżością łazienki ani zapachem świeżo wypranej koszuli. To świeżość powietrza, które ma w sobie kurz rozgrzanej ziemi, suche kamienie i wiatr.\n\nWyobraź sobie szeroki krajobraz pod wieczornym niebem. Skaliste zbocza są jeszcze ciepłe od słońca. Wiatr przechodzi przez suchą roślinność, a gdzieś daleko zostaje ostatnie światło dnia. Nie ma tu tłumu. Nie ma ścian. Jest tylko przestrzeń.\n\n<strong>Właśnie tę wolność próbuje uchwycić Sauvage.</strong>\n\nNa początku jest bardziej iskrzący i świeży. Potem staje się gładszy, cieplejszy i bardziej drzewny. Ambroxan pozostawia na skórze charakterystyczny, czysty ślad, który nie znika razem z pierwszym wrażeniem.\n\nTo zapach o prostym pomyśle, ale mocnej osobowości. Nie potrzebuje dziesiątek efektów, żeby być rozpoznawalny. Wystarczy kilka kontrastów: soczystość i suchość, chłód i ciepło, natura i miejska elegancja.\n\n<strong>Sauvage dobrze czuje się właśnie pomiędzy tymi światami.</strong>\n\nBiała koszula. Czarny T-shirt. Kurtka skórzana. Garnitur. Poranek w mieście albo późny wieczór poza nim. Ten zapach nie wymaga konkretnej roli — po prostu dodaje jej własny, świeży i zdecydowany ton.\n\nI może właśnie dlatego nie pachnie jak próba zrobienia wrażenia. Bardziej jak człowiek, który wychodzi z domu bez potrzeby zastanawiania się, czy zostanie zauważony.\n\n<strong>Dior Sauvage — świeże powietrze, rozgrzana ziemia i wolność, która zaczyna się tam, gdzie kończą się ściany.</strong>",
+      "uk": "<strong>Sauvage починається як раптовий порив повітря.</strong>\n\nНе делікатний. Не тихий. Бергамот вибухає на шкірі соковитою, майже іскристою свіжістю, а перцевий акцент додає йому енергії. На мить усе стає світлим, прохолодним і відкритим — наче небо без жодної хмари.\n\n<strong>А потім простір починає змінюватися.</strong>\n\nЦитрусова свіжість залишається, але під нею з’являється щось сухіше й мінеральніше. Амброксан приносить характерне тепло та морсько-деревну глибину, а смолисті акценти додають композиції більш необробленої фактури.\n\nSauvage — це не свіжість ванної кімнати й не запах щойно випраної сорочки. Це свіже повітря, у якому є пил нагрітої землі, сухе каміння та вітер.\n\nУяви широкий краєвид під вечірнім небом. Скелясті схили ще зберігають тепло сонця. Вітер проходить крізь суху рослинність, а десь далеко залишається останнє світло дня. Тут немає натовпу. Немає стін. Є лише простір.\n\n<strong>Саме цю свободу намагається передати Sauvage.</strong>\n\nСпочатку він більш іскристий і свіжий. Потім стає гладшим, теплішим і деревнішим. Амброксан залишає на шкірі характерний, чистий слід, який не зникає разом із першим враженням.\n\nЦе аромат із простою ідеєю, але сильною особистістю. Йому не потрібні десятки ефектів, щоб бути впізнаваним. Достатньо кількох контрастів: соковитість і сухість, холод і тепло, природа та міська елегантність.\n\n<strong>Sauvage чудово почувається саме між цими світами.</strong>\n\nБіла сорочка. Чорна футболка. Шкіряна куртка. Костюм. Ранок у місті або пізній вечір за його межами. Цей аромат не вимагає певної ролі — він просто додає їй власного, свіжого й виразного тону.\n\nІ, можливо, саме тому він не пахне спробою справити враження. Радше людиною, яка виходить із дому, не замислюючись, чи звернуть на неї увагу.\n\n<strong>Dior Sauvage — свіже повітря, нагріта земля та свобода, яка починається там, де закінчуються стіни.</strong>"
     },
     "facts": [
       {
-        "pl": "Jeden z najlepiej sprzedających się męskich zapachów na świecie.",
-        "uk": "Один із найпродаваніших чоловічих ароматів у світі."
+        "pl": "🌵 <strong>2015 — Sauvage pojawia się po raz pierwszy.</strong> Dior wprowadził Sauvage Eau de Toilette w 2015 roku, rozpoczynając historię jednej z najważniejszych współczesnych linii zapachowych domu. Inspiracją była natura pokazana bez dekoracji — ogromna przestrzeń, niebo, skały i poczucie wolności.",
+        "uk": "🌵 <strong>2015 — перша поява Sauvage.</strong> Dior випустив Sauvage Eau de Toilette у 2015 році, започаткувавши історію однієї з найвідоміших сучасних парфумерних ліній дому. Натхненням стала природа без прикрас — величезний простір, небо, скелі та відчуття свободи. "
       },
       {
-        "pl": "Cząsteczka ambroxanu nadaje Sauvage charakterystyczny dry-down.",
-        "uk": "Молекула амброксану надає Sauvage характерний dry-down."
+        "pl": "👃 <strong>Kompozycję stworzył François Demachy.</strong> Wieloletni perfumiarz Dior był twórcą oryginalnego Sauvage. Zamiast budować zapach wokół ciężkiej, klasycznej męskości, postawił na kontrast świeżości, pieprzu, ambrowej głębi i drewna. ",
+        "uk": "👃 <strong>Композицію створив François Demachy.</strong> Багаторічний парфумер Dior був автором оригінального Sauvage. Замість побудови аромату навколо важкої класичної мужності він зробив ставку на контраст свіжості, перцю, амбрової глибини та дерева. "
+      },
+      {
+        "pl": "🍊 <strong>Bergamotka została stworzona specjalnie dla Dior.</strong> François Demachy współpracował z lokalnymi producentami w Kalabrii, aby uzyskać własną interpretację bergamotki z Reggio di Calabria. Dior podkreśla, że ta wersja jest bardziej owocowa i ma charakterystyczne lekko pieprzne oraz cytrusowe niuanse.",
+        "uk": "🍊 <strong>Бергамот створювали спеціально для Dior.</strong> François Demachy працював із місцевими виробниками в Калабрії, щоб отримати власну інтерпретацію бергамота з Реджо-ді-Калабрія. Dior підкреслює, що ця версія більш фруктова й має характерні легкі перцеві та цитрусові відтінки. "
+      },
+      {
+        "pl": "🌊 <strong>Ambroxan stał się jednym z podpisów Sauvage.</strong> Dior opisuje go jako materiał o morsko-drzewnym charakterze, przypominający powietrze znad oceanu i drewno wybielone słońcem. To właśnie on pomaga stworzyć charakterystyczny, długo utrzymujący się ślad Sauvage.",
+        "uk": "🌊 <strong>Амброксан став одним із підписів Sauvage.</strong> Dior описує його як матеріал із морсько-деревним характером, що нагадує океанське повітря та вибілене сонцем дерево. Саме він допомагає створити характерний, стійкий шлейф Sauvage. "
+      },
+      {
+        "pl": "🎬 <strong>Obraz Sauvage od początku był związany z ideą dzikiej natury.</strong> Dior budował komunikację wokół szerokich, niemal bezkresnych krajobrazów i mężczyzny pozostającego blisko natury. Późniejsze kampanie rozwinęły ten motyw, a twarzą linii został Johnny Depp.",
+        "uk": "🎬 <strong>Образ Sauvage від самого початку пов’язаний з ідеєю дикої природи.</strong> Dior будував комунікацію навколо широких, майже безмежних пейзажів і чоловіка, який залишається близьким до природи. У наступних кампаніях ця тема розвивалася, а обличчям лінійки став Johnny Depp."
+      },
+      {
+        "pl": "🔵 <strong>Granatowy flakon nie jest przypadkowy.</strong> Charakterystyczna ciemnoniebieska barwa Sauvage ma korespondować z wizją nocnego, otwartego nieba. Sam Dior opisuje inspirację poprzez błękitne niebo, skalisty krajobraz i ogromną przestrzeń.",
+        "uk": "🔵 <strong>Темно-синій флакон не випадковий.</strong> Характерний темно-синій колір Sauvage перегукується з образом нічного відкритого неба. Сам Dior описує натхнення через блакитне небо, скелястий пейзаж і величезний простір."
+      },
+      {
+        "pl": "♻️ <strong>Sauvage zmienił także sposób korzystania z flakonu.</strong> Obecnie butelki 30 i 100 ml można uzupełniać wkładem, a 100 ml również w wybranych stacjach napełniania Sauvage. Dior przedstawia ten system jako element swojej inicjatywy związanej z ograniczaniem odpadów i wpływu na zasoby. ",
+        "uk": "♻️ <strong>Sauvage змінив навіть спосіб використання флакону.</strong> Сьогодні флакони 30 і 100 мл можна поповнювати за допомогою рефілу, а 100 мл — також на окремих станціях поповнення Sauvage. Dior представляє цю систему як частину своєї ініціативи зі зменшення відходів і використання ресурсів. "
+      },
+      {
+        "pl": "🌌 <strong>Nazwa „Sauvage” dobrze oddaje pierwotną ideę.</strong> Francuskie słowo oznacza „dziki”, „nieokiełznany”. W przypadku Dior nie chodzi jednak o surowość samą w sobie, lecz o wolność, przestrzeń i powrót do natury — dokładnie te skojarzenia, na których zbudowano koncepcję zapachu.",
+        "uk": "🌌 <strong>Назва «Sauvage» точно передає початкову ідею.</strong> Французьке слово означає «дикий», «неприборканий». У випадку Dior йдеться не просто про грубість, а про свободу, простір і повернення до природи — саме на цих асоціаціях побудована концепція аромату."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Sauvage Eau de Toilette dostępny w AromaShop jest oryginalnym produktem marki Dior.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Sauvage Eau de Toilette в AromaShop — оригінальний продукт бренду Dior."
       }
     ],
     "fragrance": {
       "families": ["fresh", "aromatic"],
       "accords": ["fresh-spicy", "citrus", "aromatic", "woody", "amber"],
       "notes": {
-        "top": ["bergamot", "pink-pepper"],
-        "heart": ["lavender", "geranium"],
+        "top": ["bergamot", "pepper"],
+        "heart": ["lavender", "geranium", "pink-pepper", "vetiver", "patchouli", "elemi"],
         "base": ["ambroxan", "cedar", "labdanum"]
       }
     },
@@ -397,15 +425,20 @@
     "sizes": [
       {
         "ml": 60,
-        "price": 149,
+        "price": 420,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 189,
+        "price": 550,
         "stock": true
       }
     ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 7
+    },
     "featured": false,
     "new": false,
     "bestseller": true,
@@ -1894,11 +1927,11 @@
     "bestseller": true,
     "decant": {
       "enabled": true,
-      "sizes": [1, 5, 10, 15, 20],
-      "pricePerMl": 6.2631
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 5
     },
-    "image": "main.jpg",
-    "gallery": ["02.jpg", "03.jpg"],
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
     "id": "giorgio-armani-stronger-with-you-intensely-edp-100",
     "brandId": "giorgio-armani",
     "name": "Stronger With You Intensely",
@@ -1906,38 +1939,69 @@
     "gender": "men",
     "concentration": "EDP",
     "year": 2019,
-    "perfumer": "",
+    "perfumer": " Cécile Matton",
     "country": "Italy",
     "moods": ["warm-vanilla", "sweet", "spicy", "evening"],
     "description": {
-      "pl": "Giorgio Armani Stronger With You Intensely — słodko-korzenny męski zapach z wanilią, kasztanem i toffi. Oryginał w AromaShop.",
-      "uk": "Giorgio Armani Stronger With You Intensely — солодко-пряний чоловічий аромат із ваніллю, каштаном і тоффі. Оригінал в AromaShop."
+      "pl": "Giorgio Armani Stronger With You Intensely — ciepły, zmysłowy męski zapach, w którym pikantny różowy pieprz spotyka słodki akord kasztanowy, lawendę i wanilię. Oryginał w AromaShop.",
+      "uk": "Giorgio Armani Stronger With You Intensely — теплий, чуттєвий чоловічий аромат, у якому пряний рожевий перець зустрічається із солодким каштановим акордом, лавандою та ваніллю. Оригінал в AromaShop."
     },
     "shortDescription": {
-      "pl": "Ciepły, słodki i zmysłowy męski gourmand na chłodniejsze miesiące.",
-      "uk": "Теплий, солодкий і чуттєвий чоловічий gourmand на прохолодні місяці."
+      "pl": "Kandyzowany kasztan, różowy pieprz, lawenda i wanilia. Ciepły, słodki i intensywny — jak wieczór, kiedy za oknem jest zimno, a w środku robi się coraz cieplej.",
+      "uk": "Карамелізований каштан, рожевий перець, лаванда та ваніль. Теплий, солодкий та інтенсивний — наче вечір, коли за вікном холодно, а всередині стає дедалі тепліше."
     },
     "story": {
-      "pl": "Stronger With You Intensely otwiera się od korzennej słodyczy i <strong>wanilii</strong>, budując ciepły, otulający charakter z nutami toffi i drzewnymi akordami.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Giorgio Armani.\n\n<strong>Męska słodycz bez infantylności.</strong>",
-      "uk": "Stronger With You Intensely починається з пряної солодкості та <strong>ванілі</strong>, будуючи теплий обволікаючий характер із нотами тоффі та деревними акордами.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Giorgio Armani.\n\n<strong>Чоловіча солодкість без інфантильності.</strong>"
+      "pl": "<strong>Stronger With You Intensely pachnie jak ciepło, które zostaje między dwojgiem ludzi.</strong>\n\nPierwsze sekundy są zaskakująco żywe. Różowy pieprz dodaje otwarciu lekkiego ukłucia — nie ostrego, lecz świeżego i elektryzującego. A zaraz potem pojawia się coś znacznie bardziej miękkiego: słodki, ciepły akord kasztanowy.\n\n<strong>I właśnie wtedy zaczyna się cała historia.</strong>\n\nKasztan nie pachnie tu jak zwykła nuta orzechowa. Jest kremowy, lekko karmelizowany i niemal jadalny. Ma w sobie coś z ciepłego deseru jedzonego późnym wieczorem, kiedy miasto za oknem powoli cichnie.\n\nLawenda wprowadza kontrast. Zamiast pozwolić słodyczy stać się ciężką, dodaje kompozycji aromatycznej świeżości. Jest miękka, ziołowa i lekko chłodna — jak powiew zimnego powietrza wpadający przez uchylone okno.\n\n<strong>A potem przychodzi wanilia.</strong>\n\nNie jako cukier. Bardziej jak ciepło, które stopniowo rozlewa się po skórze. Z bursztynowym drewnem tworzy głęboką, miękką bazę, która zostaje na ubraniu i skórze długo po pierwszym psiknięciu.\n\nWyobraź sobie późny jesienny wieczór. Na ulicach jest chłodno, światła odbijają się od mokrego asfaltu. Wchodzisz do środka, zdejmujesz płaszcz, a z kuchni dochodzi zapach czegoś słodkiego i ciepłego. W pomieszczeniu jest półmrok, muzyka gra cicho, a obok siedzi ktoś, przy kim nie trzeba niczego udowadniać.\n\n<strong>Tak działa Stronger With You Intensely.</strong>\n\nNie jest chłodnym, zdystansowanym zapachem. Ma w sobie bliskość. Słodycz, która nie próbuje być niewinna. Ciepło, które pojawia się niemal natychmiast. I tę charakterystyczną nutę kasztana, dzięki której całość ma własną osobowość.\n\nNa początku jest bardziej pikantny i energetyczny. Potem staje się kremowy, słodki i otulający. W bazie wanilia, ambrowe drewno i miękkie akordy tworzą gęsty, ciepły ślad.\n\nTo zapach na chłodne wieczory, wełniany płaszcz, ciemny sweter i światła miasta odbijające się w szybie. Na randkę, kolację, wyjście ze znajomymi albo po prostu wieczór, kiedy chcesz pachnieć tak, jak wygląda dobre wspomnienie.\n\n<strong>Stronger With You Intensely — słodycz kasztana, ciepło wanilii i uczucie, że niektóre wieczory powinny trwać trochę dłużej.</strong>",
+      "uk": "<strong>Stronger With You Intensely пахне як тепло, що залишається між двома людьми.</strong>\n\nПерші секунди напрочуд живі. Рожевий перець додає старту легкого уколу — не гострого, а свіжого й майже електричного. А майже одразу з’являється щось значно м’якше: солодкий, теплий каштановий акорд.\n\n<strong>І саме тоді починається вся історія.</strong>\n\nКаштан тут не звучить як звичайна горіхова нота. Він кремовий, трохи карамелізований і майже їстівний. У ньому є щось від теплого десерту пізнього вечора, коли місто за вікном поступово стихає.\n\nЛаванда створює контраст. Вона не дозволяє солодкості стати важкою, додаючи композиції ароматичної свіжості. М’яка, трав’яниста й трохи прохолодна — наче подих холодного повітря з прочиненого вікна.\n\n<strong>А потім приходить ваніль.</strong>\n\nНе як цукор. Радше як тепло, що поступово розливається по шкірі. Разом із бурштиновим деревом вона створює глибоку, м’яку базу, яка залишається на шкірі та одязі ще довго після першого розпилення.\n\nУяви пізній осінній вечір. На вулиці холодно, вогні відбиваються в мокрому асфальті. Ти заходиш усередину, знімаєш пальто, а з кухні тягнеться запах чогось солодкого й теплого. У кімнаті напівтемрява, тихо грає музика, а поруч сидить людина, перед якою не потрібно нічого доводити.\n\n<strong>Саме так працює Stronger With You Intensely.</strong>\n\nЦе не холодний і відсторонений аромат. У ньому є близькість. Солодкість, яка вже не намагається бути невинною. Тепло, яке з’являється майже одразу. І той самий характерний каштановий акорд, завдяки якому композиція має власну інтонацію.\n\nСпочатку він більш пряний та енергійний. Потім стає кремовим, солодким і огортальним. У базі ваніль, бурштинове дерево та м’які акорди створюють густий, теплий шлейф.\n\nЦе аромат для холодних вечорів, вовняного пальта, темного светра та міських вогнів у вікні. Для побачення, вечері, зустрічі з друзями або просто вечора, коли хочеться пахнути так, як пахне хороший спогад.\n\n<strong>Stronger With You Intensely — солодкість каштана, тепло ванілі та відчуття, що деякі вечори повинні тривати трохи довше.</strong>"
     },
     "facts": [
       {
-        "pl": "🍬 <strong>Intensely.</strong> Jedna z najpopularniejszych słodkich kompozycji Armani.",
-        "uk": "🍬 <strong>Intensely.</strong> Одна з найпопулярніших солодких композицій Armani."
+        "pl": "❤️ <strong>2019 — nowy rozdział historii Stronger With You.</strong> Intensely pojawił się w 2019 roku jako kolejna odsłona kolekcji Giorgio Armani Stronger With You. Cała linia została zbudowana wokół idei współczesnej miłości — relacji, która z czasem staje się silniejsza.",
+        "uk": "❤️ <strong>2019 — новий розділ історії Stronger With You.</strong> Intensely вийшов у 2019 році як нова глава колекції Giorgio Armani Stronger With You. Уся лінійка побудована навколо ідеї сучасного кохання — стосунків, які з часом стають лише сильнішими."
       },
       {
-        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Stronger With You Intensely w AromaShop to oryginalny produkt.",
-        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Stronger With You Intensely в AromaShop — оригінальний продукт."
+        "pl": "👃 <strong>Za kompozycją stoi Cécile Matton.</strong> To francuska perfumiarka, która stworzyła Stronger With You Intensely dla Giorgio Armani. Jej zadaniem było uchwycenie bardziej intensywnej, otulającej strony męskiej części historii Stronger With You.",
+        "uk": "👃 <strong>Авторка композиції — Cécile Matton.</strong> Це французька парфумерка, яка створила Stronger With You Intensely для Giorgio Armani. Її завданням було передати більш інтенсивну, огортальну сторону чоловічої частини історії Stronger With You."
+      },
+      {
+        "pl": "💑 <strong>Nazwa jest częścią większej historii.</strong> „Stronger With You” nie jest przypadkowym hasłem. Kolekcja Armani opowiada o idei, że bliskość może dawać siłę, a związek staje się czymś więcej niż sumą dwóch osób. Intensely rozwija tę historię w bardziej intensywnym, wieczorowym kierunku.",
+        "uk": "💑 <strong>Назва — частина більшої історії.</strong> «Stronger With You» — не випадковий слоган. Колекція Armani розповідає про те, що близькість може давати силу, а стосунки стають чимось більшим, ніж просто поєднання двох людей. Intensely розвиває цю історію в більш насиченому, вечірньому напрямку."
+      },
+      {
+        "pl": "🌰 <strong>Kasztan stał się symbolem tej wersji.</strong> W świecie męskich perfum słodkie akordy często kojarzą się z wanilią, karmelem czy tonką. Armani postawiło na kasztan, nadając Intensely charakterystyczny, ciepły i rozpoznawalny podpis.",
+        "uk": "🌰 <strong>Каштан став символом цієї версії.</strong> У світі чоловічої парфумерії солодкі акорди часто асоціюються з ваніллю, карамеллю чи бобами тонка. Armani зробив ставку на каштан, надавши Intensely характерного, теплого й упізнаваного звучання."
+      },
+      {
+        "pl": "🎬 <strong>Intensely opowiada o bliskości, a nie o podboju.</strong> To ważny kierunek całej kolekcji. Zamiast klasycznego obrazu „uwodziciela” Armani pokazuje mężczyznę związku — emocjonalnego, obecnego i pewnego siebie bez potrzeby dominacji.",
+        "uk": "🎬 <strong>Intensely розповідає про близькість, а не про завоювання.</strong> Це важливий напрям усієї колекції. Замість класичного образу «спокусника» Armani показує чоловіка у стосунках — емоційного, присутнього й упевненого в собі без потреби домінувати."
+      },
+      {
+        "pl": "🧡 <strong>Flakon zachowuje charakter całej kolekcji.</strong> Charakterystyczne zaokrąglone linie i cięższa szklana forma Stronger With You mają tworzyć wrażenie czegoś osobistego i bliskiego dłoni. Intensely otrzymał ciemniejszą, bardziej nasyconą kolorystykę, która wizualnie podkreśla jego intensywniejszy charakter.",
+        "uk": "🧡 <strong>Флакон зберігає характер усієї колекції.</strong> Характерні округлі лінії та масивніша скляна форма Stronger With You створюють відчуття чогось особистого й близького до руки. Intensely отримав темнішу, насиченішу гаму, яка візуально підкреслює його більш інтенсивний характер."
+      },
+      {
+        "pl": "🌙 <strong>Dlaczego Intensely tak dobrze zapisał się w historii kolekcji?</strong> Bo nie próbuje być kolejnym „słodkim męskim zapachem”. Łączy gourmandową miękkość z aromatycznym kontrastem i dzięki temu ma własny podpis — ciepły, rozpoznawalny i bardzo charakterystyczny.",
+        "uk": "🌙 <strong>Чому Intensely так добре запам’ятався в історії колекції?</strong> Тому що він не намагається бути просто ще одним «солодким чоловічим ароматом». Він поєднує гурманську м’якість з ароматичним контрастом і завдяки цьому має власний почерк — теплий, упізнаваний та дуже характерний."
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Stronger With You Intensely dostępny w AromaShop jest oryginalnym produktem marki Giorgio Armani.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Stronger With You Intensely в AromaShop — оригінальний продукт бренду Giorgio Armani."
       }
     ],
     "fragrance": {
       "families": ["oriental", "gourmand", "spicy"],
       "accords": ["vanilla", "sweet", "warm-spicy", "woody", "amber"],
       "notes": {
-        "top": ["pink-pepper", "juniper-berries", "sage"],
+        "top": ["pink-pepper", "juniper-berries", "violet"],
         "heart": ["lavender", "sage", "cinnamon"],
-        "base": ["vanilla", "tonka-bean", "amber", "woody-notes", "caramel"]
+        "base": [
+          "vanilla",
+          "tonka-bean",
+          "amber",
+          "woody-notes",
+          "caramel",
+          "suede"
+        ]
       }
     },
     "character": {
@@ -1958,12 +2022,17 @@
     "sizes": [
       {
         "ml": 50,
-        "price": 483,
+        "price": 295,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 599,
+        "price": 350,
+        "stock": true
+      },
+      {
+        "ml": 150,
+        "price": 450,
         "stock": true
       }
     ],

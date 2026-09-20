@@ -10,7 +10,7 @@
     "perfumer": "Olivier Creed",
     "country": "France",
     "image": "main.jpg",
-    "gallery": ["02.jpg", "03.jpg"],
+    "gallery": ["02.png", "03.png"],
     "description": {
       "pl": "Creed Aventus Eau de Parfum — wyrazisty i elegancki zapach z ananasem, bergamotką, brzozą, mchem dębowym i ambrą. Oryginalny produkt w AromaShop.",
       "uk": "Creed Aventus Eau de Parfum — виразний та елегантний аромат з ананасом, бергамотом, березою, дубовим мохом та амброю. Оригінальний продукт в AromaShop."
@@ -75,19 +75,19 @@
     "sizes": [
       {
         "ml": 50,
-        "price": 1020,
+        "price": 1060,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 1420,
+        "price": 1620,
         "stock": true
       }
     ],
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 15
+      "pricePerMl": 18
     },
     "featured": true,
     "new": false,
@@ -3331,8 +3331,8 @@
     "bestseller": false,
     "decant": {
       "enabled": true,
-      "sizes": [1, 5, 10, 15, 20],
-      "pricePerMl": 28.0657
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 22
     },
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],
@@ -3347,34 +3347,58 @@
     "country": "Netherlands",
     "moods": ["dark", "oud", "woody", "evening"],
     "description": {
-      "pl": "Nasomatto Black Afgano — ciemny, żywiczny extrait o uzależniającej intensywności. Oryginał w AromaShop.",
-      "uk": "Nasomatto Black Afgano — темний смолистий extrait із залежною інтенсивністю. Оригінал в AromaShop."
+      "pl": "Nasomatto Black Afgano — hipnotyzujący uniseks o mrocznym, żywicznym charakterze. Dym, oud, ciemne drewno i tajemnicza głębia tworzą zapach, którego trudno pomylić z czymkolwiek innym. Oryginał w AromaShop.",
+      "uk": "Nasomatto Black Afgano — гіпнотичний унісекс із темним, смолистим характером. Дим, уд, темне дерево та загадкова глибина створюють аромат, який важко сплутати з будь-яким іншим. Оригінал в AromaShop."
     },
     "shortDescription": {
-      "pl": "Żywice, hashishowy klimat i głęboka ciemność Nasomatto.",
-      "uk": "Смоли, hashish-клімат і глибока темрява Nasomatto."
+      "pl": "Dym, ciemne drewno, oud i gęste żywice. Black Afgano pachnie jak noc zamknięta w czarnym szkle — intensywnie, tajemniczo i bez najmniejszej potrzeby przypodobania się wszystkim.",
+      "uk": "Дим, темне дерево, уд і густі смоли. Black Afgano пахне як ніч, замкнена в чорному склі — інтенсивно, загадково й без найменшого бажання подобатися всім."
     },
     "story": {
-      "pl": "Black Afgano otwiera się od ciemnych <strong>żywic i dymnych akordów</strong> — gęsto, animalicznie i bez kompromisów.\n\nZ czasem kompozycja nabiera głębi i osobowości, pozostając wierna charakterowi Nasomatto.\n\n<strong>Kultowy ciemny extrait.</strong>",
-      "uk": "Black Afgano починається з темних <strong>смол і димних акордів</strong> — густо, анімалістично й безкомпромісно.\n\nЗгодом композиція набирає глибини й особистості, лишаючись вірною характеру Nasomatto.\n\n<strong>Культовий темний extrait.</strong>"
+      "pl": "<strong>Black Afgano nie przypomina zapachu, który po prostu się nosi. Bardziej przypomina doświadczenie.</strong>\n\nPierwszy kontakt jest ciemny, gęsty i niemal hipnotyczny. Zamiast klasycznej świeżości pojawia się atmosfera dymu, ciemnego drewna i gęstych żywic. Jest w tym coś surowego, ale jednocześnie niezwykle dopracowanego.\n\n<strong>To zapach, który nie pokazuje wszystkiego od razu.</strong>\n\nNa początku wydaje się niemal nieprzenikniony. Po chwili zaczynają wychodzić kolejne warstwy — zielona, ziołowa świeżość, dym, kawa, tytoń, przyprawy. Wszystko splata się ze sobą zamiast układać w prostą, przewidywalną piramidę.\n\nA potem pojawia się oud i żywice. Kompozycja robi się głębsza, ciemniejsza i bardziej balsamiczna. Jakby dym osiadł na drewnie, drewno nasiąknęło żywicą, a całość została zamknięta w ciepłym, niemal aksamitnym cieniu.\n\n<strong>Black Afgano ma w sobie coś bardzo fizycznego.</strong>\n\nNie jest tylko „ciemny”. Można niemal wyobrazić sobie fakturę tego zapachu: spalone drewno, gęsty dym, ciepłą żywicę, wilgotną ziemię i czarną, ciężką tkaninę.\n\nTo nie jest elegancja białej koszuli i świeżo wypolerowanych butów. To elegancja późnego wieczoru, kiedy światło jest przygaszone, muzyka brzmi gdzieś w tle, a rozmowy stają się cichsze.\n\nNa skórze Black Afgano zachowuje się jak ciemna aura. Nie znika szybko i nie próbuje być dyskretny. Zostawia charakterystyczny, głęboki ślad, który zmienia się wraz z temperaturą skóry.\n\n<strong>I właśnie dlatego trudno przejść obok niego obojętnie.</strong>\n\nMożna go pokochać od pierwszego spotkania albo potrzebować kilku prób, żeby go zrozumieć. Ale trudno pomylić go z czymkolwiek innym.\n\nTo zapach dla osoby, która nie szuka bezpiecznej kompozycji. Dla kogoś, kto lubi mrok, kontrasty i perfumy z własnym językiem. Nie potrzebuje okazji, żeby być interesujący. Sam jest okazją.\n\n<strong>Black Afgano — dym, drewno i noc zamknięte w jednej kropli.</strong>",
+      "uk": "<strong>Black Afgano не схожий на аромат, який просто носять. Він радше нагадує досвід.</strong>\n\nПерша зустріч — темна, густа й майже гіпнотична. Замість класичної свіжості виникає атмосфера диму, темного дерева та густих смол. У цьому є щось необроблене, але водночас надзвичайно продумане.\n\n<strong>Це аромат, який не показує себе одразу.</strong>\n\nСпочатку він здається майже непроникним. А потім починають проявлятися нові шари — зелена, трав’яниста свіжість, дим, кава, тютюн, спеції. Усе переплітається, а не складається у просту й передбачувану піраміду.\n\nА потім приходять уд і смоли. Композиція стає глибшою, темнішою та більш бальзамічною. Наче дим осів на дереві, дерево просочилося смолою, а все це сховали в теплому, майже оксамитовому мороці.\n\n<strong>У Black Afgano є щось дуже фізичне.</strong>\n\nВін не просто «темний». Майже можна уявити його фактуру: обпалене дерево, густий дим, теплу смолу, вологу землю та чорну важку тканину.\n\nЦе не елегантність білої сорочки та начищених туфель. Це елегантність пізнього вечора, коли світло приглушене, десь на фоні звучить музика, а розмови стають тихішими.\n\nНа шкірі Black Afgano поводиться як темна аура. Він не зникає швидко й не намагається бути непомітним. Залишає характерний, глибокий слід, який змінюється разом із температурою шкіри.\n\n<strong>І саме тому повз нього важко пройти байдуже.</strong>\n\nЙого можна полюбити з першої зустрічі або потребувати кількох спроб, щоб зрозуміти. Але сплутати його з чимось іншим майже неможливо.\n\nЦе аромат для людини, яка не шукає безпечної композиції. Для того, хто любить темряву, контрасти й парфуми з власною мовою. Йому не потрібен привід бути цікавим. Він сам — привід.\n\n<strong>Black Afgano — дим, дерево й ніч, замкнені в одній краплі.</strong>"
     },
     "facts": [
       {
-        "pl": "🖤 <strong>Black Afgano.</strong> Jedna z najbardziej kultowych kompozycji Nasomatto.",
-        "uk": "🖤 <strong>Black Afgano.</strong> Одна з найбільш культових композицій Nasomatto."
+        "pl": "🖤 <strong>2009 — narodziny Black Afgano.</strong> Zapach został oficjalnie wydany w 2009 roku. Nasomatto opisuje go jako część projektu, którego celem było przywołanie efektu wysokiej jakości haszyszu i uchwycenie poczucia chwilowego błogostanu. To nie jest więc przypadkowa historia dopisana do nazwy — sam koncept stoi w centrum projektu. ",
+        "uk": "🖤 <strong>2009 — народження Black Afgano.</strong> Аромат офіційно вийшов у 2009 році. Nasomatto описує його як частину проєкту, метою якого було передати ефект високоякісного гашишу та відчуття тимчасового блаженства. Тобто це не випадкова історія, додана до назви — сама концепція лежить в основі проєкту."
       },
       {
-        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Black Afgano w AromaShop to oryginalny produkt.",
-        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Black Afgano в AromaShop — оригінальний продукт."
+        "pl": "👃 <strong>Alessandro Gualtieri — „The Nose”.</strong> Za Black Afgano stoi Alessandro Gualtieri, włoski perfumiarz i twórca Nasomatto. Jego podejście do perfumerii często wymyka się klasycznym zasadom — zamiast tworzyć zapach, który łatwo sklasyfikować, buduje kompozycje wokół określonego efektu i emocji. Black Afgano jest jednym z najbardziej rozpoznawalnych przykładów tego podejścia. ",
+        "uk": "👃 <strong>Alessandro Gualtieri — «The Nose».</strong> Автор Black Afgano — Alessandro Gualtieri, італійський парфумер і творець Nasomatto. Його підхід до парфумерії часто виходить за межі класичних правил: замість створення аромату, який легко класифікувати, він будує композиції навколо певного ефекту та емоції. Black Afgano — один із найвідоміших прикладів такого підходу."
+      },
+      {
+        "pl": "🌿 <strong>To bardziej eksperyment niż klasyczna piramida.</strong> Black Afgano słynie z tego, że jego charakter opiera się na połączeniu zielonych, dymnych, żywicznych i drzewnych efektów. Oficjalna koncepcja Nasomatto nie sprowadza się do „ładnych nut” — chodziło o stworzenie określonego stanu i atmosfery. ",
+        "uk": "🌿 <strong>Це радше експеримент, ніж класична піраміда.</strong> Black Afgano відомий тим, що його характер побудований на поєднанні зелених, димних, смолистих і деревних ефектів. Офіційна концепція Nasomatto не зводиться до «гарних нот» — завданням було створити певний стан і атмосферу."
+      },
+      {
+        "pl": "🪵 <strong>Korek z palonego dębu.</strong> Jednym z najbardziej charakterystycznych elementów flakonu jest korek wykonany z palonego drewna dębowego. Nie jest to zwykły detal dekoracyjny — jego surowa, spalona faktura idealnie współgra z ideą Black Afgano. Flakon jest produkowany we Włoszech. :contentReference[oaicite:7]{index=7}",
+        "uk": "🪵 <strong>Кришка з обпаленої дубової деревини.</strong> Один із найхарактерніших елементів флакону — кришка, виготовлена з обпаленої дубової деревини. Це не просто декоративна деталь: її груба, обпалена фактура ідеально перегукується з концепцією Black Afgano. Флакон виробляється в Італії."
+      },
+      {
+        "pl": "🧪 <strong>Nazwa Nasomatto dobrze pasuje do całego projektu.</strong> Marka została stworzona jako przestrzeń dla perfumerii bardziej eksperymentalnej, intuicyjnej i nieprzewidywalnej. Black Afgano doskonale pokazuje tę filozofię: nie próbuje być kolejnym klasycznym zapachem oudowym ani kolejnym „ciemnym” perfumem.",
+        "uk": "🧪 <strong>Назва Nasomatto дуже пасує до всього проєкту.</strong> Бренд створювався як простір для більш експериментальної, інтуїтивної та непередбачуваної парфумерії. Black Afgano чудово показує цю філософію: він не намагається бути черговим класичним удовим ароматом чи просто ще одним «темним» парфумом."
+      },
+      {
+        "pl": "🖤 <strong>Flakon może wyglądać inaczej w zależności od rocznika.</strong> Nasomatto prowadzi obecnie aktualizację opakowania Black Afgano — część butelek ma nową pompkę z wytłoczonym logo, a część starszą wersję. Marka wyraźnie zaznacza, że obie wersje są autentyczne. To ważny szczegół dla osób porównujących różne butelki.",
+        "uk": "🖤 <strong>Флакон може відрізнятися залежно від випуску.</strong> Nasomatto зараз оновлює пакування Black Afgano — частина флаконів має новий розпилювач із рельєфним логотипом, а частина — стару версію. Бренд прямо зазначає, що обидві версії є оригінальними. Це важлива деталь для тих, хто порівнює різні флакони. "
+      },
+      {
+        "pl": "🌑 <strong>Black Afgano stał się jednym z najbardziej rozpoznawalnych zapachów Nasomatto.</strong> Jego reputacja wynika przede wszystkim z bezkompromisowego charakteru i bardzo łatwo rozpoznawalnego profilu. To jeden z tych zapachów niszowych, o których często mówi się nie przez pryzmat „ładny czy nieładny”, ale przez pytanie: <em>co właściwie przed chwilą poczułem?</em>",
+        "uk": "🌑 <strong>Black Afgano став одним із найвпізнаваніших ароматів Nasomatto.</strong> Його репутація насамперед пов’язана з безкомпромісним характером і дуже впізнаваним профілем. Це один із тих нішевих ароматів, про які часто говорять не в категоріях «гарний чи негарний», а з питанням: <em>що це щойно було?</em>"
+      },
+      {
+        "pl": "🛍️ <strong>Oryginalny produkt.</strong> Black Afgano dostępny w AromaShop jest oryginalnym produktem marki Nasomatto.",
+        "uk": "🛍️ <strong>Оригінальний продукт.</strong> Black Afgano в AromaShop — оригінальний продукт бренду Nasomatto."
       }
     ],
     "fragrance": {
       "families": ["woody", "oriental"],
       "accords": ["smoky", "woody", "oud", "earthy", "animalic"],
       "notes": {
-        "top": ["green-notes", "herbal-notes"],
-        "heart": ["resins", "tobacco", "coffee"],
-        "base": ["oud", "woody-notes", "amber"]
+        "top": ["green-notes", "hemp", "davanna", "saffron", "thyme"],
+        "heart": ["resins", "tobacco", "coffee", "woody-notes", "raspberry", "cinnamon", "violet"],
+        "base": ["oud", "incense", "woody-notes", "amber", "animalic-notes", "guaiac-wood", "musk", "cedar", "ambroxan", "vanilla"]
       }
     },
     "character": {
@@ -3395,7 +3419,7 @@
     "sizes": [
       {
         "ml": 30,
-        "price": 805,
+        "price": 600,
         "stock": true
       }
     ],
@@ -3745,7 +3769,14 @@
       "notes": {
         "top": ["mandarin", "saffron"],
         "heart": ["immortelle", "violet", "osmanthus"],
-        "base": ["suede", "mineral-notes", "woody-notes", "musk", "patchouli", "cedar"]
+        "base": [
+          "suede",
+          "mineral-notes",
+          "woody-notes",
+          "musk",
+          "patchouli",
+          "cedar"
+        ]
       }
     },
     "character": {

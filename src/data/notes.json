@@ -502,7 +502,7 @@
       "uk": ["Ваніль", "Ладанник", "Ладан", "Сандал", "Тонка", "Амбровий акорд"]
     }
   },
-  
+
   {
     "id": "bergamot",
     "name": {
@@ -6656,98 +6656,531 @@
     }
   },
   {
-  "id": "plum",
+    "id": "plum",
 
-  "name": {
-    "pl": "Plum",
-    "uk": "Слива (Plum)"
+    "name": {
+      "pl": "Plum",
+      "uk": "Слива (Plum)"
+    },
+
+    "slug": {
+      "pl": "plum",
+      "uk": "plum"
+    },
+
+    "image": "plum.jpg",
+
+    "category": "fruity",
+
+    "description": {
+      "pl": "Śliwka w perfumerii ma soczysty, ciemny i aksamitny charakter. Może być słodka, lekko kwaskowa, dżemowa lub przypominać dojrzałe owoce z delikatnie winowym akcentem. Nadaje kompozycjom głębi, miękkości i zmysłowej owocowości.",
+
+      "uk": "Слива в парфумерії має соковитий, темний та оксамитовий характер. Вона може бути солодкою, злегка кислуватою, джемовою або нагадувати стиглі плоди з делікатним винним відтінком. Надає композиціям глибини, м’якості та чуттєвої фруктовості."
+    },
+
+    "shortDescription": {
+      "pl": "Ciemny, soczysty i aksamitny owocowy akcent o słodko-kwaśnym, lekko dżemowym charakterze.",
+
+      "uk": "Темний, соковитий та оксамитовий фруктовий акцент із солодко-кислуватим, злегка джемовим характером."
+    },
+
+    "origin": {
+      "pl": "Śliwka to owoc Prunus domestica. W perfumerii jej zapach jest najczęściej odtwarzany za pomocą specjalnie komponowanych akordów i molekuł aromatycznych, ponieważ klasyczny olejek eteryczny ze świeżej śliwki nie jest standardowym surowcem perfumeryjnym.",
+
+      "uk": "Слива — плід Prunus domestica. У парфумерії її аромат найчастіше відтворюють за допомогою спеціально створених акордів та ароматичних молекул, оскільки класична ефірна олія зі свіжої сливи не є стандартною парфумерною сировиною."
+    },
+
+    "extraction": {
+      "pl": "Akord śliwkowy jest tworzony z wykorzystaniem różnych materiałów zapachowych, między innymi damasconów, damascenonu, estrów owocowych i innych składników nadających soczysty, ciemny oraz lekko winowy charakter.",
+
+      "uk": "Сливовий акорд створюють за допомогою різних ароматичних матеріалів, зокрема дамасконів, дамасценону, фруктових естерів та інших компонентів, що надають соковитого, темного й злегка винного характеру."
+    },
+
+    "effect": {
+      "pl": "W kompozycji Plum wnosi soczystą owocowość, głębię i miękką słodycz. Może nadać zapachowi ciemniejszy, bardziej zmysłowy i otulający charakter, szczególnie w połączeniu z wanilią, paczulą, skórą, drewnem lub przyprawami.",
+
+      "uk": "У композиції Plum додає соковитої фруктовості, глибини та м’якої солодкості. Може надавати аромату темнішого, більш чуттєвого та огортаючого характеру, особливо в поєднанні з ваніллю, пачулі, шкірою, деревиною або спеціями."
+    },
+
+    "characteristics": {
+      "pl": [
+        "Soczysta",
+        "Słodka",
+        "Owocowa",
+        "Ciemna",
+        "Aksamitna",
+        "Lekko kwaskowa",
+        "Dżemowa",
+        "Winowa"
+      ],
+
+      "uk": [
+        "Соковита",
+        "Солодка",
+        "Фруктова",
+        "Темна",
+        "Оксамитова",
+        "Злегка кислувата",
+        "Джемова",
+        "Винна"
+      ]
+    },
+
+    "pairsWith": {
+      "pl": [
+        "Wanilia",
+        "Paczula",
+        "Róża",
+        "Piżmo",
+        "Skóra",
+        "Cynamon",
+        "Szafran",
+        "Drewno"
+      ],
+
+      "uk": [
+        "Ваніль",
+        "Пачулі",
+        "Троянда",
+        "Мускус",
+        "Шкіра",
+        "Кориця",
+        "Шафран",
+        "Деревина"
+      ]
+    }
   },
+  {
+    "id": "hemp",
 
-  "slug": {
-    "pl": "plum",
-    "uk": "plum"
+    "name": {
+      "pl": "Konopie",
+      "uk": "Конопля"
+    },
+
+    "slug": {
+      "pl": "hemp",
+      "uk": "hemp"
+    },
+
+    "image": "hemp.jpg",
+
+    "category": "green",
+
+    "description": {
+      "pl": "Konopie w perfumerii mają zielony, ziołowy i lekko surowy charakter. Ich aromat może przypominać świeże liście, zielone łodygi i wilgotną roślinność, z delikatnie ziemistym, lekko drzewnym lub żywicznym odcieniem. W kompozycjach dodają naturalności, głębi i nieco nieoczywistego, współczesnego charakteru.",
+
+      "uk": "Конопля в парфумерії має зелений, трав'янистий і злегка сирий характер. Її аромат може нагадувати свіже листя, зелені стебла та вологу рослинність із делікатним землистим, трохи деревним або смолистим відтінком. У композиціях вона додає природності, глибини та трохи незвичного, сучасного характеру."
+    },
+
+    "shortDescription": {
+      "pl": "Zielona, ziołowa i lekko ziemista nuta o naturalnym, surowym i współczesnym charakterze.",
+
+      "uk": "Зелена, трав'яниста та злегка землиста нота з природним, сирим і сучасним характером."
+    },
+
+    "origin": {
+      "pl": "Konopie pochodzą z roślin rodzaju Cannabis, należących do rodziny konopiowatych. W perfumerii sama roślina nie jest typowym źródłem klasycznego olejku eterycznego stosowanego w kompozycjach. Profil konopi jest najczęściej odtwarzany za pomocą odpowiednio dobranych składników zapachowych i akordów, które odwzorowują zielone, ziołowe, lekko ziemiste i drzewne aspekty rośliny.",
+
+      "uk": "Конопля походить від рослин роду Cannabis, що належать до родини коноплевих. У парфумерії сама рослина не є типовим джерелом класичної ефірної олії, яку використовують у композиціях. Профіль коноплі найчастіше відтворюють за допомогою спеціально підібраних ароматичних компонентів та акордів, що передають зелені, трав'янисті, злегка землисті й деревні відтінки рослини."
+    },
+
+    "extraction": {
+      "pl": "W perfumerii nuta konopi jest zazwyczaj tworzona jako akord kompozycyjny. Perfumiarze łączą różne materiały zapachowe, aby uzyskać charakterystyczne zielone, ziołowe, lekko ziemiste i żywiczne niuanse. Dzięki temu można kontrolować intensywność oraz kierunek aromatu i dopasować go do całej kompozycji.",
+
+      "uk": "У парфумерії ноту коноплі зазвичай створюють як парфумерний акорд. Парфумери поєднують різні ароматичні матеріали, щоб відтворити характерні зелені, трав'янисті, злегка землисті та смолисті нюанси. Це дозволяє контролювати інтенсивність і напрямок звучання та гармонійно вписувати ноту в композицію."
+    },
+
+    "effect": {
+      "pl": "W kompozycji Hemp wnosi zieloną świeżość, ziołową głębię i naturalną surowość. Może przełamywać słodycz owoców i wanilii, dodawać kontrastu kwiatom oraz podkreślać chłodniejsze, bardziej ziemiste i drzewne aspekty zapachu. W nowoczesnych kompozycjach może nadać perfumom bardziej artystyczny i nieoczywisty charakter.",
+
+      "uk": "У композиції Hemp додає зеленої свіжості, трав'янистої глибини та природної сируватості. Вона може врівноважувати солодкість фруктів і ванілі, створювати контраст із квітковими нотами та підкреслювати прохолодніші, землисті й деревні відтінки аромату. У сучасних композиціях може надавати парфумам більш артистичного та незвичного характеру."
+    },
+
+    "characteristics": {
+      "pl": [
+        "Zielona",
+        "Ziołowa",
+        "Świeża",
+        "Lekko ziemista",
+        "Naturalna",
+        "Surowa",
+        "Lekko drzewna",
+        "Żywiczna"
+      ],
+
+      "uk": [
+        "Зелена",
+        "Трав'яниста",
+        "Свіжа",
+        "Злегка землиста",
+        "Природна",
+        "Сирувата",
+        "Трохи деревна",
+        "Смолиста"
+      ]
+    },
+
+    "pairsWith": {
+      "pl": [
+        "Paczula",
+        "Cedr",
+        "Drzewo sandałowe",
+        "Wetyweria",
+        "Kadzidło",
+        "Konopie",
+        "Czarny pieprz",
+        "Cytrusy"
+      ],
+
+      "uk": [
+        "Пачулі",
+        "Кедр",
+        "Сандалове дерево",
+        "Ветивер",
+        "Ладан",
+        "Конопля",
+        "Чорний перець",
+        "Цитруси"
+      ]
+    }
   },
+  {
+    "id": "davanna",
 
-  "image": "plum.jpg",
+    "name": {
+      "pl": "Davana",
+      "uk": "Давана"
+    },
 
-  "category": "fruity",
+    "slug": {
+      "pl": "davana",
+      "uk": "davana"
+    },
 
-  "description": {
-    "pl": "Śliwka w perfumerii ma soczysty, ciemny i aksamitny charakter. Może być słodka, lekko kwaskowa, dżemowa lub przypominać dojrzałe owoce z delikatnie winowym akcentem. Nadaje kompozycjom głębi, miękkości i zmysłowej owocowości.",
+    "image": "davana.jpg",
 
-    "uk": "Слива в парфумерії має соковитий, темний та оксамитовий характер. Вона може бути солодкою, злегка кислуватою, джемовою або нагадувати стиглі плоди з делікатним винним відтінком. Надає композиціям глибини, м’якості та чуттєвої фруктовості."
+    "category": "herbal",
+
+    "description": {
+      "pl": "Davana to aromatyczne zioło o niezwykle charakterystycznym, zielonym i lekko owocowym profilu. Jej zapach łączy świeże, ziołowe niuanse z miękką słodyczą oraz delikatnie likierowym, owocowym akcentem. W zależności od kompozycji może przypominać dojrzałe owoce, suszone zioła, herbatę i lekko balsamiczne tony. Nadaje perfumom głębi, ciepła i nieco tajemniczego charakteru.",
+
+      "uk": "Давана — ароматична рослина з дуже характерним зеленим і водночас злегка фруктовим профілем. Її запах поєднує свіжі трав'янисті нюанси з м'якою солодкістю та делікатним лікерним, фруктовим відтінком. Залежно від композиції може нагадувати стиглі фрукти, сушені трави, чай і легкі бальзамічні тони. Надає парфумам глибини, тепла та трохи загадкового характеру."
+    },
+
+    "shortDescription": {
+      "pl": "Zielona, ziołowa i lekko owocowa nuta o miękkim, likierowym i balsamicznym charakterze.",
+
+      "uk": "Зелена, трав'яниста та злегка фруктова нота з м'яким, лікерним і бальзамічним характером."
+    },
+
+    "origin": {
+      "pl": "Davana pochodzi z rośliny Artemisia pallens, aromatycznego gatunku z rodziny astrowatych. Jest szczególnie ceniona w perfumerii za swój złożony profil zapachowy, który potrafi łączyć świeżość ziołową z owocową miękkością i delikatną słodyczą. Roślina jest tradycyjnie uprawiana między innymi w Indiach.",
+
+      "uk": "Давана походить від рослини Artemisia pallens — ароматичного виду з родини айстрових. У парфумерії її особливо цінують за складний ароматичний профіль, у якому трав'яниста свіжість поєднується з фруктовою м'якістю та делікатною солодкістю. Рослину традиційно вирощують, зокрема, в Індії."
+    },
+
+    "extraction": {
+      "pl": "Olejek eteryczny davany pozyskuje się z nadziemnych części rośliny, przede wszystkim metodą destylacji z parą wodną. Otrzymany olejek ma intensywny i charakterystyczny profil, dlatego w perfumerii stosuje się go w niewielkich ilościach, aby nadać kompozycji wyrazisty zielony, owocowy i lekko likierowy niuans.",
+
+      "uk": "Ефірну олію давани отримують із надземних частин рослини, переважно методом парової дистиляції. Отримана олія має інтенсивний і дуже характерний профіль, тому в парфумерії її використовують у невеликих кількостях, щоб надати композиції виразного зеленого, фруктового та злегка лікерного нюансу."
+    },
+
+    "effect": {
+      "pl": "W kompozycji Davana może działać jak most między świeżymi nutami ziołowymi a słodszymi, owocowymi i balsamicznymi akordami. Dodaje głębi i miękkości, a jednocześnie może wprowadzić lekko wytrawny, likierowy charakter. Szczególnie ciekawie współgra z wanilią, drewnem, bursztynem, owocami i przyprawami.",
+
+      "uk": "У композиції Davana може працювати як міст між свіжими трав'янистими нотами та солодшими фруктовими й бальзамічними акордами. Вона додає глибини та м'якості, водночас привносячи легкий сухуватий і лікерний характер. Особливо цікаво поєднується з ваніллю, деревиною, амброю, фруктами та спеціями."
+    },
+
+    "characteristics": {
+      "pl": [
+        "Ziołowa",
+        "Zielona",
+        "Owocowa",
+        "Lekko słodka",
+        "Likierowa",
+        "Balsamiczna",
+        "Aromatyczna",
+        "Ciepła"
+      ],
+
+      "uk": [
+        "Трав'яниста",
+        "Зелена",
+        "Фруктова",
+        "Злегка солодка",
+        "Лікерна",
+        "Бальзамічна",
+        "Ароматична",
+        "Тепла"
+      ]
+    },
+
+    "pairsWith": {
+      "pl": [
+        "Wanilia",
+        "Bursztyn",
+        "Paczula",
+        "Drzewo sandałowe",
+        "Cedr",
+        "Róża",
+        "Owoce",
+        "Przyprawy"
+      ],
+
+      "uk": [
+        "Ваніль",
+        "Амбра",
+        "Пачулі",
+        "Сандалове дерево",
+        "Кедр",
+        "Троянда",
+        "Фрукти",
+        "Спеції"
+      ]
+    }
   },
-
-  "shortDescription": {
-    "pl": "Ciemny, soczysty i aksamitny owocowy akcent o słodko-kwaśnym, lekko dżemowym charakterze.",
-
-    "uk": "Темний, соковитий та оксамитовий фруктовий акцент із солодко-кислуватим, злегка джемовим характером."
+  {
+    "id": "thyme",
+    "name": {
+      "pl": "Tymianek",
+      "uk": "Чебрець"
+    },
+    "slug": {
+      "pl": "tymianek",
+      "uk": "chebrec"
+    },
+    "image": "thyme.jpg",
+    "category": "herbal",
+    "description": {
+      "pl": "Tymianek w perfumerii ma wyrazisty, zielono-ziołowy charakter z lekko suchym, aromatycznym i świeżym odcieniem. Kojarzy się z rozgniecionymi liśćmi ziół, ciepłym powietrzem i naturalną roślinnością. Jego profil może być jednocześnie świeży, lekko pikantny, ziemisty i delikatnie kamforowy. W kompozycjach zapachowych dodaje energii, naturalności i wyraźnej ziołowej głębi.",
+      "uk": "Чебрець у парфумерії має виразний зелено-трав'яний характер із сухим, ароматним і свіжим відтінком. Він нагадує розтерте листя пряних трав, тепле повітря та природну рослинність. Його звучання може бути одночасно свіжим, трохи пряним, землистим і з легким камфорним нюансом. У парфумерних композиціях чебрець додає енергії, природності та виразної трав'яної глибини."
+    },
+    "shortDescription": {
+      "pl": "Zielona, aromatyczna i lekko pikantna nuta ziołowa.",
+      "uk": "Зелена, ароматна й трохи пряна трав'яна нота."
+    },
+    "origin": {
+      "pl": "Tymianek należy do rodzaju Thymus z rodziny jasnotowatych (Lamiaceae). Jest rośliną aromatyczną, od dawna cenioną za intensywny zapach liści i kwiatów. W perfumerii jego profil jest szczególnie interesujący ze względu na połączenie zieloności, ziołowej świeżości i delikatnie pikantnego charakteru.",
+      "uk": "Чебрець належить до роду Thymus родини глухокропивових (Lamiaceae). Це ароматична рослина, яку здавна цінують за насичений запах листя та квітів. У парфумерії його профіль особливо цікавий поєднанням зеленої свіжості, трав'янистості та легкого пряного характеру."
+    },
+    "extraction": {
+      "pl": "Olejek tymiankowy otrzymuje się przede wszystkim przez destylację z parą wodną części nadziemnych rośliny. W zależności od odmiany i pochodzenia może mieć różny profil aromatyczny — od świeżego i zielonego po bardziej ciepły, suchy, pikantny i ziołowy. W perfumerii nuta tymianku może również być odtwarzana lub modyfikowana za pomocą kompozycji materiałów aromatycznych, aby uzyskać określony efekt.",
+      "uk": "Ефірну олію чебрецю отримують переважно методом парової дистиляції надземних частин рослини. Залежно від різновиду та походження її ароматичний профіль може змінюватися — від свіжого й зеленого до більш теплого, сухого, пряного та трав'яного. У парфумерії ноту чебрецю також можуть відтворювати або коригувати за допомогою ароматичних матеріалів для отримання потрібного звучання."
+    },
+    "effect": {
+      "pl": "Tymianek wnosi do kompozycji świeżość, zieloną energię i ziołową wyrazistość. Może podkreślać cytrusowe otwarcie, dodawać charakteru aromatom fougère i męskim kompozycjom oraz tworzyć interesujący kontrast dla słodszych, kwiatowych i drzewnych nut. W połączeniu z drewnem, paczulą czy przyprawami staje się bardziej ciepły i głęboki.",
+      "uk": "Чебрець додає композиції свіжості, зеленої енергії та виразної трав'янистості. Він може підкреслювати цитрусовий старт, надавати характеру фужерним і чоловічим композиціям та створювати цікавий контраст із солодкими, квітковими й деревними нотами. У поєднанні з деревиною, пачулі або спеціями його звучання стає теплішим і глибшим."
+    },
+    "characteristics": {
+      "pl": [
+        "zielony",
+        "ziołowy",
+        "aromatyczny",
+        "świeży",
+        "lekko pikantny",
+        "suchy",
+        "lekko ziemisty",
+        "lekko kamforowy"
+      ],
+      "uk": [
+        "зелений",
+        "трав'янистий",
+        "ароматний",
+        "свіжий",
+        "трохи пряний",
+        "сухий",
+        "легко землистий",
+        "з легким камфорним відтінком"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "bergamotka",
+        "cytryna",
+        "lawenda",
+        "rozmaryn",
+        "szałwia",
+        "paczula",
+        "cedr",
+        "wetyweria",
+        "pieprz",
+        "kadzidło"
+      ],
+      "uk": [
+        "бергамот",
+        "лимон",
+        "лаванда",
+        "розмарин",
+        "шавлія",
+        "пачулі",
+        "кедр",
+        "ветивер",
+        "перець",
+        "ладан"
+      ]
+    }
   },
-
-  "origin": {
-    "pl": "Śliwka to owoc Prunus domestica. W perfumerii jej zapach jest najczęściej odtwarzany za pomocą specjalnie komponowanych akordów i molekuł aromatycznych, ponieważ klasyczny olejek eteryczny ze świeżej śliwki nie jest standardowym surowcem perfumeryjnym.",
-
-    "uk": "Слива — плід Prunus domestica. У парфумерії її аромат найчастіше відтворюють за допомогою спеціально створених акордів та ароматичних молекул, оскільки класична ефірна олія зі свіжої сливи не є стандартною парфумерною сировиною."
+  {
+    "id": "animalic-notes",
+    "name": {
+      "pl": "Nuty zwierzęce",
+      "uk": "Тваринні ноти"
+    },
+    "slug": {
+      "pl": "nuty-zwierzece",
+      "uk": "tvarinni-noty"
+    },
+    "image": "animalic-notes.jpg",
+    "category": "animalic",
+    "description": {
+      "pl": "Nuty zwierzęce to grupa intensywnych, głębokich i charakterystycznych akordów, które nadają perfumom zmysłowość, ciepło i naturalną głębię. Mogą kojarzyć się z ciepłą skórą, futrem, piżmem, suchą ziemistością lub lekko dzikim, cielesnym charakterem. W nowoczesnej perfumerii są zwykle stosowane w niewielkich ilościach, aby nadać kompozycji głębię i bardziej wyrazisty, naturalny charakter.",
+      "uk": "Тваринні ноти — це група насичених, глибоких і характерних акордів, які надають парфумам чуттєвості, тепла та природної глибини. Вони можуть нагадувати теплу шкіру, хутро, мускус, суху землистість або легкий дикий, тілесний відтінок. У сучасній парфумерії їх зазвичай використовують у невеликих кількостях, щоб надати композиції глибини та більш виразного, природного характеру."
+    },
+    "shortDescription": {
+      "pl": "Głębokie, zmysłowe i lekko dzikie akordy nadające perfumom charakter.",
+      "uk": "Глибокі, чуттєві та трохи дикі акорди, що надають аромату характеру."
+    },
+    "origin": {
+      "pl": "Określenie nut zwierzęcych obejmuje różne materiały i akordy inspirowane naturalnymi zapachami pochodzenia zwierzęcego. Historycznie w perfumerii wykorzystywano między innymi piżmo, cywet, kastoreum i ambrowe materiały pochodzenia zwierzęcego. Współczesna perfumeria w dużej mierze korzysta jednak z bezpiecznych materiałów syntetycznych oraz roślinnych zamienników, które pozwalają odtworzyć podobny efekt olfaktoryczny bez wykorzystywania zwierząt.",
+      "uk": "Поняття тваринних нот охоплює різні матеріали й акорди, натхненні природними запахами тваринного походження. Історично в парфумерії використовували, зокрема, мускус, цибет, кастореум та матеріали тваринного походження, пов'язані з амброю. Сучасна парфумерія значною мірою використовує безпечні синтетичні матеріали та рослинні альтернативи, які дають змогу відтворювати подібний ольфакторний ефект без використання тварин."
+    },
+    "extraction": {
+      "pl": "Współczesne akordy zwierzęce najczęściej powstają poprzez połączenie różnych materiałów aromatycznych. Syntetyczne piżma, materiały o profilu skórzanym, ambrowym, musującym czy lekko fekalnym pozwalają perfumiarzowi kontrolować intensywność i charakter efektu. Dzięki temu nuta może być bardzo subtelna i miękka albo wyraźna, ciepła i bardziej dzika.",
+      "uk": "Сучасні тваринні акорди найчастіше створюють шляхом поєднання різних ароматичних матеріалів. Синтетичні мускуси, матеріали зі шкіряним, амбровим, теплим або легким фекальним профілем дають парфумеру змогу контролювати інтенсивність і характер ефекту. Завдяки цьому нота може бути дуже делікатною та м'якою або виразною, теплою й більш дикою."
+    },
+    "effect": {
+      "pl": "Nuty zwierzęce nadają kompozycji głębi, ciepła i zmysłowości. Mogą sprawić, że zapach wydaje się bardziej cielesny, naturalny i trwały. W niewielkim stężeniu często działają jak niewidoczna warstwa pod innymi nutami, wzmacniając piżmo, skórę, oud, ambrowe akordy i drewno. W bardziej wyrazistych kompozycjach mogą stworzyć efekt dziki, mroczny i prowokujący.",
+      "uk": "Тваринні ноти додають композиції глибини, тепла та чуттєвості. Вони можуть зробити аромат більш тілесним, природним і стійким. У невеликій концентрації часто працюють як невидимий шар під іншими нотами, підсилюючи мускус, шкіру, уд, амброві акорди та деревину. У більш виразних композиціях можуть створювати дикий, темний і провокативний ефект."
+    },
+    "characteristics": {
+      "pl": [
+        "zmysłowy",
+        "ciepły",
+        "głęboki",
+        "cielesny",
+        "piżmowy",
+        "skórzany",
+        "lekko dziki",
+        "intensywny"
+      ],
+      "uk": [
+        "чуттєвий",
+        "теплий",
+        "глибокий",
+        "тілесний",
+        "мускусний",
+        "шкіряний",
+        "трохи дикий",
+        "насичений"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "piżmo",
+        "oud",
+        "skóra",
+        "ambra",
+        "kadzidło",
+        "paczula",
+        "wetyweria",
+        "sandałowiec",
+        "wanilia",
+        "róża"
+      ],
+      "uk": [
+        "мускус",
+        "уд",
+        "шкіра",
+        "амбра",
+        "ладан",
+        "пачулі",
+        "ветивер",
+        "сандал",
+        "ваніль",
+        "троянда"
+      ]
+    }
   },
-
-  "extraction": {
-    "pl": "Akord śliwkowy jest tworzony z wykorzystaniem różnych materiałów zapachowych, między innymi damasconów, damascenonu, estrów owocowych i innych składników nadających soczysty, ciemny oraz lekko winowy charakter.",
-
-    "uk": "Сливовий акорд створюють за допомогою різних ароматичних матеріалів, зокрема дамасконів, дамасценону, фруктових естерів та інших компонентів, що надають соковитого, темного й злегка винного характеру."
-  },
-
-  "effect": {
-    "pl": "W kompozycji Plum wnosi soczystą owocowość, głębię i miękką słodycz. Może nadać zapachowi ciemniejszy, bardziej zmysłowy i otulający charakter, szczególnie w połączeniu z wanilią, paczulą, skórą, drewnem lub przyprawami.",
-
-    "uk": "У композиції Plum додає соковитої фруктовості, глибини та м’якої солодкості. Може надавати аромату темнішого, більш чуттєвого та огортаючого характеру, особливо в поєднанні з ваніллю, пачулі, шкірою, деревиною або спеціями."
-  },
-
-  "characteristics": {
-    "pl": [
-      "Soczysta",
-      "Słodka",
-      "Owocowa",
-      "Ciemna",
-      "Aksamitna",
-      "Lekko kwaskowa",
-      "Dżemowa",
-      "Winowa"
-    ],
-
-    "uk": [
-      "Соковита",
-      "Солодка",
-      "Фруктова",
-      "Темна",
-      "Оксамитова",
-      "Злегка кислувата",
-      "Джемова",
-      "Винна"
-    ]
-  },
-
-  "pairsWith": {
-    "pl": [
-      "Wanilia",
-      "Paczula",
-      "Róża",
-      "Piżmo",
-      "Skóra",
-      "Cynamon",
-      "Szafran",
-      "Drewno"
-    ],
-
-    "uk": [
-      "Ваніль",
-      "Пачулі",
-      "Троянда",
-      "Мускус",
-      "Шкіра",
-      "Кориця",
-      "Шафран",
-      "Деревина"
-    ]
+  {
+    "id": "elemi",
+    "name": {
+      "pl": "Elemi",
+      "uk": "Елемі"
+    },
+    "slug": {
+      "pl": "elemi",
+      "uk": "elemi"
+    },
+    "image": "elemi.jpg",
+    "category": "resinous",
+    "description": {
+      "pl": "Elemi to aromatyczna, żywiczna nuta o świeżym, lekko cytrusowym i pieprznym charakterze. Łączy w sobie chłodną zieloność, balsamiczną głębię i delikatnie kadzidlany akcent. Dzięki temu może być jednocześnie świeże, lekko ostre i ciepłe, tworząc interesujące przejście między cytrusami, przyprawami, żywicami i drewnem.",
+      "uk": "Елемі — це ароматична смолиста нота зі свіжим, трохи цитрусовим і перцевим характером. Вона поєднує прохолодну зеленість, бальзамічну глибину та делікатний ладанний відтінок. Завдяки цьому елемі може звучати одночасно свіжо, трохи гостро й тепло, створюючи цікаву межу між цитрусами, спеціями, смолами та деревиною."
+    },
+    "shortDescription": {
+      "pl": "Świeża, żywiczna i lekko pieprzna nuta o balsamicznym charakterze.",
+      "uk": "Свіжа, смолиста й трохи перцева нота з бальзамічним характером."
+    },
+    "origin": {
+      "pl": "Elemi pochodzi z drzew rodzaju Canarium, należących do rodziny osoczynowatych (Burseraceae). Żywica jest pozyskiwana z pni drzew, a jej charakterystyczny zapach sprawił, że od dawna znajduje zastosowanie w perfumerii, kadzidłach i aromatycznych kompozycjach.",
+      "uk": "Елемі походить від дерев роду Canarium з родини бурзерових (Burseraceae). Смолу отримують зі стовбурів дерев. Її характерний аромат здавна використовується в парфумерії, пахощах та ароматичних композиціях."
+    },
+    "extraction": {
+      "pl": "Olejek elemi otrzymuje się z żywicy drzewa, najczęściej poprzez destylację z parą wodną. Powstający materiał ma charakterystyczny świeży, cytrusowo-pieprzny i balsamiczny profil. W perfumerii może być wykorzystywany zarówno jako naturalny olejek, jak i inspiracja dla bardziej złożonych akordów żywicznych.",
+      "uk": "Ефірну олію елемі отримують із деревної смоли, найчастіше методом парової дистиляції. Отриманий матеріал має характерний свіжий, цитрусово-перцевий і бальзамічний профіль. У парфумерії його використовують як натуральну ефірну олію, а також як основу для складніших смолистих акордів."
+    },
+    "effect": {
+      "pl": "Elemi dodaje kompozycji świeżości i żywicznej głębi bez ciężkości typowej dla niektórych ciemnych balsamów. Może rozjaśniać kadzidlane i drzewne kompozycje, dodawać im lekkości oraz podkreślać pieprzne i cytrusowe otwarcie. W bazie tworzy bardziej balsamiczne, ciepłe i eleganckie przejście.",
+      "uk": "Елемі додає композиції свіжості та смолистої глибини без важкості, характерної для деяких темних бальзамів. Воно може освітлювати ладанні й деревні композиції, надавати їм легкості та підкреслювати перцеві й цитрусові верхні ноти. У базі створює більш бальзамічне, тепле й елегантне звучання."
+    },
+    "characteristics": {
+      "pl": [
+        "żywiczny",
+        "świeży",
+        "cytrusowy",
+        "pieprzny",
+        "balsamiczny",
+        "zielony",
+        "lekko kadzidlany",
+        "aromatyczny"
+      ],
+      "uk": [
+        "смолистий",
+        "свіжий",
+        "цитрусовий",
+        "перцевий",
+        "бальзамічний",
+        "зелений",
+        "трохи ладанний",
+        "ароматний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "kadzidło",
+        "cytrusy",
+        "pieprz",
+        "cedr",
+        "sandałowiec",
+        "paczula",
+        "wetyweria",
+        "ambra",
+        "róża",
+        "skóra"
+      ],
+      "uk": [
+        "ладан",
+        "цитруси",
+        "перець",
+        "кедр",
+        "сандал",
+        "пачулі",
+        "ветивер",
+        "амбра",
+        "троянда",
+        "шкіра"
+      ]
+    }
   }
-}
 ]
