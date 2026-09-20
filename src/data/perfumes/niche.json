@@ -326,6 +326,7 @@
     "gender": "unisex",
     "concentration": "EDT",
     "year": 1996,
+    "visible": false,
     "perfumer": "Olivia Giacobetti",
     "country": "France",
     "image": "main.png",
@@ -2147,7 +2148,7 @@
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 4
+      "pricePerMl": 5.5
     },
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],
@@ -2230,12 +2231,12 @@
     "sizes": [
       {
         "ml": 50,
-        "price": 220,
+        "price": 280,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 360,
+        "price": 395,
         "stock": true
       }
     ],
@@ -2246,6 +2247,134 @@
     ],
     "tags": ["oud", "tonka", "montale", "winter"]
   },
+
+  {
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 5.5
+    },
+    "image": "main.jpg",
+    "gallery": ["02.jpg", "03.jpg"],
+    "id": "montale-sensual-instinct-edp-100",
+    "brandId": "montale",
+    "name": "Sensual Instinct",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "EDP",
+    "year": 2019,
+    "perfumer": "",
+    "country": "France",
+    "moods": ["gourmand", "coffee", "rose", "sweet", "warm", "sensual", "dark"],
+    "description": {
+      "pl": "Montale Sensual Instinct — intensywny, zmysłowy zapach łączący głębię palonej kawy, różę i słodkie praliny z ciepłym bursztynem, mchem dębowym i cedrem. Oryginał w AromaShop.",
+      "uk": "Montale Sensual Instinct — інтенсивний, чуттєвий аромат, що поєднує насичену смажену каву, троянду та солодке праліне з теплим бурштином, дубовим мохом і кедром. Оригінал в AromaShop."
+    },
+    "shortDescription": {
+      "pl": "Palona kawa, róża i pralina otulone bursztynem, mchem dębowym i cedrem. Gęsty, słodki i zmysłowy zapach o wyrazistym charakterze.",
+      "uk": "Смажена кава, троянда та праліне, огорнуті бурштином, дубовим мохом і кедром. Густий, солодкий і чуттєвий аромат із виразним характером."
+    },
+    "story": {
+      "pl": "<strong>Sensual Instinct nie zaczyna się od delikatnego powitania. Zaczyna się od kawy.</strong>\n\nPalone ziarna kawy pojawiają się na początku wyraziście — ciemne, intensywne i lekko gorzkie. Nie jest to jednak chłodny, surowy aromat kawiarni. Kawa szybko spotyka się z różą i słodkim akordem praliny, tworząc znacznie bardziej kremowe i zmysłowe brzmienie.\n\n<strong>To właśnie kontrast robi tutaj największe wrażenie.</strong>\n\nGorycz palonej kawy przeplata się ze słodyczą praliny, a róża dodaje kompozycji miękkości i elegancji. Zapach jest słodki, ale nie pozbawiony charakteru — mech dębowy wnosi lekko zieloną, suchą głębię, podczas gdy bursztyn i cedr ocieplają całość.\n\nSensual Instinct ma w sobie coś z deseru podanego późnym wieczorem: kawa, pralina i ciepłe światło, ale obok nich pojawiają się ciemniejsze, bardziej wytrawne akcenty. Dzięki nim kompozycja nie staje się zwyczajnie słodka.\n\nNa skórze zapach jest bogaty, ciepły i wyrazisty. Róża oraz pralina nadają mu miękkość, kawa dodaje energii, a mech dębowy, bursztyn i cedr tworzą głębsze, bardziej eleganckie tło.\n\n<strong>To zapach dla osoby, która lubi słodycz z charakterem.</strong>\n\nSensual Instinct dobrze pasuje do wieczornych wyjść, randek i chłodniejszych dni. Szczególnie pięknie współgra z jesienną i zimową atmosferą, kiedy ciepłe, kawowe i gourmandowe akordy mogą w pełni pokazać swoją głębię.\n\n<strong>Sensual Instinct — palona kawa, róża i pralina na tle bursztynu, mchu i cedru. Ciepły, gęsty i magnetyczny zapach, który gra na granicy słodyczy i ciemnej elegancji.</strong>",
+      "uk": "<strong>Sensual Instinct не починається з делікатного привітання. Він починається з кави.</strong>\n\nСмажені кавові зерна з'являються на старті виразно — темні, насичені й трохи гіркуваті. Але це не холодний і сухий аромат кав'ярні. Кава швидко зустрічається з трояндою та солодким акордом праліне, створюючи значно м'якше й чуттєвіше звучання.\n\n<strong>Саме цей контраст справляє найбільше враження.</strong>\n\nГіркота смаженої кави переплітається із солодкістю праліне, а троянда додає композиції м'якості та елегантності. Аромат солодкий, але не позбавлений характеру — дубовий мох додає легкої зеленої та сухої глибини, а бурштин і кедр зігрівають композицію.\n\nSensual Instinct має щось від десерту, поданого пізнього вечора: кава, праліне й тепле світло, але поруч із ними з'являються темніші та більш сухі відтінки. Саме вони не дозволяють композиції перетворитися просто на солодкий аромат.\n\nНа шкірі аромат звучить насичено, тепло та виразно. Троянда і праліне надають йому м'якості, кава додає енергії, а дубовий мох, бурштин і кедр створюють глибший та елегантніший фон.\n\n<strong>Це аромат для тих, хто любить солодкість із характером.</strong>\n\nSensual Instinct добре підходить для вечірніх виходів, побачень і прохолодних днів. Особливо красиво він звучить восени та взимку, коли теплі, кавові й гурманські акорди можуть повністю розкрити свою глибину.\n\n<strong>Sensual Instinct — смажена кава, троянда та праліне на тлі бурштину, моху й кедра. Теплий, густий і магнетичний аромат, що грає на межі солодкості та темної елегантності.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "<strong>Debiut w 2019 roku.</strong> Sensual Instinct pojawił się w ofercie Montale w 2019 roku jako kompozycja z wyraźnie gourmandowym charakterem, ale zachowująca typową dla marki intensywność i długi ślad.",
+        "uk": "<strong>Дебют у 2019 році.</strong> Sensual Instinct з’явився в лінійці Montale у 2019 році як композиція з виразним гурманським характером, але зі звичною для бренду інтенсивністю та довгим шлейфом."
+      },
+      {
+        "pl": "<strong>„Instynkt” w nazwie nie jest przypadkowy.</strong> Montale przedstawia ten zapach jako wezwanie do pierwotnego instynktu — bardziej zmysłowego odruchu niż świadomie budowanego wizerunku. To zapach, który ma działać niemal natychmiast, zanim zdąży się go przeanalizować.",
+        "uk": "<strong>«Інстинкт» у назві невипадковий.</strong> Montale описує цей аромат як заклик до первісного інстинкту — радше чуттєвого імпульсу, ніж свідомо створеного образу. Це аромат, який має діяти майже миттєво, ще до того, як його починаєш аналізувати."
+      },
+      {
+        "pl": "<strong>Montale stworzyło tu efekt gourmand w swoim własnym stylu.</strong> Zamiast typowo cukierkowej słodyczy marka zestawiła kawę i różę z pralinowym, kremowym wrażeniem. Dzięki temu Sensual Instinct znajduje się gdzieś pomiędzy deserem, kawiarnią po zmroku i elegancką orientalną perfumerią.",
+        "uk": "<strong>Montale створив тут гурманський аромат у власній манері.</strong> Замість звичайної цукрової солодкості бренд поєднав каву й троянду з праліновим, кремовим відчуттям. Тому Sensual Instinct балансує десь між десертом, кав’ярнею після настання темряви та елегантною східною парфумерією."
+      },
+      {
+        "pl": "<strong>Aluminiowa butelka ma swoją historię.</strong> Charakterystyczne metalowe flakony Montale nawiązują do tradycji przechowywania koncentratów perfumeryjnych w aluminiowych zbiornikach. Według marki aluminium chroni kompozycję przed światłem i wspiera jej dłuższą macerację.",
+        "uk": "<strong>Алюмінієвий флакон має свою історію.</strong> Характерні металеві флакони Montale відсилають до традиції зберігання парфумерних концентратів в алюмінієвих ємностях. За словами бренду, алюміній захищає композицію від світла та сприяє тривалішій мацерації."
+      },
+      {
+        "pl": "<strong>To zapach zbudowany na kontraście.</strong> W Sensual Instinct róża nie jest przedstawiona jako lekki, klasyczny kwiat, a kawa nie pozostaje jedynie aromatem napoju. Montale łączy przeciwieństwa — kwiatowość, gorzką głębię kawy, słodycz praliny i ciemniejsze, drzewno-mchowe tło.",
+        "uk": "<strong>Це аромат, побудований на контрасті.</strong> У Sensual Instinct троянда не звучить як легка класична квітка, а кава не залишається просто ароматом напою. Montale поєднує протилежності — квітковість, гірку глибину кави, солодкість праліне та темний деревно-моховий фон."
+      },
+      {
+        "pl": "<strong>Montale od początku budowało swoją markę wokół intensywności.</strong> Dom został założony w Paryżu w 2003 roku przez Pierre'a Montale, a jego historia jest silnie związana z orientalnymi materiałami i sztuką oud. Sensual Instinct pokazuje jednak bardziej gourmandowe oblicze tej marki.",
+        "uk": "<strong>Montale від самого початку будував бренд навколо інтенсивності.</strong> Дім був заснований у Парижі П'єром Монталем у 2003 році, а його історія тісно пов'язана зі східними матеріалами та мистецтвом уд. Sensual Instinct, однак, показує більш гурманську сторону цього бренду."
+      },
+      {
+        "pl": "<strong>Oryginalny produkt.</strong> Sensual Instinct jest oficjalnie dostępny jako Eau de Parfum w charakterystycznym aluminiowym flakonie Montale. Przy zakupie warto porównywać opakowanie, oznaczenia i jakość wykonania z oficjalnymi materiałami marki.",
+        "uk": "<strong>Оригінальний продукт.</strong> Sensual Instinct офіційно випускається як Eau de Parfum у характерному алюмінієвому флаконі Montale. Під час купівлі варто порівнювати пакування, маркування та якість виконання з офіційними матеріалами бренду."
+      }
+    ],
+    "fragrance": {
+      "families": ["gourmand", "oriental", "woody"],
+      "accords": [
+        "coffee",
+        "sweet",
+        "rose",
+        "mossy",
+        "amber",
+        "woody",
+        "warm-spicy"
+      ],
+      "notes": {
+        "top": [
+          "coffee"
+        ],
+        "heart": [
+          "rose",
+          "praline"
+        ],
+        "base": [
+          "oakmoss",
+          "cedar",
+          "amber"
+        ]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 1,
+      "warmth": 5,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter"],
+      "timeOfDay": ["evening", "night"],
+      "occasions": ["evening", "date", "special"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 100,
+        "price": 395,
+        "stock": true
+      }
+    ],
+    "similar": [
+      "montale-intense-cafe-edp-100",
+      "montale-roses-vanille-edp-100",
+      "mancera-amore-caffe-edp-120"
+    ],
+    "tags": [
+      "coffee",
+      "rose",
+      "praline",
+      "gourmand",
+      "montale",
+      "autumn",
+      "winter"
+    ]
+  },
+
   {
     "featured": true,
     "new": true,
@@ -2253,7 +2382,7 @@
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 5
+      "pricePerMl": 5.5
     },
     "image": "main.png",
     "gallery": ["02.png", "03.png"],
@@ -2659,6 +2788,7 @@
     "gender": "unisex",
     "concentration": "EDP",
     "year": 2013,
+    "visible": false,
     "perfumer": "",
     "country": "France",
     "moods": ["citrus", "oud", "fresh", "aromatic"],
@@ -3171,6 +3301,7 @@
     "concentration": "EDP",
     "year": 2016,
     "perfumer": "",
+    "visible": false,
     "country": "France",
     "moods": ["tobacco", "sweet", "spicy", "dark", "evening"],
     "description": {
@@ -3397,8 +3528,27 @@
       "accords": ["smoky", "woody", "oud", "earthy", "animalic"],
       "notes": {
         "top": ["green-notes", "hemp", "davanna", "saffron", "thyme"],
-        "heart": ["resins", "tobacco", "coffee", "woody-notes", "raspberry", "cinnamon", "violet"],
-        "base": ["oud", "incense", "woody-notes", "amber", "animalic-notes", "guaiac-wood", "musk", "cedar", "ambroxan", "vanilla"]
+        "heart": [
+          "resins",
+          "tobacco",
+          "coffee",
+          "woody-notes",
+          "raspberry",
+          "cinnamon",
+          "violet"
+        ],
+        "base": [
+          "oud",
+          "incense",
+          "woody-notes",
+          "amber",
+          "animalic-notes",
+          "guaiac-wood",
+          "musk",
+          "cedar",
+          "ambroxan",
+          "vanilla"
+        ]
       }
     },
     "character": {
