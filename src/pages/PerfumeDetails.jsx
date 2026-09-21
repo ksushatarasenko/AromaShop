@@ -1,30 +1,34 @@
-import { useParams } from 'react-router-dom';
-import SEO from '../components/common/SEO.jsx';
-import Badge from '../components/common/Badge.jsx';
-import Button from '../components/common/Button.jsx';
-import PerfumeNotes from '../components/perfume/PerfumeNotes.jsx';
-import PerfumeCharacter from '../components/perfume/PerfumeCharacter.jsx';
-import PerfumePerformance from '../components/perfume/PerfumePerformance.jsx';
-import SimilarPerfumes from '../components/perfume/SimilarPerfumes.jsx';
-import PerfumeGallery from '../components/perfume/PerfumeGallery.jsx';
-import PurchasePanel from '../components/order/PurchasePanel.jsx';
-import LocaleLink from '../components/i18n/LocaleLink.jsx';
-import { getPerfumeById, getBrandById } from '../data/index.js';
-import { useLanguage } from '../i18n/LanguageContext.jsx';
+import { useParams } from "react-router-dom";
+import SEO from "../components/common/SEO.jsx";
+import Badge from "../components/common/Badge.jsx";
+import Button from "../components/common/Button.jsx";
+import PerfumeNotes from "../components/perfume/PerfumeNotes.jsx";
+import PerfumeCharacter from "../components/perfume/PerfumeCharacter.jsx";
+import PerfumePerformance from "../components/perfume/PerfumePerformance.jsx";
+import SimilarPerfumes from "../components/perfume/SimilarPerfumes.jsx";
+import PerfumeGallery from "../components/perfume/PerfumeGallery.jsx";
+import PurchasePanel from "../components/order/PurchasePanel.jsx";
+import LocaleLink from "../components/i18n/LocaleLink.jsx";
+// import { getPerfumeById, getBrandById } from '../data/index.js';
+import { getPerfumeById, getBrandById } from "../data/index.js";
+import { getPerfumeImageCandidates } from "../utils/perfumeImage.js";
+
+import { useLanguage } from "../i18n/LanguageContext.jsx";
 
 export default function PerfumeDetails() {
   const { id } = useParams();
   const perfume = getPerfumeById(id);
   const brand = perfume ? getBrandById(perfume.brandId) : null;
-  const { t, tl, taxonomyLabel } = useLanguage();
+  // const { t, tl, taxonomyLabel } = useLanguage();
+  const { t, tl, taxonomyLabel, lang } = useLanguage();
 
   if (!perfume) {
     return (
       <div className="page container">
-        <h1>{t('perfume.notFound')}</h1>
-        <p className="muted">{t('perfume.notFoundText')}</p>
+        <h1>{t("perfume.notFound")}</h1>
+        <p className="muted">{t("perfume.notFoundText")}</p>
         <Button to="perfumes" variant="ghost">
-          {t('perfume.backToShop')}
+          {t("perfume.backToShop")}
         </Button>
       </div>
     );
@@ -33,15 +37,89 @@ export default function PerfumeDetails() {
   const shortDescription = tl(perfume.shortDescription);
   const story = tl(perfume.story) || tl(perfume.description);
   const storyParagraphs = story
-    ? story.split(/\n\n+/).map((p) => p.trim()).filter(Boolean)
+    ? story
+        .split(/\n\n+/)
+        .map((p) => p.trim())
+        .filter(Boolean)
     : [];
   const facts = (perfume.facts || []).map((fact) => tl(fact)).filter(Boolean);
+  // -----------------------------------------
+  // SEO / Product structured data
+  // -----------------------------------------
+
+  const canonicalUrl = `https://aroma.shop.pl${window.location.pathname}`;
+
+  const imageCandidates = getPerfumeImageCandidates(perfume);
+
+  const productImage =
+    imageCandidates.find((src) => src && !src.includes("placeholder")) ||
+    imageCandidates[0];
+
+  const absoluteImage = productImage
+    ? new URL(productImage, window.location.origin).href
+    : undefined;
+
+  const availableSizes = (perfume.sizes || []).filter(
+    (size) => size?.stock && Number.isFinite(Number(size.price)),
+  );
+
+  const lowestAvailableSize = availableSizes.sort(
+    (a, b) => Number(a.price) - Number(b.price),
+  )[0];
+
+  const productDescription =
+    tl(perfume.description) ||
+    shortDescription ||
+    `${brand?.name ?? ""} ${perfume.name}`.trim();
+
+  const productSchema = {
+    "@context": "https://schema.org",
+    "@type": "Product",
+
+    name: `${brand?.name ?? ""} ${perfume.name}`.trim(),
+
+    description: productDescription,
+
+    sku: perfume.id,
+
+    brand: brand?.name
+      ? {
+          "@type": "Brand",
+          name: brand.name,
+        }
+      : undefined,
+
+    image: absoluteImage ? [absoluteImage] : undefined,
+
+    category: [
+      taxonomyLabel("collections", perfume.collection),
+      taxonomyLabel("genders", perfume.gender),
+      perfume.concentration,
+    ]
+      .filter(Boolean)
+      .join(" / "),
+
+    offers: lowestAvailableSize
+      ? {
+          "@type": "Offer",
+          url: canonicalUrl,
+          priceCurrency: "PLN",
+          price: Number(lowestAvailableSize.price),
+          availability: "https://schema.org/InStock",
+          itemCondition: "https://schema.org/NewCondition",
+        }
+      : undefined,
+  };
 
   return (
     <div className="page">
       <SEO
-        title={`${brand?.name ?? ''} ${perfume.name}`.trim()}
-        description={tl(perfume.description) || shortDescription}
+        title={`${brand?.name ?? ""} ${perfume.name} — ${perfume.concentration}`.trim()}
+        description={productDescription}
+        canonical={canonicalUrl}
+        image={absoluteImage}
+        type="product"
+        structuredData={productSchema}
       />
       <div className="container perfume-details">
         <div className="perfume-details__hero">
@@ -52,13 +130,17 @@ export default function PerfumeDetails() {
             <h1 className="perfume-details__title">{perfume.name}</h1>
             <div className="perfume-details__meta">
               <span>{perfume.concentration}</span>
-              <span>{taxonomyLabel('genders', perfume.gender)}</span>
-              <span>{taxonomyLabel('collections', perfume.collection)}</span>
+              <span>{taxonomyLabel("genders", perfume.gender)}</span>
+              <span>{taxonomyLabel("collections", perfume.collection)}</span>
               {perfume.year ? <span>{perfume.year}</span> : null}
             </div>
-            <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1rem' }}>
-              {perfume.new ? <Badge>{t('common.new')}</Badge> : null}
-              {perfume.bestseller ? <Badge variant="champagne">{t('common.bestseller')}</Badge> : null}
+            <div
+              style={{ display: "flex", gap: "0.5rem", marginBottom: "1rem" }}
+            >
+              {perfume.new ? <Badge>{t("common.new")}</Badge> : null}
+              {perfume.bestseller ? (
+                <Badge variant="champagne">{t("common.bestseller")}</Badge>
+              ) : null}
             </div>
             {shortDescription ? (
               <p className="perfume-details__short">{shortDescription}</p>
@@ -71,16 +153,25 @@ export default function PerfumeDetails() {
         <div className="dossier">
           <div className="dossier-overview">
             <div className="dossier-overview__left">
-              {(perfume.fragrance?.families?.length || perfume.fragrance?.accords?.length) ? (
+              {perfume.fragrance?.families?.length ||
+              perfume.fragrance?.accords?.length ? (
                 <section className="dossier-section">
-                  <h2>{t('perfume.profile')}</h2>
+                  <h2>{t("perfume.profile")}</h2>
                   {perfume.fragrance?.families?.length ? (
                     <>
-                      <p className="eyebrow" style={{ marginBottom: '0.75rem' }}>{t('perfume.family')}</p>
-                      <div className="tag-list" style={{ marginBottom: '1.25rem' }}>
+                      <p
+                        className="eyebrow"
+                        style={{ marginBottom: "0.75rem" }}
+                      >
+                        {t("perfume.family")}
+                      </p>
+                      <div
+                        className="tag-list"
+                        style={{ marginBottom: "1.25rem" }}
+                      >
                         {perfume.fragrance.families.map((familyId) => (
                           <span key={familyId} className="tag">
-                            {taxonomyLabel('families', familyId)}
+                            {taxonomyLabel("families", familyId)}
                           </span>
                         ))}
                       </div>
@@ -88,11 +179,16 @@ export default function PerfumeDetails() {
                   ) : null}
                   {perfume.fragrance?.accords?.length ? (
                     <>
-                      <p className="eyebrow" style={{ marginBottom: '0.75rem' }}>{t('perfume.accords')}</p>
+                      <p
+                        className="eyebrow"
+                        style={{ marginBottom: "0.75rem" }}
+                      >
+                        {t("perfume.accords")}
+                      </p>
                       <div className="tag-list">
                         {perfume.fragrance.accords.map((accordId) => (
                           <span key={accordId} className="tag">
-                            {taxonomyLabel('accords', accordId)}
+                            {taxonomyLabel("accords", accordId)}
                           </span>
                         ))}
                       </div>
@@ -102,29 +198,41 @@ export default function PerfumeDetails() {
               ) : null}
 
               <section className="dossier-section">
-                <h2>{t('perfume.bestFor')}</h2>
-                <div style={{ display: 'grid', gap: '1rem' }}>
+                <h2>{t("perfume.bestFor")}</h2>
+                <div style={{ display: "grid", gap: "1rem" }}>
                   <div>
-                    <p className="eyebrow" style={{ marginBottom: '0.5rem' }}>{t('perfume.seasons')}</p>
+                    <p className="eyebrow" style={{ marginBottom: "0.5rem" }}>
+                      {t("perfume.seasons")}
+                    </p>
                     <div className="tag-list">
                       {(perfume.wearing?.seasons ?? []).map((seasonId) => (
-                        <span key={seasonId} className="tag">{taxonomyLabel('seasons', seasonId)}</span>
+                        <span key={seasonId} className="tag">
+                          {taxonomyLabel("seasons", seasonId)}
+                        </span>
                       ))}
                     </div>
                   </div>
                   <div>
-                    <p className="eyebrow" style={{ marginBottom: '0.5rem' }}>{t('perfume.timeOfDay')}</p>
+                    <p className="eyebrow" style={{ marginBottom: "0.5rem" }}>
+                      {t("perfume.timeOfDay")}
+                    </p>
                     <div className="tag-list">
                       {(perfume.wearing?.timeOfDay ?? []).map((timeId) => (
-                        <span key={timeId} className="tag">{taxonomyLabel('timeOfDay', timeId)}</span>
+                        <span key={timeId} className="tag">
+                          {taxonomyLabel("timeOfDay", timeId)}
+                        </span>
                       ))}
                     </div>
                   </div>
                   <div>
-                    <p className="eyebrow" style={{ marginBottom: '0.5rem' }}>{t('perfume.occasions')}</p>
+                    <p className="eyebrow" style={{ marginBottom: "0.5rem" }}>
+                      {t("perfume.occasions")}
+                    </p>
                     <div className="tag-list">
                       {(perfume.wearing?.occasions ?? []).map((occId) => (
-                        <span key={occId} className="tag">{taxonomyLabel('occasions', occId)}</span>
+                        <span key={occId} className="tag">
+                          {taxonomyLabel("occasions", occId)}
+                        </span>
                       ))}
                     </div>
                   </div>
@@ -138,18 +246,18 @@ export default function PerfumeDetails() {
           </div>
 
           <section className="dossier-section">
-            <h2>{t('perfume.character')}</h2>
+            <h2>{t("perfume.character")}</h2>
             <PerfumeCharacter character={perfume.character} />
           </section>
 
           <section className="dossier-section">
-            <h2>{t('perfume.performance')}</h2>
+            <h2>{t("perfume.performance")}</h2>
             <PerfumePerformance performance={perfume.performance} />
           </section>
 
           {storyParagraphs.length ? (
             <section className="dossier-section dossier-section--full">
-              <h2>{t('perfume.story')}</h2>
+              <h2>{t("perfume.story")}</h2>
               <div className="story-prose">
                 {storyParagraphs.map((paragraph) => (
                   <p
@@ -164,7 +272,7 @@ export default function PerfumeDetails() {
 
           {facts.length ? (
             <section className="dossier-section dossier-section--full">
-              <h2>{t('perfume.facts')}</h2>
+              <h2>{t("perfume.facts")}</h2>
               <ul className="facts-list">
                 {facts.map((fact) => (
                   <li
@@ -180,9 +288,9 @@ export default function PerfumeDetails() {
           <SimilarPerfumes perfume={perfume} />
         </div>
 
-        <p style={{ marginTop: '2rem' }}>
+        <p style={{ marginTop: "2rem" }}>
           <LocaleLink to="perfumes" className="btn btn--text">
-            {t('perfume.backToShop')}
+            {t("perfume.backToShop")}
           </LocaleLink>
         </p>
       </div>

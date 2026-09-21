@@ -1,5 +1,976 @@
 [
   {
+  "id": "giorgio-armani-si-passione-red-bloom-edp-100",
+  "brandId": "giorgio-armani",
+  "name": "Sì Passione Red Bloom",
+  "collection": "luxury",
+  "gender": "women",
+  "concentration": "EDP",
+  "year": 2026,
+  "perfumer": null,
+  "country": "Italy",
+  "image": "main.png",
+  "gallery": ["02.png", "03.png"],
+  "description": {
+    "pl": "Sì Passione Red Bloom to eksplozja soczystej maliny, aksamitnego irysa i róży, która pod koniec zanurza się w kremowej wanilii Bourbon i ciepłym Cashmeranie.",
+    "uk": "Sì Passione Red Bloom — вибух соковитої малини, оксамитового ірису та троянди, що поступово занурюється у кремову ваніль Bourbon і теплий Cashmeran."
+  },
+  "shortDescription": {
+    "pl": "Soczysta malina uderza pierwsza — kwaśna, słodka i pełna czerwonego blasku. Chwilę później pojawia się aksamitny irys i miękkie płatki róży, a na skórze zostaje wanilia Bourbon z ciepłym, drzewno-ambrowym Cashmeranem. Kobiecy, odważny i bardzo zmysłowy.",
+    "uk": "Першою вибухає соковита малина — кисло-солодка, яскрава й сповнена червоного сяйва. За нею з'являються оксамитовий ірис і м'які пелюстки троянди, а на шкірі залишається Bourbon vanilla з теплим деревно-амбровим Cashmeran. Жіночний, сміливий і дуже чуттєвий."
+  },
+  "story": {
+    "pl": "<strong>Sì Passione Red Bloom</strong> nie zaczyna się cicho. W pierwszej chwili pojawia się soczysta malina — intensywna, lśniąca i lekko kwaśna. Nie jest to słodki owocowy koktajl. Jest w niej coś czerwonego, żywego i niemal elektrycznego.\n\nBergamotka rozświetla kompozycję, a absolut pąków czarnej porzeczki dodaje owocowej głębi. Powstaje efekt świeżo zerwanego czerwonego owocu, którego zapach jest jednocześnie słodki i lekko cierpki.\n\nPotem następuje zmiana. <strong>Irys pallida</strong> wchodzi do kompozycji miękko, niemal aksamitnie. Jego pudrowa, szlachetna faktura spotyka dwa oblicza róży — płatki róży oraz różany absolut. Zamiast klasycznej romantycznej róży powstaje coś bardziej zmysłowego: miękkiego, gładkiego i trochę tajemniczego.\n\nAle Red Bloom nie kończy się na kwiatach. W bazie pojawia się <strong>wanilia Bourbon z Madagaskaru</strong>. Ciepła, kremowa i kusząca, ale nie przesadnie cukrowa. Towarzyszy jej Cashmeran, który dodaje kompozycji miękkiego, drzewno-ambrowego ciepła.\n\nI właśnie wtedy zapach staje się najbardziej interesujący. Czerwona, soczysta malina z początku powoli zamienia się w coś bardziej aksamitnego i otulającego. Jak czerwona sukienka po zmroku — nadal przyciąga wzrok, ale światło staje się głębsze.\n\nRed Bloom ma w sobie energię kobiety, która nie chce wybierać między delikatnością a siłą. Może być romantyczna i odważna. Elegancka i trochę bezczelna. Zmysłowa bez potrzeby udowadniania czegokolwiek.\n\nTo zapach na moment, kiedy nie chcesz po prostu dobrze wyglądać. Chcesz <strong>zostawić w powietrzu emocję</strong>.\n\n<strong>Sì Passione Red Bloom pachnie jak kwiat w pełnym rozkwicie — czerwony, soczysty i niemożliwy do przeoczenia.</strong>",
+    "uk": "<strong>Sì Passione Red Bloom</strong> не починається тихо. У першу мить з'являється соковита малина — інтенсивна, сяйлива й трохи кислувата. Це не просто солодкий фруктовий коктейль. У ній є щось червоне, живе й майже електричне.\n\nБергамот освітлює композицію, а абсолют бруньок чорної смородини додає фруктової глибини. Виникає відчуття щойно зірваного червоного плода, який одночасно солодкий і трохи терпкий.\n\nПотім аромат змінюється. <strong>Ірис pallida</strong> входить у композицію м'яко, майже оксамитово. Його пудрова, шляхетна текстура зустрічається з двома відтінками троянди — пелюстками та рожевим абсолютом. Замість класичної романтичної троянди виникає щось більш чуттєве: м'яке, гладке й трохи загадкове.\n\nАле Red Bloom не закінчується на квітах. У базі з'являється <strong>ваніль Bourbon з Мадагаскару</strong>. Тепла, кремова й спокуслива, але не надмірно солодка. Поруч звучить Cashmeran, додаючи композиції м'якого деревно-амбрового тепла.\n\nІ саме тоді аромат стає найцікавішим. Червона, соковита малина з початку поступово перетворюється на щось більш оксамитове й огортаюче. Наче червона сукня після заходу сонця — вона все ще привертає увагу, але світло стає глибшим.\n\nRed Bloom має енергію жінки, яка не хоче обирати між ніжністю та силою. Вона може бути романтичною й сміливою. Елегантною і трохи зухвалою. Чуттєвою без потреби щось доводити.\n\nЦе аромат для моменту, коли хочеться не просто добре виглядати. Хочеться <strong>залишити в повітрі емоцію</strong>.\n\n<strong>Sì Passione Red Bloom пахне як квітка у повному розквіті — червона, соковита й така, яку неможливо не помітити.</strong>"
+  },
+  "facts": [
+    {
+      "pl": "🌹 <strong>DRUGI NOWY ROZDZIAŁ SÌ W 2026 ROKU</strong>\n\nSì Passione Red Bloom został wprowadzony w 2026 roku razem z Sì Nude Bloom. Armani stworzyło te dwie premiery jako kontrastujące oblicza kwiatowej kobiecości — Nude Bloom jest bardziej miękkie i świetliste, natomiast Red Bloom ma wyrażać pełnię koloru, energii i rozkwitu.",
+      "uk": "🌹 <strong>ДРУГИЙ НОВИЙ РОЗДІЛ SÌ У 2026 РОЦІ</strong>\n\nSì Passione Red Bloom представили у 2026 році одночасно із Sì Nude Bloom. Armani створив ці дві прем'єри як контрастні прояви квіткової жіночності — Nude Bloom більш м'який і сяйливий, тоді як Red Bloom має передавати повноту кольору, енергії та цвітіння."
+    },
+    {
+      "pl": "❤️ <strong>„RED BLOOM” TO HISTORIA PEŁNEGO ROZKWITU</strong>\n\nArmani opisuje Red Bloom jako moment, w którym kwiat osiąga pełnię. Dlatego zamiast delikatnego pojedynczego kwiatu kompozycja została zbudowana wokół intensywnego czerwonego obrazu: maliny, róży, czerwonego flakonu i bogatej waniliowej bazy.",
+      "uk": "❤️ <strong>«RED BLOOM» — ЦЕ ІСТОРІЯ ПОВНОГО ЦВІТІННЯ</strong>\n\nArmani описує Red Bloom як момент, коли квітка досягає повного розквіту. Тому замість ніжної одиночної квітки композиція побудована навколо інтенсивного червоного образу: малини, троянди, червоного флакону та насиченої ванільної бази."
+    },
+    {
+      "pl": "🍓 <strong>MALINA ZOSTAŁA POTRAKTOWANA JAKO „WYBUCH CZERWIENI”</strong>\n\nArmani nie opisuje otwarcia jedynie jako owocowego. Soczysty akord maliny połączono z iskrzącą bergamotką i absolutem pąków czarnej porzeczki, aby uzyskać efekt energetycznego, niemal świetlistego czerwonego otwarcia.",
+      "uk": "🍓 <strong>МАЛИНУ ПЕРЕТВОРИЛИ НА «ВИБУХ ЧЕРВОНОГО»</strong>\n\nArmani описує початок не просто як фруктовий. Соковитий акорд малини поєднали з іскристим бергамотом та абсолютом бруньок чорної смородини, щоб створити ефект енергійного, майже сяйливого червоного відкриття."
+    },
+    {
+      "pl": "🌺 <strong>IRYS NIE JEST TUTAJ TYLKO DODATKIEM</strong>\n\nW sercu Red Bloom irys pallida pełni ważną rolę konstrukcyjną. Jego pudrowa, aksamitna faktura łączy soczysty owoc z różą i przygotowuje kompozycję na cieplejszą bazę. To właśnie irys nadaje owocowo-kwiatowej kompozycji bardziej wyrafinowaną fakturę.",
+      "uk": "🌺 <strong>ІРИС ТУТ НЕ ПРОСТО ДОДАТКОВА НОТА</strong>\n\nУ серці Red Bloom ірис pallida виконує важливу конструктивну роль. Його пудрова, оксамитова текстура поєднує соковитий фрукт із трояндою та готує композицію до теплішої бази. Саме ірис надає фруктово-квітковому аромату більш вишуканої фактури."
+    },
+    {
+      "pl": "💎 <strong>FLAKON ZMIENIONO W CZERWONY KLEJNOT</strong>\n\nKlasyczny flakon Sì otrzymał intensywnie czerwony, satynowo-matowy wygląd. Charakterystyczny kamienny korek również stał się czerwony, a złote logo Giorgio Armani pozostało na froncie. Całość ma przypominać kwiat w pełnym rozkwicie — bogaty, świetlisty i pełen energii.",
+      "uk": "💎 <strong>ФЛАКОН ПЕРЕТВОРИЛИ НА ЧЕРВОНИЙ КОШТОВНИЙ КАМІНЬ</strong>\n\nКласичний флакон Sì отримав насичений червоний сатиново-матовий вигляд. Характерна кам'яна кришка також стала червоною, а золоте лого Giorgio Armani залишилося на фронтальній частині. Уся композиція має нагадувати квітку в повному розквіті — насичену, сяйливу та сповнену енергії."
+    },
+    {
+      "pl": "🇲🇬 <strong>WANILIA POCHODZI Z MADAGASKARU</strong>\n\nW bazie wykorzystano Bourbon Vanilla Premium pochodzącą z Madagaskaru. Armani podkreśla jej bogate, kremowe i uzależniające aspekty, które zostały połączone z Cashmeranem o ciepłym, drzewno-ambrowym charakterze.",
+      "uk": "🇲🇬 <strong>ВАНІЛЬ ПОХОДИТЬ ІЗ МАДАГАСКАРУ</strong>\n\nУ базі використано Bourbon Vanilla Premium з Мадагаскару. Armani підкреслює її багаті, кремові та майже «залежні» відтінки, які поєднали з Cashmeran із теплим деревно-амбровим характером."
+    },
+    {
+      "pl": "🌹 <strong>RED BLOOM I NUDE BLOOM СТВОРЕНІ ЯК ПАРА</strong>\n\nУ 2026 році Armani випустив дві нові композиції Sì одночасно. Їхня ідея — показати контрастні характери квітів: Sì Nude Bloom розкриває більш м'яку, нюдову сторону, а Sì Passione Red Bloom — насичену, червону та енергійну.",
+      "uk": "🌹 <strong>RED BLOOM І NUDE BLOOM СТВОРЕНІ ЯК ПАРА</strong>\n\nУ 2026 році Armani одночасно випустив дві нові композиції Sì. Їхня концепція — показати контрастні характери квітів: Sì Nude Bloom відкриває більш м'яку нюдову сторону, а Sì Passione Red Bloom — насичену, червону та енергійну."
+    }
+  ],
+  "fragrance": {
+    "families": ["floral", "fruity", "amber"],
+    "accords": ["fruity", "rose", "vanilla", "powdery", "floral", "woody", "amber", "sweet"],
+    "notes": {
+      "top": ["raspberry", "bergamot", "blackcurrant-bud-absolute"],
+      "heart": ["iris", "rose-petals", "damask-rose-absolute"],
+      "base": ["cashmeran", "bourbon-vanilla", "amberwood"]
+    }
+  },
+  "character": {
+    "sweetness": 4,
+    "freshness": 3,
+    "warmth": 4,
+    "intensity": 4
+  },
+  "wearing": {
+    "seasons": ["spring", "autumn", "winter", "summer"],
+    "timeOfDay": ["day", "evening", "night"],
+    "occasions": ["date", "special", "party", "evening", "everyday"]
+  },
+  "performance": {
+    "longevity": 4,
+    "sillage": 4
+  },
+  "sizes": [
+    {
+      "ml": 50,
+      "price": 430,
+      "stock": true
+    },
+    {
+      "ml": 100,
+      "price": 640,
+      "stock": true
+    }
+  ],
+  "decant": {
+    "enabled": true,
+    "sizes": [2, 5, 10, 15],
+    "pricePerMl": 7
+  },
+  "featured": true,
+  "new": true,
+  "bestseller": false,
+  "similar": [
+    "giorgio-armani-si-passione-edp-100",
+    "giorgio-armani-si-nude-bloom-edp-100",
+    "giorgio-armani-si-edp-100"
+  ],
+  "tags": [
+    "new",
+    "feminine",
+    "raspberry",
+    "rose",
+    "iris",
+    "vanilla",
+    "red",
+    "floral",
+    "fruity",
+    "sensual"
+  ]
+},
+  {
+    "id": "giorgio-armani-si-nude-bloom-edp-100",
+    "brandId": "giorgio-armani",
+    "name": "Sì Nude Bloom",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2026,
+    "perfumer": null,
+    "country": "Italy",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Sì Nude Bloom to miękka, świetlista odsłona kobiecości — soczysta czarna porzeczka i cytrusy spotykają aksamitną różę, wanilię Bourbon i ciepłe paczuli.",
+      "uk": "Sì Nude Bloom — м'яке й сяйливе втілення жіночності: соковита чорна смородина та цитруси зустрічаються з оксамитовою трояндою, ваніллю Bourbon і теплими пачулі."
+    },
+    "shortDescription": {
+      "pl": "Najpierw jest iskra czarnej porzeczki i cytrusów. Potem pojawia się róża — miękka, lekko pudrowa, niemal dotykalna. Na skórze wszystko uspokaja się w ciepłej wanilii, paczuli i piżmie. Elegancki, ale nie chłodny. Kobiecy, ale bez przesadnej słodyczy.",
+      "uk": "Спочатку — іскра чорної смородини та цитрусів. Потім з'являється троянда — м'яка, трохи пудрова, майже відчутна на дотик. На шкірі все заспокоюється у теплому поєднанні ванілі, пачулі та мускусу. Елегантний, але не холодний. Жіночний, але без надмірної солодкості."
+    },
+    "story": {
+      "pl": "<strong>Sì Nude Bloom</strong> zaczyna się od charakterystycznej dla linii Sì czarnej porzeczki, ale tym razem pokazuje ją z zupełnie innej strony. Jest jaśniejsza, bardziej soczysta i niemal musująca. Mandarynka, cytryna i bergamotka wpadają w nią jak promienie porannego słońca, a odrobina czarnego pieprzu dodaje kompozycji napięcia.\n\nPotem pojawia się <strong>róża</strong>. Nie romantyczny bukiet z wazonu, lecz róża blisko skóry — miękka, pudrowa, lekko owocowa. W sercu znajduje się trio róż, w którym szczególną rolę odgrywa absolut róży majowej. Płatki wydają się niemal namacalne.\n\nI właśnie tutaj Nude Bloom zaczyna być naprawdę interesujący. Świeżość nie znika, ale przestaje być najważniejsza. Zapach staje się bardziej intymny, jak ciepła skóra po porannym spacerze, kiedy chłodne powietrze powoli ustępuje słońcu.\n\nW bazie <strong>paczuli, wanilia Bourbon i piżma</strong> tworzą miękką, balsamiczną warstwę. Paczula daje ziemistą głębię, wanilia wnosi ciepło, a piżma wygładzają całość i sprawiają, że zapach wydaje się niemal częścią skóry.\n\nTo właśnie dlatego Sì Nude Bloom nie przypomina klasycznego słodkiego różanego perfumu. Jest bardziej jak różowy materiał dotykający skóry — lekki, miękki i zaskakująco sensualny.\n\nMa w sobie elegancję Armani, ale bez dystansu. Nie jest zapachem kobiety, która chce zrobić wejście. Jest zapachem kobiety, której obecność zaczyna się zauważać dopiero wtedy, gdy podejdzie się bliżej.\n\n<strong>Sì Nude Bloom pachnie jak pierwsze kwitnienie — jeszcze świeże, jeszcze delikatne, ale już pełne siły.</strong>",
+      "uk": "<strong>Sì Nude Bloom</strong> починається з характерної для лінії Sì чорної смородини, але цього разу вона показана зовсім інакше. Вона світліша, соковитіша й майже іскриста. Мандарин, лимон і бергамот ніби падають у неї ранковими променями сонця, а крапля чорного перцю додає композиції напруги.\n\nПотім з'являється <strong>троянда</strong>. Не романтичний букет у вазі, а троянда дуже близько до шкіри — м'яка, пудрова, трохи фруктова. У серці звучить тріо троянд, особливе місце серед яких займає абсолют травневої троянди. Пелюстки здаються майже відчутними на дотик.\n\nСаме тут Nude Bloom стає по-справжньому цікавим. Свіжість не зникає, але перестає бути головною. Аромат стає більш інтимним — наче тепла шкіра після ранкової прогулянки, коли прохолодне повітря поступово поступається сонцю.\n\nУ базі <strong>пачулі, ваніль Bourbon та мускуси</strong> створюють м'який, бальзамічний шар. Пачулі додають землистої глибини, ваніль — тепла, а мускуси згладжують композицію, роблячи аромат майже продовженням самої шкіри.\n\nСаме тому Sì Nude Bloom не схожий на звичайний солодкий аромат троянди. Він більше нагадує рожеву тканину, що торкається шкіри — легку, м'яку і напрочуд чуттєву.\n\nУ ньому є елегантність Armani, але немає холодної дистанції. Це не аромат жінки, яка прагне ефектно увійти. Це аромат жінки, яку починаєш помічати лише тоді, коли підходиш ближче.\n\n<strong>Sì Nude Bloom пахне як перше цвітіння — ще свіже, ще ніжне, але вже сповнене сили.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🌸 <strong>NOWY ROZDZIAŁ LINII SÌ W 2026 ROKU</strong>\n\nSì Nude Bloom został wprowadzony w 2026 roku jako nowy flanker jednej z najważniejszych kobiecych linii Giorgio Armani. W tym samym czasie marka przedstawiła również Sì Passione Red Bloom. Oba zapachy pokazują dwie różne interpretacje kwiatowego świata Sì.",
+        "uk": "🌸 <strong>НОВИЙ РОЗДІЛ ЛІНІЇ SÌ У 2026 РОЦІ</strong>\n\nSì Nude Bloom представили у 2026 році як новий фланкер однієї з головних жіночих ліній Giorgio Armani. Одночасно бренд представив і Sì Passione Red Bloom. Обидва аромати показують два різні прочитання квіткового світу Sì."
+      },
+      {
+        "pl": "🌹 <strong>W CENTRUM ZNALAZŁO SIĘ TRIO RÓŻ</strong>\n\nArmani nie ograniczyło się do pojedynczej nuty róży. W Nude Bloom zastosowano teksturowane trio róż, w którym znajduje się absolut róży majowej. Marka opisuje go jako element nadający kompozycji owocowe, pudrowe i kwiatowe niuanse.",
+        "uk": "🌹 <strong>У ЦЕНТРІ — ТРІО ТРОЯНД</strong>\n\nArmani не обмежився однією нотою троянди. У Nude Bloom використано текстуроване тріо троянд, до якого входить абсолют травневої троянди. Бренд описує його як елемент, що додає композиції фруктових, пудрових і квіткових відтінків."
+      },
+      {
+        "pl": "🍇 <strong>CZARNA PORZECZKA POZOSTAŁA PODPISEM SÌ</strong>\n\nArmani zachowało charakterystyczny dla kolekcji Sì akord czarnej porzeczki, ale nadało mu jaśniejszy charakter. W Nude Bloom został zestawiony z mandarynką, cytryną, bergamotką i czarnym pieprzem, dzięki czemu otwarcie jest bardziej iskrzące i świeże.",
+        "uk": "🍇 <strong>ЧОРНА СМОРОДИНА ЗАЛИШИЛАСЯ ПІДПИСОМ SÌ</strong>\n\nArmani зберіг характерний для колекції Sì акорд чорної смородини, але зробив його світлішим. У Nude Bloom він поєднаний із мандарином, лимоном, бергамотом і чорним перцем, тому старт аромату звучить більш іскристо та свіжо."
+      },
+      {
+        "pl": "🌿 <strong>BAZA ZOSTAŁA ZBUDOWANA WOKÓŁ KONTRASTU</strong>\n\nTwórcy zestawili ziemistą, drzewną stronę paczuli z balsamicznym ciepłem wanilii Bourbon i miękkością piżm. Dzięki temu finał nie jest wyłącznie kwiatowy — ma jednocześnie ziemistą głębię i efekt miękkiej, ciepłej skóry.",
+        "uk": "🌿 <strong>БАЗА ПОБУДОВАНА НА КОНТРАСТІ</strong>\n\nТворці поєднали землисту, деревну сторону пачулі з бальзамічним теплом ванілі Bourbon і м'якістю мускусів. Тому фінал не є суто квітковим — у ньому одночасно є землиста глибина та ефект теплої, м'якої шкіри."
+      },
+      {
+        "pl": "💎 <strong>FLAKON ZMIENIŁ SIĘ RAZEM Z CHARAKTEREM ZAPACHU</strong>\n\nKlasyczna butelka Sì otrzymała dla Nude Bloom satynowe, matowe szkło w nude odcieniu. Korek zachował charakterystyczny organiczny kształt kamienia, ale pojawił się w delikatnym nude-różu. Armani opisuje flakon jako biżuteryjny obiekt mający odzwierciedlać miękką, zmysłową pierwszą fazę kwitnienia.",
+        "uk": "💎 <strong>ФЛАКОН ЗМІНИВСЯ РАЗОМ ІЗ ХАРАКТЕРОМ АРОМАТУ</strong>\n\nКласичний флакон Sì для Nude Bloom отримав матове сатинове скло в нюдовому відтінку. Кришка зберегла характерну органічну форму каменю, але стала ніжно нюдово-рожевою. Armani описує флакон як ювелірний об'єкт, що передає м'яке та чуттєве перше цвітіння."
+      },
+      {
+        "pl": "🌷 <strong>„NUDE BLOOM” TO KONCEPCJA, A NIE TYLKO KOLOR</strong>\n\nNazwa odnosi się do idei pierwszego rozkwitu — momentu, w którym kwiat dopiero zaczyna się otwierać. Armani zestawiło tę delikatność z kontrastem mocniejszej bazy, dzięki czemu kompozycja ma być jednocześnie miękka i wyrazista.",
+        "uk": "🌷 <strong>«NUDE BLOOM» — ЦЕ КОНЦЕПЦІЯ, А НЕ ПРОСТО КОЛІР</strong>\n\nНазва відсилає до ідеї першого цвітіння — моменту, коли квітка лише починає розкриватися. Armani поєднав цю ніжність із контрастом більш насиченої бази, тому композиція має бути водночас м'якою та виразною."
+      }
+    ],
+    "fragrance": {
+      "families": ["chypre", "floral", "fruity"],
+      "accords": [
+        "rose",
+        "citrus",
+        "fruity",
+        "fresh-spicy",
+        "floral",
+        "woody",
+        "patchouli",
+        "vanilla",
+        "musky"
+      ],
+      "notes": {
+        "top": [
+          "blackcurrant",
+          "mandarin",
+          "lemon",
+          "bergamot",
+          "black-pepper"
+        ],
+        "heart": ["may-rose-absolute", "rose"],
+        "base": ["patchouli", "bourbon-vanilla", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 4,
+      "warmth": 3,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["everyday", "office", "date", "special", "party"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 430,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 595,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 7
+    },
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": [
+      "giorgio-armani-si-edp-100",
+      "giorgio-armani-si-passione-edp-100",
+      "giorgio-armani-si-passione-red-bloom-edp-100"
+    ],
+    "tags": [
+      "new",
+      "feminine",
+      "rose",
+      "blackcurrant",
+      "citrus",
+      "chypre",
+      "vanilla",
+      "elegant",
+      "sensual"
+    ]
+  },
+  {
+    "id": "lancome-idole-peach-n-roses-edp-100",
+    "brandId": "lancome",
+    "name": "Idôle Peach 'N Roses",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDP Fruitée",
+    "year": 2026,
+    "perfumer": "Shyamala Maisondieu, Nadège Le Garlantezec & Adriana Medina",
+    "country": "France",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Soczysta brzoskwinia, iskrzące czerwone owoce i aksamitna róża — młodzieńczy, świetlisty i apetyczny zapach, który pachnie jak pierwszy kęs idealnie dojrzałego owocu.",
+      "uk": "Соковитий персик, іскристі червоні ягоди та оксамитова троянда — молодий, сяйливий і апетитний аромат, що нагадує перший укус ідеально стиглого фрукта."
+    },
+    "shortDescription": {
+      "pl": "Najpierw jest soczysto i lekko zadziornie — czerwone owoce i różowy pieprz otwierają zapach jak pierwsza nuta ulubionej piosenki. Potem pojawia się brzoskwinia: słodka, kwaśna, słoneczna i niesamowicie apetyczna. Na końcu aksamitna róża nadaje całości miękkość i kobiecy charakter.",
+      "uk": "Спочатку соковито й трохи зухвало — червоні ягоди та рожевий перець відкривають аромат, наче перша нота улюбленої пісні. Потім з'являється персик: солодкий, кислуватий, сонячний і неймовірно апетитний. А в кінці оксамитова троянда додає композиції м'якості та жіночності."
+    },
+    "story": {
+      "pl": "<strong>Idôle Peach 'N Roses</strong> zaczyna się od energii. Nie od delikatnego wejścia, ale od soczystego błysku czerwonych owoców, który natychmiast budzi zmysły. Różowy pieprz dodaje mu lekkiego pazura — jak pierwszy takt piosenki, przy której od razu chcesz podgłośnić muzykę.\n\nA potem pojawia się <strong>brzoskwinia</strong>. Nie spokojna i kremowa, lecz soczysta, lekko kwaśna i rozgrzana słońcem. Pachnie tak, jakby właśnie przeciąć dojrzały owoc i poczuć jego skórkę, sok i tę charakterystyczną słodko-kwaśną świeżość.\n\nTo właśnie brzoskwinia jest sercem całej historii. Lancôme wykorzystuje tutaj Peach Orpur™ — naturalny ekstrakt stworzony przez Givaudan, którego zadaniem jest uchwycenie wrażenia „pierwszego kęsa”. Dzięki temu owoc nie jest tylko słodkim dodatkiem. Staje się głównym bohaterem.\n\nW finale brzoskwiniowa soczystość zaczyna mięknąć. Pojawia się <strong>aksamitna róża damasceńska</strong>. Nie jest ciężka ani staromodna. Jest miękka, kobieca i lekko pudrowa, dzięki czemu soczysty początek przechodzi w bardziej elegancki, przytulny ślad.\n\nIdôle Peach 'N Roses ma w sobie coś bardzo współczesnego. Nie chce być poważnym, klasycznym zapachem. Jest energiczny, trochę figlarny i świadomie apetyczny. Pachnie jak słoneczne popołudnie, różowe światło i owoc jedzony bez zastanowienia — sok spływa po palcach, a Ty i tak bierzesz kolejny kęs.\n\nTo zapach dla kobiety, która nie potrzebuje pozwolenia, żeby być sobą. Może być delikatna i odważna jednocześnie. Romantyczna, ale nie przewidywalna. Słodka, ale z charakterem.\n\n<strong>Idôle Peach 'N Roses pachnie jak moment, w którym przestajesz się zastanawiać, czy możesz — i po prostu robisz to po swojemu.</strong>",
+      "uk": "<strong>Idôle Peach 'N Roses</strong> починається з енергії. Не з ніжного вступу, а з соковитого спалаху червоних ягід, який одразу пробуджує відчуття. Рожевий перець додає легкого характеру — наче перший такт пісні, яку одразу хочеться зробити гучнішою.\n\nА потім з'являється <strong>персик</strong>. Не спокійний і кремовий, а соковитий, трохи кислуватий і зігрітий сонцем. Він нагадує момент, коли ти розрізаєш стиглий фрукт і відчуваєш його шкірку, сік та характерну солодко-кислу свіжість.\n\nСаме персик стає серцем усієї історії. Lancôme використовує Peach Orpur™ — натуральний екстракт, створений Givaudan, мета якого — передати відчуття «першого укусу». Тому фрукт тут не просто солодкий акцент. Він стає головним героєм.\n\nУ фіналі персикова соковитість починає пом'якшуватися. З'являється <strong>оксамитова дамаська троянда</strong>. Вона не важка й не старомодна. М'яка, жіночна та трохи пудрова, вона переводить соковитий початок у більш елегантний і затишний шлейф.\n\nIdôle Peach 'N Roses має дуже сучасний характер. Він не намагається бути серйозним класичним ароматом. Він енергійний, трохи грайливий і свідомо апетитний. Наче сонячний день, рожеве світло та фрукт, який їси без зайвих думок — сік стікає по пальцях, але ти все одно береш ще один шматочок.\n\nЦе аромат для жінки, якій не потрібен дозвіл бути собою. Вона може бути ніжною й сміливою одночасно. Романтичною, але непередбачуваною. Солодкою, але з характером.\n\n<strong>Idôle Peach 'N Roses пахне як момент, коли ти перестаєш думати, чи можна — і просто робиш по-своєму.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🍑 <strong>PIERWSZY NATURALNY EKSTRAKT BRZOSKWINI LANCÔME</strong>\n\nJednym z najważniejszych elementów premiery jest Peach Orpur™ — według Lancôme pierwszy naturalny ekstrakt brzoskwini wykorzystany przez markę. Technologia Givaudan została opracowana tak, aby uchwycić świeżość i soczystość owocu oraz charakterystyczne wrażenie „pierwszego kęsa”.",
+        "uk": "🍑 <strong>ПЕРШИЙ НАТУРАЛЬНИЙ ЕКСТРАКТ ПЕРСИКА LANCÔME</strong>\n\nОдин із головних елементів прем'єри — Peach Orpur™. За даними Lancôme, це перший натуральний екстракт персика, використаний брендом. Технологія Givaudan створена для того, щоб передати свіжість і соковитість фрукта та характерне відчуття «першого укусу»."
+      },
+      {
+        "pl": "🎵 <strong>ZAPACH ZAPROJEKTOWANO JAK PIOSENKĘ, KTÓRĄ CHCESZ WŁĄCZYĆ PONOWNIE</strong>\n\nLancôme opisuje Idôle Peach 'N Roses poprzez muzyczną metaforę. Czerwone owoce mają być pierwszym rytmem, soczysta brzoskwinia głównym refrenem, a róża końcowym, aksamitnym wybrzmieniem. Idea kampanii opiera się na energii, której chce się doświadczać raz za razem.",
+        "uk": "🎵 <strong>АРОМАТ СТВОРИЛИ ЯК ПІСНЮ, ЯКУ ХОЧЕТЬСЯ ВМИКАТИ ЗНОВУ</strong>\n\nLancôme описує Idôle Peach 'N Roses через музичну метафору. Червоні ягоди мають стати першим ритмом, соковитий персик — головним приспівом, а троянда — оксамитовим фінальним звучанням. Ідея кампанії побудована навколо енергії, яку хочеться переживати знову й знову."
+      },
+      {
+        "pl": "👩 <strong>OLIVIA RODRIGO ZOSTAŁA TWARZĄ PREMIERY</strong>\n\nGlobalną twarzą Idôle Peach 'N Roses została Olivia Rodrigo. Lancôme wykorzystało jej muzyczny wizerunek również w komunikacji zapachu — na oficjalnej stronie pojawiają się materiały związane z muzyką, w tym „lekcja francuskiego” i osobista recenzja zapachu Rodrigo.",
+        "uk": "👩 <strong>OLIVIA RODRIGO СТАЛА ОБЛИЧЧЯМ ПРЕМ'ЄРИ</strong>\n\nГлобальним обличчям Idôle Peach 'N Roses стала Olivia Rodrigo. Lancôme використав її музичний образ і в комунікації аромату — на офіційному сайті є матеріали, пов'язані з музикою, зокрема «урок французької» та особистий огляд аромату від Rodrigo."
+      },
+      {
+        "pl": "🌹 <strong>DO KOMPOZYCJI WRÓCIŁA CHARAKTERYSTYCZNA RÓŻA IDÔLE</strong>\n\nNowy zapach nie zerwał całkowicie z DNA Idôle. Twórcy zachowali różany charakter linii, ale przedstawili go inaczej: zamiast budować całość wokół róży, pozwolili jej pojawić się po soczystej brzoskwini. Wykorzystano absolut róży damasceńskiej.",
+        "uk": "🌹 <strong>ДО КОМПОЗИЦІЇ ПОВЕРНУЛАСЯ ХАРАКТЕРНА ТРОЯНДА IDÔLE</strong>\n\nНовий аромат не відмовився повністю від DNA Idôle. Творці зберегли характер троянди, але показали його інакше: замість того щоб будувати композицію навколо троянди, вони дозволили їй з'явитися після соковитого персика. Використано абсолют дамаської троянди."
+      },
+      {
+        "pl": "👃 <strong>ORYGINALNE TRIO PERFUMIARZY POWRÓCIŁO</strong>\n\nIdôle Peach 'N Roses stworzyły Shyamala Maisondieu, Nadège Le Garlantezec i Adriana Medina — to samo trio, które pracowało przy oryginalnym Idôle. Nowa kompozycja jest więc rozwinięciem świata Idôle przez jego pierwotny zespół twórczy.",
+        "uk": "👃 <strong>ПОВЕРНУЛОСЯ ОРИГІНАЛЬНЕ ТРІО ПАРФУМЕРІВ</strong>\n\nIdôle Peach 'N Roses створили Shyamala Maisondieu, Nadège Le Garlantezec та Adriana Medina — те саме тріо, яке працювало над оригінальним Idôle. Таким чином, нова композиція розвиває світ Idôle силами його первісної творчої команди."
+      },
+      {
+        "pl": "🍑 <strong>FLAKON ZMIENIŁ KOLOR, ALE NIE SYLWETKĘ</strong>\n\nCharakterystyczny ultracienki flakon Idôle powraca w nowej, błyszczącej brzoskwiniowo-pomarańczowej odsłonie. Zmiana koloru została podporządkowana nowemu bohaterowi kompozycji — soczystej brzoskwini — podczas gdy sama sylwetka pozostała rozpoznawalna dla całej rodziny Idôle.",
+        "uk": "🍑 <strong>ФЛАКОН ЗМІНИВ КОЛІР, АЛЕ НЕ СИЛУЕТ</strong>\n\nХарактерний ультратонкий флакон Idôle повернувся у новому сяйливому персиково-помаранчевому оформленні. Зміна кольору підкреслює нового головного героя композиції — соковитий персик, тоді як сам силует залишився впізнаваним для всієї лінійки Idôle."
+      },
+      {
+        "pl": "📦 <strong>PREMIERA OD RAZU W KILKU POJEMNOŚCIACH</strong>\n\nIdôle Peach 'N Roses został wprowadzony jako Eau de Parfum Fruitée w rozmiarach 10, 25, 50 i 100 ml. Na polskiej stronie Lancôme obecnie widoczne są przede wszystkim 25, 50 i 100 ml.",
+        "uk": "📦 <strong>ПРЕМ'ЄРА ВІДРАЗУ В КІЛЬКОХ ОБ'ЄМАХ</strong>\n\nIdôle Peach 'N Roses представили як Eau de Parfum Fruitée в об'ємах 10, 25, 50 та 100 мл. На польському сайті Lancôme зараз представлені насамперед 25, 50 та 100 мл."
+      }
+    ],
+    "fragrance": {
+      "families": ["fruity", "floral"],
+      "accords": [
+        "fruity",
+        "rose",
+        "sweet",
+        "floral",
+        "powdery",
+        "fresh",
+        "spicy"
+      ],
+      "notes": {
+        "top": ["red-berries", "pink-pepper"],
+        "heart": ["peach"],
+        "base": ["damask-rose-absolute"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 4,
+      "warmth": 2,
+      "intensity": 3
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": [
+        "everyday",
+        "date",
+        "office",
+        "party",
+        "special",
+        "vacation"
+      ]
+    },
+    "performance": {
+      "longevity": 3,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 25,
+        "price": 323,
+        "stock": true
+      },
+      {
+        "ml": 50,
+        "price": 455,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 490,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 6
+    },
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": ["lancome-idole-edp-100", "lancome-idole-nectar-edp-100"],
+    "tags": [
+      "new",
+      "feminine",
+      "peach",
+      "fruity",
+      "rose",
+      "sweet",
+      "fresh",
+      "idole"
+    ]
+  },
+  {
+    "id": "emporio-armani-power-of-you-edp-090",
+    "brandId": "giorgio-armani",
+    "name": "Power Of You",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2026,
+    "perfumer": "Nisrine Bouazzaoui Grillié & Nadège Le Garlantezec",
+    "country": "Italy",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Soczysta marakuja, kremowy frangipani i zmysłowa wanilia tworzą nowoczesny gourmand, który zaczyna się jak eksplozja tropikalnego owocu, a kończy ciepłym, uzależniającym śladem.",
+      "uk": "Соковита маракуя, кремовий франжипані та чуттєва ваніль створюють сучасний гурманський аромат, який починається вибухом тропічного фрукта, а завершується теплим, майже залежним відчуттям на шкірі."
+    },
+    "shortDescription": {
+      "pl": "Najpierw czujesz soczystą, kwaśno-słodką marakuję tak realistyczną, że niemal masz ochotę jej spróbować. Potem pojawia się kremowy frangipani, a wanilia otula całość ciepłem. Power Of You jest owocowy, słoneczny, apetyczny i zdecydowanie współczesny.",
+      "uk": "Спочатку відчувається соковита кисло-солодка маракуя — настільки реалістична, що майже хочеться її скуштувати. Потім з'являється кремовий франжипані, а ваніль огортає все теплом. Power Of You — фруктовий, сонячний, апетитний і дуже сучасний."
+    },
+    "story": {
+      "pl": "<strong>Power Of You</strong> zaczyna się od momentu, który trudno pomylić z czymkolwiek innym. Soczysta marakuja eksploduje na skórze — kwaśna, słodka, tropikalna i niemal niewiarygodnie realistyczna. To nie jest owocowy akcent gdzieś w tle. Tutaj owoc gra pierwszą rolę.\n\nDo marakui dołączają gorzka pomarańcza i olejek cytrynowy. Dzięki nim pierwsze sekundy są jasne, energetyczne i lekko musujące. Jest w tym coś z pierwszego łyka tropikalnego drinka — świeżość, soczystość i natychmiastowa ochota na więcej.\n\nPo chwili zapach zmienia temperaturę. W sercu pojawia się <strong>frangipani</strong> — kremowy, jasny i lekko słoneczny. Nie przykrywa owocu, tylko nadaje mu miękkość i sprawia, że kompozycja zaczyna przypominać ciepłą skórę rozgrzaną słońcem.\n\nNajciekawsze dzieje się w bazie. <strong>Wanilia z Madagaskaru</strong> nie pojawia się tutaj jako ciężki, cukrowy deser. Jest kremowa, ciepła i zmysłowa. Benzoin dodaje balsamicznej słodyczy, a absolut czystka wnosi bursztynowe, żywiczne i lekko drzewne tło.\n\nPower Of You ma bardzo apetyczny charakter, ale nie jest zwykłym gourmandem. Jego siła tkwi w napięciu pomiędzy kwaśną świeżością marakui a ciepłą, miękką wanilią.\n\nTo zapach dla kobiety, która nie potrzebuje udowadniać swojej obecności. Wchodzi do pomieszczenia i po prostu ją czuć — przez energię, światło i charakter.\n\nNie jest chłodny ani przesadnie elegancki. Jest żywy. Soczysty. Ciepły. Trochę bezczelny. I bardzo łatwy do zapamiętania.\n\n<strong>Power Of You pachnie jak pewność siebie ubrana w tropikalny owoc, jedwab i odrobinę waniliowego ciepła.</strong>",
+      "uk": "<strong>Power Of You</strong> починається з моменту, який важко сплутати з будь-чим іншим. Соковита маракуя вибухає на шкірі — кисло-солодка, тропічна й майже неймовірно реалістична. Це не фруктовий акцент десь на задньому плані. Тут фрукт грає головну роль.\n\nДо маракуї приєднуються гіркий апельсин і лимонна олія. Вони роблять перші секунди яскравими, енергійними та трохи іскристими. Є щось від першого ковтка тропічного коктейлю — свіжість, соковитість і миттєве бажання ще.\n\nЧерез деякий час аромат змінює температуру. У серці з'являється <strong>франжипані</strong> — кремовий, світлий і трохи сонячний. Він не перекриває фрукт, а пом'якшує його й поступово створює відчуття теплої шкіри, зігрітої сонцем.\n\nНайцікавіше відбувається в базі. <strong>Мадагаскарська ваніль</strong> тут не перетворюється на важкий цукровий десерт. Вона кремова, тепла й чуттєва. Бензоїн додає бальзамічної солодкості, а абсолют ладанника — бурштинового, смолистого та трохи деревного відтінку.\n\nPower Of You дуже апетитний, але це не просто черговий gourmand. Його характер народжується з напруги між кислою свіжістю маракуї та теплою, м'якою ваніллю.\n\nЦе аромат для жінки, якій не потрібно доводити свою присутність. Вона просто входить у кімнату — і її помічають через енергію, світло та характер.\n\nВін не холодний і не надмірно офіційний. Він живий. Соковитий. Теплий. Трохи зухвалий. І дуже легко запам'ятовується.\n\n<strong>Power Of You пахне як упевненість у собі, одягнена в тропічний фрукт, шовк і краплю ванільного тепла.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🔥 <strong>POWER OF YOU POWSTAŁ NA FALI SUKCESU STRONGER WITH YOU</strong>\n\nPomysł na Power Of You wyrósł z ogromnego sukcesu męskiego Stronger With You, wprowadzonego w 2017 roku. Emporio Armani chciało stworzyć kobiecy odpowiednik, który nie byłby kopią męskiej kompozycji, lecz własną historią opartą na podobnej idei emocjonalnej bliskości i siły.",
+        "uk": "🔥 <strong>POWER OF YOU НАРОДИВСЯ НА ХВИЛІ УСПІХУ STRONGER WITH YOU</strong>\n\nІдея Power Of You виникла на тлі великого успіху чоловічого Stronger With You, представленого у 2017 році. Emporio Armani хотів створити жіночий відповідник — не копію чоловічого аромату, а окрему історію, побудовану навколо схожої ідеї близькості та сили."
+      },
+      {
+        "pl": "🥭 <strong>TWÓRCY CHCIELI UZYSKAĆ MARAKUJĘ, KTÓRĄ MOŻNA PRAWIE „POSMAKOWAĆ”</strong>\n\nJednym z głównych celów było stworzenie hiperrealistycznego akordu marakui. W formule wykorzystano molekułę Ebelia firmy Givaudan w nowych proporcjach, aby owocowe wrażenie nie zniknęło po otwarciu, lecz towarzyszyło zapachowi znacznie dłużej.",
+        "uk": "🥭 <strong>ТВОРЦІ ХОТІЛИ СТВОРИТИ МАРАКУЮ, ЯКУ МАЙЖЕ МОЖНА «СКУШТУВАТИ»</strong>\n\nОднією з головних цілей було створити гіперреалістичний акорд маракуї. У формулі використали молекулу Ebelia від Givaudan у нових пропорціях, щоб фруктове відчуття не зникало після старту, а супроводжувало аромат значно довше."
+      },
+      {
+        "pl": "🌺 <strong>FRANGIPANI MA BYĆ „ŚWIATŁEM” KOMPOZYCJI</strong>\n\nPerfumiarze Nisrine Grillié i Nadège Le Garlantezec wykorzystały akord frangipani nie jako klasyczny kwiatowy bukiet, lecz jako transparentny, słoneczny element nadający marakui przestrzeń i miękkość. Dzięki temu owoc nie został zamknięty w ciężkim gourmandzie.",
+        "uk": "🌺 <strong>ФРАНЖИПАНІ МАЄ БУТИ «СВІТЛОМ» КОМПОЗИЦІЇ</strong>\n\nПарфумери Nisrine Grillié та Nadège Le Garlantezec використали акорд франжипані не як класичний квітковий букет, а як прозорий сонячний елемент, що додає маракуї простору та м'якості. Завдяки цьому фрукт не перетворюється на важкий gourmand."
+      },
+      {
+        "pl": "👩 <strong>KENDALL JENNER ZOSTAŁA GLOBALNĄ AMBASADORKĄ ZAPACHU</strong>\n\nPower Of You jest pierwszym zapachem Emporio Armani, którego globalną ambasadorką zapachową została Kendall Jenner. Kampanię wyreżyserował Gordon von Steiner. Film pokazuje Jenner wśród światła i ruchu, podkreślając ideę własnej energii i obecności.",
+        "uk": "👩 <strong>KENDALL JENNER СТАЛА ГЛОБАЛЬНОЮ АМБАСАДОРКОЮ АРОМАТУ</strong>\n\nPower Of You став першим ароматом Emporio Armani, глобальною амбасадоркою якого стала Kendall Jenner. Режисером кампанії виступив Gordon von Steiner. У відео Jenner показана серед світла та руху, підкреслюючи ідею власної енергії та присутності."
+      },
+      {
+        "pl": "💎 <strong>FLAKON ZAPROJEKTOWANO JAK RUBINOWY KLEJNOT</strong>\n\nButelka została potraktowana jak biżuteryjny obiekt. Przezroczyste szkło pokazuje intensywnie rubinowy płyn, a całość otacza różowozłota rama. Charakterystyczne pierścienie na korku nawiązują do wartości Emporio Armani związanych ze wspólnotą i byciem razem.",
+        "uk": "💎 <strong>ФЛАКОН СТВОРИЛИ ЯК РУБІНОВУ ПРИКРАСУ</strong>\n\nФлакон задуманий як ювелірний об'єкт. Прозоре скло відкриває насичено рубінову рідину, а контури обрамляє рожево-золота рамка. Характерні кільця на кришці відсилають до ідеї єдності та близькості, важливої для Emporio Armani."
+      },
+      {
+        "pl": "📅 <strong>TO JEDNA Z DUŻYCH PREMIER ARMANI BEAUTY W 2026 ROKU</strong>\n\nPower Of You oficjalnie trafił do sprzedaży w Europie w styczniu 2026 roku. Początkowo zaplanowano trzy pojemności — 30, 50 i 100 ml. Premiera w Stanach Zjednoczonych i na Bliskim Wschodzie była zapowiadana na marzec, a w Azji na kwiecień 2026 roku.",
+        "uk": "📅 <strong>ЦЕ ОДНА З ВЕЛИКИХ ПРЕМ'ЄР ARMANI BEAUTY У 2026 РОЦІ</strong>\n\nPower Of You офіційно надійшов у продаж у Європі в січні 2026 року. Спочатку були заявлені три об'єми — 30, 50 та 100 мл. Появу у США та на Близькому Сході планували на березень, а в Азії — на квітень 2026 року."
+      }
+    ],
+    "fragrance": {
+      "families": ["fruity", "floral", "gourmand"],
+      "accords": [
+        "tropical",
+        "fruity",
+        "vanilla",
+        "sweet",
+        "citrus",
+        "floral",
+        "solar",
+        "amber"
+      ],
+      "notes": {
+        "top": ["passion-fruit", "bitter-orange", "lemon", "ebelia"],
+        "heart": ["frangipani", "solar-accord"],
+        "base": ["vanilla", "benzoin", "cistus"]
+      }
+    },
+    "character": {
+      "sweetness": 5,
+      "freshness": 3,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["date", "party", "vacation", "special", "everyday"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 240,
+        "stock": true
+      },
+      {
+        "ml": 50,
+        "price": 370,
+        "stock": true
+      },
+      {
+        "ml": 90,
+        "price": 455,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 7
+    },
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": [
+      "emporio-armani-in-love-with-you-edp-100",
+      "emporio-armani-because-its-you-edp-100"
+    ],
+    "tags": [
+      "new",
+      "feminine",
+      "tropical",
+      "passion-fruit",
+      "vanilla",
+      "gourmand",
+      "solar"
+    ]
+  },
+  {
+    "id": "versace-bright-crystal-edt-090",
+    "brandId": "versace",
+    "name": "Bright Crystal",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDT",
+    "year": 2006,
+    "perfumer": "Alberto Morillas",
+    "country": "Italy",
+    "image": "main.jpg",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Ikoniczny kwiatowo-owocowy zapach Versace — chłodny jak kryształ, soczysty jak granat i delikatny jak świeże kwiaty. Jasny, kobiecy i natychmiast rozpoznawalny.",
+      "uk": "Культовий квітково-фруктовий аромат Versace — прохолодний, наче кришталь, соковитий, наче гранат, і ніжний, наче свіжі квіти. Сяйливий, жіночний і миттєво впізнаваний."
+    },
+    "shortDescription": {
+      "pl": "To zapach pierwszego wrażenia — soczysty, chłodny i pełen światła. Yuzu i granat dają mu owocową iskrę, peonia oraz magnolia kobiecą miękkość, a piżmowo-drzewna baza pozostawia na skórze czysty, elegancki blask.",
+      "uk": "Це аромат першого враження — соковитий, прохолодний і сповнений світла. Юзу та гранат дають фруктову іскру, півонія й магнолія — жіночну м'якість, а мускусно-деревна база залишає на шкірі чисте й елегантне сяйво."
+    },
+    "story": {
+      "pl": "<strong>Bright Crystal</strong> nie zaczyna się jak klasyczny kwiatowy zapach. Najpierw pojawia się chłód — jak światło odbite od gładkiej powierzchni kryształu. Soczysty granat i cierpkie, świetliste yuzu tworzą pierwsze wrażenie, które jest świeże, czyste i niemal musujące.\n\nPotem przychodzi <strong>peonia</strong>. Delikatna, różowa i lekko pudrowa, ale pozbawiona ciężaru. Obok niej pojawia się magnolia, która dodaje kremowej kwiatowości, oraz lotos — wodny, spokojny i przezroczysty.\n\nTo właśnie ta kombinacja sprawia, że Bright Crystal nie pachnie jak bukiet kwiatów stojący w wazonie. Bardziej przypomina moment, kiedy rano otwierasz okno, wpada do środka chłodne powietrze, a na stole stoi miska świeżych owoców.\n\nW bazie kompozycja staje się spokojniejsza. <strong>Piżmo, roślinna ambra i drewno mahoniowe</strong> wygładzają owocowo-kwiatowe otwarcie i sprawiają, że zapach zostaje na skórze miękko, czysto i kobieco.\n\nBright Crystal ma niezwykłą łatwość bycia „tym właściwym zapachem”. Nie wymaga specjalnej okazji. Pasuje do białej koszuli, jeansów, sukienki, biura, spaceru, kawy z przyjaciółką i pierwszej randki.\n\nAle jego największa siła tkwi gdzie indziej. Bright Crystal nie próbuje stworzyć tajemniczej postaci. Tworzy <strong>obraz kobiety świeżej, zadbanej, pewnej siebie i naturalnie przyciągającej uwagę</strong>.\n\nTo zapach, który nie wchodzi do pomieszczenia przed Tobą. Najpierw pojawiasz się Ty. Dopiero potem zostaje po Tobie jego jasny, czysty ślad.\n\n<strong>Bright Crystal jest jak światło odbite od różowego kryształu — delikatne, ale trudne do przeoczenia.</strong>",
+      "uk": "<strong>Bright Crystal</strong> не починається як класичний квітковий аромат. Спочатку приходить прохолода — наче світло, відбите від гладкої поверхні кришталю. Соковитий гранат і терпкий, сяйливий юзу створюють перше враження — свіже, чисте й майже іскристе.\n\nПотім з'являється <strong>півонія</strong>. Ніжна, рожева й трохи пудрова, але зовсім не важка. Поруч звучить магнолія, додаючи кремової квітковості, а лотос приносить водну, спокійну й прозору ноту.\n\nСаме це поєднання робить Bright Crystal не схожим на звичайний букет квітів у вазі. Він більше нагадує ранок, коли ти відчиняєш вікно, в кімнату заходить прохолодне повітря, а на столі стоїть миска зі свіжими фруктами.\n\nУ базі композиція стає спокійнішою. <strong>Мускус, рослинна амбра та червоне дерево махаґоні</strong> згладжують фруктово-квіткове звучання й залишають на шкірі м'який, чистий і жіночний слід.\n\nBright Crystal надзвичайно легко стає «тим самим ароматом». Йому не потрібен особливий привід. Він однаково природно звучить із білою сорочкою, джинсами, сукнею, в офісі, на прогулянці, за кавою з подругою чи на першому побаченні.\n\nАле його головна сила в іншому. Bright Crystal не намагається створити загадковий образ. Він створює <strong>образ свіжої, доглянутої, впевненої в собі жінки, яка природно привертає увагу</strong>.\n\nЦе аромат, який не заходить у кімнату раніше за тебе. Спочатку з'являєшся ти. А вже потім залишається його світлий і чистий слід.\n\n<strong>Bright Crystal — наче світло, відбите від рожевого кришталю: ніжне, але його важко не помітити.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "💎 <strong>BRIGHT CRYSTAL POWSTAŁ Z MYŚLĄ O POŁĄCZENIU PERFUM I BIŻUTERII</strong>\n\nVersace od początku potraktowało flakon jak element biżuterii. Duży, charakterystyczny korek przypomina oszlifowany klejnot, a różowe szkło wzmacnia skojarzenie z kryształem. Dlatego nazwa Bright Crystal nie jest tylko nazwą zapachu — jest częścią całej koncepcji wizualnej.",
+        "uk": "💎 <strong>BRIGHT CRYSTAL ВІД ПОЧАТКУ СТВОРЮВАВСЯ ЯК ПОЄДНАННЯ ПАРФУМУ ТА ЮВЕЛІРНОЇ ЕСТЕТИКИ</strong>\n\nVersace від самого початку сприймав флакон як прикрасу. Велика характерна кришка нагадує огранений дорогоцінний камінь, а рожеве скло посилює асоціацію з кришталем. Тому назва Bright Crystal — частина не лише аромату, а всієї візуальної концепції."
+      },
+      {
+        "pl": "🌸 <strong>DEBIUT W 2006 ROKU</strong>\n\nBright Crystal został wprowadzony w 2006 roku, a za kompozycję odpowiadał Alberto Morillas. Zapach powstał jako świeża, świetlista i bardziej delikatna interpretacja kobiecego świata Versace. :contentReference[oaicite:1]{index=1}",
+        "uk": "🌸 <strong>ДЕБЮТ У 2006 РОЦІ</strong>\n\nBright Crystal був представлений у 2006 році, а автором композиції став Alberto Morillas. Аромат створювався як свіжа, сяйлива та легша інтерпретація жіночого світу Versace. :contentReference[oaicite:2]{index=2}"
+      },
+      {
+        "pl": "📸 <strong>PIERWSZA KAMPANIA MIAŁA SWÓJ WŁASNY CHARAKTER</strong>\n\nPierwszą twarzą Bright Crystal była norweska modelka Iselin Steiro, a kampanię fotografował Michelangelo Di Battista. Później marka wielokrotnie zmieniała sposób opowiadania historii zapachu — w kolejnych latach pojawiły się m.in. kampanie fotografowane przez Mario Testino. :contentReference[oaicite:3]{index=3}",
+        "uk": "📸 <strong>ПЕРША РЕКЛАМНА КАМПАНІЯ МАЛА ВЛАСНИЙ ХАРАКТЕР</strong>\n\nПершим обличчям Bright Crystal стала норвезька модель Iselin Steiro, а кампанію фотографував Michelangelo Di Battista. Пізніше бренд неодноразово змінював спосіб розповіді про аромат — у наступні роки з'являлися, зокрема, кампанії, зняті Mario Testino. :contentReference[oaicite:4]{index=4}"
+      },
+      {
+        "pl": "💗 <strong>BRIGHT CRYSTAL STAŁ SIĘ CZĘŚCIĄ WIĘKSZEGO ŚWIATA „CRYSTAL”</strong>\n\nBright Crystal nie pozostał samotnym zapachem. Z czasem linia została rozszerzona o kolejne kompozycje, m.in. Crystal Noir, Yellow Diamond i Bright Crystal Absolu. W ten sposób motyw kryształu stał się jednym z rozpoznawalnych elementów perfumeryjnego świata Versace. :contentReference[oaicite:5]{index=5}",
+        "uk": "💗 <strong>BRIGHT CRYSTAL СТАВ ЧАСТИНОЮ БІЛЬШОГО СВІТУ «CRYSTAL»</strong>\n\nBright Crystal не залишився єдиним ароматом. Згодом лінійка розширилася іншими композиціями, серед яких Crystal Noir, Yellow Diamond та Bright Crystal Absolu. Так мотив кришталю став одним із впізнаваних елементів парфумерного світу Versace. :contentReference[oaicite:6]{index=6}"
+      },
+      {
+        "pl": "🎨 <strong>VERSACE WYKORZYSTAŁ BRIGHT CRYSTAL PO LATACH W MODZIE</strong>\n\nW 2024 roku, podczas pokazu kolekcji Spring/Summer 2025 w Mediolanie, Versace wykorzystało charakterystyczny flakon Bright Crystal jako inspirację dla akcesoriów: pojawiły się m.in. bransoletki z zawieszkami, obcasy oraz duże kopertówki przypominające flakon. To pokazuje, jak mocno wizualny kod zapachu został związany z modowym dziedzictwem marki. :contentReference[oaicite:7]{index=7}",
+        "uk": "🎨 <strong>VERSACE ПОВЕРНУВСЯ ДО BRIGHT CRYSTAL ЧЕРЕЗ РОКИ</strong>\n\nУ 2024 році під час показу колекції Spring/Summer 2025 у Мілані Versace використав характерний флакон Bright Crystal як натхнення для аксесуарів: з'явилися браслети з підвісками, підбори та великі клатчі, що нагадували флакон. Це показує, наскільки сильно візуальний код аромату пов'язаний із модною спадщиною бренду. :contentReference[oaicite:8]{index=8}"
+      },
+      {
+        "pl": "🎥 <strong>NOWA HISTORIA W 2011 ROKU</strong>\n\nW 2011 roku Versace odświeżyło komunikację Bright Crystal. Nową kampanię nakręcił w Paryżu Mario Testino, a jej bohaterką została Candice Swanepoel. Donatella Versace odpowiadała za kierunek kreatywny kampanii. :contentReference[oaicite:9]{index=9}",
+        "uk": "🎥 <strong>НОВА ІСТОРІЯ У 2011 РОЦІ</strong>\n\nУ 2011 році Versace оновив комунікацію Bright Crystal. Нову кампанію в Парижі зняв Mario Testino, а її героїнею стала Candice Swanepoel. За творчий напрям кампанії відповідала Донателла Версаче. :contentReference[oaicite:10]{index=10}"
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "fruity", "musky"],
+      "accords": [
+        "floral",
+        "fruity",
+        "fresh",
+        "citrus",
+        "aquatic",
+        "musky",
+        "woody",
+        "amber"
+      ],
+      "notes": {
+        "top": ["yuzu", "pomegranate", "ice"],
+        "heart": ["peony", "lotus", "magnolia"],
+        "base": ["musk", "mahogany", "amber"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 5,
+      "warmth": 2,
+      "intensity": 3
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["everyday", "office", "date", "special", "party"]
+    },
+    "performance": {
+      "longevity": 3,
+      "sillage": 3
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 190,
+        "stock": false
+      },
+      {
+        "ml": 90,
+        "price": 280,
+        "stock": true
+      },
+      {
+        "ml": 200,
+        "price": 460,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 3.5
+    },
+    "featured": false,
+    "new": false,
+    "bestseller": true,
+    "similar": [
+      "versace-bright-crystal-parfum-090",
+      "versace-bright-crystal-absolu-edp-090"
+    ],
+    "tags": [
+      "iconic",
+      "feminine",
+      "floral",
+      "fruity",
+      "fresh",
+      "crystal",
+      "pink"
+    ]
+  },
+  {
+    "id": "versace-eros-flame-edp-100",
+    "brandId": "versace",
+    "name": "Eros Flame",
+    "collection": "luxury",
+    "gender": "men",
+    "concentration": "EDP",
+    "year": 2018,
+    "perfumer": "Olivier Pescheux",
+    "country": "Italy",
+    "image": "main.jpg",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Eros Flame to gorący kontrast cytrusowej świeżości, czarnego pieprzu i aromatycznego rozmarynu, który z czasem przechodzi w waniliowo-drzewną, zmysłową bazę.",
+      "uk": "Eros Flame — гарячий контраст цитрусової свіжості, чорного перцю та ароматного розмарину, який поступово переходить у чуттєву ванільно-деревну базу."
+    },
+    "shortDescription": {
+      "pl": "Najpierw uderza świeżością, potem rozgrzewa skórę. Cytrusy i czarny pieprz dają mu iskrę, rozmaryn energię, a wanilia, fasola tonka i drewno zostawiają po sobie ciepły, magnetyczny ślad.",
+      "uk": "Спочатку він вибухає свіжістю, а потім зігріває шкіру. Цитруси та чорний перець дають іскру, розмарин — енергію, а ваніль, боби тонка й деревні ноти залишають теплий, магнетичний слід."
+    },
+    "story": {
+      "pl": "<strong>Eros Flame</strong> zaczyna się jak iskra rzucona w zimne powietrze. Soczyste cytrusy — cytryna, mandarynka i gorzka pomarańcza — dają natychmiastową świeżość, ale zaraz pojawia się czarny pieprz. Zamiast zwyczajnej cytrusowej lekkości robi się gorąco.\n\nTo właśnie kontrast jest sercem tego zapachu. <strong>Zimno i gorąco, świeżość i ogień, światło i cień</strong> spotykają się w jednej kompozycji. Pieprz podkręca napięcie, a dziki rozmaryn dodaje aromatycznej, zielonej energii.\n\nW sercu pojawia się pepperwood, geranium i różane akcenty. Nie są tu po to, by stworzyć klasyczny kwiatowy bukiet. Ich zadaniem jest zbudowanie przejścia między ostrym otwarciem a znacznie cieplejszą bazą.\n\nA potem temperatura rośnie jeszcze bardziej. <strong>Wanilia i fasola tonka</strong> nadają kompozycji kremową słodycz, podczas gdy cedr, paczula, wetyweria, sandałowiec i akord mchu dębowego wprowadzają głębię oraz charakter.\n\nEros Flame ma w sobie coś z nocnej jazdy samochodem po rozgrzanym mieście. Na początku jest szybki, świeży i pełen energii. Później zwalnia, robi się ciemniejszy, cieplejszy i bardziej zmysłowy.\n\nTo nie jest zapach spokojnego wieczoru przy kominku. To zapach momentu, kiedy coś się zaczyna — rozmowa, spotkanie, flirt, nocna impreza albo spontaniczna decyzja, której nie planowałeś.\n\n<strong>Eros Flame pachnie jak miłość, która nie zamierza zachowywać się spokojnie.</strong>",
+      "uk": "<strong>Eros Flame</strong> починається наче іскра, кинута в холодне повітря. Соковиті цитруси — лимон, мандарин і гіркий апельсин — одразу дарують свіжість, але майже відразу з'являється чорний перець. Замість звичайної цитрусової легкості стає гаряче.\n\nСаме контраст лежить у серці цього аромату. <strong>Холод і тепло, свіжість і вогонь, світло й тінь</strong> зустрічаються в одній композиції. Перець додає напруги, а дикий розмарин — зеленої, ароматичної енергії.\n\nУ серці з'являються pepperwood, герань та рожеві нюанси. Вони не створюють класичного квіткового букета. Їхня роль — побудувати перехід від гострого старту до значно теплішої бази.\n\nА потім температура підвищується ще більше. <strong>Ваніль і боби тонка</strong> додають композиції кремової солодкості, тоді як кедр, пачулі, ветивер, сандал і акорд дубового моху створюють глибину та характер.\n\nEros Flame нагадує нічну поїздку автомобілем розігрітим містом. Спочатку він швидкий, свіжий і сповнений енергії. Потім сповільнюється, стає темнішим, теплішим і чуттєвішим.\n\nЦе не аромат тихого вечора біля каміна. Це аромат моменту, коли щось починається — розмова, зустріч, флірт, нічна вечірка або спонтанне рішення, якого ти не планував.\n\n<strong>Eros Flame пахне як кохання, яке не збирається поводитися спокійно.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🔥 <strong>EROS DOSTAŁ OGNISTEGO „BRATA”</strong>\n\nEros Flame pojawił się w 2018 roku jako nowa interpretacja świata Eros. Versace nie stworzyło po prostu kolejnej wersji istniejącego zapachu — pomysł polegał na pokazaniu innej strony Erosa: bardziej ognistej, kontrastowej i intensywnej.",
+        "uk": "🔥 <strong>EROS ОТРИМАВ «ВОГНЯНОГО БРАТА»</strong>\n\nEros Flame з'явився у 2018 році як нова інтерпретація світу Eros. Versace не просто створив ще одну версію існуючого аромату — задум полягав у тому, щоб показати інший бік Eros: більш вогняний, контрастний та інтенсивний."
+      },
+      {
+        "pl": "🎭 <strong>IDEĄ BYŁ KONTRAST</strong>\n\nOlivier Pescheux budował kompozycję wokół przeciwieństw. Świeże włoskie cytrusy zostały zestawione z czarnym pieprzem, aromatycznym rozmarynem i ciepłą waniliowo-drzewną bazą. Dzięki temu zapach miał zmieniać temperaturę w trakcie rozwoju — od chłodnego początku do gorącego, zmysłowego finiszu.",
+        "uk": "🎭 <strong>В ОСНОВІ — КОНТРАСТ</strong>\n\nOlivier Pescheux побудував композицію навколо протилежностей. Свіжі італійські цитруси поєднали з чорним перцем, ароматним розмарином і теплою ванільно-деревною базою. Завдяки цьому аромат ніби змінює температуру під час розкриття — від прохолодного початку до гарячого, чуттєвого фіналу."
+      },
+      {
+        "pl": "🏛️ <strong>REKLAMA ZOSTAŁA ZAINSPiROWANA „EROS I PSYCHE”</strong>\n\nKampania Eros Flame wykorzystała współczesną interpretację słynnej rzeźby Antonio Canovy „Eros i Psyche”. W kampanii wystąpili Gigi Hadid i Salomon Diaz, a zdjęcia wykonał Steven Meisel. Klasyczny motyw miłości został pokazany w charakterystycznym dla Versace, bardziej teatralnym i współczesnym stylu.",
+        "uk": "🏛️ <strong>РЕКЛАМНА КАМПАНІЯ НАТХНЕННА «ЕРОСОМ І ПСИХЕЄЮ»</strong>\n\nКампанія Eros Flame використала сучасну інтерпретацію знаменитої скульптури Антоніо Канови «Ерос і Психея». У ній знялися Gigi Hadid та Salomon Diaz, а фотографом став Steven Meisel. Класичний сюжет кохання представили у більш театральній і сучасній естетиці Versace."
+      },
+      {
+        "pl": "❤️ <strong>NAZWA „FLAME” NIE JEST PRZYPADKOWA</strong>\n\nEros Flame miał symbolizować bardziej płomienną stronę miłości. Sam Versace opisuje zapach poprzez zestawienia „cold and hot”, „sweet and spicy” oraz „light and shadow” — czyli dokładnie te napięcia, które mają budować jego charakter.",
+        "uk": "❤️ <strong>НАЗВА «FLAME» НЕ ВИПАДКОВА</strong>\n\nEros Flame мав символізувати більш полум'яну сторону кохання. Сам Versace описує аромат через протиставлення «cold and hot», «sweet and spicy» та «light and shadow» — саме ці напружені контрасти мають формувати його характер."
+      },
+      {
+        "pl": "🔴 <strong>ЧЕРВОНИЙ ФЛАКОН СТАВ ЧАСТИНОЮ ІДЕЇ</strong>\n\nEros Flame отримав насичений червоний флакон замість синього, характерного для оригінального Eros. Medusa залишається в центрі, а золоті деталі підкреслюють зв'язок із розкішною естетикою Versace. Червоний колір візуально переводить історію Eros із прохолоднішої грецької міфології у світ пристрасті та вогню.",
+        "uk": "🔴 <strong>CZERWONA BUTELKA STAŁA SIĘ CZĘŚCIĄ KONCEPCJI</strong>\n\nEros Flame otrzymał intensywnie czerwoną butelkę zamiast błękitu charakterystycznego dla oryginalnego Erosa. Medusa pozostała w centrum, a złote detale podkreślają związek z luksusową estetyką Versace. Czerwień wizualnie przenosi historię Erosa z chłodniejszego świata mitologii greckiej w stronę namiętności i ognia."
+      },
+      {
+        "pl": "🌍 <strong>W KOMPOZYCJI POJAWIAJĄ SIĘ SKŁADNIKI Z RÓŻNYCH REGIONÓW</strong>\n\nTwórcy zestawili włoskie cytrusy z czarnym pieprzem z Madagaskaru, haitańską wetywerią, cedrem z Teksasu i sandałowcem. Ta geograficzna różnorodność jest częścią konstrukcji zapachu — świeży początek przechodzi w coraz cieplejszą i bardziej drzewną bazę.",
+        "uk": "🌍 <strong>У КОМПОЗИЦІЇ ПОЄДНАНО ІНГРЕДІЄНТИ З РІЗНИХ РЕГІОНІВ</strong>\n\nТворці поєднали італійські цитруси з чорним перцем із Мадагаскару, гаїтянським ветивером, техаським кедром і сандалом. Така географічна різноманітність стала частиною конструкції аромату — свіже відкриття поступово переходить у теплу та деревну базу."
+      }
+    ],
+    "fragrance": {
+      "families": ["citrus", "amber", "woody"],
+      "accords": [
+        "citrus",
+        "warm-spicy",
+        "woody",
+        "aromatic",
+        "vanilla",
+        "amber",
+        "sweet",
+        "earthy"
+      ],
+      "notes": {
+        "top": ["chinotto", "pepper", "lemon", "mandarin", "rosemary"],
+        "heart": ["pepperwood", "geranium", "rose"],
+        "base": [
+          "patchouli",
+          "haitian-vetiver",
+          "vanilla",
+          "tonka-bean",
+          "cedar",
+          "sandalwood",
+          "oakmoss"
+        ]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 4,
+      "warmth": 4,
+      "intensity": 5
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["date", "evening", "party", "special", "everyday"]
+    },
+    "performance": {
+      "longevity": 5,
+      "sillage": 5
+    },
+    "sizes": [
+      {
+        "ml": 30,
+        "price": 215,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 290,
+        "stock": true
+      },
+      {
+        "ml": 200,
+        "price": 515,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 20],
+      "pricePerMl": 3.5
+    },
+    "featured": false,
+    "new": false,
+    "bestseller": false,
+    "similar": ["versace-eros-edt-100", "azzaro-the-most-wanted-edp-100"],
+    "tags": [
+      "masculine",
+      "spicy",
+      "citrus",
+      "vanilla",
+      "woody",
+      "hot",
+      "seductive"
+    ]
+  },
+  {
+    "id": "versace-crystal-noir-edt-090",
+    "brandId": "versace",
+    "name": "Crystal Noir",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDT",
+    "year": 2004,
+    "perfumer": "Antoine Lie",
+    "country": "Italy",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Zmysłowy, ciemny i hipnotyzujący zapach, w którym pikantny kardamon i imbir spotykają kremową gardenię, ciepły bursztyn i miękkie drewno.",
+      "uk": "Чуттєвий, темний і гіпнотичний аромат, у якому пряний кардамон та імбир зустрічаються з кремовою гарденією, теплим бурштином і м'якою деревиною."
+    },
+    "shortDescription": {
+      "pl": "Crystal Noir nie pachnie jak zwykły kwiatowy zapach. Jest jak czarna jedwabna sukienka po zmroku — najpierw pikantny, potem kremowy i zmysłowy, a na końcu ciepły, miękki i tajemniczy.",
+      "uk": "Crystal Noir не схожий на звичайний квітковий аромат. Це наче чорна шовкова сукня після заходу сонця — спочатку пряний, потім кремовий і чуттєвий, а зрештою теплий, м'який і загадковий."
+    },
+    "story": {
+      "pl": "<strong>Crystal Noir</strong> nie zaczyna się od niewinnego kwiatowego uśmiechu. Od pierwszych sekund pojawia się pikantna iskra kardamonu, pieprzu i imbiru — chłodna, ostra i trochę niepokojąca. To wejście ma charakter. Nie prosi o uwagę, tylko ją przyciąga.\n\nPo chwili ostrość zaczyna mięknąć. W sercu pojawia się <strong>gardenia</strong> — kremowa, biała i zmysłowa. Towarzyszą jej peonia oraz kwiat pomarańczy, ale nie tworzą klasycznego bukietu. Zamiast świeżości jest tu coś bardziej miękkiego, otulającego i niemal aksamitnego.\n\nI właśnie wtedy Crystal Noir pokazuje swoją najbardziej charakterystyczną stronę. Kwiatowa kremowość spotyka się z ciepłem przypraw i zaczyna przypominać rozgrzaną skórę, jedwab oraz miękkie światło świec.\n\nW bazie pojawiają się <strong>ambra, sandałowiec i piżmo</strong>. Zapach staje się głębszy, cieplejszy i bardziej intymny. Nie znika gwałtownie — zostaje blisko skóry jako miękki, lekko tajemniczy ślad.\n\nCrystal Noir ma w sobie coś paradoksalnego. Jest delikatny, ale nie grzeczny. Kobiecy, ale nie cukierkowy. Kwiatowy, ale pozbawiony oczywistej romantyczności. Ciepły, a jednocześnie ma w sobie chłodny, ciemny błysk.\n\nTo zapach na wieczór, kiedy nie chcesz pachnieć „ładnie”. Chcesz pachnieć <strong>interesująco</strong>. Na czarną sukienkę, wysokie obcasy, restaurację przy przygaszonym świetle albo zwyczajny dzień, kiedy masz ochotę zostawić za sobą odrobinę tajemnicy.\n\n<strong>Crystal Noir nie opowiada całej historii od razu. I właśnie dlatego chce się podejść bliżej.</strong>",
+      "uk": "<strong>Crystal Noir</strong> не починається з невинної квіткової посмішки. З перших секунд з'являється пряна іскра кардамону, перцю та імбиру — прохолодна, гостра й трохи тривожна. У цього аромату є характер. Він не просить уваги — він її привертає.\n\nЧерез деякий час гострота починає пом'якшуватися. У серці з'являється <strong>гарденія</strong> — кремова, біла та чуттєва. Поруч звучать півонія та квітка апельсина, але вони не створюють звичайного квіткового букета. Замість свіжості тут щось м'якше, тепліше й майже оксамитове.\n\nСаме в цей момент Crystal Noir показує свою найхарактернішу сторону. Квіткова кремовість зустрічається з теплом спецій і починає нагадувати розігріту шкіру, шовк та м'яке світло свічок.\n\nУ базі з'являються <strong>бурштин, сандал і мускус</strong>. Аромат стає глибшим, теплішим та інтимнішим. Він не зникає раптово — залишається близько до шкіри м'яким, трохи загадковим слідом.\n\nУ Crystal Noir є своя суперечність. Він ніжний, але не слухняний. Жіночний, але не солоденький. Квітковий, але без очевидної романтичності. Теплий, але водночас має прохолодний темний блиск.\n\nЦе аромат для вечора, коли не хочеться пахнути просто «гарно». Хочеться пахнути <strong>цікаво</strong>. Для чорної сукні, високих підборів, ресторану з приглушеним світлом або звичайного дня, коли хочеться залишити після себе трохи загадки.\n\n<strong>Crystal Noir не розповідає всю історію одразу. І саме тому до нього хочеться підійти ближче.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "🖤 <strong>POCZĄTEK NOWEJ ERY VERSACE</strong>\n\nCrystal Noir pojawił się w 2004 roku, w okresie, gdy dom Versace budował nowy rozdział swojej historii po przejęciu kierownictwa artystycznego przez Donatellę Versace. Zapach stał się jednym z ważnych kobiecych zapachów marki i do dziś pozostaje w jej stałej kolekcji.",
+        "uk": "🖤 <strong>ПОЧАТОК НОВОЇ ЕРИ VERSACE</strong>\n\nCrystal Noir з'явився у 2004 році — у період, коли Versace будував новий розділ своєї історії під творчим керівництвом Донателли Версаче. Аромат став одним із важливих жіночих ароматів бренду й досі залишається в його постійній колекції."
+      },
+      {
+        "pl": "👃 <strong>ZA KOMPOZYCJĄ STOI ANTOINE LIE</strong>\n\nCrystal Noir stworzył francuski perfumiarz Antoine Lie. W kompozycji połączył ostre przyprawy z kremowym kwiatowym sercem i ciepłą bazą. Dzięki temu zapach od początku został zbudowany wokół kontrastu, a nie jednej dominującej nuty.",
+        "uk": "👃 <strong>АВТОР КОМПОЗИЦІЇ — ANTOINE LIE</strong>\n\nCrystal Noir створив французький парфумер Antoine Lie. У композиції він поєднав гострі спеції з кремовим квітковим серцем і теплою базою. Тому аромат від самого початку побудований на контрасті, а не на одній домінуючій ноті."
+      },
+      {
+        "pl": "🔬 <strong>GARDENIA NIE ZOSTAŁA POTRAKTOWANA DOSŁOWNIE</strong>\n\nPrzy tworzeniu Crystal Noir wykorzystano technologię headspace do uchwycenia charakteru gardenii. Chodziło o odtworzenie wrażenia świeżej, świetlistej i kremowej gardenii, a nie po prostu dodanie klasycznego ekstraktu kwiatowego. Ta idea pomogła nadać kompozycji jej charakterystyczną miękkość.",
+        "uk": "🔬 <strong>ГАРДЕНІЮ НЕ НАМАГАЛИСЯ ВІДТВОРИТИ БУКВАЛЬНО</strong>\n\nПід час створення Crystal Noir використали технологію headspace, щоб зафіксувати характер гарденії. Ідея полягала у відтворенні відчуття свіжої, сяйливої та кремової квітки, а не просто у використанні класичного квіткового екстракту. Саме це допомогло надати композиції її характерної м'якості.",
+        "source": "Fragrantica"
+      },
+      {
+        "pl": "🌑 <strong>NAZWA MIAŁA ODDAWAĆ TAJEMNICĘ</strong>\n\nSam koncept Crystal Noir został zbudowany wokół kontrastu pomiędzy światłem i ciemnością. Według opisu przypisywanego Donatelli Versace centralna gardenia miała być jednocześnie świeża, zmysłowa, świetlista i kremowa, podczas gdy orientalna, piżmowa baza miała nadać całości ciemniejszy i bardziej tajemniczy charakter.",
+        "uk": "🌑 <strong>НАЗВА МАЛА ПЕРЕДАТИ ЗАГАДКОВІСТЬ</strong>\n\nСаму концепцію Crystal Noir побудували на контрасті світла й темряви. Згідно з описом, який приписують Донателлі Версаче, центральна гарденія мала бути одночасно свіжою, чуттєвою, сяйливою та кремовою, тоді як східна мускусна база повинна була надати композиції темнішого й загадковішого характеру.",
+        "source": "Fragrantica"
+      },
+      {
+        "pl": "💎 <strong>NAZWA I FLAKON TWORZĄ JEDNĄ HISTORIĘ</strong>\n\nCrystal Noir otrzymał ciemny, niemal czarny flakon, który kontrastuje z jasnym charakterem klasycznych kryształowych motywów Versace. Projekt wizualny od początku miał wzmacniać ideę tajemnicy, zmysłowości i wieczornego glamour.",
+        "uk": "💎 <strong>НАЗВА Й ФЛАКОН РОЗПОВІДАЮТЬ ОДНУ ІСТОРІЮ</strong>\n\nCrystal Noir отримав темний, майже чорний флакон, який контрастує зі світлішою естетикою класичних кришталевих мотивів Versace. Візуальна концепція від початку підкреслювала ідею загадковості, чуттєвості та вечірнього glamour."
+      },
+      {
+        "pl": "🧪 <strong>DLACZEGO EDT MOŻE PACHNIEĆ INACZEJ NIŻ OCZEKUJESZ</strong>\n\nCrystal Noir występuje w różnych koncentracjach i nie należy automatycznie traktować EDT, EDP i Parfum jako tej samej kompozycji o różnej mocy. W przypadku Crystal Noir szczególnie istotne są różnice w oficjalnie publikowanych piramidach. Dla EDT Versace obecnie podaje kardamon, pieprz i imbir w otwarciu, gardenię, peonię i kwiat pomarańczy w sercu oraz bursztyn, sandałowiec i piżmo w bazie.",
+        "uk": "🧪 <strong>ЧОМУ EDT МОЖЕ ПАХНУТИ НЕ ТАК, ЯК ТИ ОЧІКУЄШ</strong>\n\nCrystal Noir існує в різних концентраціях, і EDT, EDP та Parfum не варто автоматично сприймати як одну композицію з різною концентрацією. У Crystal Noir особливо помітні відмінності в опублікованих пірамідах. Для EDT Versace зараз вказує кардамон, перець та імбир у верхніх нотах, гарденію, півонію та квітку апельсина в серці, а також бурштин, сандал і мускус у базі."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "oriental"],
+      "accords": [
+        "warm-spicy",
+        "woody",
+        "fresh-spicy",
+        "white-floral",
+        "powdery",
+        "musky",
+        "amber"
+      ],
+      "notes": {
+        "top": ["cardamom", "pepper", "ginger"],
+        "heart": ["gardenia", "peony", "orange-blossom"],
+        "base": ["amber", "sandalwood", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 2,
+      "freshness": 2,
+      "warmth": 4,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring"],
+      "timeOfDay": ["evening", "night", "day"],
+      "occasions": ["date", "evening", "special", "party", "everyday"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 270,
+        "stock": true
+      },
+      {
+        "ml": 90,
+        "price": 380,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 5
+    },
+    "featured": false,
+    "new": false,
+    "bestseller": false,
+    "similar": [
+      "versace-crystal-noir-parfum-090",
+      "tom-ford-black-orchid-edp-100"
+    ],
+    "tags": [
+      "sensual",
+      "dark",
+      "floral",
+      "spicy",
+      "gardenia",
+      "woody",
+      "mysterious"
+    ]
+  },
+  {
+    "id": "versace-bright-crystal-parfum-090",
+    "brandId": "versace",
+    "name": "Bright Crystal Parfum",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "Parfum",
+    "year": 2024,
+    "perfumer": "Alberto Morillas",
+    "country": "Italy",
+    "image": "main.jpg",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Bright Crystal Parfum to bardziej zmysłowa odsłona ikonicznego Bright Crystal — soczyste czerwone owoce, świetlisty yuzu i delikatne kwiaty otulone miękkim piżmem i ciepłym bursztynowym blaskiem.",
+      "uk": "Bright Crystal Parfum — більш чуттєва версія культового Bright Crystal: соковиті червоні фрукти, сяйливий юзу та ніжні квіти огортаються м'яким мускусом і теплим бурштиновим сяйвом."
+    },
+    "shortDescription": {
+      "pl": "Soczysty, świetlisty i kobiecy — jak różowy kryształ rozgrzany słońcem. Karmelizowane czerwone owoce nadają mu kuszącą słodycz, kwiaty elegancję, a miękka baza pozostawia na skórze zmysłowy, świetlisty ślad.",
+      "uk": "Соковитий, сяйливий і жіночний — наче рожевий кришталь, зігрітий сонцем. Карамелізовані червоні фрукти додають спокусливої солодкості, квіти — елегантності, а м'яка база залишає на шкірі чуттєвий, світлий шлейф."
+    },
+    "story": {
+      "pl": "<strong>Bright Crystal Parfum</strong> zaczyna się jak pierwsze spojrzenie na różowy kryształ — chłodne, błyszczące i niemal świetliste. Yuzu wnosi soczystą cytrusową iskrę, granat dodaje owocowej świeżości, a czerwone owoce pojawiają się w bardziej kuszącej, niemal karmelizowanej odsłonie.\n\nTo właśnie tutaj Bright Crystal pokazuje swoją nową twarz. Nie jest już tylko świeżym, lekkim zapachem. Owoce stają się pełniejsze, bardziej soczyste i zmysłowe, jak dojrzałe czerwone jagody muśnięte ciepłem.\n\nW sercu pojawia się <strong>peonia, magnolia i lotos</strong>. Kwiaty nie tworzą ciężkiego bukietu — pozostają jasne, gładkie i eleganckie. Dzięki Helvetolide® kompozycja zyskuje charakterystyczną miękkość: muskową, czystą, lekko owocową i niezwykle przyjemną w kontakcie ze skórą.\n\nW bazie pojawia się zupełnie inny wymiar zapachu. <strong>Ambrox Super, Norlimbanol™ i piżmo</strong> nadają mu ciepło, głębię i nowoczesny, lekko drzewny ślad. To właśnie baza sprawia, że zapach nie znika po owocowym początku, lecz zostaje blisko skóry i stopniowo staje się bardziej miękki oraz otulający.\n\nBright Crystal Parfum przypomina biżuterię, która nie potrzebuje krzyczeć, żeby przyciągać uwagę. Jest różowy, świetlisty i kobiecy, ale pod tą delikatnością kryje się bardziej intensywne i zmysłowe oblicze.\n\nTo zapach na moment, kiedy chcesz wyglądać świeżo, ale czuć się wyjątkowo. Na białą koszulę, jedwabną sukienkę, kawę w mieście, pierwszą randkę albo wieczór, który może skończyć się znacznie później, niż planowałaś.\n\n<strong>Bright Crystal Parfum nie próbuje być najgłośniejszą osobą w pomieszczeniu. Wystarczy, że wejdziesz — a światło samo znajdzie się na Tobie.</strong>",
+      "uk": "<strong>Bright Crystal Parfum</strong> починається як перший погляд на рожевий кришталь — прохолодний, сяйливий і майже невагомий. Юзу додає соковитої цитрусової іскри, гранат — фруктової свіжості, а червоні фрукти розкриваються у більш спокусливому, майже карамелізованому звучанні.\n\nСаме тут Bright Crystal показує своє нове обличчя. Це вже не просто легкий і свіжий аромат. Фрукти стають повнішими, соковитішими та чуттєвішими — наче стиглі червоні ягоди, зігріті сонячним теплом.\n\nУ серці з'являються <strong>півонія, магнолія та лотос</strong>. Квіти не створюють важкого букета — вони залишаються світлими, гладкими та елегантними. Helvetolide® додає композиції особливої м'якості: чистої, мускусної, трохи фруктової та надзвичайно приємної на шкірі.\n\nУ базі аромат відкриває інший бік характеру. <strong>Ambrox Super, Norlimbanol™ та мускус</strong> додають йому тепла, глибини та сучасного, злегка деревного звучання. Саме база не дозволяє аромату зникнути разом із фруктовою свіжістю — він залишається на шкірі, поступово стаючи м'якшим і теплішим.\n\nBright Crystal Parfum нагадує прикрасу, якій не потрібно бути гучною, щоб привертати увагу. Він рожевий, сяйливий і жіночний, але за цією ніжністю ховається більш насичене та чуттєве звучання.\n\nЦе аромат для моменту, коли хочеться виглядати свіжо, але відчувати себе особливою. Для білої сорочки, шовкової сукні, кави в місті, першого побачення або вечора, який може закінчитися набагато пізніше, ніж планувалося.\n\n<strong>Bright Crystal Parfum не намагається бути найгучнішою людиною в кімнаті. Достатньо просто увійти — і світло саме знайде тебе.</strong>"
+    },
+    "facts": [
+      {
+        "pl": "💎 <strong>PO 18 LATACH BRIGHT CRYSTAL DOSTAŁ WERSJĘ PARFUM</strong>\n\nKlasyczny Bright Crystal pojawił się w 2006 roku. Dopiero w 2024 roku Versace zdecydowało się stworzyć jego wersję w koncentracji Parfum — razem z nową odsłoną Crystal Noir Parfum. Był to sposób na pokazanie dwóch dobrze znanych zapachów w bardziej intensywnej, współczesnej interpretacji.",
+        "uk": "💎 <strong>ЧЕРЕЗ 18 РОКІВ BRIGHT CRYSTAL ОТРИМАВ ВЕРСІЮ PARFUM</strong>\n\nКласичний Bright Crystal з'явився у 2006 році. Лише у 2024 році Versace створив його версію в концентрації Parfum — разом із новою інтерпретацією Crystal Noir Parfum. Так бренд вирішив показати два знайомі аромати в більш насиченому та сучасному форматі."
+      },
+      {
+        "pl": "✨ <strong>TO NIE JEST PO PROSTU „MOCNIEJSZY BRIGHT CRYSTAL”</strong>\n\nTwórcy nie ograniczyli się do zwiększenia intensywności oryginału. Nowa wersja otrzymała własny charakter dzięki karmelizowanym czerwonym owocom oraz nowoczesnym molekułom, takim jak Helvetolide®, Ambrox® Super i Norlimbanol™. Dzięki temu Parfum ma własny profil, a nie jest tylko prostym wzmocnieniem klasycznej kompozycji.",
+        "uk": "✨ <strong>ЦЕ НЕ ПРОСТО «БІЛЬШ НАСИЧЕНИЙ BRIGHT CRYSTAL»</strong>\n\nТворці не обмежилися простим посиленням оригіналу. Нова версія отримала власний характер завдяки карамелізованим червоним фруктам і сучасним молекулам Helvetolide®, Ambrox® Super та Norlimbanol™. Тому Parfum має власне звучання, а не є просто посиленою версією класичної композиції."
+      },
+      {
+        "pl": "🎬 <strong>LILY JAMES ZOSTAŁA TWARZĄ NOWEGO ROZDZIAŁU</strong>\n\nPremierze Bright Crystal Parfum towarzyszyła kampania z brytyjską aktorką Lily James. Versace wykorzystało jej wizerunek do pokazania nowej interpretacji Bright Crystal jako połączenia kobiecości, blasku i współczesnego glamour.",
+        "uk": "🎬 <strong>LILY JAMES СТАЛА ОБЛИЧЧЯМ НОВОГО РОЗДІЛУ</strong>\n\nПрем'єру Bright Crystal Parfum супроводжувала рекламна кампанія з британською акторкою Lily James. Versace використав її образ, щоб представити нову інтерпретацію Bright Crystal як поєднання жіночності, сяйва та сучасного glamour."
+      },
+      {
+        "pl": "🌸 <strong>POWRÓT DO DNA BRIGHT CRYSTAL</strong>\n\nW nowej wersji zachowano charakterystyczny dla linii kontrast soczystych owoców i jasnych kwiatów. Yuzu, granat, piwonia, magnolia i lotos tworzą pomost pomiędzy rozpoznawalnym DNA Bright Crystal a bardziej współczesnym, głębszym charakterem Parfum.",
+        "uk": "🌸 <strong>ПОВЕРНЕННЯ ДО ДНК BRIGHT CRYSTAL</strong>\n\nУ новій версії збережено характерний для лінії контраст соковитих фруктів і світлих квітів. Юзу, гранат, півонія, магнолія та лотос створюють міст між впізнаваним DNA Bright Crystal та більш сучасним і глибоким характером Parfum."
+      },
+      {
+        "pl": "🇮🇹 <strong>NOWY PARFUM POJAWIŁ SIĘ W DWÓCH ROZMIARACH</strong>\n\nBright Crystal Parfum został wprowadzony w 2024 roku w pojemnościach 50 i 90 ml. Charakterystyczny różowy flakon zachował wizualne skojarzenie z kryształem, ale nowa wersja została pozycjonowana jako bardziej zmysłowa i intensywna odsłona linii.",
+        "uk": "🇮🇹 <strong>НОВИЙ PARFUM ВИЙШОВ У ДВОХ ОБ'ЄМАХ</strong>\n\nBright Crystal Parfum був представлений у 2024 році в об'ємах 50 та 90 мл. Характерний рожевий флакон зберіг асоціацію з кришталем, але нову версію позиціонували як більш чуттєву та насичену інтерпретацію лінії."
+      },
+      {
+        "pl": "👃 <strong>ALBERTO MORILLAS WRÓCIŁ DO ŚWIATA BRIGHT CRYSTAL</strong>\n\nBright Crystal z 2006 roku jest dziełem Alberto Morillasa. Źródła branżowe dotyczące wersji Parfum 2024 wskazują, że Morillas powrócił do charakterystycznego DNA zapachu, zachowując jego świetlisty yuzu, a następnie wzbogacając go o czerwone owoce, granat i karmelowy akcent.",
+        "uk": "👃 <strong>ALBERTO MORILLAS ПОВЕРНУВСЯ ДО СВІТУ BRIGHT CRYSTAL</strong>\n\nКласичний Bright Crystal 2006 року створив Alberto Morillas. Галузеві джерела, присвячені версії Parfum 2024 року, вказують, що Morillas повернувся до характерного DNA аромату, зберігши його сяйливий юзу та доповнивши композицію червоними фруктами, гранатом і карамельним акцентом."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "fruity", "musky"],
+      "accords": [
+        "floral",
+        "fruity",
+        "citrus",
+        "fresh",
+        "amber",
+        "sweet",
+        "musky",
+        "woody"
+      ],
+      "notes": {
+        "top": ["yuzu", "pomegranate", "red-fruits", "caramel"],
+        "heart": ["peony", "helvetolide", "lotus", "magnolia"],
+        "base": ["ambrox-super", "norlimbanol", "musk"]
+      }
+    },
+    "character": {
+      "sweetness": 3,
+      "freshness": 4,
+      "warmth": 2,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening"],
+      "occasions": ["everyday", "date", "office", "special", "party"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 390,
+        "stock": true
+      },
+      {
+        "ml": 90,
+        "price": 490,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 8
+    },
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": [
+      "versace-bright-crystal-edt-090",
+      "versace-bright-crystal-absolu-edp-090"
+    ],
+    "tags": ["feminine", "floral", "fruity", "pink", "musk", "new", "parfum"]
+  },
+  {
     "id": "ysl-black-opium-edp-090",
     "brandId": "ysl",
     "name": "Black Opium",
@@ -403,7 +1374,14 @@
       "accords": ["fresh-spicy", "citrus", "aromatic", "woody", "amber"],
       "notes": {
         "top": ["bergamot", "pepper"],
-        "heart": ["lavender", "geranium", "pink-pepper", "vetiver", "patchouli", "elemi"],
+        "heart": [
+          "lavender",
+          "geranium",
+          "pink-pepper",
+          "vetiver",
+          "patchouli",
+          "elemi"
+        ],
         "base": ["ambroxan", "cedar", "labdanum"]
       }
     },

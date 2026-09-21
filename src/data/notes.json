@@ -7182,5 +7182,2192 @@
         "шкіра"
       ]
     }
+  },
+  {
+    "id": "yuzu",
+    "name": {
+      "pl": "Yuzu",
+      "uk": "Юзу"
+    },
+    "slug": {
+      "pl": "yuzu",
+      "uk": "yuzu"
+    },
+    "image": "yuzu.jpg",
+    "category": "citrus",
+    "description": {
+      "pl": "Yuzu to wyjątkowa nuta cytrusowa o świeżym, soczystym i lekko cierpkim charakterze. Łączy jasną cytrusową świeżość z delikatnie gorzkim, zielonym i aromatycznym akcentem. Jej zapach przypomina połączenie cytryny, mandarynki i grejpfruta, ale ma własny, bardziej wyrafinowany charakter. W perfumerii yuzu często kojarzy się z czystością, energią i lekką, nowoczesną świeżością.",
+      "uk": "Юзу — це особлива цитрусова нота зі свіжим, соковитим і трохи терпким характером. Вона поєднує яскраву цитрусову свіжість із делікатним гіркуватим, зеленим та ароматним відтінком. Її запах нагадує поєднання лимона, мандарина та грейпфрута, але має власний, більш витончений характер. У парфумерії юзу часто асоціюється з чистотою, енергією та легкою сучасною свіжістю."
+    },
+    "shortDescription": {
+      "pl": "Soczysta, świeża i lekko cierpka nuta cytrusowa o eleganckim, zielonym charakterze.",
+      "uk": "Соковита, свіжа й трохи терпка цитрусова нота з елегантним зеленим характером."
+    },
+    "origin": {
+      "pl": "Yuzu to cytrus pochodzący z Azji Wschodniej, szczególnie związany z Japonią, Chinami i Koreą. Owoce mają intensywnie aromatyczną skórkę i niewielką ilość soku, dlatego w perfumerii szczególnie ceniony jest ich świeży, charakterystyczny aromat. Yuzu od dawna jest również ważnym składnikiem kuchni i tradycji zapachowych Japonii.",
+      "uk": "Юзу — цитрусовий фрукт, що походить зі Східної Азії та особливо пов'язаний із Японією, Китаєм і Кореєю. Плоди мають дуже ароматну шкірку та відносно небагато соку, тому в парфумерії особливо цінується їхній свіжий і характерний аромат. Юзу також давно є важливою частиною японської кухні та традицій, пов'язаних із ароматами."
+    },
+    "extraction": {
+      "pl": "W perfumerii aromat yuzu może pochodzić z ekstraktu lub olejku pozyskiwanego ze skórki owocu, a także z kompozycji odtwarzających jego charakterystyczny profil zapachowy. Naturalny aromat skórki jest intensywny, świeży, cytrusowy i lekko gorzkawy. Współczesna perfumeria często wykorzystuje również molekuły aromatyczne pozwalające zachować świeżość yuzu i nadać jej większą trwałość.",
+      "uk": "У парфумерії аромат юзу може походити з екстракту або ефірної олії, отриманої зі шкірки плода, а також із композицій, що відтворюють його характерний ароматичний профіль. Натуральний аромат шкірки інтенсивний, свіжий, цитрусовий і трохи гіркуватий. У сучасній парфумерії також використовують ароматичні молекули, які допомагають зберегти свіжість юзу та зробити її більш стійкою."
+    },
+    "effect": {
+      "pl": "Yuzu natychmiast rozjaśnia kompozycję i nadaje jej wrażenie świeżości oraz energii. Może tworzyć soczyste, musujące otwarcie, podkreślać czystość kompozycji i dodawać jej lekkiego, nowoczesnego charakteru. W połączeniu z kwiatami staje się bardziej eleganckie, z zielonymi nutami bardziej naturalne, a z drewnem i piżmem tworzy czyste, świeże i wyrafinowane brzmienie.",
+      "uk": "Юзу миттєво освіжає композицію та надає їй відчуття енергії й легкості. Воно може створювати соковите, іскристе відкриття, підкреслювати чистоту композиції та надавати їй сучасного характеру. У поєднанні з квітами юзу звучить більш елегантно, із зеленими нотами — природніше, а з деревними акордами та мускусом створює чисте, свіже й витончене звучання."
+    },
+    "characteristics": {
+      "pl": [
+        "cytrusowy",
+        "świeży",
+        "soczysty",
+        "lekko cierpki",
+        "zielony",
+        "lekko gorzkawy",
+        "aromatyczny",
+        "musujący"
+      ],
+      "uk": [
+        "цитрусовий",
+        "свіжий",
+        "соковитий",
+        "трохи терпкий",
+        "зелений",
+        "трохи гіркуватий",
+        "ароматний",
+        "іскристий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cytryna",
+        "grejpfrut",
+        "mandarynka",
+        "bergamotka",
+        "imbir",
+        "zielona herbata",
+        "jaśmin",
+        "neroli",
+        "cedr",
+        "piżmo"
+      ],
+      "uk": [
+        "лимон",
+        "грейпфрут",
+        "мандарин",
+        "бергамот",
+        "імбир",
+        "зелений чай",
+        "жасмин",
+        "неролі",
+        "кедр",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "pomegranate",
+    "name": {
+      "pl": "Granat",
+      "uk": "Гранат"
+    },
+    "slug": {
+      "pl": "granat",
+      "uk": "granat"
+    },
+    "image": "pomegranate.jpg",
+    "category": "fruity",
+    "description": {
+      "pl": "Granat to soczysta, owocowa nuta o świeżym, lekko kwaśnym i subtelnie cierpkim charakterze. Łączy słodycz dojrzałych czerwonych owoców z orzeźwiającym, lekko wytrawnym akcentem. W perfumach może być jasny i soczysty, ale jednocześnie elegancki i nieco tajemniczy. Dzięki temu granat nadaje kompozycjom owocową energię bez wrażenia ciężkiej, cukierkowej słodyczy.",
+      "uk": "Гранат — це соковита фруктова нота зі свіжим, трохи кислуватим і делікатно терпким характером. Вона поєднує солодкість стиглих червоних фруктів із освіжаючим, трохи сухуватим відтінком. У парфумах гранат може звучати яскраво й соковито, але водночас елегантно та трохи загадково. Завдяки цьому він додає композиції фруктової енергії без відчуття надмірної цукеркової солодкості."
+    },
+    "shortDescription": {
+      "pl": "Soczysta, lekko kwaśna i cierpka nuta owocowa o świeżym, eleganckim charakterze.",
+      "uk": "Соковита, трохи кислувата й терпка фруктова нота зі свіжим, елегантним характером."
+    },
+    "origin": {
+      "pl": "Granat pochodzi z regionu obejmującego obszary Bliskiego Wschodu i Azji Zachodniej, a dziś jest uprawiany w wielu ciepłych regionach świata. Jego intensywnie czerwone owoce od wieków cenione są zarówno w kuchni, jak i w kulturze. W perfumerii granat jest przede wszystkim inspiracją dla świeżych, soczystych i owocowych akordów.",
+      "uk": "Гранат походить із регіону Близького Сходу та Західної Азії, а сьогодні вирощується в багатьох теплих регіонах світу. Його яскраво-червоні плоди століттями цінувалися в кулінарії та культурі. У парфумерії гранат передусім є джерелом натхнення для свіжих, соковитих і фруктових акордів."
+    },
+    "extraction": {
+      "pl": "Aromat granatu w perfumerii może być tworzony na bazie ekstraktów owocowych, naturalnych składników aromatycznych oraz molekuł odtwarzających charakterystyczny profil owocu. Sam owoc zawiera stosunkowo niewielką ilość substancji zapachowych, dlatego w nowoczesnej perfumerii jego zapach jest często komponowany jako akord, który podkreśla soczystość, świeżość i lekko cierpki charakter granatu.",
+      "uk": "Аромат граната в парфумерії може створюватися на основі фруктових екстрактів, натуральних ароматичних компонентів та молекул, які відтворюють характерний профіль плода. Сам фрукт містить відносно небагато запашних речовин, тому в сучасній парфумерії його аромат часто створюють як акорд, що підкреслює соковитість, свіжість і легку терпкість граната."
+    },
+    "effect": {
+      "pl": "Granat nadaje kompozycji soczystości, świeżości i intensywnego owocowego charakteru. Może rozświetlać otwarcie i dodawać mu energii, a lekko cierpki akcent sprawia, że zapach nie staje się zbyt słodki. W połączeniu z kwiatami tworzy kobiece i eleganckie kompozycje, z cytrusami staje się bardziej świeży, a z piżmem i drewnem nabiera nowoczesnego, zmysłowego charakteru.",
+      "uk": "Гранат додає композиції соковитості, свіжості та виразного фруктового характеру. Він може робити початок аромату яскравішим і енергійнішим, а легка терпкість не дозволяє звучанню стати надто солодким. У поєднанні з квітами створює жіночні й елегантні композиції, з цитрусами стає ще свіжішим, а з мускусом і деревними нотами набуває сучасного та чуттєвого характеру."
+    },
+    "characteristics": {
+      "pl": [
+        "owocowy",
+        "soczysty",
+        "świeży",
+        "lekko kwaśny",
+        "cierpki",
+        "słodki",
+        "czerwony owoc",
+        "elegancki"
+      ],
+      "uk": [
+        "фруктовий",
+        "соковитий",
+        "свіжий",
+        "трохи кислуватий",
+        "терпкий",
+        "солодкий",
+        "червоний фрукт",
+        "елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cytrusy",
+        "malina",
+        "porzeczka",
+        "jabłko",
+        "róża",
+        "jaśmin",
+        "piwonia",
+        "wanilia",
+        "piżmo",
+        "drzewo"
+      ],
+      "uk": [
+        "цитруси",
+        "малина",
+        "смородина",
+        "яблуко",
+        "троянда",
+        "жасмин",
+        "півонія",
+        "ваніль",
+        "мускус",
+        "деревні ноти"
+      ]
+    }
+  },
+  {
+    "id": "red-fruits",
+    "name": {
+      "pl": "Czerwone owoce",
+      "uk": "Червоні фрукти"
+    },
+    "slug": {
+      "pl": "czerwone-owoce",
+      "uk": "chervoni-frukty"
+    },
+    "image": "red-fruits.jpg",
+    "category": "fruity",
+    "description": {
+      "pl": "Czerwone owoce to soczysta i apetyczna nuta owocowa, która może łączyć aromaty takich owoców jak malina, truskawka, wiśnia, porzeczka czy granat. Jej charakter zależy od kompozycji, ale najczęściej jest słodki, świeży, lekko kwaśny i czasem delikatnie cierpki. W perfumach tworzy wrażenie dojrzałych, soczystych owoców i dodaje kompozycji energii, koloru oraz zmysłowej świeżości.",
+      "uk": "Червоні фрукти — це соковита й апетитна фруктова нота, яка може поєднувати аромати таких плодів, як малина, полуниця, вишня, смородина або гранат. Її характер залежить від композиції, але найчастіше вона солодка, свіжа, трохи кислувата та іноді делікатно терпка. У парфумах створює враження стиглих соковитих фруктів і додає композиції енергії, яскравості та чуттєвої свіжості."
+    },
+    "shortDescription": {
+      "pl": "Soczysty i owocowy akord łączący słodycz, świeżość i lekko kwaśne nuty czerwonych owoców.",
+      "uk": "Соковитий фруктовий акорд, що поєднує солодкість, свіжість і легку кислинку червоних фруктів."
+    },
+    "origin": {
+      "pl": "Czerwone owoce nie oznaczają jednego konkretnego składnika, lecz grupę aromatów inspirowanych czerwonymi owocami i jagodami. W zależności od kompozycji mogą przypominać maliny, truskawki, wiśnie, czerwone porzeczki, żurawinę lub granat. W perfumerii ten efekt jest zwykle budowany jako akord z wykorzystaniem różnych naturalnych i syntetycznych składników aromatycznych.",
+      "uk": "Червоні фрукти — це не один конкретний інгредієнт, а група ароматів, натхненних червоними плодами та ягодами. Залежно від композиції вони можуть нагадувати малину, полуницю, вишню, червону смородину, журавлину або гранат. У парфумерії цей ефект зазвичай створюють як акорд за допомогою різних натуральних і синтетичних ароматичних компонентів."
+    },
+    "extraction": {
+      "pl": "Akord czerwonych owoców w perfumerii jest najczęściej tworzony poprzez połączenie różnych składników aromatycznych. Naturalne ekstrakty mogą być wykorzystywane jako uzupełnienie kompozycji, ale charakterystyczny efekt soczystych czerwonych owoców często powstaje dzięki odpowiednio dobranym molekułom zapachowym. Pozwala to uzyskać intensywny, świeży i trwały owocowy efekt.",
+      "uk": "Акорд червоних фруктів у парфумерії найчастіше створюють шляхом поєднання різних ароматичних компонентів. Натуральні екстракти можуть використовуватися як доповнення композиції, але характерний ефект соковитих червоних фруктів часто отримують завдяки правильно підібраним ароматичним молекулам. Це дозволяє створити насичене, свіже та стійке фруктове звучання."
+    },
+    "effect": {
+      "pl": "Czerwone owoce ożywiają kompozycję i nadają jej soczysty, kolorowy charakter. Mogą sprawić, że zapach staje się bardziej radosny, młodzieńczy i apetyczny, ale w połączeniu z kwiatami, wanilią, piżmem lub drewnem mogą również nabrać bardziej eleganckiego i zmysłowego charakteru. Ich lekka kwaskowatość pomaga przełamać nadmierną słodycz i nadać kompozycji świeżość.",
+      "uk": "Червоні фрукти оживляють композицію та надають їй соковитого, яскравого характеру. Вони можуть зробити аромат більш радісним, молодіжним і апетитним, але в поєднанні з квітами, ваніллю, мускусом або деревними нотами можуть звучати більш елегантно та чуттєво. Легка кислинка допомагає врівноважити надмірну солодкість і додає композиції свіжості."
+    },
+    "characteristics": {
+      "pl": [
+        "owocowy",
+        "soczysty",
+        "słodki",
+        "świeży",
+        "lekko kwaśny",
+        "lekko cierpki",
+        "apetyczny",
+        "zmysłowy"
+      ],
+      "uk": [
+        "фруктовий",
+        "соковитий",
+        "солодкий",
+        "свіжий",
+        "трохи кислуватий",
+        "трохи терпкий",
+        "апетитний",
+        "чуттєвий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "malina",
+        "truskawka",
+        "wiśnia",
+        "porzeczka",
+        "granat",
+        "róża",
+        "jaśmin",
+        "wanilia",
+        "piżmo",
+        "drewno"
+      ],
+      "uk": [
+        "малина",
+        "полуниця",
+        "вишня",
+        "смородина",
+        "гранат",
+        "троянда",
+        "жасмин",
+        "ваніль",
+        "мускус",
+        "деревні ноти"
+      ]
+    }
+  },
+  {
+    "id": "helvetolide",
+    "name": {
+      "pl": "Helvetolide",
+      "uk": "Гельветолід"
+    },
+    "slug": {
+      "pl": "helvetolide",
+      "uk": "helvetolide"
+    },
+    "image": "helvetolide.jpg",
+    "category": "musky",
+    "description": {
+      "pl": "Helvetolide to nowoczesna nuta piżmowa o miękkim, czystym i lekko owocowym charakterze. Łączy delikatną, kremową miękkość piżma z subtelnym akcentem przypominającym soczyste owoce, szczególnie gruszkę. Nie jest ciężki ani przytłaczający — daje efekt czystej skóry, miękkiego materiału i świeżości. W perfumerii często wykorzystywany jest do nadania kompozycji eleganckiej, gładkiej i zmysłowej bazy.",
+      "uk": "Гельветолід — це сучасна мускусна нота з м'яким, чистим і трохи фруктовим характером. Вона поєднує делікатну кремову м'якість мускусу з тонким відтінком, що нагадує соковиті фрукти, особливо грушу. Гельветолід не є важким або нав'язливим — він створює ефект чистої шкіри, м'якої тканини та свіжості. У парфумерії його часто використовують, щоб надати композиції елегантної, гладкої та чуттєвої бази."
+    },
+    "shortDescription": {
+      "pl": "Czysta, miękka i lekko owocowa nuta piżmowa o eleganckim, zmysłowym charakterze.",
+      "uk": "Чиста, м'яка й трохи фруктова мускусна нота з елегантним, чуттєвим характером."
+    },
+    "origin": {
+      "pl": "Helvetolide to syntetyczny składnik zapachowy należący do grupy nowoczesnych piżm makrocyklicznych. Został opracowany jako materiał o miękkim, czystym i lekko owocowym profilu. Jego charakterystyczną cechą jest połączenie efektu piżma z subtelnym, świeżym akcentem owocowym.",
+      "uk": "Гельветолід — це синтетичний ароматичний компонент, що належить до групи сучасних макроциклічних мускусів. Його створили як матеріал із м'яким, чистим і трохи фруктовим профілем. Характерною особливістю гельветоліду є поєднання мускусного ефекту з тонким свіжим фруктовим відтінком."
+    },
+    "extraction": {
+      "pl": "Helvetolide jest składnikiem syntetycznym, dlatego nie pozyskuje się go z naturalnego surowca poprzez ekstrakcję. Jest otrzymywany w procesach chemicznych i wykorzystywany w perfumerii jako trwały materiał zapachowy. Dzięki swojej stabilności i charakterystycznemu profilowi może być stosowany zarówno jako nuta bazowa, jak i element nadający kompozycji miękkość oraz objętość.",
+      "uk": "Гельветолід є синтетичним компонентом, тому його не отримують із природної сировини методом екстракції. Його виробляють за допомогою хімічних процесів і використовують у парфумерії як стійкий ароматичний матеріал. Завдяки стабільності та характерному профілю він може використовуватися як базова нота, а також для надання композиції м'якості та об'єму."
+    },
+    "effect": {
+      "pl": "Helvetolide nadaje zapachowi miękkość, czystość i delikatną zmysłowość. Może sprawiać wrażenie świeżo umytej skóry, miękkiej tkaniny lub subtelnego zapachu pozostającego blisko ciała. Jego lekko owocowy charakter rozjaśnia piżmową bazę i sprawia, że kompozycja staje się bardziej nowoczesna i przestrzenna. Dobrze sprawdza się również jako łącznik między owocowymi nutami głowy a miękką bazą.",
+      "uk": "Гельветолід надає аромату м'якості, чистоти та делікатної чуттєвості. Він може створювати враження щойно вимитої шкіри, м'якої тканини або тонкого аромату, що залишається близько до тіла. Його легкий фруктовий характер робить мускусну базу світлішою та надає композиції сучасності й об'єму. Також він добре працює як міст між фруктовими верхніми нотами та м'якою базою."
+    },
+    "characteristics": {
+      "pl": [
+        "piżmowy",
+        "czysty",
+        "miękki",
+        "lekko owocowy",
+        "kremowy",
+        "świeży",
+        "zmysłowy",
+        "elegancki"
+      ],
+      "uk": [
+        "мускусний",
+        "чистий",
+        "м'який",
+        "трохи фруктовий",
+        "кремовий",
+        "свіжий",
+        "чуттєвий",
+        "елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "gruszka",
+        "jabłko",
+        "czerwone owoce",
+        "cytrusy",
+        "róża",
+        "jaśmin",
+        "wanilia",
+        "sandałowiec",
+        "ambrette",
+        "piżmo"
+      ],
+      "uk": [
+        "груша",
+        "яблуко",
+        "червоні фрукти",
+        "цитруси",
+        "троянда",
+        "жасмин",
+        "ваніль",
+        "сандал",
+        "амбретта",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "lotus",
+    "name": {
+      "pl": "Lotos",
+      "uk": "Лотос"
+    },
+    "slug": {
+      "pl": "lotos",
+      "uk": "lotos"
+    },
+    "image": "lotus.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Lotos to delikatna, wodnista nuta kwiatowa o świeżym, czystym i lekko zielonym charakterze. Jego aromat kojarzy się z kwiatem unoszącym się na spokojnej tafli wody — jest lekki, chłodny i subtelnie kremowy. Lotos nie ma ciężkiej, intensywnej kwiatowości; zamiast tego wnosi do kompozycji elegancję, przejrzystość i poczucie świeżości.",
+      "uk": "Лотос — це ніжна водяниста квіткова нота зі свіжим, чистим і трохи зеленим характером. Його аромат нагадує квітку, що лежить на спокійній поверхні води — він легкий, прохолодний і делікатно кремовий. Лотос не має важкої або надто насиченої квітковості; натомість він додає композиції елегантності, прозорості та відчуття свіжості."
+    },
+    "shortDescription": {
+      "pl": "Świeża, wodnista i delikatnie kwiatowa nuta o czystym, lekkim charakterze.",
+      "uk": "Свіжа, водяниста й ніжно-квіткова нота з чистим, легким характером."
+    },
+    "origin": {
+      "pl": "Lotos to roślina wodna występująca w wielu regionach Azji i innych ciepłych częściach świata. Od tysięcy lat ma szczególne znaczenie w kulturach Azji, gdzie kojarzony jest z czystością, spokojem i harmonią. W perfumerii inspiracją jest przede wszystkim delikatny zapach kwiatów lotosu.",
+      "uk": "Лотос — водяна рослина, поширена в багатьох регіонах Азії та інших теплих частинах світу. Протягом тисячоліть він має особливе значення в культурах Азії, де асоціюється з чистотою, спокоєм і гармонією. У парфумерії натхненням передусім є ніжний аромат квітів лотоса."
+    },
+    "extraction": {
+      "pl": "Aromat lotosu w perfumerii może być tworzony z wykorzystaniem ekstraktów roślinnych, naturalnych materiałów aromatycznych oraz składników syntetycznych odtwarzających delikatny profil kwiatu. Ponieważ świeży kwiat lotosu nie jest łatwym źródłem klasycznego olejku eterycznego, współczesna perfumeria często wykorzystuje kompozycje zapachowe, które oddają jego wodnisty, kwiatowy i świeży charakter.",
+      "uk": "Аромат лотоса в парфумерії може створюватися з використанням рослинних екстрактів, натуральних ароматичних матеріалів та синтетичних компонентів, що відтворюють ніжний профіль квітки. Оскільки свіжий лотос не є простим джерелом класичної ефірної олії, сучасна парфумерія часто використовує ароматичні композиції, які передають його водянистий, квітковий і свіжий характер."
+    },
+    "effect": {
+      "pl": "Lotos nadaje kompozycji lekkości, świeżości i wodnistej przejrzystości. Może tworzyć efekt chłodnego, spokojnego i czystego aromatu, szczególnie dobrze sprawdzając się w kompozycjach na ciepłe dni. W połączeniu z cytrusami staje się bardziej świeży i energetyczny, z zielonymi nutami bardziej naturalny, a z piżmem i drewnem tworzy miękkie, eleganckie i czyste wykończenie.",
+      "uk": "Лотос надає композиції легкості, свіжості та водянистої прозорості. Він може створювати відчуття прохолодного, спокійного й чистого аромату, тому особливо добре звучить у композиціях для теплої пори року. У поєднанні з цитрусами стає свіжішим та енергійнішим, із зеленими нотами — більш природним, а з мускусом і деревними акордами створює м'яке, елегантне та чисте завершення."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "wodnisty",
+        "świeży",
+        "czysty",
+        "lekki",
+        "zielony",
+        "delikatny",
+        "kremowy"
+      ],
+      "uk": [
+        "квітковий",
+        "водянистий",
+        "свіжий",
+        "чистий",
+        "легкий",
+        "зелений",
+        "ніжний",
+        "кремовий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cytrusy",
+        "bergamotka",
+        "gruszka",
+        "zielona herbata",
+        "jaśmin",
+        "róża",
+        "fiołek",
+        "piżmo",
+        "sandałowiec",
+        "wetyweria"
+      ],
+      "uk": [
+        "цитруси",
+        "бергамот",
+        "груша",
+        "зелений чай",
+        "жасмин",
+        "троянда",
+        "фіалка",
+        "мускус",
+        "сандал",
+        "ветивер"
+      ]
+    }
+  },
+  {
+    "id": "magnolia",
+    "name": {
+      "pl": "Magnolia",
+      "uk": "Магнолія"
+    },
+    "slug": {
+      "pl": "magnolia",
+      "uk": "magnolia"
+    },
+    "image": "magnolia.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Magnolia to elegancka nuta kwiatowa o świeżym, miękkim i delikatnie kremowym charakterze. Jej aromat łączy subtelną cytrusową świeżość z aksamitną, czystą kwiatowością. Magnolia nie jest ciężka ani przesadnie słodka — raczej jasna, lekka i wyrafinowana, z delikatnie zielonym akcentem. W perfumerii nadaje kompozycjom wrażenie świeżo rozkwitających kwiatów, czystości i naturalnej elegancji.",
+      "uk": "Магнолія — це елегантна квіткова нота зі свіжим, м'яким і делікатно кремовим характером. Її аромат поєднує тонку цитрусову свіжість із оксамитовою, чистою квітковістю. Магнолія не є важкою або надмірно солодкою — навпаки, вона світла, легка й витончена, з делікатним зеленим відтінком. У парфумерії вона створює враження свіжорозквітлої квітки, чистоти та природної елегантності."
+    },
+    "shortDescription": {
+      "pl": "Świeża, miękka i delikatnie kremowa nuta kwiatowa o eleganckim, czystym charakterze.",
+      "uk": "Свіжа, м'яка й делікатно кремова квіткова нота з елегантним, чистим характером."
+    },
+    "origin": {
+      "pl": "Magnolia to rodzaj roślin obejmujący wiele gatunków drzew i krzewów występujących głównie w Azji oraz Ameryce Północnej i Południowej. Jej duże, charakterystyczne kwiaty od dawna są cenione za piękno i delikatny aromat. W perfumerii magnolia jest wykorzystywana jako symbol świeżej, eleganckiej i jasnej kwiatowości.",
+      "uk": "Магнолія — це рід рослин, що охоплює багато видів дерев і кущів, поширених переважно в Азії, а також у Північній та Південній Америці. Її великі характерні квіти здавна цінуються за красу та ніжний аромат. У парфумерії магнолія використовується як символ свіжої, елегантної та світлої квітковості."
+    },
+    "extraction": {
+      "pl": "Aromat magnolii w perfumerii może być tworzony z wykorzystaniem naturalnych ekstraktów, materiałów roślinnych oraz składników syntetycznych odwzorowujących charakterystyczny zapach kwiatu. Współczesna perfumeria często wykorzystuje specjalnie komponowane akordy magnolii, które łączą świeże, cytrusowe, zielone i kremowo-kwiatowe aspekty jej aromatu.",
+      "uk": "Аромат магнолії в парфумерії може створюватися з використанням натуральних екстрактів, рослинних матеріалів та синтетичних компонентів, що відтворюють характерний запах квітки. У сучасній парфумерії часто використовують спеціально створені акорди магнолії, які поєднують свіжі, цитрусові, зелені та кремово-квіткові відтінки її аромату."
+    },
+    "effect": {
+      "pl": "Magnolia rozjaśnia kompozycję i nadaje jej miękką, świeżą oraz elegancką kwiatowość. Może sprawić, że zapach staje się bardziej przestrzenny, czysty i naturalny. W połączeniu z cytrusami podkreśla świeżość, z zielonymi nutami nabiera bardziej naturalnego charakteru, a z piżmem i drewnem tworzy miękkie, kremowe i subtelnie zmysłowe wykończenie.",
+      "uk": "Магнолія робить композицію світлішою та надає їй м'якої, свіжої й елегантної квітковості. Вона може зробити аромат більш повітряним, чистим і природним. У поєднанні з цитрусами підкреслює свіжість, із зеленими нотами набуває більш природного характеру, а з мускусом і деревними акордами створює м'яке, кремове та делікатно чуттєве завершення."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "świeży",
+        "kremowy",
+        "miękki",
+        "czysty",
+        "delikatnie cytrusowy",
+        "zielony",
+        "elegancki"
+      ],
+      "uk": [
+        "квітковий",
+        "свіжий",
+        "кремовий",
+        "м'який",
+        "чистий",
+        "трохи цитрусовий",
+        "зелений",
+        "елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cytrusy",
+        "bergamotka",
+        "cytryna",
+        "jaśmin",
+        "róża",
+        "lotos",
+        "frezja",
+        "piżmo",
+        "sandałowiec",
+        "wetyweria"
+      ],
+      "uk": [
+        "цитруси",
+        "бергамот",
+        "лимон",
+        "жасмин",
+        "троянда",
+        "лотос",
+        "фрезія",
+        "мускус",
+        "сандал",
+        "ветивер"
+      ]
+    }
+  },
+  {
+    "id": "ambrox-super",
+    "name": {
+      "pl": "Ambrox Super",
+      "uk": "Амброкс Супер"
+    },
+    "slug": {
+      "pl": "ambrox-super",
+      "uk": "ambrox-super"
+    },
+    "image": "ambrox-super.jpg",
+    "category": "ambery",
+    "description": {
+      "pl": "Ambrox Super to nowoczesna nuta ambrowa o czystym, suchym i lekko mineralnym charakterze. Łączy ciepło ambry z drzewną głębią, delikatną słonością i subtelnym efektem czystej skóry. Nie przypomina ciężkiej, słodkiej ambry — jest bardziej przejrzysty, elegancki i przestrzenny. W perfumerii często odpowiada za charakterystyczne, długotrwałe wrażenie ciepłej skóry, suchego drewna i świeżego, lekko słonego powietrza.",
+      "uk": "Амброкс Супер — це сучасна амброва нота з чистим, сухим і трохи мінеральним характером. Вона поєднує тепло амбри з деревною глибиною, делікатною солонуватістю та тонким ефектом чистої шкіри. На відміну від важкої солодкої амбри, вона звучить більш прозоро, елегантно й об'ємно. У парфумерії часто створює характерне довготривале відчуття теплої шкіри, сухої деревини та свіжого, трохи солоного повітря."
+    },
+    "shortDescription": {
+      "pl": "Czysta, sucha i lekko mineralna nuta ambrowa o drzewnym, zmysłowym charakterze.",
+      "uk": "Чиста, суха й трохи мінеральна амброва нота з деревним, чуттєвим характером."
+    },
+    "origin": {
+      "pl": "Ambrox Super to syntetyczny materiał zapachowy należący do grupy nowoczesnych składników ambrowych. Został opracowany jako sposób na odtworzenie charakterystycznego, ciepłego i zmysłowego profilu kojarzonego z ambrowym stylem zapachowym. Współczesne materiały tego typu są szeroko stosowane w perfumerii ze względu na swoją trwałość, czystość i zdolność do nadawania kompozycjom głębi.",
+      "uk": "Амброкс Супер — це синтетичний ароматичний матеріал, що належить до групи сучасних амбрових компонентів. Його створили для відтворення характерного теплого й чуттєвого профілю, пов'язаного з амбровим стилем ароматів. Сучасні матеріали цього типу широко використовуються в парфумерії завдяки стійкості, чистоті звучання та здатності надавати композиціям глибини."
+    },
+    "extraction": {
+      "pl": "Ambrox Super jest składnikiem syntetycznym, dlatego nie pozyskuje się go z naturalnego surowca poprzez klasyczną ekstrakcję. Jest produkowany w procesach chemicznych i wykorzystywany jako trwały materiał zapachowy. Jego profil pozwala perfumiarzom uzyskać charakterystyczny ambrowo-drzewny efekt bez konieczności stosowania naturalnej ambry.",
+      "uk": "Амброкс Супер є синтетичним компонентом, тому його не отримують із природної сировини методом класичної екстракції. Його виробляють за допомогою хімічних процесів і використовують як стійкий ароматичний матеріал. Його профіль дозволяє парфумерам отримувати характерний амброво-деревний ефект без використання натуральної амбри."
+    },
+    "effect": {
+      "pl": "Ambrox Super nadaje kompozycji trwałość, głębię i charakterystyczną, czystą ambrową aurę. Może tworzyć efekt ciepłej skóry, suchego drewna i delikatnej mineralnej świeżości. W większym stężeniu może stać się wyraźny i przestrzenny, otaczając skórę charakterystyczną, długotrwałą aurą. Doskonale sprawdza się jako baza, ale może również łączyć i wzmacniać inne nuty w całej kompozycji.",
+      "uk": "Амброкс Супер надає композиції стійкості, глибини та характерної чистої амбрової аури. Він може створювати ефект теплої шкіри, сухого дерева й делікатної мінеральної свіжості. У більшій концентрації може звучати виразно та об'ємно, огортаючи шкіру характерною довготривалою аурою. Він чудово працює як базова нота, але також може поєднувати та підсилювати інші компоненти композиції."
+    },
+    "characteristics": {
+      "pl": [
+        "ambrowy",
+        "drzewny",
+        "suchy",
+        "mineralny",
+        "czysty",
+        "lekko słony",
+        "ciepły",
+        "zmysłowy"
+      ],
+      "uk": [
+        "амбровий",
+        "деревний",
+        "сухий",
+        "мінеральний",
+        "чистий",
+        "трохи солонуватий",
+        "теплий",
+        "чуттєвий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "ambra",
+        "piżmo",
+        "cedr",
+        "sandałowiec",
+        "wetyweria",
+        "kadzidło",
+        "róża",
+        "jaśmin",
+        "cytrusy",
+        "wanilia"
+      ],
+      "uk": [
+        "амбра",
+        "мускус",
+        "кедр",
+        "сандал",
+        "ветивер",
+        "ладан",
+        "троянда",
+        "жасмин",
+        "цитруси",
+        "ваніль"
+      ]
+    }
+  },
+  {
+    "id": "norlimbanol",
+    "name": {
+      "pl": "Norlimbanol",
+      "uk": "Норлімбанол"
+    },
+    "slug": {
+      "pl": "norlimbanol",
+      "uk": "norlimbanol"
+    },
+    "image": "norlimbanol.jpg",
+    "category": "woody",
+    "description": {
+      "pl": "Norlimbanol to intensywna nuta drzewna o bardzo suchym, ciepłym i lekko mineralnym charakterze. Przypomina suche, szlachetne drewno połączone z ambrowym ciepłem i subtelnym, lekko słonym akcentem. Jest wyrazisty i przestrzenny, dlatego nawet niewielka ilość może mocno wpłynąć na charakter całej kompozycji. W perfumerii nadaje zapachom głębię, trwałość i nowoczesne, suche drzewne brzmienie.",
+      "uk": "Норлімбанол — це інтенсивна деревна нота з дуже сухим, теплим і трохи мінеральним характером. Вона нагадує суху благородну деревину, поєднану з амбровим теплом і тонким, трохи солонуватим відтінком. Норлімбанол звучить виразно та об'ємно, тому навіть невелика його кількість може сильно впливати на характер усієї композиції. У парфумерії він додає ароматам глибини, стійкості та сучасного сухого деревного звучання."
+    },
+    "shortDescription": {
+      "pl": "Bardzo sucha, intensywna i lekko mineralna nuta drzewna o ambrowym charakterze.",
+      "uk": "Дуже суха, інтенсивна й трохи мінеральна деревна нота з амбровим характером."
+    },
+    "origin": {
+      "pl": "Norlimbanol to syntetyczny składnik zapachowy należący do grupy nowoczesnych materiałów drzewno-ambrowych. Został opracowany jako bardzo intensywny materiał o suchym, ciepłym i trwałym profilu. Współczesna perfumeria wykorzystuje go do budowania mocnych, przestrzennych i nowoczesnych baz drzewnych.",
+      "uk": "Норлімбанол — це синтетичний ароматичний компонент, що належить до групи сучасних деревно-амбрових матеріалів. Його створили як дуже інтенсивний матеріал із сухим, теплим і стійким профілем. У сучасній парфумерії його використовують для створення потужних, об'ємних і сучасних деревних баз."
+    },
+    "extraction": {
+      "pl": "Norlimbanol jest składnikiem syntetycznym, dlatego nie pozyskuje się go z drewna poprzez klasyczną ekstrakcję. Jest otrzymywany w procesach chemicznych i stosowany w bardzo małych ilościach ze względu na wysoką intensywność zapachową. Jego wyjątkowa trwałość sprawia, że może pozostawać wyczuwalny na skórze i tkaninach przez bardzo długi czas.",
+      "uk": "Норлімбанол є синтетичним компонентом, тому його не отримують із деревини за допомогою класичної екстракції. Його виробляють хімічним шляхом і використовують у дуже малих кількостях через високу інтенсивність аромату. Його виняткова стійкість дозволяє йому залишатися відчутним на шкірі та тканині протягом дуже тривалого часу."
+    },
+    "effect": {
+      "pl": "Norlimbanol wzmacnia bazę kompozycji i nadaje jej mocny, suchy oraz przestrzenny charakter. Może sprawić, że zapach staje się bardziej intensywny, trwały i wyrazisty, a jego drzewne akordy zyskują większą głębię. W połączeniu z ambrowymi materiałami tworzy ciepłe, suche i mineralne brzmienie, natomiast z piżmami i kwiatami może nadać kompozycji nowoczesny kontrast i większą projekcję.",
+      "uk": "Норлімбанол підсилює базу композиції та надає їй потужного, сухого й об'ємного характеру. Він може зробити аромат більш інтенсивним, стійким і виразним, а деревні акорди — глибшими. У поєднанні з амбровими матеріалами створює тепле, сухе та мінеральне звучання, а з мускусами й квітами може додавати композиції сучасного контрасту та більшої дифузності."
+    },
+    "characteristics": {
+      "pl": [
+        "drzewny",
+        "bardzo suchy",
+        "ambrowy",
+        "mineralny",
+        "ciepły",
+        "intensywny",
+        "trwały",
+        "przestrzenny"
+      ],
+      "uk": [
+        "деревний",
+        "дуже сухий",
+        "амбровий",
+        "мінеральний",
+        "теплий",
+        "інтенсивний",
+        "стійкий",
+        "об'ємний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "ambra",
+        "ambrox",
+        "cedr",
+        "sandałowiec",
+        "wetyweria",
+        "paczula",
+        "kadzidło",
+        "piżmo",
+        "róża",
+        "wanilia"
+      ],
+      "uk": [
+        "амбра",
+        "амброкс",
+        "кедр",
+        "сандал",
+        "ветивер",
+        "пачулі",
+        "ладан",
+        "мускус",
+        "троянда",
+        "ваніль"
+      ]
+    }
+  },
+  {
+    "id": "gardenia",
+    "name": {
+      "pl": "Gardenia",
+      "uk": "Гарденія"
+    },
+    "slug": {
+      "pl": "gardenia",
+      "uk": "gardenia"
+    },
+    "image": "gardenia.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Gardenia to intensywna, kremowa nuta białych kwiatów o zmysłowym i eleganckim charakterze. Łączy aksamitną miękkość z delikatną świeżością, lekko zielonym akcentem i subtelną nutą przypominającą jaśmin. Jej aromat jest bogaty, kwiatowy i lekko kremowy, dzięki czemu może tworzyć wrażenie świeżo rozkwitających, dużych białych kwiatów. W perfumerii gardenia często symbolizuje kobiecość, elegancję i wyrafinowaną zmysłowość.",
+      "uk": "Гарденія — це інтенсивна кремова нота білих квітів із чуттєвим та елегантним характером. Вона поєднує оксамитову м'якість із делікатною свіжістю, легким зеленим відтінком і тонкою нотою, що нагадує жасмин. Її аромат насичений, квітковий і трохи кремовий, тому може створювати враження щойно розквітлих великих білих квітів. У парфумерії гарденія часто асоціюється з жіночністю, елегантністю та витонченою чуттєвістю."
+    },
+    "shortDescription": {
+      "pl": "Kremowa, intensywna i zmysłowa nuta białych kwiatów o eleganckim charakterze.",
+      "uk": "Кремова, насичена й чуттєва нота білих квітів з елегантним характером."
+    },
+    "origin": {
+      "pl": "Gardenia to rodzaj roślin należący do rodziny marzanowatych, występujący naturalnie głównie w Azji, Afryce i na wyspach Pacyfiku. Jej duże, białe i intensywnie pachnące kwiaty od dawna są cenione w ogrodnictwie i kulturze. W perfumerii gardenia jest jednym z najbardziej charakterystycznych motywów białych kwiatów.",
+      "uk": "Гарденія — це рід рослин із родини маренових, природно поширений переважно в Азії, Африці та на островах Тихого океану. Її великі білі квіти з насиченим ароматом здавна цінуються в садівництві та культурі. У парфумерії гарденія є одним із найхарактерніших мотивів білих квітів."
+    },
+    "extraction": {
+      "pl": "Aromat gardenii w perfumerii jest zazwyczaj odtwarzany poprzez specjalnie tworzone akordy zapachowe. Świeże kwiaty gardenii nie są łatwym źródłem klasycznego olejku eterycznego, dlatego współczesna perfumeria wykorzystuje połączenie naturalnych materiałów i molekuł syntetycznych, aby odtworzyć jej kremowy, biały, zielony i lekko jaśminowy charakter.",
+      "uk": "Аромат гарденії в парфумерії зазвичай відтворюють за допомогою спеціально створених ароматичних акордів. Свіжі квіти гарденії не є простим джерелом класичної ефірної олії, тому сучасна парфумерія використовує поєднання натуральних матеріалів і синтетичних молекул, щоб відтворити її кремовий, біло-квітковий, зелений та трохи жасминовий характер."
+    },
+    "effect": {
+      "pl": "Gardenia nadaje kompozycji bogatą, kremową i bardzo zmysłową kwiatowość. Może sprawić, że zapach staje się bardziej elegancki, kobiecy i otulający. W połączeniu z cytrusami jej cięższy charakter zostaje rozjaśniony, z jaśminem i tuberozą tworzy intensywny biały bukiet, a z piżmem, drewnem i wanilią staje się bardziej miękka, kremowa i zmysłowa.",
+      "uk": "Гарденія надає композиції багатої, кремової та дуже чуттєвої квітковості. Вона може зробити аромат більш елегантним, жіночним і огортаючим. У поєднанні з цитрусами її насичений характер стає світлішим, із жасмином і туберозою вона створює інтенсивний білий квітковий букет, а з мускусом, деревними нотами та ваніллю стає м'якшою, кремовішою й чуттєвішою."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "biały kwiat",
+        "kremowy",
+        "intensywny",
+        "zmysłowy",
+        "świeży",
+        "zielony",
+        "elegancki"
+      ],
+      "uk": [
+        "квітковий",
+        "білі квіти",
+        "кремовий",
+        "насичений",
+        "чуттєвий",
+        "свіжий",
+        "зелений",
+        "елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "jaśmin",
+        "tuberoza",
+        "ylang-ylang",
+        "magnolia",
+        "róża",
+        "cytrusy",
+        "piżmo",
+        "wanilia",
+        "sandałowiec",
+        "ambra"
+      ],
+      "uk": [
+        "жасмин",
+        "тубероза",
+        "іланг-іланг",
+        "магнолія",
+        "троянда",
+        "цитруси",
+        "мускус",
+        "ваніль",
+        "сандал",
+        "амбра"
+      ]
+    }
+  },
+  {
+    "id": "chinotto",
+    "name": {
+      "pl": "Chinotto",
+      "uk": "Чинотто"
+    },
+    "slug": {
+      "pl": "chinotto",
+      "uk": "chinotto"
+    },
+    "image": "chinotto.jpg",
+    "category": "citrus",
+    "description": {
+      "pl": "Chinotto to charakterystyczna nuta cytrusowa o gorzkawym, zielonym i aromatycznym charakterze. Łączy świeżość cytrusowej skórki z delikatną goryczką, ziołowym akcentem i subtelną słodyczą. Jest bardziej wytrawne i złożone niż typowe cytrusy, dzięki czemu może nadawać kompozycjom elegancki, lekko gorzki i bardzo oryginalny charakter. Jego aromat kojarzy się ze świeżo zerwaną skórką owocu, gorzkimi cytrusami i śródziemnomorskim powietrzem.",
+      "uk": "Чинотто — це характерна цитрусова нота з гіркуватим, зеленим та ароматним характером. Вона поєднує свіжість цитрусової шкірки з делікатною гіркотою, трав'янистим відтінком і тонкою солодкістю. Чинотто звучить більш сухо й складно, ніж типові цитруси, тому може надавати композиціям елегантного, трохи гіркого та дуже оригінального характеру. Його аромат нагадує свіжу цедру, гіркі цитруси та середземноморське повітря."
+    },
+    "shortDescription": {
+      "pl": "Gorzka, zielona i aromatyczna nuta cytrusowa o świeżym, wytrawnym charakterze.",
+      "uk": "Гіркувата, зелена й ароматна цитрусова нота зі свіжим, сухуватим характером."
+    },
+    "origin": {
+      "pl": "Chinotto to niewielki owoc cytrusowy z południowej Europy, szczególnie kojarzony z Włochami i regionem Ligurii. Należy do grupy gorzkich cytrusów i jest znany ze swojej intensywnie aromatycznej skórki. Oprócz perfumerii chinotto wykorzystywane jest również w produkcji napojów i tradycyjnych włoskich produktów aromatycznych.",
+      "uk": "Чинотто — це невеликий цитрусовий плід із Південної Європи, особливо пов'язаний з Італією та регіоном Лігурія. Він належить до групи гірких цитрусів і відомий своєю інтенсивно ароматною шкіркою. Окрім парфумерії, чинотто також використовується у виробництві напоїв та традиційних італійських ароматичних продуктів."
+    },
+    "extraction": {
+      "pl": "Naturalny aromat chinotto może być pozyskiwany ze skórki owocu, w której znajduje się wiele aromatycznych olejków eterycznych. W perfumerii stosuje się również ekstrakty oraz składniki syntetyczne, które pomagają odtworzyć charakterystyczne połączenie świeżości, goryczki, zieloności i cytrusowej skórki.",
+      "uk": "Натуральний аромат чинотто можна отримувати зі шкірки плода, яка містить багато ароматичних ефірних олій. У парфумерії також використовують екстракти та синтетичні компоненти, які допомагають відтворити характерне поєднання свіжості, гіркоти, зелені та цитрусової цедри."
+    },
+    "effect": {
+      "pl": "Chinotto nadaje kompozycji świeżość, wytrawność i charakterystyczną cytrusową goryczkę. Dzięki temu może przełamywać słodycz i sprawiać, że zapach staje się bardziej elegancki oraz interesujący. W połączeniu z innymi cytrusami tworzy świeże, energetyczne otwarcie, z ziołami i zielonymi nutami nabiera bardziej naturalnego charakteru, a z drewnem i piżmem staje się bardziej wyrafinowane i nowoczesne.",
+      "uk": "Чинотто додає композиції свіжості, сухуватості та характерної цитрусової гіркоти. Завдяки цьому воно може врівноважувати солодкість і робити аромат більш елегантним та цікавим. У поєднанні з іншими цитрусами створює свіже й енергійне відкриття, із травами та зеленими нотами набуває більш природного характеру, а з деревиною та мускусом стає витонченішим і сучаснішим."
+    },
+    "characteristics": {
+      "pl": [
+        "cytrusowy",
+        "gorzki",
+        "zielony",
+        "świeży",
+        "wytrawny",
+        "aromatyczny",
+        "lekko słodki",
+        "ziołowy"
+      ],
+      "uk": [
+        "цитрусовий",
+        "гіркуватий",
+        "зелений",
+        "свіжий",
+        "сухуватий",
+        "ароматний",
+        "трохи солодкий",
+        "трав'янистий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "bergamotka",
+        "grejpfrut",
+        "pomarańcza",
+        "cytryna",
+        "neroli",
+        "bazylia",
+        "rozmaryn",
+        "cedr",
+        "wetyweria",
+        "piżmo"
+      ],
+      "uk": [
+        "бергамот",
+        "грейпфрут",
+        "апельсин",
+        "лимон",
+        "неролі",
+        "базилік",
+        "розмарин",
+        "кедр",
+        "ветивер",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "rosemary",
+    "name": {
+      "pl": "Rozmaryn",
+      "uk": "Розмарин"
+    },
+    "slug": {
+      "pl": "rozmaryn",
+      "uk": "rozmaryn"
+    },
+    "image": "rosemary.jpg",
+    "category": "aromatic",
+    "description": {
+      "pl": "Rozmaryn to świeża, zielona i aromatyczna nuta z charakterystycznym ziołowym, lekko kamforowym i żywicznym akcentem. Jego zapach przypomina świeżo zerwane gałązki rozmarynu, nagrzane słońcem zioła i aromatyczne rośliny śródziemnomorskie. Jest jednocześnie chłodny, wyrazisty i lekko pikantny, dzięki czemu dodaje kompozycjom energii, czystości i naturalnej świeżości.",
+      "uk": "Розмарин — це свіжа, зелена й ароматна нота з характерним трав'янистим, трохи камфорним і смолистим відтінком. Його аромат нагадує щойно зрізані гілочки розмарину, нагріті сонцем трави та ароматні середземноморські рослини. Він водночас прохолодний, виразний і трохи пряний, завдяки чому додає композиціям енергії, чистоти та природної свіжості."
+    },
+    "shortDescription": {
+      "pl": "Świeża, zielona i ziołowa nuta o lekko kamforowym, aromatycznym charakterze.",
+      "uk": "Свіжа, зелена й трав'яниста нота з легким камфорним, ароматним характером."
+    },
+    "origin": {
+      "pl": "Rozmaryn to aromatyczna roślina pochodząca z regionu Morza Śródziemnego, dziś uprawiana w wielu częściach świata. Od wieków ceniony jest za intensywny zapach oraz zastosowanie w kuchni, ziołolecznictwie i tradycyjnych kompozycjach zapachowych. W perfumerii wykorzystywany jest przede wszystkim jako świeża, zielona i aromatyczna nuta.",
+      "uk": "Розмарин — ароматична рослина, що походить із Середземноморського регіону, а сьогодні вирощується в багатьох частинах світу. Протягом століть його цінують за інтенсивний аромат і використовують у кулінарії, фітотерапії та традиційних ароматичних композиціях. У парфумерії він використовується передусім як свіжа, зелена й ароматична нота."
+    },
+    "extraction": {
+      "pl": "Olejek rozmarynowy otrzymuje się przede wszystkim z liści i młodych części rośliny, najczęściej poprzez destylację z parą wodną. Powstający olejek ma intensywny, świeży, zielony i lekko kamforowy profil. W perfumerii może być stosowany jako naturalny olejek lub jako element bardziej złożonych akordów aromatycznych.",
+      "uk": "Ефірну олію розмарину отримують переважно з листя та молодих частин рослини, найчастіше методом парової дистиляції. Отримана олія має інтенсивний, свіжий, зелений і трохи камфорний профіль. У парфумерії її використовують як натуральну ефірну олію або як компонент складніших ароматичних акордів."
+    },
+    "effect": {
+      "pl": "Rozmaryn natychmiast ożywia kompozycję i nadaje jej świeży, zielony oraz energetyczny charakter. Może podkreślać czystość i lekkość zapachu, a jego lekko kamforowy akcent dodaje chłodnego, wyrazistego efektu. W połączeniu z cytrusami tworzy bardzo świeże otwarcie, z lawendą i innymi ziołami rozwija aromatyczny charakter, a z drewnem i piżmem tworzy czystą, elegancką bazę.",
+      "uk": "Розмарин одразу оживляє композицію та надає їй свіжого, зеленого й енергійного характеру. Він може підкреслювати чистоту та легкість аромату, а його легкий камфорний відтінок додає прохолодного, виразного ефекту. У поєднанні з цитрусами створює дуже свіже відкриття, з лавандою та іншими травами посилює ароматичний характер, а з деревними нотами й мускусом створює чисту та елегантну базу."
+    },
+    "characteristics": {
+      "pl": [
+        "aromatyczny",
+        "zielony",
+        "ziołowy",
+        "świeży",
+        "kamforowy",
+        "lekko żywiczny",
+        "lekko pikantny",
+        "energetyczny"
+      ],
+      "uk": [
+        "ароматний",
+        "зелений",
+        "трав'янистий",
+        "свіжий",
+        "камфорний",
+        "трохи смолистий",
+        "трохи пряний",
+        "енергійний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cytryna",
+        "bergamotka",
+        "grejpfrut",
+        "lawenda",
+        "bazylia",
+        "mięta",
+        "szałwia",
+        "cedr",
+        "wetyweria",
+        "piżmo"
+      ],
+      "uk": [
+        "лимон",
+        "бергамот",
+        "грейпфрут",
+        "лаванда",
+        "базилік",
+        "м'ята",
+        "шавлія",
+        "кедр",
+        "ветивер",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "pepperwood",
+    "name": {
+      "pl": "Pepperwood",
+      "uk": "Пепервуд"
+    },
+    "slug": {
+      "pl": "pepperwood",
+      "uk": "pepperwood"
+    },
+    "image": "pepperwood.jpg",
+    "category": "woody",
+    "description": {
+      "pl": "Pepperwood to wyrazista nuta drzewna o świeżym, suchym i lekko pikantnym charakterze. Łączy aromat suchego drewna z delikatną ostrością przypominającą świeżo zmielony pieprz. Może mieć lekko zielony, aromatyczny i ciepły akcent, dzięki czemu brzmi naturalnie, ale jednocześnie nowocześnie. W perfumerii dodaje kompozycjom energii, charakteru i eleganckiej drzewnej głębi.",
+      "uk": "Пепервуд — це виразна деревна нота зі свіжим, сухим і трохи пряним характером. Вона поєднує аромат сухої деревини з делікатною гостротою, що нагадує свіжомелений перець. Нота може мати легкий зелений, ароматний і теплий відтінок, завдяки чому звучить природно, але водночас сучасно. У парфумерії вона додає композиціям енергії, характеру та елегантної деревної глибини."
+    },
+    "shortDescription": {
+      "pl": "Sucha, aromatyczna nuta drzewna z lekkim pieprznym i świeżym akcentem.",
+      "uk": "Суха, ароматна деревна нота з легким перцевим і свіжим відтінком."
+    },
+    "origin": {
+      "pl": "Pepperwood to określenie stosowane dla różnych aromatycznych gatunków drewna i roślin, których zapach może przypominać połączenie drewna i przypraw. W zależności od zastosowanego materiału profil może być bardziej zielony, pieprzny, żywiczny lub drzewny. W perfumerii nazwa ta odnosi się przede wszystkim do efektu zapachowego inspirowanego suchym, aromatycznym drewnem o przyprawowym charakterze.",
+      "uk": "Pepperwood — це назва, яку використовують для різних ароматичних видів деревини та рослин, запах яких може нагадувати поєднання дерева і спецій. Залежно від конкретного матеріалу профіль може бути більш зеленим, перцевим, смолистим або деревним. У парфумерії ця назва передусім описує ароматичний ефект сухої, ароматної деревини з пряним характером."
+    },
+    "extraction": {
+      "pl": "Naturalne materiały określane jako pepperwood mogą być pozyskiwane z drewna, kory lub innych części rośliny, w zależności od konkretnego gatunku. W nowoczesnej perfumerii efekt pepperwood może być również odtwarzany za pomocą ekstraktów, olejków eterycznych i składników syntetycznych, które podkreślają suche, drzewne i pieprzne aspekty aromatu.",
+      "uk": "Натуральні матеріали, які називають pepperwood, можуть отримувати з деревини, кори або інших частин рослини — залежно від конкретного виду. У сучасній парфумерії ефект pepperwood також може відтворюватися за допомогою екстрактів, ефірних олій і синтетичних компонентів, які підкреслюють сухі, деревні та перцеві відтінки аромату."
+    },
+    "effect": {
+      "pl": "Pepperwood dodaje kompozycji charakteru, świeżości i suchej drzewnej głębi. Jego lekko pieprzny aspekt może ożywiać otwarcie i przełamywać miękkie lub słodkie nuty. Z cytrusami tworzy świeży i energetyczny efekt, z przyprawami staje się bardziej wyrazisty, a z cedrem, wetiwerem i piżmem tworzy elegancką, suchą i nowoczesną bazę.",
+      "uk": "Пепервуд додає композиції характеру, свіжості та сухої деревної глибини. Його легкий перцевий аспект може оживляти початок аромату та врівноважувати м'які або солодкі ноти. З цитрусами він створює свіже й енергійне звучання, зі спеціями стає більш виразним, а з кедром, ветивером і мускусом утворює елегантну, суху та сучасну базу."
+    },
+    "characteristics": {
+      "pl": [
+        "drzewny",
+        "suchy",
+        "pieprzny",
+        "świeży",
+        "aromatyczny",
+        "zielony",
+        "lekko pikantny",
+        "ciepły"
+      ],
+      "uk": [
+        "деревний",
+        "сухий",
+        "перцевий",
+        "свіжий",
+        "ароматний",
+        "зелений",
+        "трохи пряний",
+        "теплий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "czarny pieprz",
+        "różowy pieprz",
+        "cytrusy",
+        "cedr",
+        "sandałowiec",
+        "wetyweria",
+        "paczula",
+        "kadzidło",
+        "piżmo",
+        "ambra"
+      ],
+      "uk": [
+        "чорний перець",
+        "рожевий перець",
+        "цитруси",
+        "кедр",
+        "сандал",
+        "ветивер",
+        "пачулі",
+        "ладан",
+        "мускус",
+        "амбра"
+      ]
+    }
+  },
+  {
+    "id": "haitian-vetiver",
+    "name": {
+      "pl": "Wetyweria haitańska",
+      "uk": "Гаїтянський ветивер"
+    },
+    "slug": {
+      "pl": "wetyweria-haitanska",
+      "uk": "haitian-vetiver"
+    },
+    "image": "haitian-vetiver.jpg",
+    "category": "woody",
+    "description": {
+      "pl": "Wetyweria haitańska to szlachetna nuta drzewno-zielona o suchym, ziemistym i lekko dymnym charakterze. Łączy aromat suchej trawy, korzeni i drewna z chłodnym, świeżym akcentem oraz delikatną cytrusową goryczką. W porównaniu z cięższymi odmianami wetywerii może brzmieć bardziej czysto, jasno i elegancko. W perfumerii nadaje kompozycjom głębię, charakter i wyrafinowaną, naturalną suchość.",
+      "uk": "Гаїтянський ветивер — це благородна деревно-зелена нота із сухим, землистим і трохи димним характером. Вона поєднує аромат сухої трави, коріння та деревини з прохолодним, свіжим відтінком і делікатною цитрусовою гіркотою. Порівняно з деякими більш важкими різновидами ветиверу, він може звучати чистіше, світліше та елегантніше. У парфумерії він додає композиціям глибини, характеру та витонченої природної сухості."
+    },
+    "shortDescription": {
+      "pl": "Sucha, ziemista i lekko dymna nuta wetywerii o świeżym, zielonym charakterze.",
+      "uk": "Суха, землиста й трохи димна нота ветиверу зі свіжим, зеленим характером."
+    },
+    "origin": {
+      "pl": "Wetyweria haitańska pochodzi z Haiti, gdzie uprawia się ją przede wszystkim ze względu na aromatyczne korzenie. Roślina należy do rodziny wiechlinowatych i jest blisko spokrewniona z trawami. Haiti jest jednym z najważniejszych regionów produkcji wysokiej jakości olejku wetiwerowego wykorzystywanego w perfumerii.",
+      "uk": "Гаїтянський ветивер походить із Гаїті, де його вирощують насамперед заради ароматного коріння. Рослина належить до родини злакових і споріднена з травами. Гаїті є одним із найважливіших регіонів виробництва високоякісної ветиверової олії, яку використовують у парфумерії."
+    },
+    "extraction": {
+      "pl": "Olejek wetyweriowy otrzymuje się przede wszystkim z suszonych korzeni rośliny poprzez destylację z parą wodną. W przypadku wetywerii haitańskiej proces ten pozwala uzyskać bogaty, suchy i wielowymiarowy materiał o charakterystycznym zielonym, ziemistym, drzewnym i lekko dymnym profilu. Olejek jest ceniony za dużą trwałość i szerokie zastosowanie w kompozycjach zapachowych.",
+      "uk": "Ветиверову олію отримують переважно із висушеного коріння рослини методом парової дистиляції. У випадку гаїтянського ветиверу цей процес дозволяє отримати багатий, сухий і багатогранний матеріал із характерним зеленим, землистим, деревним і трохи димним профілем. Олію цінують за високу стійкість і широке застосування в парфумерних композиціях."
+    },
+    "effect": {
+      "pl": "Wetyweria haitańska nadaje kompozycji głębię, elegancję i charakterystyczną suchą świeżość. Może przypominać zapach suchej ziemi, korzeni, trawy i szlachetnego drewna połączonych z delikatnym dymnym akcentem. Z cytrusami tworzy świeże i wyrafinowane otwarcie, z przyprawami staje się bardziej wyrazista, a z cedrem, paczulą i piżmem buduje trwałą, suchą i elegancką bazę.",
+      "uk": "Гаїтянський ветивер надає композиції глибини, елегантності та характерної сухої свіжості. Він може нагадувати запах сухої землі, коріння, трави та благородної деревини, поєднаних із делікатним димним відтінком. З цитрусами створює свіже й витончене відкриття, зі спеціями стає більш виразним, а з кедром, пачулі та мускусом формує стійку, суху та елегантну базу."
+    },
+    "characteristics": {
+      "pl": [
+        "drzewny",
+        "ziemisty",
+        "zielony",
+        "suchy",
+        "dymny",
+        "korzenny",
+        "świeży",
+        "elegancki"
+      ],
+      "uk": [
+        "деревний",
+        "землистий",
+        "зелений",
+        "сухий",
+        "димний",
+        "кореневий",
+        "свіжий",
+        "елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "grejpfrut",
+        "bergamotka",
+        "cytryna",
+        "cedr",
+        "sandałowiec",
+        "paczula",
+        "czarny pieprz",
+        "kadzidło",
+        "skóra",
+        "piżmo"
+      ],
+      "uk": [
+        "грейпфрут",
+        "бергамот",
+        "лимон",
+        "кедр",
+        "сандал",
+        "пачулі",
+        "чорний перець",
+        "ладан",
+        "шкіра",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "ice",
+    "name": {
+      "pl": "Lód",
+      "uk": "Лід"
+    },
+    "slug": {
+      "pl": "lod",
+      "uk": "lid"
+    },
+    "image": "ice.jpg",
+    "category": "fresh",
+    "description": {
+      "pl": "Lód to chłodna, krystaliczna nuta używana w perfumerii do tworzenia wrażenia czystości, świeżości i niemal lodowatego powietrza. Nie oznacza dosłownie zapachu lodu — jest raczej akordem, który daje efekt chłodu, przejrzystości i orzeźwienia. Może kojarzyć się z zimnym powietrzem, świeżo umytą skórą, wodą i delikatnie mineralną świeżością.",
+      "uk": "Лід — це холодна, кристально чиста нота, яку використовують у парфумерії для створення відчуття чистоти, свіжості та майже крижаного повітря. Вона не означає буквальний запах льоду — радше створює ефект холоду, прозорості та прохолоди. Може нагадувати холодне повітря, щойно вимиту шкіру, воду й делікатну мінеральну свіжість."
+    },
+    "shortDescription": {
+      "pl": "Chłodna, krystaliczna i czysta nuta dająca efekt lodowatej świeżości.",
+      "uk": "Холодна, кристально чиста нота з ефектом льодової свіжості."
+    },
+    "origin": {
+      "pl": "Lód nie jest klasycznym surowcem perfumeryjnym pozyskiwanym z roślin. W opisach perfum określenie „Ice” najczęściej odnosi się do efektu zapachowego lub akordu stworzonego przez połączenie świeżych, wodnych, cytrusowych, mentolowych i chłodnych składników.",
+      "uk": "Лід не є класичною парфумерною сировиною, яку отримують із рослин. В описах парфумів назва «Ice» найчастіше означає ароматичний ефект або акорд, створений поєднанням свіжих, водних, цитрусових, ментолових та інших холодних компонентів."
+    },
+    "extraction": {
+      "pl": "„Ice” jest zazwyczaj akordem perfumeryjnym, a nie naturalnym ekstraktem. Efekt chłodu można uzyskać poprzez odpowiednie połączenie składników świeżych, wodnych, cytrusowych, aromatycznych i syntetycznych materiałów zapachowych.",
+      "uk": "«Ice» зазвичай є парфумерним акордом, а не натуральним екстрактом. Ефект холоду створюють за допомогою поєднання свіжих, водних, цитрусових, ароматичних і синтетичних запашних матеріалів."
+    },
+    "effect": {
+      "pl": "Lód nadaje kompozycji natychmiastowe wrażenie chłodu, czystości i orzeźwienia. Może sprawić, że zapach wydaje się bardziej przestrzenny, lekki i przejrzysty. Szczególnie dobrze podkreśla świeże otwarcie kompozycji i tworzy efekt „zimnego powietrza” na skórze.",
+      "uk": "Лід надає композиції миттєвого відчуття холоду, чистоти та свіжості. Він може робити аромат більш повітряним, легким і прозорим. Особливо добре підкреслює свіже відкриття композиції та створює ефект «холодного повітря» на шкірі."
+    },
+    "characteristics": {
+      "pl": [
+        "chłodny",
+        "świeży",
+        "krystaliczny",
+        "czysty",
+        "wodny",
+        "orzeźwiający",
+        "lekki",
+        "przejrzysty"
+      ],
+      "uk": [
+        "холодний",
+        "свіжий",
+        "кристальний",
+        "чистий",
+        "водний",
+        "освіжаючий",
+        "легкий",
+        "прозорий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cytrusy",
+        "mięta",
+        "wodne akordy",
+        "ozon",
+        "lawenda",
+        "grejpfrut",
+        "bergamotka",
+        "jaśmin",
+        "piżmo",
+        "ambroksan"
+      ],
+      "uk": [
+        "цитруси",
+        "м'ята",
+        "водні акорди",
+        "озон",
+        "лаванда",
+        "грейпфрут",
+        "бергамот",
+        "жасмин",
+        "мускус",
+        "амброксан"
+      ]
+    }
+  },
+  {
+    "id": "mahogany",
+    "name": {
+      "pl": "Mahoń",
+      "uk": "Махагон"
+    },
+    "slug": {
+      "pl": "mahon",
+      "uk": "mahahon"
+    },
+    "image": "mahogany.jpg",
+    "category": "woody",
+    "description": {
+      "pl": "Mahoń to szlachetna, ciepła nuta drzewna o głębokim, eleganckim charakterze. Kojarzy się z ciemnym polerowanym drewnem, delikatną słodyczą, balsamicznym ciepłem i subtelnym akcentem przyprawowym. W perfumach może nadawać kompozycji wyrafinowania, głębi i miękkiej, luksusowej drzewności.",
+      "uk": "Махагон — це благородна, тепла деревна нота з глибоким та елегантним характером. Вона нагадує темне поліроване дерево, легку солодкість, бальзамічне тепло та делікатний пряний відтінок. У парфумах махагон надає композиції вишуканості, глибини та м'якого, розкішного деревного звучання."
+    },
+    "shortDescription": {
+      "pl": "Ciepła, głęboka i elegancka nuta ciemnego drewna z delikatnie balsamicznym charakterem.",
+      "uk": "Тепла, глибока й елегантна нота темного дерева з делікатним бальзамічним характером."
+    },
+    "origin": {
+      "pl": "Mahoń to określenie kilku gatunków drzew, szczególnie z rodzaju Swietenia, cenionych za ciemne, trwałe i pięknie wybarwione drewno. W perfumerii nazwa ta może odnosić się zarówno do naturalnego charakteru drewna, jak i do akordu zapachowego inspirowanego jego aromatem.",
+      "uk": "Махагон — це назва кількох видів дерев, зокрема роду Swietenia, які цінують за темну, міцну та красиво забарвлену деревину. У парфумерії ця назва може означати як природний характер деревини, так і ароматичний акорд, натхненний її запахом."
+    },
+    "extraction": {
+      "pl": "Naturalny olejek mahoniowy nie jest jednym z najczęściej stosowanych materiałów perfumeryjnych. Efekt mahoniowego drewna może być tworzony poprzez ekstrakcję lub destylację odpowiednich surowców drzewnych, a także za pomocą połączenia naturalnych i syntetycznych składników odtwarzających charakter ciemnego drewna.",
+      "uk": "Натуральна махагонова олія не належить до найпоширеніших парфумерних матеріалів. Ефект махагонового дерева можуть створювати за допомогою екстракції або дистиляції відповідної деревної сировини, а також поєднання натуральних і синтетичних компонентів, які відтворюють характер темної деревини."
+    },
+    "effect": {
+      "pl": "Mahoń nadaje kompozycji głębi, ciepła i eleganckiej drzewności. Może sprawiać wrażenie ciemnego, gładkiego i wypolerowanego drewna, a w połączeniu z przyprawami, ambrą lub wanilią staje się bardziej miękki i zmysłowy. Dobrze buduje szlachetną, wieczorową atmosferę zapachu.",
+      "uk": "Махагон додає композиції глибини, тепла та елегантного деревного характеру. Він може створювати враження темного, гладкого й відполірованого дерева, а в поєднанні зі спеціями, амброю або ваніллю стає м'якшим і чуттєвішим. Добре формує благородну, вечірню атмосферу аромату."
+    },
+    "characteristics": {
+      "pl": [
+        "drzewny",
+        "ciepły",
+        "głęboki",
+        "ciemny",
+        "elegancki",
+        "balsamiczny",
+        "lekko słodki",
+        "subtelnie przyprawowy"
+      ],
+      "uk": [
+        "деревний",
+        "теплий",
+        "глибокий",
+        "темний",
+        "елегантний",
+        "бальзамічний",
+        "трохи солодкий",
+        "делікатно пряний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "cedr",
+        "sandałowiec",
+        "paczula",
+        "ambra",
+        "wanilia",
+        "pieprz",
+        "cynamon",
+        "skóra",
+        "tytoń",
+        "wetyweria"
+      ],
+      "uk": [
+        "кедр",
+        "сандал",
+        "пачулі",
+        "амбра",
+        "ваніль",
+        "перець",
+        "кориця",
+        "шкіра",
+        "тютюн",
+        "ветивер"
+      ]
+    }
+  },
+  {
+    "id": "passion-fruit",
+    "name": {
+      "pl": "Marakuja",
+      "uk": "Маракуя"
+    },
+    "slug": {
+      "pl": "marakuja",
+      "uk": "marakuya"
+    },
+    "image": "passion-fruit.jpg",
+    "category": "fruity",
+    "description": {
+      "pl": "Marakuja to intensywna, egzotyczna nuta owocowa o soczystym, słodko-kwaśnym i lekko tropikalnym charakterze. Pachnie świeżym miąższem dojrzałego owocu, łącząc słodycz z wyraźną kwaskowatością i delikatnie zielonym akcentem. W perfumach daje efekt soczystości, energii i egzotycznej świeżości.",
+      "uk": "Маракуя — це інтенсивна екзотична фруктова нота із соковитим, солодко-кислим і трохи тропічним характером. Вона нагадує аромат свіжої м'якоті стиглого плода, поєднуючи солодкість із виразною кислинкою та делікатним зеленим відтінком. У парфумах створює ефект соковитості, енергії та екзотичної свіжості."
+    },
+    "shortDescription": {
+      "pl": "Soczysta, egzotyczna i słodko-kwaśna nuta tropikalnego owocu.",
+      "uk": "Соковита, екзотична й солодко-кисла нота тропічного фрукта."
+    },
+    "origin": {
+      "pl": "Marakuja, czyli passiflora jadalna (Passiflora edulis), pochodzi z tropikalnych i subtropikalnych regionów Ameryki Południowej. Jej charakterystyczny aromat pochodzi przede wszystkim z dojrzałego, soczystego miąższu owocu.",
+      "uk": "Маракуя, або їстівна пасифлора (Passiflora edulis), походить із тропічних і субтропічних регіонів Південної Америки. Її характерний аромат походить переважно від стиглої, соковитої м'якоті плода."
+    },
+    "extraction": {
+      "pl": "W perfumerii nuta marakui może być odtwarzana za pomocą naturalnych ekstraktów owocowych, ekstraktów lub innych składników aromatycznych, a także poprzez połączenie materiałów naturalnych i syntetycznych. Charakterystyczny efekt często buduje się tak, aby zachować jednocześnie soczystość, kwaskowatość i tropikalną świeżość owocu.",
+      "uk": "У парфумерії ноту маракуї можуть відтворювати за допомогою натуральних фруктових екстрактів та інших ароматичних компонентів, а також поєднанням натуральних і синтетичних матеріалів. Характерний ефект створюють так, щоб одночасно зберегти соковитість, кислинку та тропічну свіжість плода."
+    },
+    "effect": {
+      "pl": "Marakuja natychmiast dodaje kompozycji soczystości, energii i egzotycznego charakteru. Jej słodko-kwaśny profil może ożywiać owocowe i kwiatowe kompozycje, a lekko zielony akcent sprawia, że zapach nie staje się przesadnie słodki. Świetnie sprawdza się w świeżych, radosnych i nowoczesnych kompozycjach.",
+      "uk": "Маракуя одразу додає композиції соковитості, енергії та екзотичного характеру. Її солодко-кислий профіль оживляє фруктові й квіткові композиції, а легкий зелений відтінок не дозволяє аромату стати надто солодким. Особливо добре звучить у свіжих, яскравих і сучасних композиціях."
+    },
+    "characteristics": {
+      "pl": [
+        "owocowy",
+        "egzotyczny",
+        "soczysty",
+        "słodko-kwaśny",
+        "tropikalny",
+        "świeży",
+        "lekko zielony",
+        "energetyczny"
+      ],
+      "uk": [
+        "фруктовий",
+        "екзотичний",
+        "соковитий",
+        "солодко-кислий",
+        "тропічний",
+        "свіжий",
+        "трохи зелений",
+        "енергійний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "mango",
+        "ananas",
+        "marakuja",
+        "cytrusy",
+        "grejpfrut",
+        "malina",
+        "brzoskwinia",
+        "jaśmin",
+        "kwiat pomarańczy",
+        "piżmo"
+      ],
+      "uk": [
+        "манго",
+        "ананас",
+        "маракуя",
+        "цитруси",
+        "грейпфрут",
+        "малина",
+        "персик",
+        "жасмин",
+        "квітка апельсина",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "bitter-orange",
+    "name": {
+      "pl": "Gorzka pomarańcza",
+      "uk": "Гіркий апельсин"
+    },
+    "slug": {
+      "pl": "gorzka-pomarancza",
+      "uk": "hirkyi-apelsyn"
+    },
+    "image": "bitter-orange.jpg",
+    "category": "citrus",
+    "description": {
+      "pl": "Gorzka pomarańcza to świeża, wyrazista nuta cytrusowa o charakterystycznym gorzkawym i lekko zielonym charakterze. Łączy soczystą cytrusową świeżość z aromatem skórki, delikatną goryczką i subtelnym kwiatowym akcentem. W perfumach brzmi bardziej elegancko i wytrawnie niż słodka pomarańcza, dodając kompozycji energii i szlachetnej świeżości.",
+      "uk": "Гіркий апельсин — це свіжа, виразна цитрусова нота з характерною легкою гіркотою та зеленим відтінком. Вона поєднує соковиту цитрусову свіжість з ароматом цедри, делікатною гірчинкою та тонким квітковим нюансом. У парфумах звучить більш елегантно й сухо, ніж солодкий апельсин, додаючи композиції енергії та благородної свіжості."
+    },
+    "shortDescription": {
+      "pl": "Świeża, lekko gorzka i zielona nuta cytrusowa z aromatem skórki pomarańczy.",
+      "uk": "Свіжа, трохи гірка й зелена цитрусова нота з ароматом апельсинової цедри."
+    },
+    "origin": {
+      "pl": "Gorzka pomarańcza, znana również jako pomarańcza kwaśna (Citrus aurantium), pochodzi z Azji Południowo-Wschodniej, a obecnie jest uprawiana w wielu regionach o ciepłym klimacie. W perfumerii wykorzystuje się różne części rośliny, między innymi skórkę owocu, kwiaty i liście.",
+      "uk": "Гіркий апельсин, також відомий як помаранч кислий (Citrus aurantium), походить із Південно-Східної Азії, а сьогодні вирощується в багатьох регіонах із теплим кліматом. У парфумерії використовують різні частини рослини, зокрема шкірку плодів, квіти та листя."
+    },
+    "extraction": {
+      "pl": "Olejek ze skórki gorzkiej pomarańczy otrzymuje się najczęściej poprzez tłoczenie lub inne metody ekstrakcji olejków ze skórek owoców. Z kwiatów gorzkiej pomarańczy otrzymuje się również neroli, natomiast z liści i młodych gałązek — petitgrain. Każdy z tych materiałów ma własny, charakterystyczny profil zapachowy.",
+      "uk": "Олію зі шкірки гіркого апельсина найчастіше отримують шляхом пресування або інших методів вилучення ефірних олій зі шкірки плодів. Із квітів гіркого апельсина отримують також неролі, а з листя та молодих гілочок — петітгрейн. Кожен із цих матеріалів має власний характерний ароматичний профіль."
+    },
+    "effect": {
+      "pl": "Gorzka pomarańcza rozświetla kompozycję i nadaje jej świeży, lekko wytrawny charakter. Goryczkowy akcent skórki sprawia, że cytrusowe otwarcie jest bardziej wyrafinowane i mniej słodkie. Dobrze sprawdza się zarówno w świeżych kompozycjach, jak i w eleganckich zapachach kwiatowych, szyprowych i drzewnych.",
+      "uk": "Гіркий апельсин освіжає та підсвічує композицію, надаючи їй свіжого й трохи сухого характеру. Легка гіркота цедри робить цитрусовий початок більш вишуканим і менш солодким. Він добре працює як у свіжих композиціях, так і в елегантних квіткових, шипрових та деревних ароматах."
+    },
+    "characteristics": {
+      "pl": [
+        "cytrusowy",
+        "świeży",
+        "gorzki",
+        "zielony",
+        "soczysty",
+        "wytrawny",
+        "aromatyczny",
+        "lekko kwiatowy"
+      ],
+      "uk": [
+        "цитрусовий",
+        "свіжий",
+        "гіркий",
+        "зелений",
+        "соковитий",
+        "сухий",
+        "ароматний",
+        "трохи квітковий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "neroli",
+        "petitgrain",
+        "bergamotka",
+        "cytryna",
+        "grejpfrut",
+        "lawenda",
+        "jaśmin",
+        "cedr",
+        "wetyweria",
+        "piżmo"
+      ],
+      "uk": [
+        "неролі",
+        "петітгрейн",
+        "бергамот",
+        "лимон",
+        "грейпфрут",
+        "лаванда",
+        "жасмин",
+        "кедр",
+        "ветивер",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "ebelia",
+    "name": {
+      "pl": "Ebelia",
+      "uk": "Ебелія"
+    },
+    "slug": {
+      "pl": "ebelia",
+      "uk": "ebeliia"
+    },
+    "image": "ebelia.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Ebelia to nowoczesna, miękka nuta kwiatowa o delikatnym, czystym i eleganckim charakterze. Jej profil łączy subtelną świeżość z kremową, lekko pudrową miękkością i jasnym kwiatowym brzmieniem. W kompozycji może tworzyć wrażenie zadbanej skóry, delikatnych płatków kwiatów i spokojnej, kobiecej elegancji.",
+      "uk": "Ебелія — це сучасна м'яка квіткова нота з делікатним, чистим та елегантним характером. Її профіль поєднує тонку свіжість із кремовою, трохи пудровою м'якістю та світлим квітковим звучанням. У композиції вона може створювати враження доглянутої шкіри, ніжних пелюсток квітів і спокійної жіночної елегантності."
+    },
+    "shortDescription": {
+      "pl": "Delikatna, czysta i miękka nuta kwiatowa o kremowo-pudrowym charakterze.",
+      "uk": "Делікатна, чиста й м'яка квіткова нота з кремово-пудровим характером."
+    },
+    "origin": {
+      "pl": "Ebelia jest nowoczesnym materiałem zapachowym stosowanym w kompozycjach perfumeryjnych do budowania miękkiego, kwiatowego i czystego efektu. Nie jest klasyczną naturalną nutą pozyskiwaną bezpośrednio z jednego gatunku kwiatu.",
+      "uk": "Ебелія — це сучасний ароматичний матеріал, який використовують у парфумерних композиціях для створення м'якого, квіткового та чистого ефекту. Це не класична натуральна нота, яку безпосередньо отримують з одного виду квітів."
+    },
+    "extraction": {
+      "pl": "Ebelia jest materiałem perfumeryjnym otrzymywanym w procesie syntezy chemicznej. Dzięki kontrolowanej budowie może zapewniać stabilny i powtarzalny efekt zapachowy oraz dobrze łączyć się z innymi składnikami kompozycji.",
+      "uk": "Ебелію отримують шляхом хімічного синтезу як парфумерний ароматичний матеріал. Завдяки контрольованій структурі вона забезпечує стабільний і повторюваний ароматичний ефект та добре поєднується з іншими компонентами композиції."
+    },
+    "effect": {
+      "pl": "Ebelia nadaje perfumom miękkości, czystości i eleganckiego kwiatowego charakteru. Może wygładzać ostrzejsze składniki i sprawiać, że kompozycja staje się bardziej harmonijna oraz przyjemna w odbiorze. Szczególnie dobrze sprawdza się w nowoczesnych, lekkich i kobiecych zapachach.",
+      "uk": "Ебелія надає парфумам м'якості, чистоти та елегантного квіткового характеру. Вона може пом'якшувати різкіші компоненти й робити композицію більш гармонійною та приємною для сприйняття. Особливо добре працює в сучасних, легких і жіночних ароматах."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "delikatny",
+        "czysty",
+        "miękki",
+        "kremowy",
+        "lekko pudrowy",
+        "elegancki",
+        "jasny"
+      ],
+      "uk": [
+        "квітковий",
+        "делікатний",
+        "чистий",
+        "м'який",
+        "кремовий",
+        "трохи пудровий",
+        "елегантний",
+        "світлий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "jaśmin",
+        "róża",
+        "kwiat pomarańczy",
+        "magnolia",
+        "lotos",
+        "piżmo",
+        "ambroksan",
+        "wanilia",
+        "drzewo sandałowe",
+        "bursztyn"
+      ],
+      "uk": [
+        "жасмин",
+        "троянда",
+        "квітка апельсина",
+        "магнолія",
+        "лотос",
+        "мускус",
+        "амброксан",
+        "ваніль",
+        "сандалове дерево",
+        "амбра"
+      ]
+    }
+  },
+  {
+    "id": "frangipani",
+    "name": {
+      "pl": "Frangipani",
+      "uk": "Франжипані"
+    },
+    "slug": {
+      "pl": "frangipani",
+      "uk": "franzhypani"
+    },
+    "image": "frangipani.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Frangipani to egzotyczna nuta kwiatowa o kremowym, miękkim i lekko słodkim charakterze. Kwiaty frangipani pachną intensywnie, łącząc delikatne cytrusowe akcenty z kremową słodyczą i subtelną nutą migdałową. W perfumach tworzy wrażenie tropikalnego ogrodu, ciepłego powietrza i rozgrzanej słońcem skóry.",
+      "uk": "Франжипані — це екзотична квіткова нота з кремовим, м'яким і трохи солодким характером. Квіти франжипані мають насичений аромат, у якому поєднуються делікатні цитрусові відтінки, кремова солодкість і легкий мигдальний нюанс. У парфумах вона створює враження тропічного саду, теплого повітря та шкіри, зігрітої сонцем."
+    },
+    "shortDescription": {
+      "pl": "Kremowa, egzotyczna i lekko słodka nuta kwiatowa o tropikalnym charakterze.",
+      "uk": "Кремова, екзотична й трохи солодка квіткова нота з тропічним характером."
+    },
+    "origin": {
+      "pl": "Frangipani to potoczna nazwa roślin z rodzaju Plumeria, pochodzących z tropikalnych regionów obu Ameryk. Ich piękne, intensywnie pachnące kwiaty są dziś charakterystycznym elementem krajobrazu tropikalnych wysp Azji, Pacyfiku i Karaibów.",
+      "uk": "Франжипані — це поширена назва рослин роду Plumeria, що походять із тропічних регіонів Америки. Їхні красиві, запашні квіти сьогодні стали характерною частиною ландшафту тропічних островів Азії, Тихого океану та Карибського басейну."
+    },
+    "extraction": {
+      "pl": "Naturalny absolut lub ekstrakt z kwiatów frangipani jest stosowany w perfumerii znacznie rzadziej niż popularne ekstrakty różane czy jaśminowe. Charakterystyczny zapach frangipani często odtwarza się za pomocą kompozycji naturalnych i syntetycznych składników, które oddają jego kremowy, kwiatowy i tropikalny charakter.",
+      "uk": "Натуральний абсолют або екстракт квітів франжипані використовується в парфумерії значно рідше, ніж популярні трояндові чи жасминові екстракти. Характерний аромат франжипані часто відтворюють за допомогою поєднання натуральних і синтетичних компонентів, які передають його кремовий, квітковий і тропічний характер."
+    },
+    "effect": {
+      "pl": "Frangipani nadaje kompozycji egzotycznej miękkości, kremowości i słonecznego charakteru. Może sprawić, że zapach staje się bardziej zmysłowy i wakacyjny, szczególnie w połączeniu z kokosem, wanilią i białymi kwiatami. Jednocześnie jego delikatna cytrusowa świeżość może rozjaśniać słodkie i kremowe akordy.",
+      "uk": "Франжипані надає композиції екзотичної м'якості, кремовості та сонячного характеру. У поєднанні з кокосом, ваніллю та білими квітами аромат стає більш чуттєвим і нагадує про теплий відпочинок. Водночас делікатна цитрусова свіжість франжипані може освітлювати солодкі та кремові акорди."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "egzotyczny",
+        "kremowy",
+        "słodki",
+        "tropikalny",
+        "delikatnie cytrusowy",
+        "miękki",
+        "zmysłowy"
+      ],
+      "uk": [
+        "квітковий",
+        "екзотичний",
+        "кремовий",
+        "солодкий",
+        "тропічний",
+        "делікатно цитрусовий",
+        "м'який",
+        "чуттєвий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "kokos",
+        "wanilia",
+        "jaśmin",
+        "gardenia",
+        "ylang-ylang",
+        "tiare",
+        "kwiat pomarańczy",
+        "brzoskwinia",
+        "piżmo",
+        "drzewo sandałowe"
+      ],
+      "uk": [
+        "кокос",
+        "ваніль",
+        "жасмин",
+        "гарденія",
+        "іланг-іланг",
+        "тіаре",
+        "квітка апельсина",
+        "персик",
+        "мускус",
+        "сандалове дерево"
+      ]
+    }
+  },
+  {
+    "id": "solar-accord",
+    "name": {
+      "pl": "Akord słoneczny",
+      "uk": "Сонячний акорд"
+    },
+    "slug": {
+      "pl": "akord-sloneczny",
+      "uk": "soniachnyi-akord"
+    },
+    "image": "solar-accord.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Akord słoneczny to jasna, ciepła i promienna nuta, która ma przywoływać wrażenie skóry ogrzanej słońcem, ciepłego powietrza i złotego światła. Nie jest pojedynczym surowcem, lecz efektem połączenia kilku materiałów zapachowych. W zależności od kompozycji może mieć kremowe, kwiatowe, lekko słone, pudrowe lub ambrowe oblicze.",
+      "uk": "Сонячний акорд — це світла, тепла й сяюча нота, яка створює враження шкіри, зігрітої сонцем, теплого повітря та золотого світла. Це не окрема сировина, а результат поєднання кількох ароматичних компонентів. Залежно від композиції він може звучати кремово, квітково, трохи солоно, пудрово або амброво."
+    },
+    "shortDescription": {
+      "pl": "Ciepły, promienny i świetlisty akord przywołujący skórę rozgrzaną słońcem.",
+      "uk": "Теплий, сяючий і світлий акорд, що нагадує шкіру, зігріту сонцем."
+    },
+    "origin": {
+      "pl": "Akord słoneczny nie pochodzi bezpośrednio z jednej rośliny ani naturalnego surowca. Jest konstrukcją perfumeryjną stworzoną po to, aby odtworzyć wrażenie ciepła, światła i promieniowania słonecznego na skórze. Często wykorzystuje inspiracje kwiatami tropikalnymi, białymi kwiatami, wanilią, piżmem i ciepłymi nutami ambrowymi.",
+      "uk": "Сонячний акорд не походить безпосередньо з однієї рослини чи натуральної сировини. Це парфумерна конструкція, створена для відтворення відчуття тепла, світла та сонячного проміння на шкірі. Часто в ньому використовують відтінки тропічних і білих квітів, ванілі, мускусу та теплих амбрових нот."
+    },
+    "extraction": {
+      "pl": "Akord słoneczny nie jest pozyskiwany metodą ekstrakcji. Tworzy się go w laboratorium poprzez połączenie naturalnych ekstraktów, olejków eterycznych i syntetycznych materiałów zapachowych. Dzięki temu perfumiarz może kontrolować intensywność efektu ciepła, kremowości, świetlistości i słonej świeżości.",
+      "uk": "Сонячний акорд не отримують методом екстракції. Його створюють у лабораторії шляхом поєднання натуральних екстрактів, ефірних олій і синтетичних ароматичних матеріалів. Це дозволяє парфумеру контролювати інтенсивність тепла, кремовості, сяйва та солонуватої свіжості."
+    },
+    "effect": {
+      "pl": "Akord słoneczny nadaje perfumom wrażenie światła, ciepła i wakacyjnej atmosfery. Może sprawiać, że kwiatowe i kremowe nuty wydają się bardziej promienne, a skóra pachnie jak po długim dniu spędzonym na słońcu. W kompozycjach często tworzy miękkie, zmysłowe i bardzo przestrzenne wrażenie.",
+      "uk": "Сонячний акорд надає парфумам відчуття світла, тепла та атмосфери відпочинку. Він може робити квіткові й кремові ноти більш сяючими, а шкіру — такою, ніби вона весь день була зігріта сонцем. У композиціях часто створює м'яке, чуттєве та повітряне враження."
+    },
+    "characteristics": {
+      "pl": [
+        "ciepły",
+        "świetlisty",
+        "promienny",
+        "kremowy",
+        "kwiatowy",
+        "zmysłowy",
+        "lekko słony",
+        "ambrowy"
+      ],
+      "uk": [
+        "теплий",
+        "світлий",
+        "сяючий",
+        "кремовий",
+        "квітковий",
+        "чуттєвий",
+        "трохи солонуватий",
+        "амбровий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "frangipani",
+        "ylang-ylang",
+        "kwiat pomarańczy",
+        "gardenia",
+        "kokos",
+        "wanilia",
+        "piżmo",
+        "ambra",
+        "drzewo sandałowe",
+        "akord morski"
+      ],
+      "uk": [
+        "франжипані",
+        "іланг-іланг",
+        "квітка апельсина",
+        "гарденія",
+        "кокос",
+        "ваніль",
+        "мускус",
+        "амбра",
+        "сандалове дерево",
+        "морський акорд"
+      ]
+    }
+  },
+  {
+    "id": "cistus",
+    "name": {
+      "pl": "Czystek",
+      "uk": "Ладанник"
+    },
+    "slug": {
+      "pl": "czystek",
+      "uk": "ladannyk"
+    },
+    "image": "cistus.jpg",
+    "category": "resinous",
+    "description": {
+      "pl": "Czystek to aromatyczna, żywiczna nuta o ciepłym, balsamicznym i lekko dymnym charakterze. Kojarzy się z suchą śródziemnomorską roślinnością, rozgrzaną ziemią i żywicą. W perfumerii jest szczególnie ceniony za głębię, miękkość i charakterystyczny ambrowy efekt, który może przypominać labdanum.",
+      "uk": "Ладанник — це ароматична смолиста нота з теплим, бальзамічним і трохи димним характером. Вона нагадує суху середземноморську рослинність, нагріту землю та смолу. У парфумерії ладанник особливо цінують за глибину, м'якість і характерний амбровий ефект, який може нагадувати лабданум."
+    },
+    "shortDescription": {
+      "pl": "Ciepła, żywiczna i balsamiczna nuta o lekko dymnym, ambrowym charakterze.",
+      "uk": "Тепла, смолиста й бальзамічна нота з легким димним та амбровим характером."
+    },
+    "origin": {
+      "pl": "Czystek to krzew z rodzaju Cistus, charakterystyczny dla regionu Morza Śródziemnego. Rośnie na suchych, nasłonecznionych terenach i jest szczególnie ceniony za aromatyczną żywicę znajdującą się na liściach i młodych pędach niektórych gatunków.",
+      "uk": "Ладанник — це кущ із роду Cistus, характерний для Середземноморського регіону. Він росте на сухих, сонячних територіях і особливо цінується за ароматичну смолу, що міститься на листі та молодих пагонах деяких видів."
+    },
+    "extraction": {
+      "pl": "Z żywicy czystka otrzymuje się przede wszystkim labdanum, stosowane jako cenny materiał perfumeryjny. Może być pozyskiwane z żywicznej substancji pokrywającej liście i młode gałązki, a następnie poddawane dalszej obróbce w celu uzyskania ekstraktów lub absolutów.",
+      "uk": "Із смоли ладанника отримують насамперед лабданум — цінний парфумерний матеріал. Його можуть отримувати зі смолистої речовини, що покриває листя та молоді гілочки, після чого сировину додатково обробляють для отримання екстрактів або абсолютів."
+    },
+    "effect": {
+      "pl": "Czystek wnosi do kompozycji ciepło, żywiczną głębię i miękką, balsamiczną słodycz. Może wzmacniać ambrowe i orientalne akordy, nadając im bardziej naturalny, bogaty charakter. Jego lekko dymne i ziołowe niuanse sprawiają, że kompozycja staje się bardziej złożona i zmysłowa.",
+      "uk": "Ладанник додає композиції тепла, смолистої глибини та м'якої бальзамічної солодкості. Він може посилювати амброві й східні акорди, надаючи їм більш природного та насиченого характеру. Легкі димні й трав'янисті нюанси роблять аромат складнішим і чуттєвішим."
+    },
+    "characteristics": {
+      "pl": [
+        "żywiczny",
+        "balsamiczny",
+        "ambrowy",
+        "ciepły",
+        "lekko dymny",
+        "suchy",
+        "aromatyczny",
+        "lekko ziołowy"
+      ],
+      "uk": [
+        "смолистий",
+        "бальзамічний",
+        "амбровий",
+        "теплий",
+        "трохи димний",
+        "сухий",
+        "ароматний",
+        "трохи трав'янистий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "labdanum",
+        "ambra",
+        "wanilia",
+        "kadzidło",
+        "paczula",
+        "wetyweria",
+        "cedr",
+        "sandałowiec",
+        "skóra",
+        "róża"
+      ],
+      "uk": [
+        "ладанум",
+        "амбра",
+        "ваніль",
+        "ладан",
+        "пачулі",
+        "ветивер",
+        "кедр",
+        "сандал",
+        "шкіра",
+        "троянда"
+      ]
+    }
+  },
+  {
+    "id": "red-berries",
+    "name": {
+      "pl": "Czerwone jagody",
+      "uk": "Червоні ягоди"
+    },
+    "slug": {
+      "pl": "czerwone-jagody",
+      "uk": "chervoni-yahody"
+    },
+    "image": "red-berries.jpg",
+    "category": "fruity",
+    "description": {
+      "pl": "Czerwone jagody to soczysty, owocowy akord o świeżym, słodko-kwaśnym i lekko cierpkim charakterze. Nie oznacza jednej konkretnej jagody, lecz ogólne wrażenie dojrzałych czerwonych owoców — intensywne, soczyste i pełne naturalnej owocowej energii. W perfumach nadaje kompozycji świeżości, radosnego charakteru i apetycznej soczystości.",
+      "uk": "Червоні ягоди — це соковитий фруктовий акорд зі свіжим, солодко-кислим і трохи терпким характером. Він не означає одну конкретну ягоду, а створює загальне враження стиглих червоних плодів — насичене, соковите та сповнене природної фруктової енергії. У парфумах надає композиції свіжості, грайливого характеру та апетитної соковитості."
+    },
+    "shortDescription": {
+      "pl": "Soczysty, świeży i słodko-kwaśny akord dojrzałych czerwonych owoców.",
+      "uk": "Соковитий, свіжий і солодко-кислий акорд стиглих червоних ягід."
+    },
+    "origin": {
+      "pl": "Czerwone jagody nie są pojedynczym surowcem roślinnym, lecz określeniem zbiorczego efektu zapachowego. W zależności od kompozycji może on przywoływać różne czerwone owoce i jagody, tworząc charakterystyczne wrażenie soczystości, słodyczy i lekkiej kwaskowatości.",
+      "uk": "Червоні ягоди — це не окрема рослинна сировина, а назва узагальненого ароматичного ефекту. Залежно від композиції він може нагадувати різні червоні плоди та ягоди, створюючи характерне відчуття соковитості, солодкості й легкої кислинки."
+    },
+    "extraction": {
+      "pl": "Akord czerwonych jagód jest najczęściej tworzony w laboratorium za pomocą połączenia naturalnych ekstraktów, olejków oraz syntetycznych materiałów zapachowych. Dzięki temu perfumiarz może kontrolować poziom słodyczy, kwaskowatości, świeżości i intensywności owocowego efektu.",
+      "uk": "Акорд червоних ягід найчастіше створюють у лабораторії за допомогою поєднання натуральних екстрактів, ефірних олій і синтетичних ароматичних матеріалів. Це дозволяє парфумеру контролювати рівень солодкості, кислинки, свіжості та інтенсивності фруктового звучання."
+    },
+    "effect": {
+      "pl": "Czerwone jagody ożywiają kompozycję i nadają jej soczyste, kolorowe otwarcie. Mogą sprawić, że zapach wydaje się bardziej radosny, młodzieńczy i apetyczny, a jednocześnie lekko kwaskowy akcent zapobiega nadmiernej słodyczy. Dobrze sprawdzają się zarówno w świeżych zapachach owocowych, jak i w bardziej zmysłowych kompozycjach kwiatowych, waniliowych czy piżmowych.",
+      "uk": "Червоні ягоди оживляють композицію та надають їй соковитого, яскравого звучання. Вони можуть робити аромат більш грайливим, молодіжним і апетитним, а легка кислинка не дозволяє йому стати надмірно солодким. Добре звучать як у свіжих фруктових ароматах, так і в більш чуттєвих квіткових, ванільних чи мускусних композиціях."
+    },
+    "characteristics": {
+      "pl": [
+        "owocowy",
+        "soczysty",
+        "świeży",
+        "słodki",
+        "kwaśny",
+        "lekko cierpki",
+        "intensywny",
+        "apetyczny"
+      ],
+      "uk": [
+        "фруктовий",
+        "соковитий",
+        "свіжий",
+        "солодкий",
+        "кислий",
+        "трохи терпкий",
+        "насичений",
+        "апетитний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "róża",
+        "jaśmin",
+        "fiołek",
+        "wanilia",
+        "piżmo",
+        "ambra",
+        "paczula",
+        "cytrusy",
+        "wanilia",
+        "drzewo sandałowe"
+      ],
+      "uk": [
+        "троянда",
+        "жасмин",
+        "фіалка",
+        "ваніль",
+        "мускус",
+        "амбра",
+        "пачулі",
+        "цитруси",
+        "ваніль",
+        "сандалове дерево"
+      ]
+    }
+  },
+  {
+    "id": "damask-rose-absolute",
+    "name": {
+      "pl": "Absolut róży damasceńskiej",
+      "uk": "Абсолют дамаської троянди"
+    },
+    "slug": {
+      "pl": "absolut-rozy-damascenskiej",
+      "uk": "absoliut-damaskoi-troiandy"
+    },
+    "image": "damask-rose-absolute.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Absolut róży damasceńskiej to bogata, głęboka i niezwykle zmysłowa nuta kwiatowa. W porównaniu z lekkim, świeżym aromatem róży może być bardziej miodowa, aksamitna i lekko owocowa, z subtelnymi zielonymi, przyprawowymi i balsamicznymi niuansami. Tworzy w perfumach elegancki, naturalny efekt świeżych płatków róży.",
+      "uk": "Абсолют дамаської троянди — це багата, глибока та надзвичайно чуттєва квіткова нота. Порівняно з легким і свіжим ароматом троянди, вона може звучати більш медово, оксамитово й трохи фруктово, з делікатними зеленими, пряними та бальзамічними відтінками. У парфумах створює елегантний, натуральний ефект свіжих пелюсток троянди."
+    },
+    "shortDescription": {
+      "pl": "Aksamitna, miodowa i zmysłowa nuta róży o bogatym, naturalnym charakterze.",
+      "uk": "Оксамитова, медова й чуттєва нота троянди з багатим натуральним характером."
+    },
+    "origin": {
+      "pl": "Róża damasceńska (Rosa damascena) jest jednym z najważniejszych gatunków róż wykorzystywanych w perfumerii. Uprawia się ją między innymi w Bułgarii, Turcji i Maroku. Jej kwiaty są cenione za wyjątkowo bogaty i złożony aromat.",
+      "uk": "Дамаська троянда (Rosa damascena) — один із найважливіших видів троянд, що використовуються в парфумерії. Її вирощують, зокрема, в Болгарії, Туреччині та Марокко. Квіти цінують за надзвичайно багатий і складний аромат."
+    },
+    "extraction": {
+      "pl": "Absolut róży damasceńskiej otrzymuje się poprzez ekstrakcję rozpuszczalnikową świeżych płatków kwiatów. Metoda ta pozwala zachować wiele delikatnych, cięższych i mniej lotnych składników zapachu, dzięki czemu absolut jest bogatszy, bardziej aksamitny i głębszy niż olejek różany otrzymywany przez destylację.",
+      "uk": "Абсолют дамаської троянди отримують методом екстракції свіжих пелюсток квітів розчинником. Цей метод дозволяє зберегти багато делікатних, важчих і менш летких ароматичних компонентів, тому абсолют звучить багатше, оксамитовіше та глибше, ніж трояндова олія, отримана дистиляцією."
+    },
+    "effect": {
+      "pl": "Absolut róży damasceńskiej nadaje kompozycji głębi, miękkości i luksusowego kwiatowego charakteru. Może podkreślać kobiecość, zmysłowość i romantyczny nastrój, a jednocześnie dzięki zielonym i lekko przyprawowym niuansom pozostaje naturalny i wielowymiarowy. Świetnie buduje serce zarówno klasycznych, jak i nowoczesnych kompozycji.",
+      "uk": "Абсолют дамаської троянди додає композиції глибини, м'якості та розкішного квіткового характеру. Він може підкреслювати жіночність, чуттєвість і романтичний настрій, водночас завдяки зеленим і трохи пряним нюансам залишаючись природним та багатогранним. Особливо добре формує серце як класичних, так і сучасних композицій."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "różany",
+        "miodowy",
+        "aksamitny",
+        "zmysłowy",
+        "lekko owocowy",
+        "zielony",
+        "delikatnie przyprawowy"
+      ],
+      "uk": [
+        "квітковий",
+        "трояндовий",
+        "медовий",
+        "оксамитовий",
+        "чуттєвий",
+        "трохи фруктовий",
+        "зелений",
+        "делікатно пряний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "jaśmin",
+        "fiołek",
+        "geranium",
+        "piżmo",
+        "paczula",
+        "wanilia",
+        "ambra",
+        "oud",
+        "kadzidło",
+        "drzewo sandałowe"
+      ],
+      "uk": [
+        "жасмин",
+        "фіалка",
+        "герань",
+        "мускус",
+        "пачулі",
+        "ваніль",
+        "амбра",
+        "уд",
+        "ладан",
+        "сандалове дерево"
+      ]
+    }
+  },
+  {
+    "id": "may-rose-absolute",
+    "name": {
+      "pl": "Absolut róży majowej",
+      "uk": "Абсолют травневої троянди"
+    },
+    "slug": {
+      "pl": "absolut-rozy-majowej",
+      "uk": "absoliut-travnevoyi-troiandy"
+    },
+    "image": "may-rose-absolute.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Absolut róży majowej to szlachetna, miękka i niezwykle elegancka nuta kwiatowa o naturalnym różanym charakterze. Jest delikatniejsza i bardziej aksamitna w odbiorze, z subtelnymi miodowymi, zielonymi i lekko owocowymi niuansami. W perfumach daje efekt świeżych płatków róży, miękkiego ciepła i wyrafinowanej kobiecości.",
+      "uk": "Абсолют травневої троянди — це благородна, м'яка та надзвичайно елегантна квіткова нота з натуральним трояндовим характером. Вона звучить делікатно й оксамитово, з тонкими медовими, зеленими та трохи фруктовими нюансами. У парфумах створює ефект свіжих пелюсток троянди, м'якого тепла та витонченої жіночності."
+    },
+    "shortDescription": {
+      "pl": "Aksamitna, delikatna i naturalnie różana nuta o miodowo-zielonym charakterze.",
+      "uk": "Оксамитова, делікатна й натурально трояндова нота з медово-зеленим характером."
+    },
+    "origin": {
+      "pl": "Róża majowa, znana również jako róża stulistna (Rosa centifolia), jest tradycyjnie uprawiana przede wszystkim w regionie Grasse we Francji. Jej delikatne kwiaty są cenione w perfumerii za wyjątkowo miękki, bogaty i naturalny aromat.",
+      "uk": "Травнева троянда, також відома як центифолія (Rosa centifolia), традиційно вирощується насамперед у регіоні Грас у Франції. Її ніжні квіти цінують у парфумерії за надзвичайно м'який, багатий і натуральний аромат."
+    },
+    "extraction": {
+      "pl": "Absolut róży majowej otrzymuje się poprzez ekstrakcję świeżych kwiatów rozpuszczalnikiem. Ta metoda pozwala zachować delikatne składniki zapachowe, które nadają absolutowi miękkość, naturalność i charakterystyczną aksamitną głębię.",
+      "uk": "Абсолют травневої троянди отримують шляхом екстракції свіжих квітів розчинником. Цей метод дозволяє зберегти делікатні ароматичні компоненти, які надають абсолюту м'якості, натуральності та характерної оксамитової глибини."
+    },
+    "effect": {
+      "pl": "Absolut róży majowej wnosi do kompozycji miękkość, elegancję i naturalną kwiatową głębię. Jest szczególnie ceniony za efekt świeżych płatków i delikatną, niemal pudrową aksamitność. Może łagodzić mocniejsze składniki i nadawać całej kompozycji bardziej wyrafinowany, romantyczny charakter.",
+      "uk": "Абсолют травневої троянди додає композиції м'якості, елегантності та натуральної квіткової глибини. Його особливо цінують за ефект свіжих пелюсток і делікатну, майже пудрову оксамитовість. Він може пом'якшувати більш насичені компоненти та надавати всій композиції витонченого, романтичного характеру."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "różany",
+        "aksamitny",
+        "delikatny",
+        "miodowy",
+        "zielony",
+        "lekko owocowy",
+        "pudrowy"
+      ],
+      "uk": [
+        "квітковий",
+        "трояндовий",
+        "оксамитовий",
+        "делікатний",
+        "медовий",
+        "зелений",
+        "трохи фруктовий",
+        "пудровий"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "jaśmin",
+        "róża damasceńska",
+        "geranium",
+        "fiołek",
+        "piżmo",
+        "wanilia",
+        "paczula",
+        "drzewo sandałowe",
+        "ambra",
+        "kadzidło"
+      ],
+      "uk": [
+        "жасмин",
+        "дамаська троянда",
+        "герань",
+        "фіалка",
+        "мускус",
+        "ваніль",
+        "пачулі",
+        "сандалове дерево",
+        "амбра",
+        "ладан"
+      ]
+    }
+  },
+  {
+    "id": "bourbon-vanilla",
+    "name": {
+      "pl": "Wanilia Bourbon",
+      "uk": "Бурбонська ваніль"
+    },
+    "slug": {
+      "pl": "wanilia-bourbon",
+      "uk": "burbonska-vanil"
+    },
+    "image": "bourbon-vanilla.jpg",
+    "category": "gourmand",
+    "description": {
+      "pl": "Wanilia Bourbon to bogata, kremowa i niezwykle zmysłowa nuta o charakterystycznej słodyczy. Kojarzy się z miękkim waniliowym kremem, ciepłym cukrem, balsamiczną głębią i delikatnym drzewnym akcentem. W perfumach jest bardziej otulająca i głęboka niż prosta nuta wanilii, tworząc efekt ciepła, komfortu i luksusowej słodyczy.",
+      "uk": "Бурбонська ваніль — це багата, кремова та надзвичайно чуттєва нота з характерною солодкістю. Вона нагадує м'який ванільний крем, теплий цукор, бальзамічну глибину та делікатний деревний відтінок. У парфумах вона звучить більш затишно й глибоко, ніж проста ванільна нота, створюючи відчуття тепла, комфорту та розкішної солодкості."
+    },
+    "shortDescription": {
+      "pl": "Kremowa, ciepła i zmysłowa wanilia o bogatym, balsamicznym charakterze.",
+      "uk": "Кремова, тепла й чуттєва ваніль із багатим бальзамічним характером."
+    },
+    "origin": {
+      "pl": "Wanilia Bourbon pochodzi z odmian wanilii uprawianych głównie na wyspach Oceanu Indyjskiego, szczególnie na Madagaskarze, Réunion i Komorach. Nazwa „Bourbon” nawiązuje do dawnej nazwy wyspy Réunion — Île Bourbon. Najczęściej pochodzi od gatunku Vanilla planifolia, cenionego za bogaty, słodki i kremowy aromat.",
+      "uk": "Бурбонська ваніль походить від різновидів ванілі, які вирощують переважно на островах Індійського океану, особливо на Мадагаскарі, Реюньйоні та Коморах. Назва «Bourbon» походить від колишньої назви острова Реюньйон — Île Bourbon. Найчастіше це Vanilla planifolia, яку цінують за багатий, солодкий і кремовий аромат."
+    },
+    "extraction": {
+      "pl": "Aromatyczne strąki wanilii są zbierane, a następnie poddawane długiemu procesowi suszenia i fermentacji. Z przygotowanych strąków można otrzymywać ekstrakty, absoluty i inne materiały perfumeryjne. Naturalna wanilia jest kosztownym surowcem, dlatego w perfumerii często łączy się ją również z syntetycznymi molekułami wanilinowymi.",
+      "uk": "Ароматні стручки ванілі збирають, після чого вони проходять тривалий процес сушіння та ферментації. Із підготовлених стручків отримують екстракти, абсолюти та інші парфумерні матеріали. Натуральна ваніль є дорогим компонентом, тому в парфумерії її часто поєднують із синтетичними ванільними молекулами."
+    },
+    "effect": {
+      "pl": "Wanilia Bourbon ociepla kompozycję, nadaje jej kremowość, miękkość i zmysłową słodycz. Doskonale zaokrągla ostre przyprawy, wzmacnia kwiaty i owoce oraz nadaje bazie bardziej otulający charakter. W połączeniu z drewnem, ambrą, piżmem lub paczulą może tworzyć głębokie, eleganckie i bardzo trwałe brzmienie.",
+      "uk": "Бурбонська ваніль зігріває композицію, додає їй кремовості, м'якості та чуттєвої солодкості. Вона чудово округлює гострі спеції, підсилює квіткові й фруктові ноти та робить базу більш затишною. У поєднанні з деревиною, амброю, мускусом або пачулі може створювати глибоке, елегантне й дуже стійке звучання."
+    },
+    "characteristics": {
+      "pl": [
+        "waniliowy",
+        "słodki",
+        "kremowy",
+        "ciepły",
+        "balsamiczny",
+        "zmysłowy",
+        "otulający",
+        "lekko drzewny"
+      ],
+      "uk": [
+        "ванільний",
+        "солодкий",
+        "кремовий",
+        "теплий",
+        "бальзамічний",
+        "чуттєвий",
+        "затишний",
+        "трохи деревний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "ambra",
+        "piżmo",
+        "drzewo sandałowe",
+        "paczula",
+        "róża",
+        "jaśmin",
+        "tonka",
+        "kakao",
+        "kawa",
+        "cynamon"
+      ],
+      "uk": [
+        "амбра",
+        "мускус",
+        "сандалове дерево",
+        "пачулі",
+        "троянда",
+        "жасмин",
+        "тонка",
+        "какао",
+        "кава",
+        "кориця"
+      ]
+    }
+  },
+  {
+  "id": "blackcurrant-bud-absolute",
+  "name": {
+    "pl": "Absolut pąków czarnej porzeczki",
+    "uk": "Абсолют бруньок чорної смородини"
+  },
+  "slug": {
+    "pl": "absolut-pakow-czarnej-porzeczki",
+    "uk": "absoliut-brunok-chornoi-smorodyny"
+  },
+  "image": "blackcurrant-bud-absolute.jpg",
+  "category": "fruity",
+  "description": {
+    "pl": "Absolut pąków czarnej porzeczki to intensywna, zielona i charakterystycznie owocowa nuta. W przeciwieństwie do słodkiego aromatu dojrzałych owoców, pąki czarnej porzeczki mają bardziej świeży, cierpki i lekko ostry profil, z wyraźnym zielonym oraz niemal liściastym akcentem. W perfumach tworzą efekt świeżości, soczystości i naturalnej głębi.",
+    "uk": "Абсолют бруньок чорної смородини — це інтенсивна, зелена та характерно фруктова нота. На відміну від солодкого аромату стиглих ягід, бруньки чорної смородини мають більш свіжий, терпкий і трохи різкуватий профіль із виразним зеленим та майже листяним відтінком. У парфумах вони створюють ефект свіжості, соковитості та природної глибини."
+  },
+  "shortDescription": {
+    "pl": "Intensywna, zielona i cierpka nuta czarnej porzeczki o charakterystycznym, świeżym aromacie.",
+    "uk": "Інтенсивна, зелена й терпка нота чорної смородини з характерним свіжим ароматом."
+  },
+  "origin": {
+    "pl": "Czarna porzeczka (Ribes nigrum) to krzew owocowy pochodzący z Europy i części Azji. W perfumerii szczególnie cenione są jej pąki, które mają zupełnie inny profil zapachowy niż same dojrzałe owoce. Ich aromat jest intensywny, zielony, lekko siarkowy i niezwykle charakterystyczny.",
+    "uk": "Чорна смородина (Ribes nigrum) — це плодовий кущ, що походить із Європи та частини Азії. У парфумерії особливо цінують її бруньки, які мають зовсім інший ароматичний профіль, ніж стиглі ягоди. Їхній запах інтенсивний, зелений, трохи сірчистий і надзвичайно характерний."
+  },
+  "extraction": {
+    "pl": "Absolut pąków czarnej porzeczki otrzymuje się z pąków rośliny poprzez ekstrakcję rozpuszczalnikową. Powstały materiał jest bardzo skoncentrowany i stosowany w niewielkich ilościach, ponieważ nawet mała dawka może wyraźnie zmienić charakter kompozycji.",
+    "uk": "Абсолют бруньок чорної смородини отримують із бруньок рослини методом екстракції розчинником. Отриманий матеріал є дуже концентрованим і використовується в невеликих кількостях, оскільки навіть мала його доза може помітно змінити характер композиції."
+  },
+  "effect": {
+    "pl": "Absolut pąków czarnej porzeczki dodaje perfumom wyrazistej zieloności, soczystości i lekko cierpkiego charakteru. Może wzmacniać naturalne wrażenie owoców i kwiatów, a jednocześnie dodawać kompozycji świeżej, niemal roślinnej głębi. Jest szczególnie interesujący w połączeniu z różą, jaśminem i innymi owocowymi akordami.",
+    "uk": "Абсолют бруньок чорної смородини додає парфумам виразної зелені, соковитості та легкої терпкості. Він може посилювати натуральне відчуття фруктів і квітів, водночас додаючи композиції свіжої, майже рослинної глибини. Особливо цікаво звучить у поєднанні з трояндою, жасмином та іншими фруктовими акордами."
+  },
+  "characteristics": {
+    "pl": [
+      "owocowy",
+      "zielony",
+      "cierpki",
+      "świeży",
+      "soczysty",
+      "lekko ostry",
+      "liściasty",
+      "intensywny"
+    ],
+    "uk": [
+      "фруктовий",
+      "зелений",
+      "терпкий",
+      "свіжий",
+      "соковитий",
+      "трохи різкий",
+      "листяний",
+      "інтенсивний"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "róża",
+      "jaśmin",
+      "malina",
+      "czarne jagody",
+      "czerwone jagody",
+      "grejpfrut",
+      "bergamotka",
+      "fiołek",
+      "paczula",
+      "piżmo"
+    ],
+    "uk": [
+      "троянда",
+      "жасмин",
+      "малина",
+      "чорні ягоди",
+      "червоні ягоди",
+      "грейпфрут",
+      "бергамот",
+      "фіалка",
+      "пачулі",
+      "мускус"
+    ]
   }
+},
+{
+  "id": "rose-petals",
+  "name": {
+    "pl": "Płatki róży",
+    "uk": "Пелюстки троянди"
+  },
+  "slug": {
+    "pl": "platki-rozy",
+    "uk": "peliustky-troiandy"
+  },
+  "image": "rose-petals.jpg",
+  "category": "floral",
+  "description": {
+    "pl": "Delikatny, świeży i romantyczny akord płatków róży. Jest bardziej miękki i naturalny niż intensywny aromat olejku różanego — przypomina świeżo zerwane płatki, z subtelną zieloną, lekko wilgotną i pudrową nutą.",
+    "uk": "Ніжний, свіжий і романтичний акорд пелюсток троянди. Він м’якший і природніший, ніж інтенсивний аромат трояндової олії, нагадує щойно зірвані пелюстки з тонкими зеленими, злегка вологими та пудровими відтінками."
+  },
+  "shortDescription": {
+    "pl": "Świeży, miękki i romantyczny zapach delikatnych płatków róży.",
+    "uk": "Свіжий, м’який і романтичний аромат ніжних пелюсток троянди."
+  },
+  "origin": {
+    "pl": "Akord inspirowany aromatem świeżych płatków różnych gatunków róż. Nie jest pojedynczym surowcem zapachowym.",
+    "uk": "Акорд, натхненний ароматом свіжих пелюсток різних видів троянд. Це не окрема парфумерна сировина."
+  },
+  "extraction": {
+    "pl": "W perfumerii efekt płatków róży jest najczęściej tworzony poprzez połączenie naturalnych ekstraktów różanych z molekułami aromatycznymi. Naturalny zapach samych płatków może być również odwzorowywany syntetycznie.",
+    "uk": "У парфумерії ефект пелюсток троянди найчастіше створюють поєднанням натуральних трояндових екстрактів з ароматичними молекулами. Природний запах самих пелюсток також може відтворюватися синтетично."
+  },
+  "effect": {
+    "pl": "Dodaje kompozycji świeżości, miękkości i romantycznej kwiatowości. Tworzy wrażenie świeżo zerwanych kwiatów i nadaje zapachowi naturalny, delikatny charakter.",
+    "uk": "Додає композиції свіжості, м’якості та романтичної квітковості. Створює враження щойно зірваних квітів і надає аромату природного, ніжного характеру."
+  },
+  "characteristics": {
+    "pl": [
+      "kwiatowy",
+      "świeży",
+      "delikatny",
+      "romantyczny",
+      "zielony",
+      "lekko pudrowy",
+      "miękki",
+      "naturalny"
+    ],
+    "uk": [
+      "квітковий",
+      "свіжий",
+      "ніжний",
+      "романтичний",
+      "зелений",
+      "злегка пудровий",
+      "м’який",
+      "природний"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "róża damasceńska",
+      "absolut róży majowej",
+      "jaśmin",
+      "fiołek",
+      "geranium",
+      "czerwone owoce",
+      "malina",
+      "piżmo",
+      "wanilia",
+      "sandałowiec"
+    ],
+    "uk": [
+      "дамаська троянда",
+      "абсолют травневої троянди",
+      "жасмин",
+      "фіалка",
+      "герань",
+      "червоні фрукти",
+      "малина",
+      "мускус",
+      "ваніль",
+      "сандал"
+    ]
+  }
+}
 ]
