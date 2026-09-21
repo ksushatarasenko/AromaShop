@@ -461,4 +461,22 @@
   .journal-carousel__item {
     flex: 0 0 86%;
   }
+  .site-header__inner {
+    gap: var(--space-2);
+  }
+
+  .site-header__actions {
+    gap: var(--space-2);
+  }
+
+  .logo img {
+    height: 2.2rem;
+    max-width: 7rem;
+  }
+
+  .icon-btn,
+  .hamburger {
+    width: 2.25rem;
+    height: 2.25rem;
+  }
 }
