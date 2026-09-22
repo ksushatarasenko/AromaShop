@@ -26,7 +26,8 @@ export const ROUTE_SEGMENTS = {
     journal: 'dziennik',
     about: 'o-nas',
     authenticity: 'autentycznosc',
-    cart: 'koszyk',
+    howToOrder: 'jak-zamowic',
+    cart: 'koszyk',    
   },
   uk: {
     home: '',
@@ -43,7 +44,8 @@ export const ROUTE_SEGMENTS = {
     journal: 'zhurnal',
     about: 'pro-nas',
     authenticity: 'avtentichnist',
-    cart: 'koshyk',
+     howToOrder: 'yak-zamovyty',
+    cart: 'koshyk',   
   },
 };
 

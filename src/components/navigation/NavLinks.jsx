@@ -5,6 +5,7 @@ const NAV_ITEMS = [
   { id: 'shop', route: 'perfumes', labelKey: 'nav.shop' },
   { id: 'discover', route: 'find', labelKey: 'nav.discover' },
   { id: 'journal', route: 'journal', labelKey: 'nav.journal' },
+  { id: 'howToOrder', route: 'howToOrder', labelKey: 'nav.howToOrder' },
   { id: 'about', route: 'about', labelKey: 'nav.about' },
 ];
 

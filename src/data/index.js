@@ -91,9 +91,19 @@ export function getPerfumesByCollection(collectionId) {
 }
 
 export function getFeaturedPerfumes() {
-  return catalogPerfumes.filter((perfume) => perfume.featured);
-}
+  return catalogPerfumes
+    .filter((perfume) => perfume.featured)
+    .sort((a, b) => {
+      const priority = (perfume) => {
+        if (perfume.new) return 1;
+        if (perfume.bestseller) return 2;
+        if (perfume.recommended) return 3;
+        return 4;
+      };
 
+      return priority(a) - priority(b);
+    });
+}
 export function getNewPerfumes() {
   return catalogPerfumes.filter((perfume) => perfume.new);
 }

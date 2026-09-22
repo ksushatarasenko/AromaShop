@@ -8,6 +8,7 @@
     "discover": "Odkryj",
     "journal": "Dziennik",
     "about": "O nas",
+    "howToOrder": "Jak zamówić",
     "authenticity": "Autentyczność",
     "search": "Szukaj zapachów",
     "openMenu": "Otwórz menu",
@@ -182,6 +183,38 @@
     "messagePhone": "Telefon",
     "messageComment": "Uwagi"
   },
+  "howToOrder": {
+    "eyebrow": "JAK ZAMÓWIĆ",
+    "title": "Jak zamówić",
+    "intro": "Zamówienie w AromaShop jest proste. Wybierz swój zapach, dodaj go do koszyka, a my skontaktujemy się z Tobą, aby potwierdzić dostępność i ustalić wszystkie szczegóły.",
+    "steps": {
+      "choose": {
+        "title": "Wybierz zapach",
+        "text": "Przejrzyj kolekcję AromaShop i wybierz zapach, który Cię interesuje. Na stronie produktu możesz poznać jego charakter, nuty zapachowe, koncentrację oraz dostępne pojemności."
+      },
+      "cart": {
+        "title": "Dodaj do koszyka",
+        "text": "Wybierz odpowiedni format lub pojemność i dodaj produkt do koszyka. Możesz kontynuować zakupy lub przejść do podsumowania zamówienia."
+      },
+      "order": {
+        "title": "Wyślij zamówienie",
+        "text": "Podaj dane potrzebne do realizacji zamówienia i wyślij formularz. Samo wysłanie zamówienia nie oznacza automatycznej płatności."
+      },
+      "confirm": {
+        "title": "Potwierdź zamówienie",
+        "text": "Po sprawdzeniu dostępności uzgadniamy z Tobą wszystkie szczegóły zamówienia i wystawiamy rachunek do zapłaty. Wybierasz dogodną dla siebie metodę płatności i dokonujesz płatności. Po potwierdzeniu płatności zamówienie przechodzi do przygotowania."
+      },
+      "receive": {
+        "title": "Odbierz swój zapach",
+        "text": "Po potwierdzeniu płatności przygotujemy Twoje zamówienie i przekażemy je zgodnie z wybraną formą dostawy lub odbioru."
+      }
+    },
+    "important": {
+      "title": "Warto wiedzieć",
+      "text": "AromaShop to butikowa obsługa, a nie bezosobowy automatyczny checkout. Przed potwierdzeniem każdego zamówienia sprawdzamy dostępność produktu i pozostajemy z Tobą w kontakcie aż do momentu jego otrzymania."
+    },
+    "closing": "Wybieraj zapach z ciekawością. My zajmiemy się resztą."
+  },
   "cart": {
     "title": "Koszyk",
     "empty": "Koszyk jest pusty.",
@@ -233,13 +266,19 @@
   "about": {
     "eyebrow": "O nas",
     "title": "AromaShop",
-    "p1": "AromaShop to boutique oryginalnych luksusowych i niszowych perfum. Wierzymy, że zapach powinien być wybierany z ciekawością, noszony z intencją i zapamiętany dzięki charakterowi.",
-    "h2perspective": "Nasza perspektywa",
-    "p2": "Kuratorujemy, zamiast gromadzić. Każdy zapach w naszej selekcji jest oryginalny, starannie opisany i osadzony w jasnej architekturze olfaktorycznej — abyś mogła odkrywać z pewnością, niezależnie od doświadczenia.",
+    "p1": "AromaShop to boutique oryginalnych luksusowych i niszowych perfum. Wierzymy, że zapach to coś więcej niż tylko kompozycja. To nastrój, wspomnienie, charakter i mała część Twojej historii.",
+
+    "h2perspective": "Nasze spojrzenie",
+    "p2": "Kuratorujemy, a nie gromadzimy. Wybieramy zapachy, które mają własny charakter, historię i wyjątkowe brzmienie. Każdy zapach w naszej selekcji staramy się opisać tak, aby można było poczuć jego charakter jeszcze przed pierwszym rozpyleniem.",
+
     "h2expertise": "Ekspertyza z elegancją",
-    "p3": "Nuty, rodziny, sezony i konteksty noszenia prezentujemy z troską. Celem nie jest przytłoczenie, lecz rozjaśnienie — zrozumienie zapachu, zanim stanie się częścią życia.",
-    "h2boutique": "Osobisty boutique",
-    "p4": "Zamówienia obsługujemy bezpośrednio. Potwierdzamy dostępność, omawiamy szczegóły i prowadzimy przez płatność osobiście. Bez anonimowego checkoutu — tylko uważna obsługa dla tych, którzy cenią autentyczność."
+    "p3": "O nutach, rodzinach olfaktorycznych, sezonach i kontekstach noszenia mówimy prosto i zrozumiale. Naszym celem nie jest zasypywanie terminami, lecz pomoc w znalezieniu zapachu, który naprawdę będzie współgrał właśnie z Tobą.",
+
+    "h2boutique": "Wyjątkowe doświadczenie boutique",
+    "p4": "Nie chcemy być po prostu kolejnym sklepem internetowym. Zamówienie w AromaShop to osobista relacja: potwierdzamy dostępność, pomagamy w szczegółach i pozostajemy z Tobą w kontakcie aż do momentu otrzymania zamówienia. Zależy nam, aby wybór zapachu był przyjemny, a samo doświadczenie — takie, do którego chce się wrócić.",
+
+    "tagline": "A scent worth remembering.",
+    "taglineLocal": "Zapach, który chce się zapamiętać."
   },
   "authenticity": {
     "eyebrow": "Zaufanie",

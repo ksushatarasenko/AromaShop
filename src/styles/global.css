@@ -14,7 +14,7 @@
 }
 
 .section {
-  padding-block: var(--space-8);
+  padding-block: var(--space-4);
 }
 
 .section--tight {
@@ -170,10 +170,36 @@
 
 @media (min-width: 768px) {
   .section {
-    padding-block: var(--space-9);
+    padding-block: var(--space-4);
   }
 
   .page {
     padding-block: var(--space-8) var(--space-10);
   }
+}
+
+/* =========================================================
+   ABOUT — TAGLINE
+   ========================================================= */
+
+.about-tagline {
+  margin-top: 42px;
+  font-family: var(--font-display);
+  font-style: italic;
+  text-align: left;
+}
+
+.about-tagline p {
+  margin: 0;
+  line-height: 1.35;
+}
+
+.about-tagline p:first-child {
+  font-size: 1.35rem;
+}
+
+.about-tagline p:last-child {
+  margin-top: 4px;
+  font-size: 1.15rem;
+  opacity: 0.72;
 }

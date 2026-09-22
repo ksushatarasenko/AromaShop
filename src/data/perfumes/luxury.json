@@ -1,120 +1,129 @@
 [
   {
-  "id": "giorgio-armani-si-passione-red-bloom-edp-100",
-  "brandId": "giorgio-armani",
-  "name": "Sì Passione Red Bloom",
-  "collection": "luxury",
-  "gender": "women",
-  "concentration": "EDP",
-  "year": 2026,
-  "perfumer": null,
-  "country": "Italy",
-  "image": "main.png",
-  "gallery": ["02.png", "03.png"],
-  "description": {
-    "pl": "Sì Passione Red Bloom to eksplozja soczystej maliny, aksamitnego irysa i róży, która pod koniec zanurza się w kremowej wanilii Bourbon i ciepłym Cashmeranie.",
-    "uk": "Sì Passione Red Bloom — вибух соковитої малини, оксамитового ірису та троянди, що поступово занурюється у кремову ваніль Bourbon і теплий Cashmeran."
-  },
-  "shortDescription": {
-    "pl": "Soczysta malina uderza pierwsza — kwaśna, słodka i pełna czerwonego blasku. Chwilę później pojawia się aksamitny irys i miękkie płatki róży, a na skórze zostaje wanilia Bourbon z ciepłym, drzewno-ambrowym Cashmeranem. Kobiecy, odważny i bardzo zmysłowy.",
-    "uk": "Першою вибухає соковита малина — кисло-солодка, яскрава й сповнена червоного сяйва. За нею з'являються оксамитовий ірис і м'які пелюстки троянди, а на шкірі залишається Bourbon vanilla з теплим деревно-амбровим Cashmeran. Жіночний, сміливий і дуже чуттєвий."
-  },
-  "story": {
-    "pl": "<strong>Sì Passione Red Bloom</strong> nie zaczyna się cicho. W pierwszej chwili pojawia się soczysta malina — intensywna, lśniąca i lekko kwaśna. Nie jest to słodki owocowy koktajl. Jest w niej coś czerwonego, żywego i niemal elektrycznego.\n\nBergamotka rozświetla kompozycję, a absolut pąków czarnej porzeczki dodaje owocowej głębi. Powstaje efekt świeżo zerwanego czerwonego owocu, którego zapach jest jednocześnie słodki i lekko cierpki.\n\nPotem następuje zmiana. <strong>Irys pallida</strong> wchodzi do kompozycji miękko, niemal aksamitnie. Jego pudrowa, szlachetna faktura spotyka dwa oblicza róży — płatki róży oraz różany absolut. Zamiast klasycznej romantycznej róży powstaje coś bardziej zmysłowego: miękkiego, gładkiego i trochę tajemniczego.\n\nAle Red Bloom nie kończy się na kwiatach. W bazie pojawia się <strong>wanilia Bourbon z Madagaskaru</strong>. Ciepła, kremowa i kusząca, ale nie przesadnie cukrowa. Towarzyszy jej Cashmeran, który dodaje kompozycji miękkiego, drzewno-ambrowego ciepła.\n\nI właśnie wtedy zapach staje się najbardziej interesujący. Czerwona, soczysta malina z początku powoli zamienia się w coś bardziej aksamitnego i otulającego. Jak czerwona sukienka po zmroku — nadal przyciąga wzrok, ale światło staje się głębsze.\n\nRed Bloom ma w sobie energię kobiety, która nie chce wybierać między delikatnością a siłą. Może być romantyczna i odważna. Elegancka i trochę bezczelna. Zmysłowa bez potrzeby udowadniania czegokolwiek.\n\nTo zapach na moment, kiedy nie chcesz po prostu dobrze wyglądać. Chcesz <strong>zostawić w powietrzu emocję</strong>.\n\n<strong>Sì Passione Red Bloom pachnie jak kwiat w pełnym rozkwicie — czerwony, soczysty i niemożliwy do przeoczenia.</strong>",
-    "uk": "<strong>Sì Passione Red Bloom</strong> не починається тихо. У першу мить з'являється соковита малина — інтенсивна, сяйлива й трохи кислувата. Це не просто солодкий фруктовий коктейль. У ній є щось червоне, живе й майже електричне.\n\nБергамот освітлює композицію, а абсолют бруньок чорної смородини додає фруктової глибини. Виникає відчуття щойно зірваного червоного плода, який одночасно солодкий і трохи терпкий.\n\nПотім аромат змінюється. <strong>Ірис pallida</strong> входить у композицію м'яко, майже оксамитово. Його пудрова, шляхетна текстура зустрічається з двома відтінками троянди — пелюстками та рожевим абсолютом. Замість класичної романтичної троянди виникає щось більш чуттєве: м'яке, гладке й трохи загадкове.\n\nАле Red Bloom не закінчується на квітах. У базі з'являється <strong>ваніль Bourbon з Мадагаскару</strong>. Тепла, кремова й спокуслива, але не надмірно солодка. Поруч звучить Cashmeran, додаючи композиції м'якого деревно-амбрового тепла.\n\nІ саме тоді аромат стає найцікавішим. Червона, соковита малина з початку поступово перетворюється на щось більш оксамитове й огортаюче. Наче червона сукня після заходу сонця — вона все ще привертає увагу, але світло стає глибшим.\n\nRed Bloom має енергію жінки, яка не хоче обирати між ніжністю та силою. Вона може бути романтичною й сміливою. Елегантною і трохи зухвалою. Чуттєвою без потреби щось доводити.\n\nЦе аромат для моменту, коли хочеться не просто добре виглядати. Хочеться <strong>залишити в повітрі емоцію</strong>.\n\n<strong>Sì Passione Red Bloom пахне як квітка у повному розквіті — червона, соковита й така, яку неможливо не помітити.</strong>"
-  },
-  "facts": [
-    {
-      "pl": "🌹 <strong>DRUGI NOWY ROZDZIAŁ SÌ W 2026 ROKU</strong>\n\nSì Passione Red Bloom został wprowadzony w 2026 roku razem z Sì Nude Bloom. Armani stworzyło te dwie premiery jako kontrastujące oblicza kwiatowej kobiecości — Nude Bloom jest bardziej miękkie i świetliste, natomiast Red Bloom ma wyrażać pełnię koloru, energii i rozkwitu.",
-      "uk": "🌹 <strong>ДРУГИЙ НОВИЙ РОЗДІЛ SÌ У 2026 РОЦІ</strong>\n\nSì Passione Red Bloom представили у 2026 році одночасно із Sì Nude Bloom. Armani створив ці дві прем'єри як контрастні прояви квіткової жіночності — Nude Bloom більш м'який і сяйливий, тоді як Red Bloom має передавати повноту кольору, енергії та цвітіння."
+    "id": "giorgio-armani-si-passione-red-bloom-edp-100",
+    "brandId": "giorgio-armani",
+    "name": "Sì Passione Red Bloom",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2026,
+    "perfumer": null,
+    "country": "Italy",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Sì Passione Red Bloom to eksplozja soczystej maliny, aksamitnego irysa i róży, która pod koniec zanurza się w kremowej wanilii Bourbon i ciepłym Cashmeranie.",
+      "uk": "Sì Passione Red Bloom — вибух соковитої малини, оксамитового ірису та троянди, що поступово занурюється у кремову ваніль Bourbon і теплий Cashmeran."
     },
-    {
-      "pl": "❤️ <strong>„RED BLOOM” TO HISTORIA PEŁNEGO ROZKWITU</strong>\n\nArmani opisuje Red Bloom jako moment, w którym kwiat osiąga pełnię. Dlatego zamiast delikatnego pojedynczego kwiatu kompozycja została zbudowana wokół intensywnego czerwonego obrazu: maliny, róży, czerwonego flakonu i bogatej waniliowej bazy.",
-      "uk": "❤️ <strong>«RED BLOOM» — ЦЕ ІСТОРІЯ ПОВНОГО ЦВІТІННЯ</strong>\n\nArmani описує Red Bloom як момент, коли квітка досягає повного розквіту. Тому замість ніжної одиночної квітки композиція побудована навколо інтенсивного червоного образу: малини, троянди, червоного флакону та насиченої ванільної бази."
+    "shortDescription": {
+      "pl": "Soczysta malina uderza pierwsza — kwaśna, słodka i pełna czerwonego blasku. Chwilę później pojawia się aksamitny irys i miękkie płatki róży, a na skórze zostaje wanilia Bourbon z ciepłym, drzewno-ambrowym Cashmeranem. Kobiecy, odważny i bardzo zmysłowy.",
+      "uk": "Першою вибухає соковита малина — кисло-солодка, яскрава й сповнена червоного сяйва. За нею з'являються оксамитовий ірис і м'які пелюстки троянди, а на шкірі залишається Bourbon vanilla з теплим деревно-амбровим Cashmeran. Жіночний, сміливий і дуже чуттєвий."
     },
-    {
-      "pl": "🍓 <strong>MALINA ZOSTAŁA POTRAKTOWANA JAKO „WYBUCH CZERWIENI”</strong>\n\nArmani nie opisuje otwarcia jedynie jako owocowego. Soczysty akord maliny połączono z iskrzącą bergamotką i absolutem pąków czarnej porzeczki, aby uzyskać efekt energetycznego, niemal świetlistego czerwonego otwarcia.",
-      "uk": "🍓 <strong>МАЛИНУ ПЕРЕТВОРИЛИ НА «ВИБУХ ЧЕРВОНОГО»</strong>\n\nArmani описує початок не просто як фруктовий. Соковитий акорд малини поєднали з іскристим бергамотом та абсолютом бруньок чорної смородини, щоб створити ефект енергійного, майже сяйливого червоного відкриття."
+    "story": {
+      "pl": "<strong>Sì Passione Red Bloom</strong> nie zaczyna się cicho. W pierwszej chwili pojawia się soczysta malina — intensywna, lśniąca i lekko kwaśna. Nie jest to słodki owocowy koktajl. Jest w niej coś czerwonego, żywego i niemal elektrycznego.\n\nBergamotka rozświetla kompozycję, a absolut pąków czarnej porzeczki dodaje owocowej głębi. Powstaje efekt świeżo zerwanego czerwonego owocu, którego zapach jest jednocześnie słodki i lekko cierpki.\n\nPotem następuje zmiana. <strong>Irys pallida</strong> wchodzi do kompozycji miękko, niemal aksamitnie. Jego pudrowa, szlachetna faktura spotyka dwa oblicza róży — płatki róży oraz różany absolut. Zamiast klasycznej romantycznej róży powstaje coś bardziej zmysłowego: miękkiego, gładkiego i trochę tajemniczego.\n\nAle Red Bloom nie kończy się na kwiatach. W bazie pojawia się <strong>wanilia Bourbon z Madagaskaru</strong>. Ciepła, kremowa i kusząca, ale nie przesadnie cukrowa. Towarzyszy jej Cashmeran, który dodaje kompozycji miękkiego, drzewno-ambrowego ciepła.\n\nI właśnie wtedy zapach staje się najbardziej interesujący. Czerwona, soczysta malina z początku powoli zamienia się w coś bardziej aksamitnego i otulającego. Jak czerwona sukienka po zmroku — nadal przyciąga wzrok, ale światło staje się głębsze.\n\nRed Bloom ma w sobie energię kobiety, która nie chce wybierać między delikatnością a siłą. Może być romantyczna i odważna. Elegancka i trochę bezczelna. Zmysłowa bez potrzeby udowadniania czegokolwiek.\n\nTo zapach na moment, kiedy nie chcesz po prostu dobrze wyglądać. Chcesz <strong>zostawić w powietrzu emocję</strong>.\n\n<strong>Sì Passione Red Bloom pachnie jak kwiat w pełnym rozkwicie — czerwony, soczysty i niemożliwy do przeoczenia.</strong>",
+      "uk": "<strong>Sì Passione Red Bloom</strong> не починається тихо. У першу мить з'являється соковита малина — інтенсивна, сяйлива й трохи кислувата. Це не просто солодкий фруктовий коктейль. У ній є щось червоне, живе й майже електричне.\n\nБергамот освітлює композицію, а абсолют бруньок чорної смородини додає фруктової глибини. Виникає відчуття щойно зірваного червоного плода, який одночасно солодкий і трохи терпкий.\n\nПотім аромат змінюється. <strong>Ірис pallida</strong> входить у композицію м'яко, майже оксамитово. Його пудрова, шляхетна текстура зустрічається з двома відтінками троянди — пелюстками та рожевим абсолютом. Замість класичної романтичної троянди виникає щось більш чуттєве: м'яке, гладке й трохи загадкове.\n\nАле Red Bloom не закінчується на квітах. У базі з'являється <strong>ваніль Bourbon з Мадагаскару</strong>. Тепла, кремова й спокуслива, але не надмірно солодка. Поруч звучить Cashmeran, додаючи композиції м'якого деревно-амбрового тепла.\n\nІ саме тоді аромат стає найцікавішим. Червона, соковита малина з початку поступово перетворюється на щось більш оксамитове й огортаюче. Наче червона сукня після заходу сонця — вона все ще привертає увагу, але світло стає глибшим.\n\nRed Bloom має енергію жінки, яка не хоче обирати між ніжністю та силою. Вона може бути романтичною й сміливою. Елегантною і трохи зухвалою. Чуттєвою без потреби щось доводити.\n\nЦе аромат для моменту, коли хочеться не просто добре виглядати. Хочеться <strong>залишити в повітрі емоцію</strong>.\n\n<strong>Sì Passione Red Bloom пахне як квітка у повному розквіті — червона, соковита й така, яку неможливо не помітити.</strong>"
     },
-    {
-      "pl": "🌺 <strong>IRYS NIE JEST TUTAJ TYLKO DODATKIEM</strong>\n\nW sercu Red Bloom irys pallida pełni ważną rolę konstrukcyjną. Jego pudrowa, aksamitna faktura łączy soczysty owoc z różą i przygotowuje kompozycję na cieplejszą bazę. To właśnie irys nadaje owocowo-kwiatowej kompozycji bardziej wyrafinowaną fakturę.",
-      "uk": "🌺 <strong>ІРИС ТУТ НЕ ПРОСТО ДОДАТКОВА НОТА</strong>\n\nУ серці Red Bloom ірис pallida виконує важливу конструктивну роль. Його пудрова, оксамитова текстура поєднує соковитий фрукт із трояндою та готує композицію до теплішої бази. Саме ірис надає фруктово-квітковому аромату більш вишуканої фактури."
+    "facts": [
+      {
+        "pl": "🌹 <strong>DRUGI NOWY ROZDZIAŁ SÌ W 2026 ROKU</strong>\n\nSì Passione Red Bloom został wprowadzony w 2026 roku razem z Sì Nude Bloom. Armani stworzyło te dwie premiery jako kontrastujące oblicza kwiatowej kobiecości — Nude Bloom jest bardziej miękkie i świetliste, natomiast Red Bloom ma wyrażać pełnię koloru, energii i rozkwitu.",
+        "uk": "🌹 <strong>ДРУГИЙ НОВИЙ РОЗДІЛ SÌ У 2026 РОЦІ</strong>\n\nSì Passione Red Bloom представили у 2026 році одночасно із Sì Nude Bloom. Armani створив ці дві прем'єри як контрастні прояви квіткової жіночності — Nude Bloom більш м'який і сяйливий, тоді як Red Bloom має передавати повноту кольору, енергії та цвітіння."
+      },
+      {
+        "pl": "❤️ <strong>„RED BLOOM” TO HISTORIA PEŁNEGO ROZKWITU</strong>\n\nArmani opisuje Red Bloom jako moment, w którym kwiat osiąga pełnię. Dlatego zamiast delikatnego pojedynczego kwiatu kompozycja została zbudowana wokół intensywnego czerwonego obrazu: maliny, róży, czerwonego flakonu i bogatej waniliowej bazy.",
+        "uk": "❤️ <strong>«RED BLOOM» — ЦЕ ІСТОРІЯ ПОВНОГО ЦВІТІННЯ</strong>\n\nArmani описує Red Bloom як момент, коли квітка досягає повного розквіту. Тому замість ніжної одиночної квітки композиція побудована навколо інтенсивного червоного образу: малини, троянди, червоного флакону та насиченої ванільної бази."
+      },
+      {
+        "pl": "🍓 <strong>MALINA ZOSTAŁA POTRAKTOWANA JAKO „WYBUCH CZERWIENI”</strong>\n\nArmani nie opisuje otwarcia jedynie jako owocowego. Soczysty akord maliny połączono z iskrzącą bergamotką i absolutem pąków czarnej porzeczki, aby uzyskać efekt energetycznego, niemal świetlistego czerwonego otwarcia.",
+        "uk": "🍓 <strong>МАЛИНУ ПЕРЕТВОРИЛИ НА «ВИБУХ ЧЕРВОНОГО»</strong>\n\nArmani описує початок не просто як фруктовий. Соковитий акорд малини поєднали з іскристим бергамотом та абсолютом бруньок чорної смородини, щоб створити ефект енергійного, майже сяйливого червоного відкриття."
+      },
+      {
+        "pl": "🌺 <strong>IRYS NIE JEST TUTAJ TYLKO DODATKIEM</strong>\n\nW sercu Red Bloom irys pallida pełni ważną rolę konstrukcyjną. Jego pudrowa, aksamitna faktura łączy soczysty owoc z różą i przygotowuje kompozycję na cieplejszą bazę. To właśnie irys nadaje owocowo-kwiatowej kompozycji bardziej wyrafinowaną fakturę.",
+        "uk": "🌺 <strong>ІРИС ТУТ НЕ ПРОСТО ДОДАТКОВА НОТА</strong>\n\nУ серці Red Bloom ірис pallida виконує важливу конструктивну роль. Його пудрова, оксамитова текстура поєднує соковитий фрукт із трояндою та готує композицію до теплішої бази. Саме ірис надає фруктово-квітковому аромату більш вишуканої фактури."
+      },
+      {
+        "pl": "💎 <strong>FLAKON ZMIENIONO W CZERWONY KLEJNOT</strong>\n\nKlasyczny flakon Sì otrzymał intensywnie czerwony, satynowo-matowy wygląd. Charakterystyczny kamienny korek również stał się czerwony, a złote logo Giorgio Armani pozostało na froncie. Całość ma przypominać kwiat w pełnym rozkwicie — bogaty, świetlisty i pełen energii.",
+        "uk": "💎 <strong>ФЛАКОН ПЕРЕТВОРИЛИ НА ЧЕРВОНИЙ КОШТОВНИЙ КАМІНЬ</strong>\n\nКласичний флакон Sì отримав насичений червоний сатиново-матовий вигляд. Характерна кам'яна кришка також стала червоною, а золоте лого Giorgio Armani залишилося на фронтальній частині. Уся композиція має нагадувати квітку в повному розквіті — насичену, сяйливу та сповнену енергії."
+      },
+      {
+        "pl": "🇲🇬 <strong>WANILIA POCHODZI Z MADAGASKARU</strong>\n\nW bazie wykorzystano Bourbon Vanilla Premium pochodzącą z Madagaskaru. Armani podkreśla jej bogate, kremowe i uzależniające aspekty, które zostały połączone z Cashmeranem o ciepłym, drzewno-ambrowym charakterze.",
+        "uk": "🇲🇬 <strong>ВАНІЛЬ ПОХОДИТЬ ІЗ МАДАГАСКАРУ</strong>\n\nУ базі використано Bourbon Vanilla Premium з Мадагаскару. Armani підкреслює її багаті, кремові та майже «залежні» відтінки, які поєднали з Cashmeran із теплим деревно-амбровим характером."
+      },
+      {
+        "pl": "🌹 <strong>RED BLOOM I NUDE BLOOM СТВОРЕНІ ЯК ПАРА</strong>\n\nУ 2026 році Armani випустив дві нові композиції Sì одночасно. Їхня ідея — показати контрастні характери квітів: Sì Nude Bloom розкриває більш м'яку, нюдову сторону, а Sì Passione Red Bloom — насичену, червону та енергійну.",
+        "uk": "🌹 <strong>RED BLOOM І NUDE BLOOM СТВОРЕНІ ЯК ПАРА</strong>\n\nУ 2026 році Armani одночасно випустив дві нові композиції Sì. Їхня концепція — показати контрастні характери квітів: Sì Nude Bloom відкриває більш м'яку нюдову сторону, а Sì Passione Red Bloom — насичену, червону та енергійну."
+      }
+    ],
+    "fragrance": {
+      "families": ["floral", "fruity", "amber"],
+      "accords": [
+        "fruity",
+        "rose",
+        "vanilla",
+        "powdery",
+        "floral",
+        "woody",
+        "amber",
+        "sweet"
+      ],
+      "notes": {
+        "top": ["raspberry", "bergamot", "blackcurrant-bud-absolute"],
+        "heart": ["iris", "rose-petals", "damask-rose-absolute"],
+        "base": ["cashmeran", "bourbon-vanilla", "amberwood"]
+      }
     },
-    {
-      "pl": "💎 <strong>FLAKON ZMIENIONO W CZERWONY KLEJNOT</strong>\n\nKlasyczny flakon Sì otrzymał intensywnie czerwony, satynowo-matowy wygląd. Charakterystyczny kamienny korek również stał się czerwony, a złote logo Giorgio Armani pozostało na froncie. Całość ma przypominać kwiat w pełnym rozkwicie — bogaty, świetlisty i pełen energii.",
-      "uk": "💎 <strong>ФЛАКОН ПЕРЕТВОРИЛИ НА ЧЕРВОНИЙ КОШТОВНИЙ КАМІНЬ</strong>\n\nКласичний флакон Sì отримав насичений червоний сатиново-матовий вигляд. Характерна кам'яна кришка також стала червоною, а золоте лого Giorgio Armani залишилося на фронтальній частині. Уся композиція має нагадувати квітку в повному розквіті — насичену, сяйливу та сповнену енергії."
+    "character": {
+      "sweetness": 4,
+      "freshness": 3,
+      "warmth": 4,
+      "intensity": 4
     },
-    {
-      "pl": "🇲🇬 <strong>WANILIA POCHODZI Z MADAGASKARU</strong>\n\nW bazie wykorzystano Bourbon Vanilla Premium pochodzącą z Madagaskaru. Armani podkreśla jej bogate, kremowe i uzależniające aspekty, które zostały połączone z Cashmeranem o ciepłym, drzewno-ambrowym charakterze.",
-      "uk": "🇲🇬 <strong>ВАНІЛЬ ПОХОДИТЬ ІЗ МАДАГАСКАРУ</strong>\n\nУ базі використано Bourbon Vanilla Premium з Мадагаскару. Armani підкреслює її багаті, кремові та майже «залежні» відтінки, які поєднали з Cashmeran із теплим деревно-амбровим характером."
+    "wearing": {
+      "seasons": ["spring", "autumn", "winter", "summer"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["date", "special", "party", "evening", "everyday"]
     },
-    {
-      "pl": "🌹 <strong>RED BLOOM I NUDE BLOOM СТВОРЕНІ ЯК ПАРА</strong>\n\nУ 2026 році Armani випустив дві нові композиції Sì одночасно. Їхня ідея — показати контрастні характери квітів: Sì Nude Bloom розкриває більш м'яку, нюдову сторону, а Sì Passione Red Bloom — насичену, червону та енергійну.",
-      "uk": "🌹 <strong>RED BLOOM І NUDE BLOOM СТВОРЕНІ ЯК ПАРА</strong>\n\nУ 2026 році Armani одночасно випустив дві нові композиції Sì. Їхня концепція — показати контрастні характери квітів: Sì Nude Bloom відкриває більш м'яку нюдову сторону, а Sì Passione Red Bloom — насичену, червону та енергійну."
-    }
-  ],
-  "fragrance": {
-    "families": ["floral", "fruity", "amber"],
-    "accords": ["fruity", "rose", "vanilla", "powdery", "floral", "woody", "amber", "sweet"],
-    "notes": {
-      "top": ["raspberry", "bergamot", "blackcurrant-bud-absolute"],
-      "heart": ["iris", "rose-petals", "damask-rose-absolute"],
-      "base": ["cashmeran", "bourbon-vanilla", "amberwood"]
-    }
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 50,
+        "price": 430,
+        "stock": true
+      },
+      {
+        "ml": 100,
+        "price": 640,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 7
+    },
+    "featured": true,
+    "new": true,
+    "bestseller": false,
+    "similar": [
+      "giorgio-armani-si-passione-edp-100",
+      "giorgio-armani-si-nude-bloom-edp-100",
+      "giorgio-armani-si-edp-100"
+    ],
+    "tags": [
+      "new",
+      "feminine",
+      "raspberry",
+      "rose",
+      "iris",
+      "vanilla",
+      "red",
+      "floral",
+      "fruity",
+      "sensual"
+    ]
   },
-  "character": {
-    "sweetness": 4,
-    "freshness": 3,
-    "warmth": 4,
-    "intensity": 4
-  },
-  "wearing": {
-    "seasons": ["spring", "autumn", "winter", "summer"],
-    "timeOfDay": ["day", "evening", "night"],
-    "occasions": ["date", "special", "party", "evening", "everyday"]
-  },
-  "performance": {
-    "longevity": 4,
-    "sillage": 4
-  },
-  "sizes": [
-    {
-      "ml": 50,
-      "price": 430,
-      "stock": true
-    },
-    {
-      "ml": 100,
-      "price": 640,
-      "stock": true
-    }
-  ],
-  "decant": {
-    "enabled": true,
-    "sizes": [2, 5, 10, 15],
-    "pricePerMl": 7
-  },
-  "featured": true,
-  "new": true,
-  "bestseller": false,
-  "similar": [
-    "giorgio-armani-si-passione-edp-100",
-    "giorgio-armani-si-nude-bloom-edp-100",
-    "giorgio-armani-si-edp-100"
-  ],
-  "tags": [
-    "new",
-    "feminine",
-    "raspberry",
-    "rose",
-    "iris",
-    "vanilla",
-    "red",
-    "floral",
-    "fruity",
-    "sensual"
-  ]
-},
   {
     "id": "giorgio-armani-si-nude-bloom-edp-100",
     "brandId": "giorgio-armani",
@@ -1560,13 +1569,11 @@
       "pl": "Czysta pościel, ciepłe promienie słońca i zapach skóry po spokojnym poranku. Lazy Sunday Morning to subtelna, miękka i niezwykle komfortowa kompozycja, która pachnie spokojem.",
       "uk": "Чиста постіль, теплі сонячні промені та запах шкіри після неспішного ранку. Lazy Sunday Morning — ніжна, м’яка й неймовірно комфортна композиція, яка пахне спокоєм."
     },
-
     "story": {
       "pl": "<strong>Lazy Sunday Morning — zapach poranka, którego nie chcesz kończyć.</strong>\n\nSłońce wpada przez lekko uchylone zasłony. Białe prześcieradło jest jeszcze ciepłe, powietrze pachnie świeżością, a świat za oknem może spokojnie poczekać. Nie ma pośpiechu. Nie ma planu. Jest tylko ta przyjemna chwila, kiedy można zostać w łóżku trochę dłużej.\n\nLazy Sunday Morning zaczyna się od świeżej, niemal krystalicznej lekkości. Soczysta gruszka i konwaliowy akord wprowadzają czyste, jasne brzmienie, a aldehydy dodają mu charakterystycznego wrażenia świeżo wypranej tkaniny.\n\nPotem pojawia się <strong>irys — pudrowy, miękki i niezwykle elegancki</strong>. Towarzyszą mu róża i kwiat pomarańczy, dzięki czemu zapach nie przypomina po prostu detergentu czy świeżego prania. Jest bardziej osobisty — jak czysta pościel, która po kilku godzinach zaczyna pachnieć już nie tylko sobą, ale również ciepłą skórą.\n\nW bazie białe piżma otulają kompozycję miękką, jedwabistą aurą. Ambrette dodaje jej delikatnego, naturalnie zmysłowego ciepła, a indonezyjska paczula pozostawia subtelny, głębszy ślad.\n\nTo jeden z tych zapachów, które nie potrzebują wielkiego wejścia. <strong>Nie krzyczy. Nie uwodzi na pokaz. Po prostu sprawia, że chce się być bliżej.</strong>\n\nMoże pachnieć świeżą pościelą, czystą koszulą, nagą skórą ogrzaną słońcem. Jest idealny na dzień, do pracy, na spacer, do domu — wszędzie tam, gdzie chcesz czuć się świeżo, zadbanie i naturalnie.\n\n<strong>Lazy Sunday Morning — jak spokojny poranek zamknięty w butelce. Czystość, miękkość i ta mała przyjemność, kiedy nigdzie nie trzeba się spieszyć.</strong>",
 
       "uk": "<strong>Lazy Sunday Morning — аромат ранку, який зовсім не хочеться закінчувати.</strong>\n\nСонце пробивається крізь трохи прочинені штори. Біла постіль ще зберігає тепло, повітря пахне свіжістю, а світ за вікном цілком може зачекати. Нікуди не потрібно поспішати. Немає планів. Є лише та приємна мить, коли можна залишитися в ліжку ще трохи довше.\n\nLazy Sunday Morning починається зі свіжої, майже кришталевої легкості. Соковита груша та акорд конвалії створюють чисте, світле звучання, а альдегіди додають характерного відчуття щойно випраної тканини.\n\nПотім з’являється <strong>ірис — пудровий, м’який і надзвичайно елегантний</strong>. Разом із ним звучать троянда та квітка апельсина, тому аромат зовсім не нагадує просто пральний засіб чи чисту білизну. Він стає більш особистим — наче свіжа постіль, яка через кілька годин починає пахнути вже не лише собою, а й теплою шкірою.\n\nУ базі білі мускуси огортають композицію м’якою, шовковистою аурою. Амбрета додає делікатного, природно чуттєвого тепла, а індонезійська пачулі залишає тонкий, глибший слід.\n\nЦе один із тих ароматів, яким не потрібна гучна поява. <strong>Він не кричить. Не спокушає напоказ. Він просто змушує хотіти бути ближче.</strong>\n\nВін може пахнути свіжою постіллю, чистою сорочкою, оголеною шкірою, зігрітою сонцем. Ідеальний для дня, роботи, прогулянки, дому — всюди, де хочеться відчувати себе свіжо, доглянуто й природно.\n\n<strong>Lazy Sunday Morning — ніби спокійний ранок, замкнений у флаконі. Чистота, м’якість і те маленьке задоволення, коли нікуди не потрібно поспішати.</strong>"
     },
-
     "facts": [
       {
         "pl": "✨ <strong>2013 — narodziny Lazy Sunday Morning.</strong> Zapach został wprowadzony do kolekcji REPLICA w 2013 roku i od początku był pomyślany jako kompozycja uniseksowa.",
@@ -1650,7 +1657,7 @@
       "pricePerMl": 7
     },
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "similar": ["byredo-blanche-edp-100", "clean-warm-cotton-edp-060"],
     "tags": [
@@ -1904,7 +1911,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,
@@ -2027,7 +2034,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": false,
@@ -2131,7 +2138,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,
@@ -2903,7 +2910,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -3280,7 +3287,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -3513,7 +3520,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -3619,7 +3626,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,
@@ -3781,7 +3788,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": false,

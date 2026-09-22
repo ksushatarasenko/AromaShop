@@ -136,4 +136,10 @@ Keep the perfume object in `src/data/perfumes/luxury.json` or `src/data/perfumes
 "visible": false
 ```
 
+>>
+    "new": true,
+    "bestseller": false,
+    "recommended": true
+>>
+
 The perfume remains in the JSON and can still be opened by its direct product URL, but it disappears from the catalogue, search, homepage collections, and scent matching. To return it to the shop, change it to `"visible": true` or remove the field.

@@ -672,7 +672,7 @@
       "pricePerMl": 12
     },
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "similar": [
       "maison-margiela-replica-lazy-sunday-morning-edt-100",
@@ -692,7 +692,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,
@@ -992,7 +992,8 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false
+    ,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -1274,7 +1275,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -1384,7 +1385,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,
@@ -1497,7 +1498,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,
@@ -1610,7 +1611,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -2143,7 +2144,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -2250,8 +2251,9 @@
 
   {
     "featured": true,
-    "new": true,
-    "bestseller": false,
+    "new": false,
+    "bestseller": true,
+    "recommended": true,
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
@@ -2377,7 +2379,7 @@
 
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -3458,8 +3460,8 @@
   },
   {
     "featured": true,
-    "new": true,
-    "bestseller": false,
+    "new": false,
+    "bestseller": true,
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
@@ -3844,8 +3846,8 @@
   },
   {
     "featured": true,
-    "new": true,
-    "bestseller": false,
+    "new": false,
+    "bestseller": true,
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
@@ -3965,7 +3967,7 @@
   },
   {
     "featured": true,
-    "new": true,
+    "new": false,
     "bestseller": false,
     "decant": {
       "enabled": true,

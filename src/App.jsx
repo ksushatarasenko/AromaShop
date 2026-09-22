@@ -11,6 +11,7 @@ import Journal from './pages/Journal.jsx';
 import Article from './pages/Article.jsx';
 import About from './pages/About.jsx';
 import Authenticity from './pages/Authenticity.jsx';
+import HowToOrder from './pages/HowToOrder.jsx';
 import Note from './pages/Note.jsx';
 import Cart from './pages/Cart.jsx';
 import ScrollToTop from './components/ScrollToTop.jsx';
@@ -44,7 +45,6 @@ function LocalizedRoutes() {
         <Route path={s.unisex} element={<Perfumes categoryKey="unisex" />} />
         <Route path={s.luxury} element={<Perfumes categoryKey="luxury" />} />
         <Route path={s.niche} element={<Perfumes categoryKey="niche" />} />
-
         <Route path={`${s.perfume}/:id`} element={<PerfumeDetails />} />
         <Route path={`${s.note}/:slug`} element={<Note />} />
         <Route path={s.find} element={<FindYourScent />} />
@@ -52,6 +52,7 @@ function LocalizedRoutes() {
         <Route path={`${s.journal}/:slug`} element={<Article />} />
         <Route path={s.about} element={<About />} />
         <Route path={s.authenticity} element={<Authenticity />} />
+        <Route path={s.howToOrder} element={<HowToOrder />} />
         <Route path={s.cart} element={<Cart />} />
 
         <Route path="*" element={<Navigate to={`/${lang}`} replace />} />
