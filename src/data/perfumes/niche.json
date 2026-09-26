@@ -10,6 +10,7 @@
     "perfumer": "Paolo Terenzi",
     "country": "Italy",
     "recommended": true,
+    
     "image": "main.png",
     "gallery": ["02.png", "03.png"],
     "description": {
@@ -97,7 +98,7 @@
       "pricePerMl": 7
     },
     "featured": true,
-    "new": false,
+    "new": true,
     "bestseller": true,
     "similar": [
       "tiziana-terenzi-kirke-extrait-100",
