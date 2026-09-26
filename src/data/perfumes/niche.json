@@ -1,5 +1,122 @@
 [
   {
+    "id": "tiziana-terenzi-cassiopea-extrait-100",
+    "brandId": "tiziana-terenzi",
+    "name": "Cassiopea",
+    "collection": "niche",
+    "gender": "unisex",
+    "concentration": "Extrait",
+    "year": 2015,
+    "perfumer": "Paolo Terenzi",
+    "country": "Italy",
+    "recommended": true,
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+    "description": {
+      "pl": "Cassiopea to świetlista, soczysta podróż przez tropikalną marakuję, cytrynę i czarną porzeczkę, która z czasem mięknie w kremowe kwiaty, tonkę, piżmo i sandałowiec. Jest radosna, zmysłowa i niezwykle łatwa do pokochania — jak ciepła letnia noc, podczas której zamiast wracać do domu, chce się jeszcze chwilę zostać pod gwiazdami.",
+      "uk": "Cassiopea — це світла й соковита подорож крізь тропічну маракую, лимон і чорну смородину, яка поступово пом’якшується кремовими квітами, тонкою, мускусом і сандалом. Вона радісна, чуттєва й напрочуд легка для закоханості — як тепла літня ніч, коли замість повертатися додому хочеться ще трохи залишитися під зорями."
+    },
+    "shortDescription": {
+      "pl": "Soczysta marakuja, cytryna i czarna porzeczka spotykają delikatne kwiaty oraz kremową bazę z tonką, piżmem i sandałowcem.",
+      "uk": "Соковита маракуя, лимон і чорна смородина зустрічаються з ніжними квітами та кремовою базою з тонки, мускусу й сандалу."
+    },
+    "story": {
+      "pl": "<strong>Owocowy blask, który z czasem staje się miękki i zmysłowy.</strong>\n\nCassiopea od pierwszych sekund przyciąga soczystym, niemal iskrzącym otwarciem. Marakuja, czarna porzeczka i cytryna tworzą efekt świeżo rozciętego tropikalnego owocu — słodkiego, lekko kwaśnego i niezwykle apetycznego. To właśnie tutaj Cassiopea pokazuje swoją najbardziej figlarną stronę: lekką, kolorową i pełną słońca.\n\nPo chwili owocowa eksplozja zaczyna mięknąć. Na jej tle pojawiają się delikatne kwiaty, które nadają kompozycji kremowości i romantycznego charakteru. Zapach nie staje się jednak ciężki ani przesadnie słodki — pozostaje świetlisty, jak ciepłe powietrze pod koniec letniego dnia.\n\nW bazie Cassiopea odsłania swoje najbardziej uzależniające oblicze. Tonka, piżmo i sandałowiec wygładzają soczyste owoce i pozostawiają na skórze miękki, ciepły, lekko pudrowy ślad. To właśnie ten kontrast jest jej największym sekretem — zaczyna się jak egzotyczny owocowy koktajl, a kończy jak ciepły, zmysłowy dotyk skóry.\n\nCassiopea nie próbuje uwodzić ciężarem. Jej siła tkwi w lekkości, soczystości i tym charakterystycznym momencie, kiedy świeży owoc powoli zamienia się w miękką, kremową i niezwykle przyjemną aurę.",
+      "uk": "<strong>Фруктове сяйво, яке поступово стає м’яким і чуттєвим.</strong>\n\nCassiopea з перших секунд привертає увагу соковитим, майже іскристим відкриттям. Маракуя, чорна смородина та лимон створюють ефект щойно розрізаного тропічного фрукта — солодкого, трохи кислуватого й неймовірно апетитного. Саме тут Cassiopea показує свій найграційніший характер: легкий, барвистий і сонячний.\n\nЧерез деякий час фруктовий вибух починає ставати м’якшим. На його тлі розкриваються ніжні квіти, додаючи композиції кремовості та романтичного настрою. Але аромат не стає важким або надто солодким — він залишається світлим, наче тепле повітря наприкінці літнього дня.\n\nУ шлейфі Cassiopea відкриває свою найбільш спокусливу сторону. Тонка, мускус і сандал згладжують соковитість фруктів і залишають на шкірі м’який, теплий, трохи пудровий слід. Саме цей контраст і є її головною особливістю — вона починається як екзотичний фруктовий коктейль, а закінчується теплим, чуттєвим дотиком шкіри.\n\nCassiopea не намагається спокушати важкістю. Її сила — у легкості, соковитості та тому особливому моменті, коли свіжий фрукт поступово перетворюється на м’яку, кремову й надзвичайно приємну ауру."
+    },
+    "facts": [
+      {
+        "pl": "🌌 <strong>OD RODZINNYCH WIECZORÓW POD GWIAZDAMI</strong> Cassiopea powstała z wspomnień Tiziany i Paolo z rodzinnego domu wakacyjnego u podnóża Monte Catria. Wieczory przy ogniu i obserwowanie gwiazd stały się częścią DNA zapachu.",
+        "uk": "🌌 <strong>З РОДИННИХ ВЕЧОРІВ ПІД ЗОРЯМИ</strong> Cassiopea народилася зі спогадів Тізіани та Паоло про родинний літній будинок біля гори Катрія. Вечори біля вогню та спостереження за зорями стали частиною ДНК аромату."
+      },
+      {
+        "pl": "👴 <strong>УНИКАЛЬНИЙ «ПАРФУМНИЙ» СПОГАД ДІДУСЯ</strong> В дитинстві брат і сестра вчилися разом із дідусем Гульєльмо розпізнавати рослини та квіти за їхнім запахом. Гра з дитинства згодом перетворилася на професію.",
+        "uk": "👴 <strong>УНІКАЛЬНИЙ «ПАРФУМНИЙ» СПОГАД ДІДУСЯ</strong> У дитинстві брат і сестра разом із дідусем Гульєльмо вчилися розпізнавати рослини та квіти за запахом. Те, що починалося як гра, згодом стало їхньою професією."
+      },
+      {
+        "pl": "🏰 <strong>МІСЦЕ З ВЛАСНОЮ ЛЕГЕНДОЮ</strong> Сімейний будинок знаходився неподалік середньовічного замку Frontone. З його найвищої вежі можна було бачити гори, Адріатичне море й у ясну погоду — аж до Сан-Марино.",
+        "uk": "🏰 <strong>МІСЦЕ З ВЛАСНОЮ ЛЕГЕНДОЮ</strong> Родинний будинок знаходився неподалік середньовічного замку Фронтоне. З його найвищої вежі відкривалися краєвиди на гори, Адріатичне море і навіть Сан-Марино."
+      },
+      {
+        "pl": "✨ <strong>NAZWA NIE JEST PRZYPADKOWA</strong> Cassiopea należy do Luna Collection — linii zbudowanej wokół wspomnień z dzieciństwa, podróży, księżycowych nocy i fascynacji gwiazdami. Sama Cassiopea nosi imię jednej z najbardziej rozpoznawalnych konstelacji.",
+        "uk": "✨ <strong>НАЗВА НЕ ВИПАДКОВА</strong> Cassiopea належить до Luna Collection — лінії, побудованої навколо дитячих спогадів, подорожей, місячних ночей і захоплення зорями. Саме ім’я Cassiopea походить від назви відомого сузір’я."
+      },
+      {
+        "pl": "🔥 <strong>PERFUMY JAK PAMIĘTNIK</strong> Twórcy Tiziana Terenzi opisują swoje zapachy jako płynne emocje zamknięte w butelkach. Cassiopea szczególnie mocno zachowuje tę filozofię — jej początkiem była konkretna rodzinna historia, a nie abstrakcyjny koncept.",
+        "uk": "🔥 <strong>ПАРФУМИ ЯК ЩОДЕННИК</strong> У Tiziana Terenzi аромати описують як рідкі емоції, замкнені у флаконах. Cassiopea особливо сильно передає цю філософію — її початком стала конкретна родинна історія, а не абстрактна концепція."
+      },
+      {
+        "pl": "🌠 <strong>MAŁA RODZINNA GRA STAŁA SIĘ ZAWODEM</strong> Sami twórcy wspominają, że jako dzieci nie mogli przypuszczać, iż zabawa w rozpoznawanie zapachów roślin pewnego dnia stanie się ich pasją i pracą. Cassiopea jest jednym z najbardziej osobistych przykładów tej historii.",
+        "uk": "🌠 <strong>ДИТЯЧА ГРА СТАЛА ПРОФЕСІЄЮ</strong> Самі творці згадують, що в дитинстві не могли уявити, що гра з розпізнавання запахів рослин одного дня стане їхньою пристрастю та роботою. Cassiopea — один із найособистіших прикладів цієї історії."
+      }
+    ],
+    "fragrance": {
+      "families": ["chypre", "floral", "fruity"],
+      "accords": [
+        "fruity",
+        "tropical",
+        "citrus",
+        "floral",
+        "sweet",
+        "musky",
+        "woody",
+        "powdery",
+        "aromatic"
+      ],
+      "notes": {
+        "top": ["passion-fruit", "cassis", "lemon", "fern"],
+        "heart": ["tea-rose", "lily-of-the-valley", "carnation"],
+        "base": ["tonka-bean", "musk", "sandalwood"]
+      }
+    },
+    "character": {
+      "sweetness": 4,
+      "freshness": 4,
+      "warmth": 3,
+      "intensity": 4
+    },
+    "wearing": {
+      "seasons": ["spring", "summer", "autumn"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["everyday", "date", "vacation", "special", "party"]
+    },
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+    "sizes": [
+      {
+        "ml": 100,
+        "price": 710,
+        "stock": true
+      }
+    ],
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 7
+    },
+    "featured": true,
+    "new": false,
+    "bestseller": true,
+    "similar": [
+      "tiziana-terenzi-kirke-extrait-100",
+      "tiziana-terenzi-andromeda-extrait-100",
+      "xerjoff-erba-pura-edp-100"
+    ],
+    "tags": [
+      "iconic",
+      "unisex",
+      "fruity",
+      "passion-fruit",
+      "cassis",
+      "floral",
+      "sweet",
+      "tropical",
+      "luna-collection"
+    ]
+  },
+  {
     "id": "creed-aventus-edp-100",
     "brandId": "creed",
     "name": "Aventus",
@@ -992,8 +1109,7 @@
   },
   {
     "featured": true,
-    "new": false
-    ,
+    "new": false,
     "bestseller": true,
     "decant": {
       "enabled": true,
@@ -1525,13 +1641,11 @@
       "pl": "Jedna molekuła. Czysta skóra. Niezwykła aura. Molecule 01 to minimalistyczny zapach zbudowany wokół Iso E Super — subtelny, zmysłowy i zaskakująco uzależniający.",
       "uk": "Одна молекула. Чиста шкіра. Неймовірна аура. Molecule 01 — мінімалістичний аромат, побудований навколо Iso E Super: тонкий, чуттєвий і напрочуд притягальний."
     },
-
     "story": {
       "pl": "<strong>Molecule 01 — zapach, którego prawie nie widać. Ale można go poczuć.</strong>\n\nNie zaczyna się jak typowe perfumy. Nie ma wybuchu cytrusów, bukietu kwiatów ani ciężkiej wanilii. Jest ciszej. Jak ciepła skóra, na której ktoś przed chwilą był bardzo blisko.\n\nMolecule 01 składa się przede wszystkim z jednej niezwykłej substancji — <strong>Iso E Super</strong>. To właśnie ona jest bohaterem całej kompozycji. Zamiast przykrywać ją dziesiątkami innych składników, Escentric Molecules pozwala jej mówić własnym głosem.\n\nNa jednej osobie może wydawać się niemal niewyczuwalna. Na innej pojawia się jako miękkie, aksamitne drewno, lekko pieprzne i ciepłe, z charakterystycznym wrażeniem czystej, ogrzanej skóry. I właśnie to jest w niej najbardziej fascynujące.\n\n<strong>Molecule 01 nie pachnie „perfumami”. Pachnie aurą.</strong>\n\nZapach pojawia się, znika i po chwili znów daje o sobie znać. Możesz przestać go zauważać na własnej skórze, a potem nagle poczuć go przy ruchu ręki, na ubraniu albo kiedy ktoś podejdzie bliżej. To sprawia, że Molecule 01 jest bardziej doświadczeniem niż klasyczną kompozycją zapachową.\n\nNie mówi: „spójrz na mnie”. Raczej szepcze: „podejdź trochę bliżej”. I właśnie dlatego ma w sobie coś niezwykle zmysłowego.\n\nJest idealny dla osób, które nie lubią oczywistych perfum i chcą pachnieć inaczej — czysto, nowocześnie, minimalistycznie, ale z charakterem. Można nosić go samodzielnie albo potraktować jak niewidzialną warstwę pod inne perfumy.\n\n<strong>Molecule 01 — jedna molekuła, zero zbędnego hałasu i bardzo dużo ciekawości.</strong>\n\nCzasem najbardziej intrygujący zapach to właśnie ten, którego nie potrafisz od razu nazwać.",
 
       "uk": "<strong>Molecule 01 — аромат, якого майже не видно. Але його можна відчути.</strong>\n\nВін не починається, як типові парфуми. Немає вибуху цитрусів, квіткового букета чи важкої ванілі. Він тихіший. Наче тепла шкіра, на якій щойно залишився чийсь дуже близький дотик.\n\nMolecule 01 побудований навколо однієї незвичайної речовини — <strong>Iso E Super</strong>. Саме вона є головним героєм композиції. Замість того щоб приховувати її десятками інших інгредієнтів, Escentric Molecules дозволяє їй звучати самостійно.\n\nНа одній людині аромат може здаватися майже невловимим. На іншій він розкривається як м’яке, оксамитове дерево — трохи пряне, тепле, з характерним відчуттям чистої шкіри, зігрітої теплом тіла. І саме це в ньому найбільш захоплює.\n\n<strong>Molecule 01 пахне не стільки «парфумами», скільки аурою.</strong>\n\nАромат з’являється, зникає, а потім раптом знову нагадує про себе. Ви можете перестати відчувати його на власній шкірі, а за мить зловити аромат під час руху руки, на одязі або коли хтось підійде ближче. Саме тому Molecule 01 — це радше досвід, ніж класична парфумерна композиція.\n\nВін не говорить: «подивись на мене». Він ніби тихо шепоче: «підійди трохи ближче». І саме тому в ньому є щось надзвичайно чуттєве.\n\nЦе аромат для тих, хто не любить очевидних парфумів і хоче пахнути інакше — чисто, сучасно, мінімалістично, але з характером. Його можна носити самостійно або використовувати як невидимий шар під іншими парфумами.\n\n<strong>Molecule 01 — одна молекула, жодного зайвого шуму і дуже багато загадки.</strong>\n\nІноді найбільш захопливий аромат — саме той, який неможливо одразу назвати."
     },
-
     "facts": [
       {
         "pl": "✨ <strong>2006 — początek fenomenu.</strong> Molecule 01 został wprowadzony w 2006 roku jako debiutancki zapach marki Escentric Molecules i szybko stał się jednym z najbardziej charakterystycznych przykładów minimalistycznej perfumerii.",
@@ -2325,18 +2439,9 @@
         "warm-spicy"
       ],
       "notes": {
-        "top": [
-          "coffee"
-        ],
-        "heart": [
-          "rose",
-          "praline"
-        ],
-        "base": [
-          "oakmoss",
-          "cedar",
-          "amber"
-        ]
+        "top": ["coffee"],
+        "heart": ["rose", "praline"],
+        "base": ["oakmoss", "cedar", "amber"]
       }
     },
     "character": {
@@ -3879,36 +3984,36 @@
     },
     "facts": [
       {
-        "pl": "🪐 <strong>2019 — narodziny Ganymede.</strong> Zapach został wprowadzony 1 kwietnia 2019 roku. Jego nazwa pochodzi od Ganimedesa — księżyca Jowisza odkrytego przez Galileusza. Marka połączyła tę astronomiczną inspirację z wizją nowoczesnej, niemal pozaziemskiej elegancji. :contentReference[oaicite:1]{index=1}",
-        "uk": "🪐 <strong>2019 — народження Ganymede.</strong> Аромат вийшов 1 квітня 2019 року. Його назва походить від Ганімеда — супутника Юпітера, відкритого Галілеєм. Бренд поєднав цю астрономічну історію з баченням сучасної, майже позаземної елегантності. :contentReference[oaicite:2]{index=2}"
+        "pl": "🪐 <strong>2019 — narodziny Ganymede.</strong> Zapach został wprowadzony 1 kwietnia 2019 roku. Jego nazwa pochodzi od Ganimedesa — księżyca Jowisza odkrytego przez Galileusza. Marka połączyła tę astronomiczną inspirację z wizją nowoczesnej, niemal pozaziemskiej elegancji.",
+        "uk": "🪐 <strong>2019 — народження Ganymede.</strong> Аромат вийшов 1 квітня 2019 року. Його назва походить від Ганімеда — супутника Юпітера, відкритого Галілеєм. Бренд поєднав цю астрономічну історію з баченням сучасної, майже позаземної елегантності. "
       },
       {
-        "pl": "👃 <strong>Za Ganymede stoi Quentin Bisch.</strong> To właśnie francuski perfumiarz Quentin Bisch stworzył kompozycję dla projektanta Marca-Antoine'a Barroisa. Ich współpraca rozpoczęła się wcześniej przy B683, a Ganymede stał się kolejnym wspólnym projektem, opartym na bardziej futurystycznej wizji skóry. :contentReference[oaicite:3]{index=3}",
-        "uk": "👃 <strong>Автор Ganymede — Quentin Bisch.</strong> Саме французький парфумер Quentin Bisch створив композицію для дизайнера Marc-Antoine Barrois. Їхня співпраця почалася раніше з B683, а Ganymede став наступним спільним проєктом — уже з більш футуристичним баченням шкіри. :contentReference[oaicite:4]{index=4}"
+        "pl": "👃 <strong>Za Ganymede stoi Quentin Bisch.</strong> To właśnie francuski perfumiarz Quentin Bisch stworzył kompozycję dla projektanta Marca-Antoine'a Barroisa. Ich współpraca rozpoczęła się wcześniej przy B683, a Ganymede stał się kolejnym wspólnym projektem, opartym na bardziej futurystycznej wizji skóry. ",
+        "uk": "👃 <strong>Автор Ganymede — Quentin Bisch.</strong> Саме французький парфумер Quentin Bisch створив композицію для дизайнера Marc-Antoine Barrois. Їхня співпраця почалася раніше з B683, а Ganymede став наступним спільним проєктом — уже з більш футуристичним баченням шкіри."
       },
       {
-        "pl": "✨ <strong>Pomysł nie zaczynał się od klasycznej piramidy nut.</strong> Barrois i Bisch pracowali przede wszystkim nad wyobrażeniem tego, jak mogłaby pachnieć „boska skóra” — świeża, lekko słona, rozgrzana, ale jednocześnie mineralna i chłodna. Dopiero z tej fantazji powstała konkretna konstrukcja zapachu. :contentReference[oaicite:5]{index=5}",
-        "uk": "✨ <strong>Ідея почалася не з класичної піраміди нот.</strong> Barrois і Bisch спочатку працювали над уявленням про те, як могла б пахнути «божественна шкіра» — свіжа, трохи солона, зігріта, але водночас мінеральна й прохолодна. І лише з цієї фантазії народилася конкретна композиція. :contentReference[oaicite:6]{index=6}"
+        "pl": "✨ <strong>Pomysł nie zaczynał się od klasycznej piramidy nut.</strong> Barrois i Bisch pracowali przede wszystkim nad wyobrażeniem tego, jak mogłaby pachnieć „boska skóra” — świeża, lekko słona, rozgrzana, ale jednocześnie mineralna i chłodna. Dopiero z tej fantazji powstała konkretna konstrukcja zapachu.",
+        "uk": "✨ <strong>Ідея почалася не з класичної піраміди нот.</strong> Barrois і Bisch спочатку працювали над уявленням про те, як могла б пахнути «божественна шкіра» — свіжа, трохи солона, зігріта, але водночас мінеральна й прохолодна. І лише з цієї фантазії народилася конкретна композиція."
       },
       {
-        "pl": "🍊 <strong>Mandarynka nie prowadzi do typowej cytrusowej świeżości.</strong> W Ganymede szybko spotyka się z szafranem i chłodnymi, mineralnymi akordami. Dzięki temu otwarcie jest jasne, ale nie banalnie świeże — bardziej świetliste i przestrzenne. :contentReference[oaicite:7]{index=7}",
-        "uk": "🍊 <strong>Мандарин тут не веде до звичної цитрусової свіжості.</strong> У Ganymede він швидко зустрічається із шафраном і холодними мінеральними акордами. Тому початок звучить світло, але не банально свіжо — радше сяйливо та просторово. :contentReference[oaicite:8]{index=8}"
+        "pl": "🍊 <strong>Mandarynka nie prowadzi do typowej cytrusowej świeżości.</strong> W Ganymede szybko spotyka się z szafranem i chłodnymi, mineralnymi akordami. Dzięki temu otwarcie jest jasne, ale nie banalnie świeże — bardziej świetliste i przestrzenne.",
+        "uk": "🍊 <strong>Мандарин тут не веде до звичної цитрусової свіжості.</strong> У Ganymede він швидко зустрічається із шафраном і холодними мінеральними акордами. Тому початок звучить світло, але не банально свіжо — радше сяйливо та просторово."
       },
       {
-        "pl": "🧥 <strong>Skóra, ale bardziej zamsz niż ciężka skóra.</strong> Jednym z najważniejszych efektów Ganymede jest mineralno-skórzany akord. Oficjalna historia marki opisuje go jako niemal metaliczną mineralną skórę, podczas gdy osmantus i fiołek dodają jej miękkości. :contentReference[oaicite:9]{index=9}",
-        "uk": "🧥 <strong>Шкіра, але радше замш, ніж важка шкіра.</strong> Один із головних ефектів Ganymede — мінерально-шкіряний акорд. Офіційна історія бренду описує його як майже металеву мінеральну шкіру, тоді як османтус і фіалка додають їй м’якості. :contentReference[oaicite:10]{index=10}"
+        "pl": "🧥 <strong>Skóra, ale bardziej zamsz niż ciężka skóra.</strong> Jednym z najważniejszych efektów Ganymede jest mineralno-skórzany akord. Oficjalna historia marki opisuje go jako niemal metaliczną mineralną skórę, podczas gdy osmantus i fiołek dodają jej miękkości.",
+        "uk": "🧥 <strong>Шкіра, але радше замш, ніж важка шкіра.</strong> Один із головних ефектів Ganymede — мінерально-шкіряний акорд. Офіційна історія бренду описує його як майже металеву мінеральну шкіру, тоді як османтус і фіалка додають їй м’якості."
       },
       {
-        "pl": "🏆 <strong>Już w 2020 roku pojawiły się ważne wyróżnienia.</strong> Ganymede zdobył nagrodę „Best Fragrance from an Independent Brand” we Francji oraz „Perfume Extraordinaire” w Wielkiej Brytanii podczas FiFi Awards 2020. :contentReference[oaicite:11]{index=11}",
-        "uk": "🏆 <strong>Уже у 2020 році — важливі нагороди.</strong> Ganymede отримав нагороду «Best Fragrance from an Independent Brand» у Франції та «Perfume Extraordinaire» у Великій Британії на FiFi Awards 2020. :contentReference[oaicite:12]{index=12}"
+        "pl": "🏆 <strong>Już w 2020 roku pojawiły się ważne wyróżnienia.</strong> Ganymede zdobył nagrodę „Best Fragrance from an Independent Brand” we Francji oraz „Perfume Extraordinaire” w Wielkiej Brytanii podczas FiFi Awards 2020.",
+        "uk": "🏆 <strong>Уже у 2020 році — важливі нагороди.</strong> Ganymede отримав нагороду «Best Fragrance from an Independent Brand» у Франції та «Perfume Extraordinaire» у Великій Британії на FiFi Awards 2020. "
       },
       {
-        "pl": "♾️ <strong>Bez reformulacji.</strong> Marc-Antoine Barrois podaje, że od premiery 1 kwietnia 2019 roku Ganymede nigdy nie został przeformułowany. To ciekawy szczegół dla osób, które chcą poznać zapach w formule możliwie bliskiej jego pierwotnej wersji. :contentReference[oaicite:13]{index=13}",
-        "uk": "♾️ <strong>Без реформуляції.</strong> Marc-Antoine Barrois зазначає, що від прем’єри 1 квітня 2019 року Ganymede жодного разу не реформулювали. Це цікавий факт для тих, хто хоче познайомитися з ароматом у формулі, максимально близькій до початкової. :contentReference[oaicite:14]{index=14}"
+        "pl": "♾️ <strong>Bez reformulacji.</strong> Marc-Antoine Barrois podaje, że od premiery 1 kwietnia 2019 roku Ganymede nigdy nie został przeformułowany. To ciekawy szczegół dla osób, które chcą poznać zapach w formule możliwie bliskiej jego pierwotnej wersji.",
+        "uk": "♾️ <strong>Без реформуляції.</strong> Marc-Antoine Barrois зазначає, що від прем’єри 1 квітня 2019 року Ganymede жодного разу не реформулювали. Це цікавий факт для тих, хто хоче познайомитися з ароматом у формулі, максимально близькій до початкової."
       },
       {
-        "pl": "🌌 <strong>Ganymede jest celowo minimalistyczny.</strong> Quentin Bisch opisywał jego ideę jako nową „mapę olfaktoryczną” — kompozycję zbudowaną nie z ogromnej liczby efektów, lecz z kilku kontrastów: mandarynki, fiołka, skóry i mineralnej przestrzeni. :contentReference[oaicite:15]{index=15}",
-        "uk": "🌌 <strong>Ganymede навмисно мінімалістичний.</strong> Quentin Bisch описував його ідею як нову «нюхову карту» — композицію, побудовану не на величезній кількості ефектів, а на кількох контрастах: мандарині, фіалці, шкірі та мінеральному просторі. :contentReference[oaicite:16]{index=16}"
+        "pl": "🌌 <strong>Ganymede jest celowo minimalistyczny.</strong> Quentin Bisch opisywał jego ideę jako nową „mapę olfaktoryczną” — kompozycję zbudowaną nie z ogromnej liczby efektów, lecz z kilku kontrastów: mandarynki, fiołka, skóry i mineralnej przestrzeni.",
+        "uk": "🌌 <strong>Ganymede навмисно мінімалістичний.</strong> Quentin Bisch описував його ідею як нову «нюхову карту» — композицію, побудовану не на величезній кількості ефектів, а на кількох контрастах: мандарині, фіалці, шкірі та мінеральному просторі."
       },
       {
         "pl": "🛍️ <strong>Oryginalny produkt.</strong> Ganymede dostępny w AromaShop jest oryginalnym produktem marki Marc-Antoine Barrois.",
@@ -3950,7 +4055,7 @@
       {
         "ml": 30,
         "price": 585,
-        "stock": true
+        "stock": false
       },
       {
         "ml": 100,
@@ -4204,7 +4309,7 @@
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 5
+      "pricePerMl": 5.5
     },
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],
@@ -4315,7 +4420,7 @@
     "sizes": [
       {
         "ml": 100,
-        "price": 450,
+        "price": 490,
         "stock": false
       }
     ],

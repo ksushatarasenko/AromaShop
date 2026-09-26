@@ -265,19 +265,33 @@
   },
   "about": {
     "eyebrow": "O nas",
+
     "title": "AromaShop",
-    "p1": "AromaShop to boutique oryginalnych luksusowych i niszowych perfum. Wierzymy, że zapach to coś więcej niż tylko kompozycja. To nastrój, wspomnienie, charakter i mała część Twojej historii.",
 
-    "h2perspective": "Nasze spojrzenie",
-    "p2": "Kuratorujemy, a nie gromadzimy. Wybieramy zapachy, które mają własny charakter, historię i wyjątkowe brzmienie. Każdy zapach w naszej selekcji staramy się opisać tak, aby można było poczuć jego charakter jeszcze przed pierwszym rozpyleniem.",
+    "p1": "AromaShop to specjalistyczny sklep z oryginalnymi perfumami luksusowymi i niszowymi. Wierzymy, że zapach to coś więcej niż kompozycja nut. To nastrój, wspomnienie, charakter i mały fragment własnej historii. Dlatego tworzymy nie tylko miejsce, w którym można kupić perfumy, ale przede wszystkim przestrzeń do odkrywania zapachów i świadomego wyboru.",
 
-    "h2expertise": "Ekspertyza z elegancją",
-    "p3": "O nutach, rodzinach olfaktorycznych, sezonach i kontekstach noszenia mówimy prosto i zrozumiale. Naszym celem nie jest zasypywanie terminami, lecz pomoc w znalezieniu zapachu, który naprawdę będzie współgrał właśnie z Tobą.",
+    "h2perspective": "Wybieramy, a nie tylko sprzedajemy",
 
-    "h2boutique": "Wyjątkowe doświadczenie boutique",
-    "p4": "Nie chcemy być po prostu kolejnym sklepem internetowym. Zamówienie w AromaShop to osobista relacja: potwierdzamy dostępność, pomagamy w szczegółach i pozostajemy z Tobą w kontakcie aż do momentu otrzymania zamówienia. Zależy nam, aby wybór zapachu był przyjemny, a samo doświadczenie — takie, do którego chce się wrócić.",
+    "p2": "Tworzymy starannie wyselekcjonowaną kolekcję zapachów o wyrazistym charakterze, własnej historii i wyjątkowym brzmieniu. Nie zależy nam na tym, aby po prostu dodawać kolejne flakony do oferty. Chcemy wiedzieć, co sprawia, że dany zapach jest wyjątkowy i komu może naprawdę przypaść do gustu. Dlatego staramy się opisywać każdy z nich tak, aby można było poczuć jego charakter jeszcze przed pierwszym rozpyleniem.",
+
+    "h2authenticity": "Oryginalność bez kompromisów",
+
+    "p3": "Współpracujemy wyłącznie ze sprawdzonymi dostawcami, a każdy flakon osobiście weryfikujemy, zanim trafi do naszej oferty. Oryginalność perfum nie jest dla nas tylko deklaracją — to jedna z podstaw naszej pracy. Dokładnie sprawdzamy produkty i ich pochodzenie, aby nasi klienci mogli mieć pewność, że kupują w AromaShop autentyczny zapach.",
+
+    "h2expertise": "O perfumach — prosto i zrozumiale",
+
+    "p4": "Mówimy o nutach, rodzinach olfaktorycznych, charakterze zapachu, porach roku i okazjach do jego noszenia w prosty i przystępny sposób. Nie chcemy zasypywać Cię skomplikowaną terminologią. Chcemy pomóc Ci lepiej zrozumieć zapach, wyobrazić go sobie jeszcze przed zakupem i sprawdzić, czy naprawdę może być właśnie Twój.",
+
+    "h2decants": "Flakon czy odlewka? Poznaj zapach po swojemu",
+
+    "p5": "W AromaShop możesz wybrać pełnowymiarowy flakon albo odlewkę — mniejszą ilość perfum, która pozwala spokojnie poznać zapach. Uważamy, że nie każdy zapach trzeba od razu kupować w pełnym flakonie. Czasem warto dać mu kilka dni, sprawdzić, jak rozwija się na skórze, jak zmienia się w ciągu dnia i czy naprawdę masz ochotę po niego sięgać. Odlewka daje Ci możliwość poznania zapachu bez pośpiechu. A jeśli okaże się tym właściwym — zawsze możesz zdecydować się na pełny flakon.",
+
+    "h2boutique": "Coś więcej niż zakup perfum",
+
+    "p6": "Nie chcemy być kolejnym anonimowym sklepem internetowym. Za każdym zamówieniem stoją ludzie, którym naprawdę zależy na tym, co otrzymasz. Potwierdzamy dostępność, pomagamy w wyborze i odpowiadamy na pytania dotyczące zamówienia. Pozostajemy też w kontakcie aż do momentu, gdy perfumy trafią w Twoje ręce. Chcemy, aby zakup perfum był nie tylko prostą transakcją, ale przyjemnym doświadczeniem, do którego chce się wracać.",
 
     "tagline": "A scent worth remembering.",
+
     "taglineLocal": "Zapach, który chce się zapamiętać."
   },
   "authenticity": {

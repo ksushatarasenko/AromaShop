@@ -1325,6 +1325,7 @@
     "concentration": "EDT",
     "year": 2015,
     "perfumer": "",
+    "recommended": true,
     "country": "France",
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],

@@ -9209,163 +9209,487 @@
     }
   },
   {
-  "id": "blackcurrant-bud-absolute",
+    "id": "blackcurrant-bud-absolute",
+    "name": {
+      "pl": "Absolut pąków czarnej porzeczki",
+      "uk": "Абсолют бруньок чорної смородини"
+    },
+    "slug": {
+      "pl": "absolut-pakow-czarnej-porzeczki",
+      "uk": "absoliut-brunok-chornoi-smorodyny"
+    },
+    "image": "blackcurrant-bud-absolute.jpg",
+    "category": "fruity",
+    "description": {
+      "pl": "Absolut pąków czarnej porzeczki to intensywna, zielona i charakterystycznie owocowa nuta. W przeciwieństwie do słodkiego aromatu dojrzałych owoców, pąki czarnej porzeczki mają bardziej świeży, cierpki i lekko ostry profil, z wyraźnym zielonym oraz niemal liściastym akcentem. W perfumach tworzą efekt świeżości, soczystości i naturalnej głębi.",
+      "uk": "Абсолют бруньок чорної смородини — це інтенсивна, зелена та характерно фруктова нота. На відміну від солодкого аромату стиглих ягід, бруньки чорної смородини мають більш свіжий, терпкий і трохи різкуватий профіль із виразним зеленим та майже листяним відтінком. У парфумах вони створюють ефект свіжості, соковитості та природної глибини."
+    },
+    "shortDescription": {
+      "pl": "Intensywna, zielona i cierpka nuta czarnej porzeczki o charakterystycznym, świeżym aromacie.",
+      "uk": "Інтенсивна, зелена й терпка нота чорної смородини з характерним свіжим ароматом."
+    },
+    "origin": {
+      "pl": "Czarna porzeczka (Ribes nigrum) to krzew owocowy pochodzący z Europy i części Azji. W perfumerii szczególnie cenione są jej pąki, które mają zupełnie inny profil zapachowy niż same dojrzałe owoce. Ich aromat jest intensywny, zielony, lekko siarkowy i niezwykle charakterystyczny.",
+      "uk": "Чорна смородина (Ribes nigrum) — це плодовий кущ, що походить із Європи та частини Азії. У парфумерії особливо цінують її бруньки, які мають зовсім інший ароматичний профіль, ніж стиглі ягоди. Їхній запах інтенсивний, зелений, трохи сірчистий і надзвичайно характерний."
+    },
+    "extraction": {
+      "pl": "Absolut pąków czarnej porzeczki otrzymuje się z pąków rośliny poprzez ekstrakcję rozpuszczalnikową. Powstały materiał jest bardzo skoncentrowany i stosowany w niewielkich ilościach, ponieważ nawet mała dawka może wyraźnie zmienić charakter kompozycji.",
+      "uk": "Абсолют бруньок чорної смородини отримують із бруньок рослини методом екстракції розчинником. Отриманий матеріал є дуже концентрованим і використовується в невеликих кількостях, оскільки навіть мала його доза може помітно змінити характер композиції."
+    },
+    "effect": {
+      "pl": "Absolut pąków czarnej porzeczki dodaje perfumom wyrazistej zieloności, soczystości i lekko cierpkiego charakteru. Może wzmacniać naturalne wrażenie owoców i kwiatów, a jednocześnie dodawać kompozycji świeżej, niemal roślinnej głębi. Jest szczególnie interesujący w połączeniu z różą, jaśminem i innymi owocowymi akordami.",
+      "uk": "Абсолют бруньок чорної смородини додає парфумам виразної зелені, соковитості та легкої терпкості. Він може посилювати натуральне відчуття фруктів і квітів, водночас додаючи композиції свіжої, майже рослинної глибини. Особливо цікаво звучить у поєднанні з трояндою, жасмином та іншими фруктовими акордами."
+    },
+    "characteristics": {
+      "pl": [
+        "owocowy",
+        "zielony",
+        "cierpki",
+        "świeży",
+        "soczysty",
+        "lekko ostry",
+        "liściasty",
+        "intensywny"
+      ],
+      "uk": [
+        "фруктовий",
+        "зелений",
+        "терпкий",
+        "свіжий",
+        "соковитий",
+        "трохи різкий",
+        "листяний",
+        "інтенсивний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "róża",
+        "jaśmin",
+        "malina",
+        "czarne jagody",
+        "czerwone jagody",
+        "grejpfrut",
+        "bergamotka",
+        "fiołek",
+        "paczula",
+        "piżmo"
+      ],
+      "uk": [
+        "троянда",
+        "жасмин",
+        "малина",
+        "чорні ягоди",
+        "червоні ягоди",
+        "грейпфрут",
+        "бергамот",
+        "фіалка",
+        "пачулі",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "rose-petals",
+    "name": {
+      "pl": "Płatki róży",
+      "uk": "Пелюстки троянди"
+    },
+    "slug": {
+      "pl": "platki-rozy",
+      "uk": "peliustky-troiandy"
+    },
+    "image": "rose-petals.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Delikatny, świeży i romantyczny akord płatków róży. Jest bardziej miękki i naturalny niż intensywny aromat olejku różanego — przypomina świeżo zerwane płatki, z subtelną zieloną, lekko wilgotną i pudrową nutą.",
+      "uk": "Ніжний, свіжий і романтичний акорд пелюсток троянди. Він м’якший і природніший, ніж інтенсивний аромат трояндової олії, нагадує щойно зірвані пелюстки з тонкими зеленими, злегка вологими та пудровими відтінками."
+    },
+    "shortDescription": {
+      "pl": "Świeży, miękki i romantyczny zapach delikatnych płatków róży.",
+      "uk": "Свіжий, м’який і романтичний аромат ніжних пелюсток троянди."
+    },
+    "origin": {
+      "pl": "Akord inspirowany aromatem świeżych płatków różnych gatunków róż. Nie jest pojedynczym surowcem zapachowym.",
+      "uk": "Акорд, натхненний ароматом свіжих пелюсток різних видів троянд. Це не окрема парфумерна сировина."
+    },
+    "extraction": {
+      "pl": "W perfumerii efekt płatków róży jest najczęściej tworzony poprzez połączenie naturalnych ekstraktów różanych z molekułami aromatycznymi. Naturalny zapach samych płatków może być również odwzorowywany syntetycznie.",
+      "uk": "У парфумерії ефект пелюсток троянди найчастіше створюють поєднанням натуральних трояндових екстрактів з ароматичними молекулами. Природний запах самих пелюсток також може відтворюватися синтетично."
+    },
+    "effect": {
+      "pl": "Dodaje kompozycji świeżości, miękkości i romantycznej kwiatowości. Tworzy wrażenie świeżo zerwanych kwiatów i nadaje zapachowi naturalny, delikatny charakter.",
+      "uk": "Додає композиції свіжості, м’якості та романтичної квітковості. Створює враження щойно зірваних квітів і надає аромату природного, ніжного характеру."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "świeży",
+        "delikatny",
+        "romantyczny",
+        "zielony",
+        "lekko pudrowy",
+        "miękki",
+        "naturalny"
+      ],
+      "uk": [
+        "квітковий",
+        "свіжий",
+        "ніжний",
+        "романтичний",
+        "зелений",
+        "злегка пудровий",
+        "м’який",
+        "природний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "róża damasceńska",
+        "absolut róży majowej",
+        "jaśmin",
+        "fiołek",
+        "geranium",
+        "czerwone owoce",
+        "malina",
+        "piżmo",
+        "wanilia",
+        "sandałowiec"
+      ],
+      "uk": [
+        "дамаська троянда",
+        "абсолют травневої троянди",
+        "жасмин",
+        "фіалка",
+        "герань",
+        "червоні фрукти",
+        "малина",
+        "мускус",
+        "ваніль",
+        "сандал"
+      ]
+    }
+  },
+  {
+    "id": "cassis",
+    "name": {
+      "pl": "Cassis",
+      "uk": "Кассіс"
+    },
+    "slug": {
+      "pl": "cassis",
+      "uk": "kassis"
+    },
+    "image": "cassis.jpg",
+    "category": "fruity",
+    "description": {
+      "pl": "Cassis to intensywny, soczysty i lekko cierpki aromat czarnej porzeczki. Łączy owocową świeżość z charakterystyczną zieloną, lekko kwaśną i nieco pikantną nutą. Jest bardziej wyrazisty i chłodny niż słodkie aromaty dojrzałych owoców, dzięki czemu dodaje kompozycji energii i eleganckiej owocowej głębi.",
+      "uk": "Cassis — це інтенсивний, соковитий і злегка терпкий аромат чорної смородини. Він поєднує фруктову свіжість із характерним зеленим, трохи кислуватим і ледь пряним відтінком. Він більш виразний і прохолодний, ніж солодкі аромати стиглих ягід, тому додає композиції енергії та елегантної фруктової глибини."
+    },
+    "shortDescription": {
+      "pl": "Soczysta, cierpka i świeża czarna porzeczka z charakterystycznym zielonym akcentem.",
+      "uk": "Соковита, терпка й свіжа чорна смородина з характерним зеленим відтінком."
+    },
+    "origin": {
+      "pl": "Cassis to określenie czarnej porzeczki (Ribes nigrum) oraz jej charakterystycznego aromatu wykorzystywanego w perfumerii.",
+      "uk": "Cassis — це назва чорної смородини (Ribes nigrum) та характерного аромату, який використовується в парфумерії."
+    },
+    "extraction": {
+      "pl": "W perfumerii aromat cassis może pochodzić z ekstraktów i naturalnych materiałów z czarnej porzeczki, ale często jest również odtwarzany za pomocą syntetycznych molekuł aromatycznych, które pozwalają uzyskać świeży, zielony i charakterystycznie cierpki efekt.",
+      "uk": "У парфумерії аромат cassis може походити з екстрактів і натуральних матеріалів чорної смородини, але часто також відтворюється за допомогою синтетичних ароматичних молекул, які створюють свіжий, зелений і характерно терпкий ефект."
+    },
+    "effect": {
+      "pl": "Nadaje zapachowi soczystości, świeżości i wyrazistego owocowego charakteru. Wprowadza zieloną, lekko kwaśną energię i świetnie ożywia zarówno kompozycje kwiatowe, jak i owocowe.",
+      "uk": "Надає аромату соковитості, свіжості та виразного фруктового характеру. Додає зелену, злегка кислу енергію й чудово оживляє як квіткові, так і фруктові композиції."
+    },
+    "characteristics": {
+      "pl": [
+        "owocowy",
+        "soczysty",
+        "cierpki",
+        "kwaśny",
+        "zielony",
+        "świeży",
+        "lekko pikantny",
+        "intensywny"
+      ],
+      "uk": [
+        "фруктовий",
+        "соковитий",
+        "терпкий",
+        "кислуватий",
+        "зелений",
+        "свіжий",
+        "злегка пряний",
+        "інтенсивний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "róża",
+        "jaśmin",
+        "fiołek",
+        "malina",
+        "czerwone owoce",
+        "grapefruit",
+        "bergamotka",
+        "czarna porzeczka",
+        "piżmo",
+        "cedr"
+      ],
+      "uk": [
+        "троянда",
+        "жасмин",
+        "фіалка",
+        "малина",
+        "червоні фрукти",
+        "грейпфрут",
+        "бергамот",
+        "чорна смородина",
+        "мускус",
+        "кедр"
+      ]
+    }
+  },
+  {
+    "id": "fern",
+    "name": {
+      "pl": "Paproć",
+      "uk": "Папороть"
+    },
+    "slug": {
+      "pl": "paproc",
+      "uk": "paporot"
+    },
+    "image": "fern.jpg",
+    "category": "green",
+    "description": {
+      "pl": "Paproć w perfumerii to świeży, zielony i lekko wilgotny akord inspirowany zapachem leśnej roślinności. Kojarzy się z cieniem, chłodnym powietrzem i wilgotną ziemią po deszczu. Ma ziołowe, lekko mineralne i czyste niuanse, dzięki którym nadaje kompozycji naturalną świeżość.",
+      "uk": "Папороть у парфумерії — це свіжий, зелений і злегка вологий акорд, натхненний ароматом лісової рослинності. Він нагадує тінь, прохолодне повітря та вологу землю після дощу. Має трав’янисті, трохи мінеральні й чисті відтінки, завдяки яким надає композиції природної свіжості."
+    },
+    "shortDescription": {
+      "pl": "Chłodny, zielony i lekko wilgotny aromat leśnej paproci.",
+      "uk": "Прохолодний, зелений і злегка вологий аромат лісової папороті."
+    },
+    "origin": {
+      "pl": "Paproć to określenie akordu zapachowego inspirowanego zielonym aromatem paproci i wilgotnego lasu. W perfumerii nie jest zwykle pojedynczym surowcem zapachowym.",
+      "uk": "Папороть — це назва ароматичного акорду, натхненого зеленим ароматом папороті та вологого лісу. У парфумерії зазвичай це не окрема ароматична сировина."
+    },
+    "extraction": {
+      "pl": "Efekt paproci jest najczęściej tworzony poprzez połączenie naturalnych ekstraktów roślinnych z syntetycznymi molekułami aromatycznymi. Kompozycja może wykorzystywać nuty zielone, ziołowe, drzewne, ziemiste i świeże.",
+      "uk": "Ефект папороті найчастіше створюють поєднанням натуральних рослинних екстрактів із синтетичними ароматичними молекулами. У композиції можуть використовуватися зелені, трав’янисті, деревні, земляні та свіжі ноти."
+    },
+    "effect": {
+      "pl": "Wprowadza do zapachu chłodną, zieloną i naturalną atmosferę. Dodaje wrażenia świeżości, wilgotnego lasu i czystego powietrza, a także dobrze podkreśla męski, klasyczny lub leśny charakter kompozycji.",
+      "uk": "Вносить в аромат прохолодну, зелену та природну атмосферу. Створює відчуття свіжості, вологого лісу й чистого повітря, а також добре підкреслює чоловічий, класичний або лісовий характер композиції."
+    },
+    "characteristics": {
+      "pl": [
+        "zielony",
+        "świeży",
+        "wilgotny",
+        "leśny",
+        "ziołowy",
+        "chłodny",
+        "czysty",
+        "lekko ziemisty"
+      ],
+      "uk": [
+        "зелений",
+        "свіжий",
+        "вологий",
+        "лісовий",
+        "трав’янистий",
+        "прохолодний",
+        "чистий",
+        "злегка земляний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "lawenda",
+        "rozmaryn",
+        "wetyweria",
+        "mech dębowy",
+        "paczula",
+        "cedr",
+        "sandałowiec",
+        "bergamotka",
+        "geranium",
+        "piżmo"
+      ],
+      "uk": [
+        "лаванда",
+        "розмарин",
+        "ветивер",
+        "дубовий мох",
+        "пачулі",
+        "кедр",
+        "сандал",
+        "бергамот",
+        "герань",
+        "мускус"
+      ]
+    }
+  },
+  {
+    "id": "tea-rose",
+    "name": {
+      "pl": "Róża herbaciana",
+      "uk": "Чайна троянда"
+    },
+    "slug": {
+      "pl": "roza-herbaciana",
+      "uk": "chayna-troyanda"
+    },
+    "image": "tea-rose.jpg",
+    "category": "floral",
+    "description": {
+      "pl": "Róża herbaciana ma delikatny, elegancki i lekko świeży aromat, łączący klasyczną różaną miękkość z subtelnymi zielonymi, cytrusowymi i herbacianymi niuansami. Jest mniej ciężka i słodka niż głęboki aromat róży damasceńskiej, dzięki czemu daje wrażenie świeżych płatków i lekkiej, wyrafinowanej kwiatowości.",
+      "uk": "Чайна троянда має ніжний, елегантний і злегка свіжий аромат, що поєднує класичну м’якість троянди з тонкими зеленими, цитрусовими та чайними відтінками. Вона менш насичена й солодка, ніж глибокий аромат дамаської троянди, тому створює враження свіжих пелюсток і легкої, вишуканої квітковості."
+    },
+    "shortDescription": {
+      "pl": "Delikatna, świeża róża z subtelnymi zielonymi i herbacianymi niuansami.",
+      "uk": "Ніжна, свіжа троянда з тонкими зеленими та чайними відтінками."
+    },
+    "origin": {
+      "pl": "Róża herbaciana odnosi się do róż o charakterystycznym delikatnym, świeżym profilu oraz do aromatu inspirowanego ich zapachem. W perfumerii może oznaczać zarówno naturalny materiał różany, jak i akord odtwarzający ten charakter.",
+      "uk": "Чайна троянда — це назва троянд із характерним ніжним, свіжим ароматичним профілем, а також аромату, натхненого їхнім запахом. У парфумерії це може бути як натуральний трояндовий матеріал, так і акорд, що відтворює цей характер."
+    },
+    "extraction": {
+      "pl": "Naturalne materiały różane pozyskuje się przede wszystkim z płatków poprzez destylację parową lub ekstrakcję. W perfumerii charakter róży herbacianej jest często wzmacniany i odtwarzany również za pomocą syntetycznych molekuł aromatycznych.",
+      "uk": "Натуральні трояндові матеріали отримують переважно з пелюсток шляхом парової дистиляції або екстракції. У парфумерії характер чайної троянди також часто підсилюють і відтворюють за допомогою синтетичних ароматичних молекул."
+    },
+    "effect": {
+      "pl": "Nadaje kompozycji świeżości, elegancji i delikatnej romantycznej kwiatowości. Może tworzyć wrażenie świeżo zerwanych płatków, lekkiej zieleni i subtelnej czystości.",
+      "uk": "Надає композиції свіжості, елегантності та ніжної романтичної квітковості. Може створювати враження щойно зірваних пелюсток, легкої зелені та тонкої чистоти."
+    },
+    "characteristics": {
+      "pl": [
+        "kwiatowy",
+        "świeży",
+        "delikatny",
+        "różany",
+        "zielony",
+        "lekko cytrusowy",
+        "herbaciany",
+        "elegancki"
+      ],
+      "uk": [
+        "квітковий",
+        "свіжий",
+        "ніжний",
+        "трояндовий",
+        "зелений",
+        "злегка цитрусовий",
+        "чайний",
+        "елегантний"
+      ]
+    },
+    "pairsWith": {
+      "pl": [
+        "jaśmin",
+        "fiołek",
+        "bergamotka",
+        "cytryna",
+        "czarna porzeczka",
+        "malina",
+        "piżmo",
+        "sandałowiec",
+        "cedr",
+        "wanilia"
+      ],
+      "uk": [
+        "жасмин",
+        "фіалка",
+        "бергамот",
+        "лимон",
+        "чорна смородина",
+        "малина",
+        "мускус",
+        "сандал",
+        "кедр",
+        "ваніль"
+      ]
+    }
+  },
+  {
+  "id": "carnation",
   "name": {
-    "pl": "Absolut pąków czarnej porzeczki",
-    "uk": "Абсолют бруньок чорної смородини"
+    "pl": "Goździk",
+    "uk": "Гвоздика"
   },
   "slug": {
-    "pl": "absolut-pakow-czarnej-porzeczki",
-    "uk": "absoliut-brunok-chornoi-smorodyny"
+    "pl": "gozdzik",
+    "uk": "hvozdyka"
   },
-  "image": "blackcurrant-bud-absolute.jpg",
-  "category": "fruity",
+  "image": "carnation.jpg",
+  "category": "floral",
   "description": {
-    "pl": "Absolut pąków czarnej porzeczki to intensywna, zielona i charakterystycznie owocowa nuta. W przeciwieństwie do słodkiego aromatu dojrzałych owoców, pąki czarnej porzeczki mają bardziej świeży, cierpki i lekko ostry profil, z wyraźnym zielonym oraz niemal liściastym akcentem. W perfumach tworzą efekt świeżości, soczystości i naturalnej głębi.",
-    "uk": "Абсолют бруньок чорної смородини — це інтенсивна, зелена та характерно фруктова нота. На відміну від солодкого аромату стиглих ягід, бруньки чорної смородини мають більш свіжий, терпкий і трохи різкуватий профіль із виразним зеленим та майже листяним відтінком. У парфумах вони створюють ефект свіжості, соковитості та природної глибини."
+    "pl": "Goździk ma charakterystyczny, intensywny kwiatowy aromat z pikantnymi, korzennymi i lekko pudrowymi niuansami. Jest jednocześnie świeży i ciepły, z delikatnym akcentem przypominającym goździki korzenne. W perfumerii nadaje kompozycjom wyrazistości, elegancji i klasycznego charakteru.",
+    "uk": "Гвоздика має характерний, інтенсивний квітковий аромат із пряними, пряно-коричними та злегка пудровими відтінками. Вона одночасно свіжа й тепла, з тонким акцентом, що нагадує пряну гвоздику. У парфумерії надає композиціям виразності, елегантності та класичного характеру."
   },
   "shortDescription": {
-    "pl": "Intensywna, zielona i cierpka nuta czarnej porzeczki o charakterystycznym, świeżym aromacie.",
-    "uk": "Інтенсивна, зелена й терпка нота чорної смородини з характерним свіжим ароматом."
+    "pl": "Intensywny kwiatowy aromat z pikantnymi, korzennymi i lekko pudrowymi niuansami.",
+    "uk": "Інтенсивний квітковий аромат із пряними, коричними та злегка пудровими відтінками."
   },
   "origin": {
-    "pl": "Czarna porzeczka (Ribes nigrum) to krzew owocowy pochodzący z Europy i części Azji. W perfumerii szczególnie cenione są jej pąki, które mają zupełnie inny profil zapachowy niż same dojrzałe owoce. Ich aromat jest intensywny, zielony, lekko siarkowy i niezwykle charakterystyczny.",
-    "uk": "Чорна смородина (Ribes nigrum) — це плодовий кущ, що походить із Європи та частини Азії. У парфумерії особливо цінують її бруньки, які мають зовсім інший ароматичний профіль, ніж стиглі ягоди. Їхній запах інтенсивний, зелений, трохи сірчистий і надзвичайно характерний."
+    "pl": "Goździk ogrodowy (Dianthus caryophyllus) to kwiat o charakterystycznym korzenno-kwiatowym zapachu. W perfumerii jego aromat może być wykorzystywany jako naturalny materiał lub odtwarzany w formie akordu.",
+    "uk": "Садова гвоздика (Dianthus caryophyllus) — квітка з характерним пряно-квітковим ароматом. У парфумерії її аромат може використовуватися як натуральний матеріал або відтворюватися у вигляді акорду."
   },
   "extraction": {
-    "pl": "Absolut pąków czarnej porzeczki otrzymuje się z pąków rośliny poprzez ekstrakcję rozpuszczalnikową. Powstały materiał jest bardzo skoncentrowany i stosowany w niewielkich ilościach, ponieważ nawet mała dawka może wyraźnie zmienić charakter kompozycji.",
-    "uk": "Абсолют бруньок чорної смородини отримують із бруньок рослини методом екстракції розчинником. Отриманий матеріал є дуже концентрованим і використовується в невеликих кількостях, оскільки навіть мала його доза може помітно змінити характер композиції."
+    "pl": "Naturalny aromat goździka może być pozyskiwany z kwiatów poprzez ekstrakcję, jednak w nowoczesnej perfumerii charakterystyczny profil goździka jest często odtwarzany za pomocą molekuł aromatycznych i kompozycji syntetycznych.",
+    "uk": "Натуральний аромат гвоздики можна отримувати з квітів шляхом екстракції, однак у сучасній парфумерії характерний профіль гвоздики часто відтворюють за допомогою ароматичних молекул і синтетичних композицій."
   },
   "effect": {
-    "pl": "Absolut pąków czarnej porzeczki dodaje perfumom wyrazistej zieloności, soczystości i lekko cierpkiego charakteru. Może wzmacniać naturalne wrażenie owoców i kwiatów, a jednocześnie dodawać kompozycji świeżej, niemal roślinnej głębi. Jest szczególnie interesujący w połączeniu z różą, jaśminem i innymi owocowymi akordami.",
-    "uk": "Абсолют бруньок чорної смородини додає парфумам виразної зелені, соковитості та легкої терпкості. Він може посилювати натуральне відчуття фруктів і квітів, водночас додаючи композиції свіжої, майже рослинної глибини. Особливо цікаво звучить у поєднанні з трояндою, жасмином та іншими фруктовими акордами."
+    "pl": "Dodaje zapachowi wyrazistości, ciepła i pikantnej kwiatowości. Świetnie podkreśla klasyczne kompozycje kwiatowe, nadając im charakterystyczną, elegancką głębię.",
+    "uk": "Додає аромату виразності, тепла та пряної квітковості. Чудово підкреслює класичні квіткові композиції, надаючи їм характерної елегантної глибини."
   },
   "characteristics": {
     "pl": [
-      "owocowy",
-      "zielony",
-      "cierpki",
-      "świeży",
-      "soczysty",
-      "lekko ostry",
-      "liściasty",
-      "intensywny"
+      "kwiatowy",
+      "pikantny",
+      "korzenny",
+      "ciepły",
+      "pudrowy",
+      "lekko goździkowy",
+      "intensywny",
+      "elegancki"
     ],
     "uk": [
-      "фруктовий",
-      "зелений",
-      "терпкий",
-      "свіжий",
-      "соковитий",
-      "трохи різкий",
-      "листяний",
-      "інтенсивний"
+      "квітковий",
+      "пряний",
+      "коричний",
+      "теплий",
+      "пудровий",
+      "з легким відтінком гвоздики",
+      "інтенсивний",
+      "елегантний"
     ]
   },
   "pairsWith": {
     "pl": [
       "róża",
       "jaśmin",
-      "malina",
-      "czarne jagody",
-      "czerwone jagody",
-      "grejpfrut",
-      "bergamotka",
+      "ylang-ylang",
       "fiołek",
-      "paczula",
-      "piżmo"
+      "geranium",
+      "gałka muszkatołowa",
+      "cynamon",
+      "wanilia",
+      "piżmo",
+      "sandałowiec"
     ],
     "uk": [
       "троянда",
       "жасмин",
-      "малина",
-      "чорні ягоди",
-      "червоні ягоди",
-      "грейпфрут",
-      "бергамот",
-      "фіалка",
-      "пачулі",
-      "мускус"
-    ]
-  }
-},
-{
-  "id": "rose-petals",
-  "name": {
-    "pl": "Płatki róży",
-    "uk": "Пелюстки троянди"
-  },
-  "slug": {
-    "pl": "platki-rozy",
-    "uk": "peliustky-troiandy"
-  },
-  "image": "rose-petals.jpg",
-  "category": "floral",
-  "description": {
-    "pl": "Delikatny, świeży i romantyczny akord płatków róży. Jest bardziej miękki i naturalny niż intensywny aromat olejku różanego — przypomina świeżo zerwane płatki, z subtelną zieloną, lekko wilgotną i pudrową nutą.",
-    "uk": "Ніжний, свіжий і романтичний акорд пелюсток троянди. Він м’якший і природніший, ніж інтенсивний аромат трояндової олії, нагадує щойно зірвані пелюстки з тонкими зеленими, злегка вологими та пудровими відтінками."
-  },
-  "shortDescription": {
-    "pl": "Świeży, miękki i romantyczny zapach delikatnych płatków róży.",
-    "uk": "Свіжий, м’який і романтичний аромат ніжних пелюсток троянди."
-  },
-  "origin": {
-    "pl": "Akord inspirowany aromatem świeżych płatków różnych gatunków róż. Nie jest pojedynczym surowcem zapachowym.",
-    "uk": "Акорд, натхненний ароматом свіжих пелюсток різних видів троянд. Це не окрема парфумерна сировина."
-  },
-  "extraction": {
-    "pl": "W perfumerii efekt płatków róży jest najczęściej tworzony poprzez połączenie naturalnych ekstraktów różanych z molekułami aromatycznymi. Naturalny zapach samych płatków może być również odwzorowywany syntetycznie.",
-    "uk": "У парфумерії ефект пелюсток троянди найчастіше створюють поєднанням натуральних трояндових екстрактів з ароматичними молекулами. Природний запах самих пелюсток також може відтворюватися синтетично."
-  },
-  "effect": {
-    "pl": "Dodaje kompozycji świeżości, miękkości i romantycznej kwiatowości. Tworzy wrażenie świeżo zerwanych kwiatów i nadaje zapachowi naturalny, delikatny charakter.",
-    "uk": "Додає композиції свіжості, м’якості та романтичної квітковості. Створює враження щойно зірваних квітів і надає аромату природного, ніжного характеру."
-  },
-  "characteristics": {
-    "pl": [
-      "kwiatowy",
-      "świeży",
-      "delikatny",
-      "romantyczny",
-      "zielony",
-      "lekko pudrowy",
-      "miękki",
-      "naturalny"
-    ],
-    "uk": [
-      "квітковий",
-      "свіжий",
-      "ніжний",
-      "романтичний",
-      "зелений",
-      "злегка пудровий",
-      "м’який",
-      "природний"
-    ]
-  },
-  "pairsWith": {
-    "pl": [
-      "róża damasceńska",
-      "absolut róży majowej",
-      "jaśmin",
-      "fiołek",
-      "geranium",
-      "czerwone owoce",
-      "malina",
-      "piżmo",
-      "wanilia",
-      "sandałowiec"
-    ],
-    "uk": [
-      "дамаська троянда",
-      "абсолют травневої троянди",
-      "жасмин",
+      "іланг-іланг",
       "фіалка",
       "герань",
-      "червоні фрукти",
-      "малина",
-      "мускус",
+      "мускатний горіх",
+      "кориця",
       "ваніль",
+      "мускус",
       "сандал"
     ]
   }
