@@ -1,5 +1,143 @@
 [
   {
+    "id": "attar-collection-the-queen-of-sheba-100",
+    "brandId": "attar-collection",
+    "name": "The Queen of Sheba",
+    "collection": "niche",
+    "gender": "women",
+    "concentration": "Eau de Parfum",
+    "year": 2015,
+    "perfumer": null,
+    "recommended": true,
+    "country": "United Arab Emirates",
+
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+
+    "description": {
+      "pl": "The Queen of Sheba to orientalny, elegancki i zmysłowy zapach, w którym soczyste owoce spotykają się z kremowymi kwiatami i miękką, otulającą bazą. Brzoskwinia i morela otwierają kompozycję słodkim, aksamitnym akcentem, a wetiwer i narcyz dodają jej głębi oraz charakteru. W sercu pojawiają się jaśmin i róża, otoczone ciepłem cedru i kaszmeranu. Z czasem zapach staje się bardziej miękki i zmysłowy — osmantus, białe piżmo, paczula i sandałowiec tworzą eleganckie, kremowo-drzewne wykończenie. The Queen of Sheba jest często porównywany do Good Girl Gone Bad by Kilian — to propozycja dla osób, które lubią kobiece, owocowo-kwiatowe kompozycje z luksusowym, miękkim wykończeniem.",
+      "uk": "The Queen of Sheba — східний, елегантний і чуттєвий аромат, у якому соковиті фрукти зустрічаються з ніжними квітами та м’якою, огортаючою базою. Персик і абрикос відкривають композицію солодким, оксамитовим акцентом, а ветивер і нарцис додають їй глибини та характеру. У серці розкриваються жасмин і троянда, доповнені теплом кедра та кашмерану. Поступово аромат стає м’якшим і чуттєвішим — османтус, білий мускус, пачулі та сандал створюють елегантне кремово-деревне завершення. The Queen of Sheba часто порівнюють із Good Girl Gone Bad by Kilian — це чудовий варіант для тих, хто любить жіночні фруктово-квіткові композиції з розкішним, м’яким шлейфом."
+    },
+
+    "shortDescription": {
+      "pl": "Soczysta brzoskwinia i morela, kwiatowy jaśmin i róża oraz miękka baza z osmantusa, białego piżma, paczuli i sandałowca.",
+      "uk": "Соковиті персик і абрикос, квіткові жасмин і троянда та м’яка база з османтусу, білого мускусу, пачулі й сандалу."
+    },
+
+    "story": {
+      "pl": "<strong>Owocowa zmysłowość w królewskim wydaniu.</strong>\n\nThe Queen of Sheba zaczyna się od soczystej, aksamitnej brzoskwini i moreli. To otwarcie jest słodkie, kobiece i niezwykle miękkie, ale wetiwer oraz narcyz szybko dodają mu bardziej wyrafinowanego charakteru. Dzięki temu owoce nie brzmią jak prosty, cukierkowy akord — od początku mają elegancką, lekko orientalną głębię.\n\nW sercu kompozycja staje się bardziej kwiatowa. Jaśmin wnosi kremową, zmysłową biel, a róża dodaje elegancji i charakterystycznej kobiecej miękkości. Cedr i kaszmeran sprawiają, że kwiaty zyskują bardziej ciepłe, szlachetne tło.\n\nW miarę wysychania na skórze pojawia się osmantus, który łączy owocową słodycz z delikatnie kwiatowym, miękkim charakterem. Białe piżmo wygładza kompozycję, paczula dodaje jej głębi, a sandałowiec pozostawia kremowy, ciepły i elegancki ślad.\n\nTo właśnie sposób przejścia od soczystych owoców do miękkiej, kwiatowo-drzewnej bazy sprawia, że The Queen of Sheba bywa porównywany do Good Girl Gone Bad by Kilian. Nie jest jednak prostą kopią — ma własny, bardziej orientalny charakter i królewski klimat związany z historią swojej nazwy.",
+      "uk": "<strong>Фруктова чуттєвість у королівському виконанні.</strong>\n\nThe Queen of Sheba починається із соковитого, оксамитового персика та абрикоса. Відкриття солодке, жіночне й дуже м’яке, але ветивер і нарцис швидко додають йому більш вишуканого характеру. Завдяки цьому фрукти не звучать як простий цукерковий акорд — від самого початку в них відчувається елегантна, трохи східна глибина.\n\nУ серці композиція стає більш квітковою. Жасмин додає кремової, чуттєвої білизни, а троянда — елегантності та характерної жіночої м’якості. Кедр і кашмеран створюють для квітів тепле, благородне тло.\n\nПоступово на шкірі з’являється османтус, який поєднує фруктову солодкість із ніжним квітковим характером. Білий мускус згладжує композицію, пачулі додає глибини, а сандал залишає кремовий, теплий та елегантний слід.\n\nСаме цей перехід від соковитих фруктів до м’якої квітково-деревної бази став однією з причин, чому The Queen of Sheba часто порівнюють із Good Girl Gone Bad by Kilian. Але це не проста копія — у нього власний, більш східний характер і королівська атмосфера, пов’язана з історією назви."
+    },
+
+    "facts": [
+      {
+        "pl": "👑 <strong>NAZWA INSPIROWANA LEGENDĄ</strong> Nazwa The Queen of Sheba nawiązuje do legendarnej królowej Saby, której postać od wieków związana jest z opowieściami o bogactwie, mądrości, pięknie i spotkaniu z królem Salomonem.",
+        "uk": "👑 <strong>НАЗВА НАТХНЕНА ЛЕГЕНДОЮ</strong> Назва The Queen of Sheba відсилає до легендарної цариці Савської, образ якої століттями пов’язують із багатством, мудрістю, красою та зустріччю з царем Соломоном."
+      },
+      {
+        "pl": "✨ <strong>AROMAT POWSTAŁ W 2015 ROKU</strong> The Queen of Sheba został wprowadzony przez Attar Collection w 2015 roku jako orientalna kompozycja o luksusowym, królewskim charakterze.",
+        "uk": "✨ <strong>АРОМАТ СТВОРЕНИЙ У 2015 РОЦІ</strong> The Queen of Sheba був представлений Attar Collection у 2015 році як східна композиція з розкішним, королівським характером."
+      },
+      {
+        "pl": "🖤 <strong>BLACK MASTERPIECE</strong> Attar Collection opisuje The Queen of Sheba jako „Black Masterpiece” — zapach ubrany w charakterystyczny czarny flakon ze złotymi arabeskami.",
+        "uk": "🖤 <strong>BLACK MASTERPIECE</strong> Attar Collection описує The Queen of Sheba як «Black Masterpiece» — аромат у характерному чорному флаконі із золотими арабськими орнаментами."
+      },
+      {
+        "pl": "🌅 <strong>KRÓLEWSKA HISTORIA W BUTELCE</strong> Koncepcja zapachu została związana z wyobrażeniem tajemniczej królowej Wschodu, jej przepychem, złotem i aromatycznymi wonnościami. To właśnie ten orientalny obraz stał się częścią charakteru kompozycji.",
+        "uk": "🌅 <strong>КОРОЛІВСЬКА ІСТОРІЯ У ФЛАКОНІ</strong> Концепція аромату пов’язана з образом загадкової східної цариці, її розкішшю, золотом і запашними пахощами. Саме ця східна атмосфера стала частиною характеру композиції."
+      },
+      {
+        "pl": "🌸 <strong>DLACZEGO PORÓWNUJE SIĘ GO Z KILIANEM?</strong> The Queen of Sheba jest często zestawiany z Good Girl Gone Bad by Kilian ze względu na podobny kierunek: soczyste owoce, kwiatowe serce i miękkie, zmysłowe wykończenie. Nie jest to jednak oficjalna informacja o tym, że zapach został stworzony jako kopia.",
+        "uk": "🌸 <strong>ЧОМУ ЙОГО ПОРІВНЮЮТЬ ІЗ KILIAN?</strong> The Queen of Sheba часто порівнюють із Good Girl Gone Bad by Kilian через схожий напрям: соковиті фрукти, квіткове серце та м’яке, чуттєве завершення. Водночас немає офіційного підтвердження, що аромат створювався як копія."
+      },
+      {
+        "pl": "🔍 <strong>TWÓRCA KOMPOZYCJI NIE ZOSTAŁ OFICJALNIE UJAWNIONY</strong> W dostępnych publicznie materiałach dotyczących The Queen of Sheba nazwisko perfumiarza nie jest jednoznacznie potwierdzone. Dlatego nie przypisujemy tej kompozycji konkretnego nosa bez wiarygodnego potwierdzenia.",
+        "uk": "🔍 <strong>АВТОР КОМПОЗИЦІЇ ОФІЦІЙНО НЕ РОЗКРИТИЙ</strong> У доступних публічних матеріалах щодо The Queen of Sheba ім’я парфумера не підтверджене однозначно. Тому ми не приписуємо композицію конкретному парфумеру без надійного підтвердження."
+      },
+      {
+        "pl": "💎 <strong>WIĘCEJ NIŻ „ZAPACH W STYLU KILIANA”</strong> Choć porównanie z Good Girl Gone Bad pomogło Queen of Sheba zdobyć uwagę miłośników perfum, sama kompozycja ma własny orientalny charakter, bardziej otulający i królewski w odbiorze.",
+        "uk": "💎 <strong>БІЛЬШЕ, НІЖ «АРОМАТ У СТИЛІ KILIAN»</strong> Хоча порівняння з Good Girl Gone Bad привернуло увагу поціновувачів парфумів до Queen of Sheba, сама композиція має власний східний характер — більш огортаючий і королівський за звучанням."
+      }
+    ],
+
+    "fragrance": {
+      "families": ["oriental", "floral", "fruity"],
+      "accords": [
+        "fruity",
+        "floral",
+        "sweet",
+        "woody",
+        "musky",
+        "powdery",
+        "oriental"
+      ],
+      "notes": {
+        "top": ["peach", "apricot", "vetiver", "narcissus"],
+        "heart": ["jasmine", "rose", "cedar", "cashmeran"],
+        "base": ["osmanthus", "white-musk", "patchouli", "sandalwood"]
+      }
+    },
+
+    "character": {
+      "sweetness": 4,
+      "freshness": 3,
+      "warmth": 4,
+      "intensity": 4
+    },
+
+    "wearing": {
+      "seasons": ["spring", "autumn", "winter"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["date", "special", "party", "evening", "everyday"]
+    },
+
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+
+    "sizes": [
+      {
+        "ml": 100,
+        "price": 425,
+        "stock": true
+      }
+    ],
+
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15, 20],
+      "pricePerMl": 5.5
+    },
+
+    "featured": true,
+    "new": false,
+    "bestseller": true,
+
+    "similar": [
+      "by-kilian-good-girl-gone-bad",
+      "by-kilian-good-girl-gone-bad-extreme",
+      "gritti-adele",
+      "mancera-wild-python"
+    ],
+
+    "tags": [
+      "iconic",
+      "feminine",
+      "fruity",
+      "floral",
+      "peach",
+      "apricot",
+      "jasmine",
+      "rose",
+      "osmanthus",
+      "musky",
+      "woody",
+      "oriental",
+      "good-girl-gone-bad-alternative"
+    ]
+  },
+  {
     "id": "tiziana-terenzi-cassiopea-extrait-100",
     "brandId": "tiziana-terenzi",
     "name": "Cassiopea",
@@ -10,7 +148,7 @@
     "perfumer": "Paolo Terenzi",
     "country": "Italy",
     "recommended": true,
-    
+
     "image": "main.png",
     "gallery": ["02.png", "03.png"],
     "description": {
@@ -299,19 +437,19 @@
     "sizes": [
       {
         "ml": 50,
-        "price": 660,
+        "price": 670,
         "stock": true
       },
       {
         "ml": 100,
-        "price": 960,
+        "price": 990,
         "stock": true
       }
     ],
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 10
+      "pricePerMl": 12.5
     },
     "featured": true,
     "new": false,

@@ -1,5 +1,18 @@
 [
   {
+  "id": "attar-collection",
+  "name": "Attar Collection",
+  "slug": "attar-collection",
+  "type": "niche",
+  "country": "United Arab Emirates",
+  "logo": "attar-collection.png",
+  "description": {
+    "pl": "Attar Collection to luksusowy dom perfumeryjny z Zjednoczonych Emiratów Arabskich, tworzony wokół orientalnej estetyki, bogatych kompozycji i wyjątkowych historii zamkniętych w eleganckich flakonach.",
+    "uk": "Attar Collection — люксовий парфумерний дім із Об’єднаних Арабських Еміратів, створений навколо східної естетики, насичених композицій та особливих історій, втілених у розкішних флаконах."
+  },
+  "website": "https://attarcollection.com"
+},
+  {
     "id": "ysl",
     "name": "Yves Saint Laurent",
     "slug": "ysl",
