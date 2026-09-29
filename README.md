@@ -99,6 +99,14 @@ Until then, the AS monogram wordmark is used.
 
 Edit Telegram, WhatsApp, and email in `src/data/site.json`.
 
+## Documentation
+
+Technical docs (architecture, function API, JSON filling rules):
+
+- [`docs/00-ARCHITECTURE.md`](docs/00-ARCHITECTURE.md)
+- [`docs/01-FUNCTIONS.md`](docs/01-FUNCTIONS.md)
+- [`docs/02-JSON-DATA-GUIDE.md`](docs/02-JSON-DATA-GUIDE.md)
+
 ## Scripts
 
 ```bash
