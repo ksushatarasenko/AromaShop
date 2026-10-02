@@ -449,7 +449,7 @@
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 12.5
+      "pricePerMl": 13.5
     },
     "featured": true,
     "new": false,
