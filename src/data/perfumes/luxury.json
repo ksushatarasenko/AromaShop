@@ -1,5 +1,138 @@
 [
   {
+    "id": "carolina-herrera-good-girl-edp-80",
+    "brandId": "carolina-herrera",
+    "name": "Good Girl",
+    "collection": "luxury",
+    "gender": "women",
+    "concentration": "EDP",
+    "year": 2016,
+    "perfumer": "Louise Turner",
+    "recommended": true,
+    "country": "USA",
+    "image": "main.png",
+    "gallery": ["02.png", "03.png"],
+
+    "description": {
+      "pl": "Carolina Herrera Good Girl to zmysłowy kontrast świetlistego jaśminu, kremowej tuberozy, słodkich migdałów i głębokich nut tonki oraz kakao.",
+      "uk": "Carolina Herrera Good Girl — чуттєвий контраст сяйливого жасмину, кремової туберози, солодкого мигдалю та глибоких нот тонка й какао."
+    },
+
+    "shortDescription": {
+      "pl": "Białe kwiaty spotykają słodkie migdały, kremową tonkę i ciemne kakao. Good Girl jest elegancka, kobieca i zmysłowa, ale ma w sobie również odrobinę tajemniczości. To zapach kontrastów — jednocześnie delikatny i wyrazisty.",
+      "uk": "Білі квіти зустрічаються із солодким мигдалем, кремовою тонкою та темним какао. Good Girl елегантна, жіночна й чуттєва, але водночас має нотку загадковості. Це аромат контрастів — одночасно ніжний і виразний."
+    },
+
+    "story": {
+      "pl": "<strong>Good Girl</strong> nie próbuje być jednowymiarowa. Jej charakter opiera się na kontraście — jasnych, kremowych kwiatów i ciemniejszej, słodkiej bazy.\n\nNa początku pojawia się świeży, lekko słodki akcent migdałów, który szybko łączy się z bogatą białą kompozycją kwiatową. <strong>Tuberoza i jaśmin</strong> nadają zapachowi kremowości, kobiecości i charakterystycznej zmysłowości.\n\nW sercu Good Girl staje się bardziej miękka i otulająca. Kwiaty nie są tutaj delikatne ani niewinne — mają głębię i wyrazistość. To właśnie ten kontrast sprawia, że zapach jest tak charakterystyczny.\n\nW bazie pojawia się <strong>fasola tonka, kakao i kawa</strong>. Ciepłe, lekko gorzkie i kremowe nuty nadają kompozycji głębi oraz sprawiają, że zapach pozostaje na skórze długo po pierwszym rozpyleniu.\n\nGood Girl jest kobieca, ale nie przesłodzona. Elegancka, ale nie zachowawcza. Zmysłowa, lecz nie oczywista.\n\nTo zapach dla kobiety, która potrafi połączyć pozornie sprzeczne cechy — delikatność i siłę, elegancję i odwagę, światło i cień.\n\n<strong>Good Girl to zapach kontrastów. I właśnie w tym tkwi jego charakter.</strong>",
+
+      "uk": "<strong>Good Girl</strong> не намагається бути одновимірною. Її характер побудований на контрасті — світлих, кремових квітів і темнішої, солодкої бази.\n\nСпочатку з'являється свіжий, трохи солодкий акцент мигдалю, який швидко поєднується з багатою білою квітковою композицією. <strong>Тубероза та жасмин</strong> надають аромату кремовості, жіночності та характерної чуттєвості.\n\nУ серці Good Girl стає м'якшою та більш огортаючою. Квіти тут не ніжні й невинні — вони мають глибину та виразність. Саме цей контраст робить аромат таким впізнаваним.\n\nУ базі з'являються <strong>боби тонка, какао та кава</strong>. Теплі, трохи гіркуваті та кремові ноти додають композиції глибини й допомагають аромату довго залишатися на шкірі.\n\nGood Girl жіночна, але не надто солодка. Елегантна, але не стримана. Чуттєва, але не очевидна.\n\nЦе аромат для жінки, яка вміє поєднувати на перший погляд протилежні риси — ніжність і силу, елегантність і сміливість, світло й тінь.\n\n<strong>Good Girl — це аромат контрастів. І саме в цьому його характер.</strong>"
+    },
+
+    "facts": [
+      {
+        "pl": "👠 <strong>DLACZEGO GOOD GIRL MA KSZTAŁT SZPILKI?</strong>\n\nFlakon Good Girl miał od początku być czymś więcej niż tylko opakowaniem. Carolina Herrera chciała stworzyć przedmiot, który sam w sobie będzie symbolem kobiecości, pewności siebie i siły. Wysoka szpilka idealnie pasowała do idei zapachu — połączenia elegancji, zmysłowości i odwagi. Dlatego klasyczny flakon zastąpiono charakterystycznym butem na wysokim obcasie.",
+        "uk": "👠 <strong>ЧОМУ GOOD GIRL МАЄ ФОРМУ ТУФЛІ НА ПІДБОРАХ?</strong>\n\nФлакон Good Girl від самого початку мав бути чимось більшим, ніж просто упаковка. Carolina Herrera хотіла створити предмет, який сам по собі стане символом жіночності, впевненості та сили. Висока шпилька ідеально передавала ідею аромату — поєднання елегантності, чуттєвості та сміливості. Тому звичайний флакон замінили характерною туфлею на високих підборах."
+      },
+      {
+        "pl": "✨ <strong>GOOD GIRL POWSTAŁ W 2016 ROKU</strong>\n\nCarolina Herrera wprowadziła Good Girl na rynek w 2016 roku. Od samego początku zapach miał wyrażać ideę współczesnej kobiecości — kobiety, która nie musi wybierać pomiędzy delikatnością a siłą, elegancją a odwagą. Wkrótce charakterystyczny flakon stał się jednym z najbardziej rozpoznawalnych symboli marki.",
+        "uk": "✨ <strong>GOOD GIRL СТВОРИЛИ У 2016 РОЦІ</strong>\n\nCarolina Herrera представила Good Girl у 2016 році. Від самого початку аромат мав передавати ідею сучасної жіночності — жінки, якій не потрібно обирати між ніжністю та силою, елегантністю та сміливістю. Незабаром характерний флакон став одним із найбільш впізнаваних символів бренду."
+      },
+      {
+        "pl": "👃 <strong>ZA GOOD GIRL STOJĄ DWOJE PERFUMIARZY</strong>\n\nKompozycję stworzyli perfumiarze Quentin Bisch i Louise Turner. Ich zadaniem było przełożenie idei kontrastów na język zapachu — zestawienie jasnych, świetlistych kwiatów z ciemniejszymi, ciepłymi i bardziej zmysłowymi akcentami. To właśnie ta gra przeciwieństw stała się fundamentem Good Girl.",
+        "uk": "👃 <strong>НАД GOOD GIRL ПРАЦЮВАЛИ ДВОЄ ПАРФУМЕРІВ</strong>\n\nКомпозицію створили парфумери Quentin Bisch та Louise Turner. Їхнім завданням було передати ідею контрастів мовою аромату — поєднати світлі, сяйливі квіти з темнішими, теплими та більш чуттєвими акцентами. Саме ця гра протилежностей стала основою Good Girl."
+      },
+      {
+        "pl": "💎 <strong>STWORZENIE SZPILKI BYŁO PRAWDZIWYM WYZWANIEM</strong>\n\nPomysł na flakon był efektowny, ale jego realizacja okazała się znacznie trudniejsza. Trzeba było opracować od podstaw kształt buta, odpowiednie proporcje, smukły złoty obcas oraz mechanizm rozpylania, który musiał działać wewnątrz nietypowej konstrukcji. Carolina Herrera wspomina, że samo stworzenie działającego flakonu wymagało długiego procesu projektowania i testów.",
+        "uk": "💎 <strong>СТВОРЕННЯ ФЛАКОНА-ШПИЛЬКИ СТАЛО СПРАВЖНІМ ВИКЛИКОМ</strong>\n\nІдея флакону була ефектною, але її реалізація виявилася значно складнішою. Потрібно було з нуля розробити форму туфлі, правильні пропорції, тонкий золотий каблук і механізм розпилення, який мав працювати всередині незвичайної конструкції. У Carolina Herrera згадують, що створення повноцінного флакону вимагало тривалого процесу проєктування та тестування."
+      },
+      {
+        "pl": "🌙 <strong>TO NIE CZARNA SZPILKA, A MIDNIGHT BLUE</strong>\n\nOryginalny flakon Good Girl wykonano w charakterystycznym kolorze midnight blue — głębokim, niemal nocnym granacie. Złoty obcas tworzy z nim mocny kontrast. Według marki połączenie tych dwóch elementów ma podkreślać zarówno elegancję, jak i odważny charakter Good Girl.",
+        "uk": "🌙 <strong>ЦЕ НЕ ЧОРНА ТУФЛЯ, А MIDNIGHT BLUE</strong>\n\nОригінальний флакон Good Girl виконаний у характерному кольорі midnight blue — глибокому, майже нічному темно-синьому. Золотий каблук створює з ним виразний контраст. За задумом бренду, це поєднання підкреслює одночасно елегантність і сміливий характер Good Girl."
+      },
+      {
+        "pl": "📸 <strong>KARLIE KLOSS ZOSTAŁA TWARZĄ GOOD GIRL</strong>\n\nJedną z najbardziej rozpoznawalnych twarzy kampanii Good Girl została modelka Karlie Kloss. Jej wizerunek doskonale pasował do idei zapachu — połączenia klasycznej elegancji z nowoczesną, niezależną kobiecością.",
+        "uk": "📸 <strong>ОБЛИЧЧЯМ GOOD GIRL СТАЛА KARLIE KLOSS</strong>\n\nОдним із найбільш впізнаваних облич кампанії Good Girl стала модель Karlie Kloss. Її образ чудово відповідав концепції аромату — поєднанню класичної елегантності із сучасною незалежною жіночністю."
+      },
+      {
+        "pl": "🖤 <strong>NAZWA GOOD GIRL TO GRA KONTRASTÓW</strong>\n\nNazwa zapachu od początku miała być prowokacyjna. Good Girl odnosi się do różnych stron kobiecej osobowości — tej eleganckiej i tej bardziej odważnej, grzecznej i niepokornej. Hasło kampanii „It's so good to be bad” idealnie oddawało tę ideę.",
+        "uk": "🖤 <strong>НАЗВА GOOD GIRL — ЦЕ ГРА НА КОНТРАСТАХ</strong>\n\nНазва аромату від самого початку мала бути провокативною. Good Girl говорить про різні сторони жіночої особистості — елегантну та сміливішу, слухняну та непокірну. Слоган кампанії «It's so good to be bad» ідеально передавав цю ідею."
+      }
+    ],
+
+    "fragrance": {
+      "families": ["floral", "oriental", "sweet"],
+      "accords": [
+        "white-floral",
+        "sweet",
+        "vanilla",
+        "cacao",
+        "coffee",
+        "woody",
+        "almond",
+        "powdery"
+      ],
+      "notes": {
+        "top": ["almond", "coffee", "bergamot", "lemon"],
+        "heart": ["tuberose", "jasmine", "orange-blossom", "rose", "iris"],
+        "base": ["tonka-bean", "cacao", "vanilla", "sandalwood", "praline", "sandalwood", "musk", "amber", "cashmere-wood", "patchouli", "cinnamon", "cedar"]
+      }
+    },
+
+    "character": {
+      "sweetness": 4,
+      "freshness": 2,
+      "warmth": 5,
+      "intensity": 4
+    },
+
+    "wearing": {
+      "seasons": ["autumn", "winter", "spring", "summer"],
+      "timeOfDay": ["day", "evening", "night"],
+      "occasions": ["date", "special", "party", "evening", "everyday"]
+    },
+
+    "performance": {
+      "longevity": 4,
+      "sillage": 4
+    },
+
+    "sizes": [
+      {
+        "ml": 80,
+        "price": 410,
+        "stock": true
+      }
+    ],
+
+    "decant": {
+      "enabled": true,
+      "sizes": [2, 5, 10, 15],
+      "pricePerMl": 7
+    },
+
+    "featured": false,
+    "new": false,
+    "bestseller": true,
+
+    "similar": [],
+
+    "tags": [
+      "bestseller",
+      "feminine",
+      "white-floral",
+      "tuberose",
+      "jasmine",
+      "almond",
+      "coffee",
+      "cacao",
+      "vanilla",
+      "sweet",
+      "sensual",
+      "elegant"
+    ]
+  },
+  {
     "id": "giorgio-armani-si-passione-red-bloom-edp-100",
     "brandId": "giorgio-armani",
     "name": "Sì Passione Red Bloom",

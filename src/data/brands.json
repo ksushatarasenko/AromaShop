@@ -1,5 +1,18 @@
 [
   {
+  "id": "carolina-herrera",
+  "name": "Carolina Herrera",
+  "slug": "carolina-herrera",
+  "type": "luxury",
+  "country": "USA",
+  "logo": "carolina-herrera.png",
+  "description": {
+    "pl": "Carolina Herrera to jeden z najbardziej rozpoznawalnych luksusowych domów mody i perfumerii, założony przez wenezuelską projektantkę Carolinę Herrerę. Marka słynie z eleganckich, kobiecych kompozycji, charakterystycznego stylu i ponadczasowego połączenia klasyki z nowoczesnością.",
+    "uk": "Carolina Herrera — один із найвідоміших люксових модних і парфумерних домів, заснований венесуельською дизайнеркою Кароліною Еррерою. Бренд відомий елегантними, жіночними композиціями, впізнаваним стилем і позачасовим поєднанням класики з сучасністю."
+  },
+  "website": "https://www.carolinaherrera.com"
+},
+  {
   "id": "attar-collection",
   "name": "Attar Collection",
   "slug": "attar-collection",

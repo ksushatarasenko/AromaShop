@@ -9693,5 +9693,86 @@
       "сандал"
     ]
   }
+},
+{
+  "id": "almond",
+  "name": {
+    "pl": "Migdał",
+    "uk": "Мигдаль"
+  },
+  "slug": {
+    "pl": "migdal",
+    "uk": "myhdal"
+  },
+  "image": "almond.jpg",
+  "category": "gourmand",
+  "description": {
+    "pl": "Migdał ma miękki, kremowy i lekko słodki aromat z charakterystyczną nutą marcepanu. Może być subtelnie mleczny, pudrowy, orzechowy lub delikatnie gorzkawy, dzięki czemu świetnie sprawdza się zarówno w kompozycjach gourmand, jak i kwiatowych czy orientalnych.",
+    "uk": "Мигдаль має м’який, кремовий і злегка солодкий аромат із характерним відтінком марципану. Він може бути делікатно молочним, пудровим, горіховим або трохи гіркуватим, тому чудово працює як у гурманських, так і в квіткових та східних композиціях."
+  },
+  "shortDescription": {
+    "pl": "Kremowy, miękki i lekko słodki aromat migdała z nutą marcepanu.",
+    "uk": "Кремовий, м’який і злегка солодкий аромат мигдалю з відтінком марципану."
+  },
+  "origin": {
+    "pl": "Migdał pochodzi z nasion owoców migdałowca pospolitego (Prunus dulcis), uprawianego przede wszystkim w rejonie Morza Śródziemnego, Kalifornii i innych ciepłych regionach.",
+    "uk": "Мигдаль отримують із насіння плодів мигдалю звичайного (Prunus dulcis), який вирощують переважно в Середземномор’ї, Каліфорнії та інших теплих регіонах."
+  },
+  "extraction": {
+    "pl": "W perfumerii naturalny olejek migdałowy nie zawsze odpowiada intensywnemu aromatowi migdała znanemu z perfum. Charakterystyczny efekt migdałowy często tworzy się za pomocą aromatycznych molekuł, zwłaszcza benzaldehydu, obecnego naturalnie w gorzkich migdałach.",
+    "uk": "У парфумерії натуральна мигдальна олія не завжди передає інтенсивний аромат мигдалю, знайомий за парфумами. Характерний мигдальний ефект часто створюють за допомогою ароматичних молекул, зокрема бензальдегіду, який природно міститься в гіркому мигдалі."
+  },
+  "effect": {
+    "pl": "Nadaje kompozycji kremowej miękkości, subtelnej słodyczy i gourmandowego charakteru. Może również wygładzać ostre nuty i tworzyć wrażenie marcepanu, migdałowego mleka lub delikatnych wypieków.",
+    "uk": "Надає композиції кремової м’якості, делікатної солодкості та гурманського характеру. Також може пом’якшувати різкі ноти й створювати враження марципану, мигдального молока або ніжної випічки."
+  },
+  "characteristics": {
+    "pl": [
+      "kremowy",
+      "słodki",
+      "orzechowy",
+      "marcepanowy",
+      "pudrowy",
+      "delikatnie gorzkawy",
+      "miękki",
+      "gourmand"
+    ],
+    "uk": [
+      "кремовий",
+      "солодкий",
+      "горіховий",
+      "марципановий",
+      "пудровий",
+      "злегка гіркуватий",
+      "м’який",
+      "гурманський"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "wanilia",
+      "wiśnia",
+      "heliotrop",
+      "róża",
+      "jaśmin",
+      "kwiat pomarańczy",
+      "tonka",
+      "kakao",
+      "kawa",
+      "piżmo"
+    ],
+    "uk": [
+      "ваніль",
+      "вишня",
+      "геліотроп",
+      "троянда",
+      "жасмин",
+      "квітка апельсина",
+      "тонка",
+      "какао",
+      "кава",
+      "мускус"
+    ]
+  }
 }
 ]
