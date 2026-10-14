@@ -1,4 +1,167 @@
 [
+
+{
+  "id": "tiziana-terenzi-casanova-100",
+  "brandId": "tiziana-terenzi",
+  "name": "Casanova",
+  "collection": "niche",
+  "gender": "unisex",
+  "concentration": "Extrait de Parfum",
+  "year": 2014,
+  "perfumer": "Paolo Terenzi",
+  "recommended": true,
+  "country": "Italy",
+
+  "image": "main.png",
+  "gallery": ["02.png", "03.png"],
+
+  "description": {
+    "pl": "Tiziana Terenzi Casanova to tajemniczy, elegancki i zmysłowy zapach inspirowany atmosferą weneckiego karnawału, złotymi maskami i sztuką uwodzenia. Pudrowe nuty, orchidea i jaśmin tworzą miękkie, wyrafinowane otwarcie, rozświetlone bergamotką i zielonym akcentem liścia figowego. W sercu kompozycji pojawiają się ciepła ambra, mirra, kardamon, różowy pieprz i szlachetna skóra, otulone aksamitną wanilią oraz aromatycznymi nutami drewna. Z czasem zapach staje się głębszy i bardziej intymny — białe piżmo, ambroksan, cedr, wetiwer, fasola tonka i mech dębowy tworzą eleganckie, ciepłe wykończenie. Casanova nie jest krzykliwym uwodzicielem. To zapach tajemnicy, luksusu i magnetycznej obecności, która pozostaje w pamięci długo po ostatnim spojrzeniu.",
+    "uk": "Tiziana Terenzi Casanova — таємничий, елегантний і чуттєвий аромат, натхненний атмосферою венеційського карнавалу, золотими масками та мистецтвом спокуси. Пудрові ноти, орхідея й жасмин створюють м’який, витончений початок, осяяний бергамотом і зеленим відтінком листя інжиру. У серці композиції з’являються тепла амбра, мирра, кардамон, рожевий перець і благородна шкіра, огорнуті оксамитовою ваніллю та ароматними деревними нотами. Згодом аромат стає глибшим та інтимнішим — білий мускус, амброксан, кедр, ветивер, боби тонка й дубовий мох створюють елегантне, тепле завершення. Casanova — це не гучний спокусник. Це аромат таємниці, розкоші й магнетичної присутності, яка залишається в пам’яті ще довго після останнього погляду."
+  },
+
+  "shortDescription": {
+    "pl": "Pudrowa orchidea i jaśmin, ciepła ambra, aksamitna wanilia, kardamon i szlachetna skóra. Tajemniczy, zmysłowy zapach inspirowany weneckim karnawałem.",
+    "uk": "Пудрова орхідея та жасмин, тепла амбра, оксамитова ваніль, кардамон і благородна шкіра. Таємничий чуттєвий аромат, натхненний венеційським карнавалом."
+  },
+
+  "story": {
+    "pl": "<strong>Wenecka noc. Złota maska. Sztuka bycia nieodgadnionym.</strong>\n\nWyobraź sobie Wenecję zimą, podczas słynnego karnawału. Kamienne nabrzeża otula chłód, w pałacowych salach migoczą świece, a muzyka miesza się z szeptami ukrytymi za jedwabnymi maskami. Wśród gości pojawia się tajemnicza kobieta w złotej masce. Nie zdradza swoich myśli, nie szuka uwagi, a jednak trudno oderwać od niej wzrok.\n\nTaki nastrój przywołuje Casanova od Tiziana Terenzi — kompozycja inspirowana weneckim karnawałem i legendą Giacoma Casanovy, którego nazwisko stało się symbolem uwodzenia, miłosnych przygód i nieodpartego uroku. To artystyczna opowieść zapisana w zapachu, a nie rekonstrukcja konkretnego wydarzenia historycznego.\n\nNa początku pojawiają się pudrowe nuty, orchidea, jaśmin i świetlista bergamotka. Ich miękkość przypomina dotyk luksusowego jedwabiu. Chwilę później kompozycja nabiera głębi: ambra, mirra, kardamon, różowy pieprz i skóra tworzą ciepłą, tajemniczą atmosferę starego weneckiego pałacu. Wanilia łagodzi przyprawy, a nuty drzewne dodają całości szlachetności.\n\nW bazie zapach staje się bardziej intymny. Białe piżmo, ambroksan, cedr, wetiwer, fasola tonka i mech dębowy pozostawiają miękki, ciepły ślad na skórze. Nie jest to zapach, który musi dominować całe pomieszczenie. Jego siła tkwi w bliskości, subtelności i emocjach, które budzi.\n\nCasanova opowiada o chwili, która kończy się zbyt szybko, o spojrzeniu, którego nie można zapomnieć, i o tajemnicy, która jest bardziej kusząca niż najśmielsze wyznanie.\n\n<strong>Bo prawdziwa sztuka uwodzenia nie polega na tym, by wszyscy cię pragnęli. Polega na tym, by jedna osoba nie mogła o tobie zapomnieć.</strong>",
+    "uk": "<strong>Венеційська ніч. Золота маска. Мистецтво залишатися нерозгаданим.</strong>\n\nУявіть зимову Венецію під час знаменитого карнавалу. Кам’яні набережні огортає прохолода, у палацових залах мерехтять свічки, а музика змішується із шепотом, прихованим за шовковими масками. Серед гостей з’являється таємнича жінка в золотій масці. Вона не розкриває своїх думок, не шукає уваги, але відвести від неї погляд майже неможливо.\n\nСаме такий настрій передає Casanova від Tiziana Terenzi — композиція, натхненна венеційським карнавалом і легендою про Джакомо Казанову, чиє ім’я стало символом спокуси, любовних пригод і непереборного шарму. Це художня історія, закарбована в ароматі, а не відтворення конкретної історичної події.\n\nСпочатку з’являються пудрові ноти, орхідея, жасмин і світлий бергамот. Їхня м’якість нагадує дотик розкішного шовку. Згодом композиція набуває глибини: амбра, мирра, кардамон, рожевий перець і шкіра створюють теплу, загадкову атмосферу старовинного венеційського палацу. Ваніль пом’якшує прянощі, а деревні ноти додають звучанню благородства.\n\nУ базі аромат стає інтимнішим. Білий мускус, амброксан, кедр, ветивер, боби тонка й дубовий мох залишають на шкірі м’який, теплий слід. Це не аромат, якому потрібно заповнювати собою всю кімнату. Його сила — у близькості, делікатності та емоціях, які він пробуджує.\n\nCasanova розповідає про мить, яка закінчується надто швидко, про погляд, який неможливо забути, і про таємницю, що спокушає сильніше за найсміливіше зізнання.\n\n<strong>Адже справжнє мистецтво спокуси полягає не в тому, щоб бажали всі. Воно полягає в тому, щоб одна людина не могла тебе забути.</strong>"
+  },
+
+  "facts": [
+    {
+      "pl": "🎭 <strong>INSPIRACJA WENECKIM KARNAWAŁEM</strong> Casanova przywołuje atmosferę zimowej Wenecji, pałacowych bali i tajemniczych postaci ukrytych za złotymi maskami.",
+      "uk": "🎭 <strong>НАТХНЕННЯ ВЕНЕЦІЙСЬКИМ КАРНАВАЛОМ</strong> Casanova передає атмосферу зимової Венеції, палацових балів і таємничих постатей, прихованих за золотими масками."
+    },
+    {
+      "pl": "✨ <strong>AROMAT Z 2014 ROKU</strong> Casanova został zaprezentowany w 2014 roku jako część kolekcji Anniversari włoskiego domu perfumeryjnego Tiziana Terenzi.",
+      "uk": "✨ <strong>АРОМАТ 2014 РОКУ</strong> Casanova був представлений у 2014 році як частина колекції Anniversari італійського парфумерного дому Tiziana Terenzi."
+    },
+    {
+      "pl": "🖋️ <strong>TWÓRCA — PAOLO TERENZI</strong> Kompozycję stworzył Paolo Terenzi, perfumiarz i jeden z głównych twórców rodzinnej marki Tiziana Terenzi.",
+      "uk": "🖋️ <strong>АВТОР — PAOLO TERENZI</strong> Композицію створив Паоло Теренці — парфумер і один із головних творчих авторів сімейного бренду Tiziana Terenzi."
+    },
+    {
+      "pl": "💎 <strong>LIMITOWANA PREMIERA</strong> W materiałach z 2014 roku opisywano specjalną edycję Casanova w nakładzie 1000 flakonów. Informacja dotyczy tamtej edycji i nie oznacza, że każda późniejsza wersja była limitowana.",
+      "uk": "💎 <strong>ЛІМІТОВАНИЙ ДЕБЮТ</strong> У матеріалах 2014 року згадувалося спеціальне видання Casanova накладом 1000 флаконів. Це стосується тієї версії й не означає, що кожен пізніший випуск був лімітованим."
+    },
+    {
+      "pl": "🌿 <strong>RODZINNA FILOZOFIA ZAPACHU</strong> Paolo Terenzi podkreśla znaczenie naturalnych surowców i wpływu warunków przyrody na ich charakter. To podejście przypomina filozofię tworzenia wina, w którym każdy sezon może przynieść subtelnie inne niuanse.",
+      "uk": "🌿 <strong>СІМЕЙНА ФІЛОСОФІЯ АРОМАТУ</strong> Паоло Теренці наголошує на значенні натуральної сировини та впливі природних умов на її характер. Цей підхід нагадує філософію виноробства, де кожен сезон може додати тонких відмінностей."
+    },
+    {
+      "pl": "🖤 <strong>PUDROWA MIĘKKOŚĆ I CIEPŁA GŁĘBIA</strong> Charakter Casanova opiera się na zestawieniu pudrowych i kwiatowych niuansów z ambrą, skórą, przyprawami oraz nutami drzewnymi.",
+      "uk": "🖤 <strong>ПУДРОВА М’ЯКІСТЬ І ТЕПЛА ГЛИБИНА</strong> Характер Casanova побудований на поєднанні пудрових і квіткових відтінків з амброю, шкірою, прянощами та деревними нотами."
+    },
+    {
+      "pl": "🌙 <strong>ZAPACH BEZ PODZIAŁU NA PŁEĆ</strong> Casanova jest kompozycją unisex. Pudrowe kwiaty, przyprawy, ambra i drewno tworzą charakter, który może pięknie rozwijać się zarówno na kobiecej, jak i męskiej skórze.",
+      "uk": "🌙 <strong>АРОМАТ ПОЗА ГЕНДЕРНИМИ МЕЖАМИ</strong> Casanova — композиція унісекс. Пудрові квіти, прянощі, амбра й дерево створюють характер, який може красиво розкриватися як на жіночій, так і на чоловічій шкірі."
+    }
+  ],
+
+  "fragrance": {
+    "families": ["oriental", "woody"],
+    "accords": [
+      "powdery",
+      "amber",
+      "woody",
+      "spicy",
+      "musky",
+      "vanilla",
+      "leather",
+      "floral"
+    ],
+    "notes": {
+      "top": [
+        "powdery-notes",
+        "fig-leaf",
+        "orchid",
+        "bergamot",
+        "jasmine"
+      ],
+      "heart": [
+        "grey-amber",
+        "myrrh",
+        "cardamom",
+        "pink-pepper",
+        "leather",
+        "vanilla",
+        "guaiac-wood"
+      ],
+      "base": [
+        "white-musk",
+        "ambroxan",
+        "cedar",
+        "vetiver",
+        "tonka-bean",
+        "oakmoss"
+      ]
+    }
+  },
+
+  "character": {
+    "sweetness": 3,
+    "freshness": 2,
+    "warmth": 5,
+    "intensity": 4
+  },
+
+  "wearing": {
+    "seasons": ["autumn", "winter", "spring"],
+    "timeOfDay": ["evening", "night", "day"],
+    "occasions": [
+      "date",
+      "special",
+      "evening",
+      "formal",
+      "everyday"
+    ]
+  },
+
+  "performance": {
+    "longevity": 4,
+    "sillage": 4
+  },
+
+  "sizes": [
+    {
+      "ml": 100,
+      "price": 860,
+      "stock": true
+    }
+  ],
+
+  "decant": {
+    "enabled": true,
+    "sizes": [2, 5, 10, 15, 20],
+    "pricePerMl": 9
+  },
+
+  "featured": false,
+  "new": false,
+  "bestseller": false,
+
+  "similar": [],
+
+  "tags": [
+    "niche",
+    "unisex",
+    "oriental",
+    "woody",
+    "powdery",
+    "amber",
+    "vanilla",
+    "leather",
+    "spicy",
+    "sensual",
+    "elegant",
+    "venice",
+    "carnival",
+    "paolo-terenzi"
+  ]
+},
   {
     "id": "attar-collection-the-queen-of-sheba-100",
     "brandId": "attar-collection",
