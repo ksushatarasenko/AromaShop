@@ -9774,5 +9774,498 @@
       "мускус"
     ]
   }
+},
+{
+  "id": "powdery-notes",
+  "name": {
+    "pl": "Nuty pudrowe",
+    "uk": "Пудрові ноти"
+  },
+  "slug": {
+    "pl": "nuty-pudrowe",
+    "uk": "pudrovi-noty"
+  },
+  "image": "powdery-notes.jpg",
+  "category": "powdery",
+  "description": {
+    "pl": "Nuty pudrowe otulają skórę miękką, aksamitną mgiełką, przywołując skojarzenia z delikatnym pudrem kosmetycznym, jedwabistą tkaniną i czystością eleganckiego wnętrza. Mogą być subtelnie słodkie, kremowe, kwiatowe lub lekko mydlane. Czasem przypominają zapach vintage'owej kosmetyczki, a innym razem tworzą wrażenie świeżej, zadbanej skóry. Ich urok tkwi w miękkości i dyskretnej elegancji, która nadaje perfumom intymny, harmonijny charakter.",
+    "uk": "Пудрові ноти огортають шкіру м’якою оксамитовою вуаллю, викликаючи асоціації з ніжною косметичною пудрою, шовковистою тканиною та чистотою елегантного інтер’єру. Вони можуть бути делікатно солодкими, кремовими, квітковими або трохи мильними. Іноді нагадують аромат вінтажної косметички, а іноді створюють враження свіжої, доглянутої шкіри. Їхня чарівність полягає в м’якості та стриманій елегантності, що надає парфумам інтимного й гармонійного характеру."
+  },
+  "shortDescription": {
+    "pl": "Miękkie, aksamitne i eleganckie nuty przypominające puder kosmetyczny oraz delikatną, czystą skórę.",
+    "uk": "М’які, оксамитові й елегантні ноти, що нагадують косметичну пудру та ніжну, чисту шкіру."
+  },
+  "origin": {
+    "pl": "Nuty pudrowe nie pochodzą z jednego konkretnego surowca. To efekt zapachowy tworzony przez różne składniki naturalne i syntetyczne. Często kojarzy się z fiołkiem, irysem, heliotropem, korzeniem irysa, piżmem oraz delikatnymi akordami kosmetycznymi.",
+    "uk": "Пудрові ноти не походять з однієї конкретної сировини. Це ароматичний ефект, який створюють різні натуральні та синтетичні компоненти. Часто він асоціюється з фіалкою, ірисом, геліотропом, коренем ірису, мускусом і ніжними косметичними акордами."
+  },
+  "extraction": {
+    "pl": "Ponieważ nuty pudrowe są akordem zapachowym, a nie pojedynczym składnikiem, nie mają jednej metody pozyskiwania. Ich charakter można uzyskać dzięki naturalnym ekstraktom, takim jak irys, oraz molekułom aromatycznym odtwarzającym efekt miękkiego pudru, czystości i aksamitnej gładkości.",
+    "uk": "Оскільки пудрові ноти є ароматичним акордом, а не окремим інгредієнтом, вони не мають єдиного способу отримання. Їхній характер створюють за допомогою натуральних екстрактів, зокрема ірису, та ароматичних молекул, які відтворюють ефект ніжної пудри, чистоти й оксамитової м’якості."
+  },
+  "effect": {
+    "pl": "Wygładzają kompozycję i nadają jej miękkość, elegancję oraz subtelną zmysłowość. Mogą przywoływać skojarzenia z czystą skórą, luksusowymi kosmetykami lub romantyczną atmosferą dawnych perfum. W zależności od połączenia bywają lekkie i świeże albo ciepłe, kremowe i otulające.",
+    "uk": "Згладжують композицію та надають їй м’якості, елегантності й делікатної чуттєвості. Можуть викликати асоціації з чистою шкірою, розкішною косметикою або романтичною атмосферою вінтажної парфумерії. Залежно від поєднання бувають легкими й свіжими або теплими, кремовими та огортальними."
+  },
+  "characteristics": {
+    "pl": [
+      "pudrowy",
+      "miękki",
+      "aksamitny",
+      "delikatnie słodki",
+      "kremowy",
+      "kwiatowy",
+      "czysty",
+      "elegancki"
+    ],
+    "uk": [
+      "пудровий",
+      "м’який",
+      "оксамитовий",
+      "делікатно солодкий",
+      "кремовий",
+      "квітковий",
+      "чистий",
+      "елегантний"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "irys",
+      "fiołek",
+      "heliotrop",
+      "róża",
+      "jaśmin",
+      "wanilia",
+      "piżmo",
+      "fasola tonka",
+      "sandałowiec",
+      "ambra"
+    ],
+    "uk": [
+      "ірис",
+      "фіалка",
+      "геліотроп",
+      "троянда",
+      "жасмин",
+      "ваніль",
+      "мускус",
+      "боби тонка",
+      "сандал",
+      "амбра"
+    ]
+  }
+},
+{
+  "id": "orchid",
+  "name": {
+    "pl": "Orchidea",
+    "uk": "Орхідея"
+  },
+  "slug": {
+    "pl": "orchidea",
+    "uk": "orkhideia"
+  },
+  "image": "orchid.jpg",
+  "category": "floral",
+  "description": {
+    "pl": "Orchidea w perfumerii to symbol egzotycznej elegancji i subtelnej zmysłowości. Jej zapach może być kremowy, aksamitny, lekko słodki i pudrowy, czasem z waniliowym, owocowym lub delikatnie zielonym akcentem. Nie przypomina jednej konkretnej woni — w zależności od kompozycji może być świetlista i świeża albo głęboka, ciepła i otulająca. Wnosi do perfum aurę luksusu, tajemniczości i wyrafinowanego piękna.",
+    "uk": "Орхідея в парфумерії — символ екзотичної елегантності та витонченої чуттєвості. Її аромат може бути кремовим, оксамитовим, злегка солодким і пудровим, іноді з ванільними, фруктовими або делікатно зеленими відтінками. Він не має єдиного характерного звучання: залежно від композиції може бути світлим і свіжим або глибоким, теплим та огортальним. Орхідея надає парфумам ауру розкоші, загадковості й вишуканої краси."
+  },
+  "shortDescription": {
+    "pl": "Egzotyczny, kremowy i delikatnie słodki akord kwiatowy o eleganckim, zmysłowym charakterze.",
+    "uk": "Екзотичний, кремовий і делікатно солодкий квітковий акорд з елегантним, чуттєвим характером."
+  },
+  "origin": {
+    "pl": "Orchidee należą do rozległej rodziny storczykowatych, obejmującej tysiące gatunków o bardzo zróżnicowanych zapachach. W perfumerii nuta orchidei najczęściej oznacza akord inspirowany jej egzotycznym pięknem, a nie ekstrakt z jednego konkretnego gatunku. Popularne skojarzenia obejmują waniliową miękkość, kremowe kwiaty i subtelną słodycz.",
+    "uk": "Орхідеї належать до великої родини орхідних, що охоплює тисячі видів із дуже різноманітними ароматами. У парфумерії нота орхідеї найчастіше означає акорд, натхненний її екзотичною красою, а не екстракт одного конкретного виду. Найпоширеніші асоціації — ванільна м’якість, кремові квіти та делікатна солодкість."
+  },
+  "extraction": {
+    "pl": "Nuta orchidei w perfumach jest zwykle odtwarzana za pomocą kompozycji naturalnych ekstraktów i syntetycznych molekuł aromatycznych. Nie istnieje jedna uniwersalna metoda pozyskiwania zapachu orchidei, ponieważ wiele gatunków nie jest powszechnie wykorzystywanych jako surowiec perfumeryjny. Ostateczny efekt zależy od zamierzonego charakteru kompozycji.",
+    "uk": "Ноту орхідеї в парфумах зазвичай відтворюють за допомогою композицій із натуральних екстрактів і синтетичних ароматичних молекул. Єдиного універсального способу отримання аромату орхідеї не існує, оскільки багато видів не використовують широко як парфумерну сировину. Кінцеве звучання залежить від характеру, якого прагне досягти парфумер."
+  },
+  "effect": {
+    "pl": "Nadaje kompozycji egzotyczną miękkość, kremową głębię i wyrafinowaną kwiatowość. Może podkreślać kobiecą elegancję, łagodzić ostre akcenty i łączyć kwiatowe serce z ciepłą, słodką bazą. W zależności od towarzyszących nut tworzy aurę romantyczną, zmysłową lub nowoczesną i luksusową.",
+    "uk": "Надає композиції екзотичної м’якості, кремової глибини та вишуканої квітковості. Може підкреслювати жіночну елегантність, пом’якшувати різкі акценти й поєднувати квіткове серце з теплою солодкою базою. Залежно від інших нот створює романтичну, чуттєву або сучасну розкішну атмосферу."
+  },
+  "characteristics": {
+    "pl": [
+      "kwiatowy",
+      "egzotyczny",
+      "kremowy",
+      "delikatnie słodki",
+      "pudrowy",
+      "aksamitny",
+      "zmysłowy",
+      "elegancki"
+    ],
+    "uk": [
+      "квітковий",
+      "екзотичний",
+      "кремовий",
+      "делікатно солодкий",
+      "пудровий",
+      "оксамитовий",
+      "чуттєвий",
+      "елегантний"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "wanilia",
+      "jaśmin",
+      "gardenia",
+      "ylang-ylang",
+      "frangipani",
+      "kwiat pomarańczy",
+      "brzoskwinia",
+      "kokos",
+      "piżmo",
+      "sandałowiec"
+    ],
+    "uk": [
+      "ваніль",
+      "жасмин",
+      "гарденія",
+      "іланг-іланг",
+      "франжипані",
+      "квітка апельсина",
+      "персик",
+      "кокос",
+      "мускус",
+      "сандал"
+    ]
+  }
+},
+{
+  "id": "grey-amber",
+  "name": {
+    "pl": "Szara ambra",
+    "uk": "Сіра амбра"
+  },
+  "slug": {
+    "pl": "szara-ambra",
+    "uk": "sira-ambra"
+  },
+  "image": "grey-amber.jpg",
+  "category": "ambery",
+  "description": {
+    "pl": "Szara ambra to niezwykły, elegancki akord o mineralnym, słonawym i subtelnie ciepłym charakterze. Przywodzi na myśl morskie powietrze, rozgrzaną skórę, suche drewno i delikatną, balsamiczną głębię. W perfumach może być jednocześnie świeża i zmysłowa — nie jest ciężką, cukrową słodyczą, lecz raczej szlachetną, miękką aurą, która otula skórę i nadaje kompozycji niezwykłą trwałość.",
+    "uk": "Сіра амбра — незвичайний, елегантний акорд із мінеральним, солонуватим і делікатно теплим характером. Він нагадує морське повітря, розігріту шкіру, суху деревину та тонку бальзамічну глибину. У парфумах він може бути водночас свіжим і чуттєвим: це не важка цукрова солодкість, а шляхетна м’яка аура, яка огортає шкіру й надає композиції особливої стійкості."
+  },
+  "shortDescription": {
+    "pl": "Mineralny, lekko słonawy i ciepły akord o eleganckim, skórzanym charakterze.",
+    "uk": "Мінеральний, злегка солонуватий і теплий акорд з елегантним, шкіряним характером."
+  },
+  "origin": {
+    "pl": "Naturalna szara ambra to rzadka substancja pochodzenia zwierzęcego, powstająca w przewodzie pokarmowym kaszalota i odnajdywana niekiedy na powierzchni oceanu lub na wybrzeżach. Jej zapach zmienia się z czasem, nabierając miękkich, słodkawych, mineralnych i balsamicznych niuansów. Współczesne perfumy często wykorzystują również akordy inspirowane ambrą, które nie zawierają naturalnej substancji.",
+    "uk": "Натуральна сіра амбра — рідкісна речовина тваринного походження, що утворюється в травному тракті кашалота й іноді потрапляє на поверхню океану або узбережжя. З часом її аромат змінюється, набуваючи м’яких, трохи солодких, мінеральних і бальзамічних відтінків. У сучасній парфумерії також часто використовують акорди, натхненні амброю, які не містять натуральної речовини."
+  },
+  "extraction": {
+    "pl": "Naturalnej szarej ambry nie pozyskuje się przez destylację roślin. Po odnalezieniu i odpowiednim dojrzewaniu może być poddawana oczyszczaniu oraz wykorzystywana w perfumerii. Ze względu na rzadkość i kwestie etyczne jej charakter często odtwarza się za pomocą składników syntetycznych, takich jak ambroksyd, oraz innych molekuł o ciepłym, mineralnym i piżmowym profilu.",
+    "uk": "Натуральну сіру амбру не отримують шляхом дистиляції рослин. Після знаходження та належного дозрівання її можуть очищувати й використовувати в парфумерії. Через рідкісність і етичні міркування її характер часто відтворюють за допомогою синтетичних компонентів, зокрема амброксиду, та інших молекул із теплим, мінеральним і мускусним профілем."
+  },
+  "effect": {
+    "pl": "Nadaje perfumom głębię, miękkość i szlachetną zmysłowość. Wzmacnia wrażenie ciepłej skóry, podkreśla drzewne i piżmowe akcenty oraz pomaga połączyć świeże nuty z bogatą bazą. W zależności od formuły może brzmieć morsko, mineralnie, balsamicznie lub delikatnie słodko.",
+    "uk": "Надає парфумам глибини, м’якості та шляхетної чуттєвості. Підсилює враження теплої шкіри, підкреслює деревні й мускусні акценти та допомагає поєднувати свіжі ноти з насиченою базою. Залежно від формули може звучати морськи, мінерально, бальзамічно або делікатно солодко."
+  },
+  "characteristics": {
+    "pl": [
+      "mineralny",
+      "słonawy",
+      "ciepły",
+      "drzewny",
+      "balsamiczny",
+      "piżmowy",
+      "subtelnie słodki",
+      "zmysłowy"
+    ],
+    "uk": [
+      "мінеральний",
+      "солонуватий",
+      "теплий",
+      "деревний",
+      "бальзамічний",
+      "мускусний",
+      "делікатно солодкий",
+      "чуттєвий"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "ambrox super",
+      "norlimbanol",
+      "sandałowiec",
+      "cedr",
+      "wetyweria haitańska",
+      "paczula",
+      "kadzidło",
+      "wanilia",
+      "piżmo",
+      "bergamotka"
+    ],
+    "uk": [
+      "амброкс супер",
+      "норлімбанол",
+      "сандал",
+      "кедр",
+      "гаїтянський ветивер",
+      "пачулі",
+      "ладан",
+      "ваніль",
+      "мускус",
+      "бергамот"
+    ]
+  }
+},
+{
+  "id": "myrrh",
+  "name": {
+    "pl": "Mirra",
+    "uk": "Мирра"
+  },
+  "slug": {
+    "pl": "mirra",
+    "uk": "myrra"
+  },
+  "image": "myrrh.jpg",
+  "category": "resinous",
+  "description": {
+    "pl": "Mirra to jedna z najbardziej tajemniczych i szlachetnych nut perfumeryjnych. Jej aromat jest głęboki, żywiczny i balsamiczny, z subtelną goryczką, suchymi drzewnymi akcentami oraz delikatnie dymnym, ziemistym tłem. Przywodzi na myśl starożytne świątynie, rozgrzany piasek i wonne żywice spalane podczas rytuałów. W perfumach tworzy atmosferę spokoju, głębi i mistycznej elegancji.",
+    "uk": "Мирра — одна з найзагадковіших і найблагородніших парфумерних нот. Її аромат глибокий, смолистий і бальзамічний, із делікатною гірчинкою, сухими деревними відтінками та легким димним, землистим шлейфом. Він нагадує стародавні храми, розігрітий пісок і запашні смоли, що тліють під час ритуалів. У парфумах мирра створює атмосферу спокою, глибини та містичної елегантності."
+  },
+  "shortDescription": {
+    "pl": "Głęboka, balsamiczna żywica o ciepłym, lekko gorzkim i subtelnie dymnym aromacie. Nadaje perfumom tajemniczość, szlachetność i orientalną głębię.",
+    "uk": "Глибока бальзамічна смола з теплим, трохи гіркуватим і делікатно димним ароматом. Надає парфумам загадковості, благородства та східної глибини."
+  },
+  "origin": {
+    "pl": "Mirra pochodzi z żywicy drzew i krzewów z rodzaju Commiphora, rosnących głównie w suchych regionach Afryki Północno-Wschodniej oraz na Półwyspie Arabskim. Od tysięcy lat była ceniona jako składnik kadzideł, balsamów i wonnych olejków.",
+    "uk": "Мирру отримують зі смоли дерев і кущів роду Commiphora, що ростуть переважно в посушливих регіонах Північно-Східної Африки та на Аравійському півострові. Протягом тисячоліть її цінували як складник пахощів, бальзамів і запашних олій."
+  },
+  "extraction": {
+    "pl": "Żywicę pozyskuje się z nacięć kory, z których wypływa aromatyczna substancja, stopniowo twardniejąca w kontakcie z powietrzem. W perfumerii wykorzystuje się olejek eteryczny otrzymywany najczęściej przez destylację z parą wodną, a także ekstrakty żywiczne. Metoda przetwarzania wpływa na intensywność i charakter aromatu.",
+    "uk": "Смолу отримують із надрізів кори, звідки витікає запашна речовина, що поступово твердне на повітрі. У парфумерії використовують ефірну олію, яку найчастіше отримують методом парової дистиляції, а також смолисті екстракти. Спосіб обробки впливає на інтенсивність і характер аромату."
+  },
+  "effect": {
+    "pl": "Mirra nadaje kompozycji głębię, ciepło i medytacyjny charakter. Podkreśla orientalny i balsamiczny wymiar zapachu, dodaje mu subtelnej goryczki oraz dymnej tajemniczości. Pięknie łączy się z nutami drzewnymi, kadzidlanymi, przyprawowymi i ambrowymi, wzbogacając bazę perfum o trwałość i szlachetną, żywiczną teksturę.",
+    "uk": "Мирра надає композиції глибини, тепла та медитативного характеру. Підкреслює східне й бальзамічне звучання аромату, додає йому делікатної гірчинки та димної загадковості. Чудово поєднується з деревними, ладанними, пряними й амбровими нотами, збагачуючи основу парфумів стійкістю та благородною смолистою текстурою."
+  },
+  "characteristics": {
+    "pl": [
+      "żywiczna",
+      "balsamiczna",
+      "ciepła",
+      "lekko gorzka",
+      "dymna",
+      "drzewna",
+      "ziemista",
+      "orientalna",
+      "tajemnicza"
+    ],
+    "uk": [
+      "смолиста",
+      "бальзамічна",
+      "тепла",
+      "трохи гіркувата",
+      "димна",
+      "деревна",
+      "землиста",
+      "східна",
+      "загадкова"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "kadzidło",
+      "labdanum",
+      "ambra",
+      "wanilia",
+      "paczula",
+      "drzewo sandałowe",
+      "cedr",
+      "wetyweria haitańska",
+      "róża damasceńska",
+      "czarny pieprz"
+    ],
+    "uk": [
+      "ладан",
+      "лабданум",
+      "амбра",
+      "ваніль",
+      "пачулі",
+      "сандалове дерево",
+      "кедр",
+      "гаїтянський ветивер",
+      "дамаська троянда",
+      "чорний перець"
+    ]
+  }
+},
+{
+  "id": "carrot-seeds",
+  "name": {
+    "pl": "Nasiona marchwi",
+    "uk": "Насіння моркви"
+  },
+  "slug": {
+    "pl": "nasiona-marchwi",
+    "uk": "nasinnia-morkvy"
+  },
+  "image": "carrot-seeds.jpg",
+  "category": "aromatic",
+  "description": {
+    "pl": "Nasiona marchwi to subtelna, nieoczywista nuta perfumeryjna o suchym, korzennym i lekko ziemistym charakterze. Jej aromat łączy delikatną zieloność z ciepłymi, drzewnymi niuansami oraz miękką, pudrową głębią przypominającą korzeń irysa. Nie pachnie słodką, soczystą marchewką — jest bardziej wytrawna, elegancka i zaskakująco wyrafinowana. W kompozycjach dodaje naturalności, spokojnej ciepłoty i dyskretnej, ziemistej zmysłowości.",
+    "uk": "Насіння моркви — тонка й незвичайна парфумерна нота із сухим, пряним і трохи землистим характером. Її аромат поєднує делікатну зелень із теплими деревними нюансами та м’якою пудровою глибиною, що нагадує корінь ірису. Це не запах солодкої соковитої моркви — він сухіший, елегантніший і напрочуд витончений. У композиціях ця нота додає природності, спокійного тепла та стриманої землистої чуттєвості."
+  },
+  "shortDescription": {
+    "pl": "Sucha, korzenna i lekko ziemista nuta z zielonymi, drzewnymi oraz pudrowymi niuansami. Nadaje perfumom naturalną elegancję i subtelną głębię.",
+    "uk": "Суха, пряна й трохи землиста нота із зеленими, деревними та пудровими нюансами. Надає парфумам природної елегантності й делікатної глибини."
+  },
+  "origin": {
+    "pl": "Nuta pochodzi z nasion marchwi zwyczajnej (Daucus carota), rośliny znanej przede wszystkim z jadalnego korzenia, ale cenionej również w perfumerii za aromatyczne nasiona. Surowiec ten wykorzystuje się w kompozycjach niszowych i naturalistycznych, w których liczy się subtelna, ziemista złożoność.",
+    "uk": "Нота походить із насіння моркви звичайної (Daucus carota) — рослини, відомої передусім їстівним коренеплодом, але цінної в парфумерії також завдяки ароматному насінню. Цю сировину використовують у нішевих і натуралістичних композиціях, де важлива тонка землиста багатогранність."
+  },
+  "extraction": {
+    "pl": "Olejek eteryczny z nasion marchwi otrzymuje się najczęściej przez destylację z parą wodną. Ma skoncentrowany, złożony aromat, dlatego w perfumach stosuje się go zwykle w niewielkich ilościach. Olejek z nasion różni się zapachem od oleju z korzenia marchwi, który ma odmienny profil aromatyczny.",
+    "uk": "Ефірну олію з насіння моркви найчастіше отримують методом парової дистиляції. Вона має концентрований і складний аромат, тому в парфумах її зазвичай використовують у невеликих кількостях. Олія з насіння відрізняється від олії з коренеплоду моркви, оскільки має інший ароматичний профіль."
+  },
+  "effect": {
+    "pl": "Nasiona marchwi wprowadzają do kompozycji wytrawne ciepło, ziemistą głębię i delikatnie pudrową miękkość. Pięknie łączą się z irysem, wetiwerią i nutami drzewnymi, podkreślając ich naturalny, elegancki charakter. Mogą również złagodzić ostre akcenty przyprawowe i nadać zapachowi bardziej intymny, spokojny wymiar.",
+    "uk": "Насіння моркви додає композиції сухого тепла, землистої глибини та делікатної пудрової м’якості. Воно чудово поєднується з ірисом, ветивером і деревними нотами, підкреслюючи їхній природний та елегантний характер. Також ця нота може пом’якшувати різкі пряні акценти й надавати аромату більш інтимного та спокійного звучання."
+  },
+  "characteristics": {
+    "pl": [
+      "sucha",
+      "korzenna",
+      "ziemista",
+      "zielona",
+      "drzewna",
+      "pudrowa",
+      "lekko pikantna",
+      "naturalna",
+      "wyrafinowana"
+    ],
+    "uk": [
+      "суха",
+      "пряна",
+      "землиста",
+      "зелена",
+      "деревна",
+      "пудрова",
+      "трохи гостра",
+      "природна",
+      "витончена"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "irys",
+      "wetyweria haitańska",
+      "drzewo sandałowe",
+      "cedr",
+      "paczula",
+      "fiołek",
+      "róża damasceńska",
+      "kardamon",
+      "czarny pieprz",
+      "piżmo"
+    ],
+    "uk": [
+      "ірис",
+      "гаїтянський ветивер",
+      "сандалове дерево",
+      "кедр",
+      "пачулі",
+      "фіалка",
+      "дамаська троянда",
+      "кардамон",
+      "чорний перець",
+      "мускус"
+    ]
+  }
+},
+{
+  "id": "mate",
+  "name": {
+    "pl": "Yerba mate",
+    "uk": "Єрба мате"
+  },
+  "slug": {
+    "pl": "yerba-mate",
+    "uk": "yerba-mate"
+  },
+  "image": "mate.jpg",
+  "category": "aromatic",
+  "description": {
+    "pl": "Mate to niezwykle charakterystyczna nuta perfumeryjna, która łączy świeżą zieloność liści z suchą, ziołową goryczką i subtelnym, herbacianym ciepłem. Jej aromat przywodzi na myśl świeżo zaparzone zioła, wilgotne liście i napar o lekko dymnym, ziemistym tle. Jest mniej delikatna niż klasyczna zielona herbata — bardziej surowa, wytrawna i naturalna. W perfumach wnosi intelektualną elegancję, spokój oraz nieco tajemniczy, nowoczesny charakter.",
+    "uk": "Мате — виразна парфумерна нота, що поєднує свіжу зелень листя із сухою трав’янистою гірчинкою та делікатним чайним теплом. Її аромат нагадує щойно заварені трави, вологе листя й настій із легким димним, землистим відтінком. Вона менш делікатна, ніж класичний зелений чай, — сухіша, стриманіша й природніша. У парфумах мате створює атмосферу інтелектуальної елегантності, спокою та трохи загадкового сучасного характеру."
+  },
+  "shortDescription": {
+    "pl": "Zielona, ziołowa i lekko gorzka nuta herbaciana z suchymi, ziemistymi niuansami. Nadaje kompozycjom naturalność, świeżość i wyrafinowaną głębię.",
+    "uk": "Зелена, трав’яниста й трохи гіркувата чайна нота із сухими землистими нюансами. Надає композиціям природності, свіжості та витонченої глибини."
+  },
+  "origin": {
+    "pl": "Yerba mate pochodzi z liści ostrokrzewu paragwajskiego (Ilex paraguariensis), rośliny rosnącej w Ameryce Południowej, szczególnie w Paragwaju, Argentynie i Brazylii. Liście są tradycyjnie suszone i wykorzystywane do przygotowania naparu mate. W perfumerii cenione są za zielony, herbaciany i lekko dymny profil aromatyczny.",
+    "uk": "Єрба мате отримують із листя падуба парагвайського (Ilex paraguariensis), рослини, що росте в Південній Америці, особливо в Парагваї, Аргентині та Бразилії. Листя традиційно сушать і використовують для приготування напою мате. У парфумерії його цінують за зелений, чайний і трохи димний ароматичний профіль."
+  },
+  "extraction": {
+    "pl": "Aromat mate może być wykorzystywany w postaci ekstraktów z liści lub odtwarzany za pomocą kompozycji naturalnych i syntetycznych składników aromatycznych. Współczesna perfumeria często rekonstruuje charakterystyczne zielone, herbaciane i lekko dymne niuanse, aby uzyskać stabilny i powtarzalny efekt zapachowy.",
+    "uk": "Аромат мате можна використовувати у вигляді екстрактів листя або відтворювати за допомогою композицій із натуральних і синтетичних ароматичних компонентів. У сучасній парфумерії часто реконструюють характерні зелені, чайні та трохи димні нюанси, щоб отримати стабільне й передбачуване звучання."
+  },
+  "effect": {
+    "pl": "Mate dodaje perfumom zielonej energii, wytrawności i subtelnej goryczki, która równoważy słodsze lub kremowe nuty. Pięknie współgra z cytrusami, figą, herbatą, drewnem i piżmem, tworząc wrażenie czystego powietrza, spokoju i naturalnej elegancji. W kompozycjach niszowych może nadać zapachowi artystyczny, lekko surowy charakter.",
+    "uk": "Мате додає парфумам зеленої енергії, сухості та делікатної гірчинки, що врівноважує солодші або кремові ноти. Чудово поєднується з цитрусами, інжиром, чаєм, деревними нотами й мускусом, створюючи відчуття чистого повітря, спокою та природної елегантності. У нішевих композиціях мате може надавати аромату артистичного, трохи суворого характеру."
+  },
+  "characteristics": {
+    "pl": [
+      "zielona",
+      "ziołowa",
+      "herbaciana",
+      "lekko gorzka",
+      "wytrawna",
+      "ziemista",
+      "subtelnie dymna",
+      "świeża",
+      "naturalna"
+    ],
+    "uk": [
+      "зелена",
+      "трав’яниста",
+      "чайна",
+      "трохи гіркувата",
+      "суха",
+      "землиста",
+      "делікатно димна",
+      "свіжа",
+      "природна"
+    ]
+  },
+  "pairsWith": {
+    "pl": [
+      "bergamotka",
+      "cytryna",
+      "zielona herbata",
+      "figa",
+      "czarna porzeczka",
+      "jaśmin",
+      "cedr",
+      "drzewo sandałowe",
+      "wetyweria haitańska",
+      "piżmo"
+    ],
+    "uk": [
+      "бергамот",
+      "лимон",
+      "зелений чай",
+      "інжир",
+      "чорна смородина",
+      "жасмин",
+      "кедр",
+      "сандалове дерево",
+      "гаїтянський ветивер",
+      "мускус"
+    ]
+  }
 }
+
 ]

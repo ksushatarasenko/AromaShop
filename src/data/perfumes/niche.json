@@ -3884,6 +3884,7 @@
     "concentration": "Extrait",
     "year": 2009,
     "perfumer": "",
+    "recommended":true,
     "country": "Netherlands",
     "moods": ["dark", "oud", "woody", "evening"],
     "description": {

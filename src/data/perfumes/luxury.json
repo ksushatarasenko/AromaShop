@@ -1,4 +1,162 @@
 [
+  
+{
+  "id": "prada-lhomme-100",
+  "brandId": "prada",
+  "name": "L'Homme",
+  "collection": "luxury",
+  "gender": "men",
+  "concentration": "Eau de Toilette",
+  "year": 2016,
+  "perfumer": "Daniela Andrier",
+  "recommended": true,
+  "country": "Italy",
+
+  "image": "main.png",
+  "gallery": ["02.png", "03.png"],
+
+  "description": {
+    "pl": "Prada L'Homme to zapach współczesnej elegancji, w którym czystość spotyka się z wyrafinowaniem, a klasyczna męskość z delikatnością pudrowych kwiatów. To aromat białej koszuli, idealnie skrojonej marynarki i spokojnej pewności siebie — dyskretny luksus, który nie potrzebuje żadnych deklaracji. Kompozycję otwiera świeży neroli, pikantny czarny pieprz i aromatyczny kardamon, nadające jej lekkości oraz subtelnej energii. W sercu rozkwita irys, którego miękka, pudrowa elegancja łączy się z fiołkiem i świeżą, zieloną nutą geranium. W tle pojawiają się ciepła ambra, szlachetny cedr, kremowe drzewo sandałowe i ziemiste paczuli. To właśnie kontrast między czystością, kwiatową miękkością i drzewną głębią nadaje zapachowi wyjątkowo nowoczesny charakter. Prada L'Homme jest elegancki, zadbany i magnetyczny bez ostentacji. Idealny dla mężczyzny, który ceni jakość, subtelność i styl, a swoją obecnością potrafi powiedzieć więcej niż tysiącem słów.",
+    "uk": "Prada L'Homme — аромат сучасної елегантності, у якому чистота поєднується з витонченістю, а класична мужність — із делікатністю пудрових квітів. Це аромат білої сорочки, бездоганно скроєного піджака та спокійної впевненості в собі — стримана розкіш, якій не потрібні гучні заяви. Композиція відкривається свіжим неролі, пряним чорним перцем та ароматним кардамоном, що надають їй легкості й тонкої енергії. У серці розкривається ірис, чия м'яка пудрова елегантність переплітається з фіалкою та свіжим зеленим відтінком герані. У шлейфі з'являються тепла амбра, благородний кедр, кремовий сандал і землисті пачулі. Саме контраст між чистотою, квітковою м'якістю та деревною глибиною надає аромату винятково сучасного характеру. Prada L'Homme — елегантний, доглянутий і магнетичний без показовості. Він створений для чоловіка, який цінує якість, делікатність і стиль, а своєю присутністю здатен сказати більше, ніж тисячею слів."
+  },
+
+  "shortDescription": {
+    "pl": "Pudrowy irys, świeże neroli, czarny pieprz i elegancka ambra na tle cedru i paczuli. Zapach czystości, nowoczesnej męskości i dyskretnego luksusu.",
+    "uk": "Пудровий ірис, свіже неролі, чорний перець та елегантна амбра на тлі кедра й пачулів. Аромат чистоти, сучасної мужності та стриманої розкоші."
+  },
+
+  "story": {
+    "pl": "<strong>Elegancja, która nie musi podnosić głosu.</strong>\n\nSą mężczyźni, których zauważa się, zanim zdążą się przedstawić. Nie dlatego, że próbują przyciągnąć uwagę, lecz dlatego, że wszystko w nich wydaje się naturalnie uporządkowane: gesty, spojrzenie, sposób poruszania się i spokój, z jakim zajmują swoje miejsce w świecie.\n\nPrada L'Homme pachnie właśnie takim rodzajem pewności siebie. Wyobraź sobie poranek w nowoczesnym włoskim mieście. Światło wpada przez wysokie okna, na krześle czeka idealnie skrojona marynarka, a biała koszula jest jeszcze chłodna i świeża. W powietrzu unosi się delikatny aromat czystości, luksusowego mydła i świeżo wypielęgnowanej skóry.\n\nPierwsze nuty neroli i czarnego pieprzu dodają kompozycji świeżości oraz wyrazistości. Nie jest to jednak chłodna, sportowa świeżość. Pod jej powierzchnią kryje się coś bardziej miękkiego i wyrafinowanego. Irys stopniowo otula skórę pudrową elegancją, przypominając delikatny dotyk kaszmiru. Fiołek i geranium wnoszą subtelny kwiatowy akcent, dzięki któremu zapach pozostaje czysty, ale nigdy banalny.\n\nPóźniej pojawia się ciepło ambry i szlachetnych drzew. Cedr nadaje kompozycji strukturę, drzewo sandałowe wnosi kremową miękkość, a paczuli pozostawia dyskretny, elegancki cień. Zapach staje się bardziej osobisty — jak dobrze skrojona marynarka, która dopiero z bliska zdradza jakość materiału i precyzję wykonania.\n\nPrada L'Homme nie próbuje być najgłośniejszym zapachem w pomieszczeniu. Nie potrzebuje ciężkiej słodyczy ani agresywnej projekcji, aby zaznaczyć swoją obecność. Jego siła tkwi w harmonii, czystości i wyrafinowaniu, które sprawiają, że chce się podejść bliżej.\n\nTo zapach mężczyzny, który nie musi udowadniać swojej wartości. Wie, kim jest, dba o szczegóły i rozumie, że prawdziwy luksus nie zawsze błyszczy. Czasem ma postać idealnie białej koszuli, spokojnego spojrzenia i subtelnego aromatu, który pozostaje w pamięci jeszcze długo po spotkaniu.\n\n<strong>Prada L'Homme — ponieważ najlepszy styl nie polega na tym, by wszyscy cię zauważyli. Polega na tym, by nikt nie pomylił cię z kimś innym.</strong>",
+    "uk": "<strong>Елегантність, якій не потрібно підвищувати голос.</strong>\n\nЄ чоловіки, яких помічають ще до того, як вони встигають представитися. Не тому, що вони намагаються привернути увагу, а тому, що в них усе здається природно гармонійним: жести, погляд, манера рухатися та спокій, із яким вони займають своє місце у світі.\n\nPrada L'Homme пахне саме такою впевненістю. Уявіть ранок у сучасному італійському місті. Світло проникає крізь високі вікна, на стільці чекає бездоганно скроєний піджак, а біла сорочка ще зберігає прохолоду та свіжість. У повітрі відчувається делікатний аромат чистоти, розкішного мила й доглянутої шкіри.\n\nПерші ноти неролі та чорного перцю додають композиції свіжості й виразності. Але це не холодна спортивна свіжість. Під її поверхнею приховується щось м'якше й витонченіше. Ірис поступово огортає шкіру пудровою елегантністю, нагадуючи ніжний дотик кашеміру. Фіалка та герань додають тонкого квіткового акценту, завдяки якому аромат залишається чистим, але ніколи не стає банальним.\n\nЗгодом з'являється тепло амбри та благородної деревини. Кедр надає композиції структури, сандал приносить кремову м'якість, а пачулі залишають стриманий елегантний відтінок. Аромат стає більш особистим — наче піджак ідеального крою, який лише зблизька відкриває якість тканини та точність кожного шва.\n\nPrada L'Homme не намагається бути найгучнішим ароматом у приміщенні. Йому не потрібні важка солодкість чи агресивний шлейф, щоб заявити про свою присутність. Його сила — у гармонії, чистоті та витонченості, які змушують захотіти підійти ближче.\n\nЦе аромат чоловіка, якому не потрібно доводити власну цінність. Він знає, хто він, помічає деталі й розуміє, що справжня розкіш не завжди сяє. Іноді вона має вигляд бездоганно білої сорочки, спокійного погляду та делікатного аромату, який залишається в пам'яті ще довго після зустрічі.\n\n<strong>Prada L'Homme — адже справжній стиль полягає не в тому, щоб тебе помітили всі. Він полягає в тому, щоб тебе неможливо було сплутати з кимось іншим.</strong>"
+  },
+
+  "facts": [
+    {
+      "pl": "✨ <strong>PREMIERA W 2016 ROKU</strong> Prada L'Homme został wprowadzony na rynek w 2016 roku jako nowoczesna interpretacja męskiej elegancji, łącząca świeżość, pudrowe nuty i szlachetne akordy drzewne.",
+      "uk": "✨ <strong>ПРЕМ'ЄРА У 2016 РОЦІ</strong> Prada L'Homme був представлений у 2016 році як сучасна інтерпретація чоловічої елегантності, що поєднує свіжість, пудрові ноти та благородні деревні акорди."
+    },
+    {
+      "pl": "🖋️ <strong>TWÓRCZYNI — DANIELA ANDRIER</strong> Kompozycję stworzyła Daniela Andrier, ceniona perfumiarka współpracująca z domem Prada. Jej styl łączy precyzję, subtelność i nieoczywiste zestawienia składników.",
+      "uk": "🖋️ <strong>ТВОРЧА АВТОРКА — DANIELA ANDRIER</strong> Композицію створила Даніела Андрієр — відома парфумерка, яка співпрацює з домом Prada. Її стиль поєднує точність, делікатність і несподівані комбінації інгредієнтів."
+    },
+    {
+      "pl": "🌸 <strong>IRYS JAKO ZNAK ROZPOZNAWCZY</strong> Irys nadaje zapachowi charakterystyczną pudrową miękkość i elegancję. W połączeniu z ambrą tworzy jeden z najważniejszych kontrastów kompozycji: czystość spotyka się z ciepłem.",
+      "uk": "🌸 <strong>ІРИС ЯК ВІЗИТІВКА АРОМАТУ</strong> Ірис надає композиції характерної пудрової м'якості та елегантності. У поєднанні з амброю він створює один із головних контрастів аромату: чистота зустрічається з теплом."
+    },
+    {
+      "pl": "🤍 <strong>DUET RÓWNYCH PARTNERÓW</strong> L'Homme Prada i La Femme Prada zostały pomyślane jako para zapachów reprezentujących dwie równorzędne osobowości. Koncepcja marki odchodzi od prostych stereotypów kobiecości i męskości na rzecz indywidualności.",
+      "uk": "🤍 <strong>ДУЕТ РІВНОЦІННИХ ОСОБИСТОСТЕЙ</strong> L'Homme Prada та La Femme Prada були задумані як пара ароматів, що представляють дві рівноцінні індивідуальності. Концепція бренду відходить від простих стереотипів жіночності й мужності на користь особистого характеру."
+    },
+    {
+      "pl": "🖤 <strong>FLAKON INSPIROWANY SKÓRĄ SAFFIANO</strong> Charakterystyczny flakon nawiązuje do estetyki Prada dzięki powierzchni przypominającej skórę Saffiano, srebrnemu logo i geometrycznej, minimalistycznej formie.",
+      "uk": "🖤 <strong>ФЛАКОН, НАТХНЕННИЙ ШКІРОЮ SAFFIANO</strong> Характерний флакон відображає естетику Prada завдяки поверхні, що нагадує шкіру Saffiano, сріблястому логотипу та геометричній мінімалістичній формі."
+    },
+    {
+      "pl": "👔 <strong>ZAPACH CODZIENNEJ ELEGANCJI</strong> Pudrowy irys, świeże neroli i ciepłe nuty drzewne sprawiają, że kompozycja dobrze pasuje do pracy, spotkań biznesowych i codziennych sytuacji, w których liczą się styl oraz dyskrecja.",
+      "uk": "👔 <strong>АРОМАТ ЩОДЕННОЇ ЕЛЕГАНТНОСТІ</strong> Пудровий ірис, свіже неролі та теплі деревні ноти роблять композицію доречною для роботи, ділових зустрічей і повсякденних ситуацій, де важливі стиль і стриманість."
+    },
+    {
+      "pl": "🫧 <strong>LUKSUSOWA CZYSTOŚĆ</strong> W odbiorze wielu miłośników perfum Prada L'Homme przywołuje skojarzenia z czystą skórą, eleganckim mydłem i świeżo wyprasowaną koszulą. To efekt połączenia pudrowego irysa, świeżych nut i miękkiego drzewnego tła.",
+      "uk": "🫧 <strong>РОЗКІШНА ЧИСТОТА</strong> У сприйнятті багатьох поціновувачів парфумерії Prada L'Homme асоціюється з чистою шкірою, елегантним милом і свіжовипрасуваною сорочкою. Таке враження створює поєднання пудрового ірису, свіжих нот і м'якої деревної основи."
+    }
+  ],
+
+  "fragrance": {
+    "families": ["woody", "floral", "aromatic"],
+    "accords": [
+      "powdery",
+      "iris",
+      "fresh",
+      "floral",
+      "woody",
+      "amber",
+      "fresh-spicy",
+      "musky"
+    ],
+    "notes": {
+      "top": [
+        "neroli",
+        "black-pepper",
+        "cardamom",
+        "carrot-seeds"
+      ],
+      "heart": [
+        "iris",
+        "violet",
+        "geranium",
+        "mate"
+      ],
+      "base": [
+        "amber",
+        "cedar",
+        "sandalwood",
+        "patchouli"
+      ]
+    }
+  },
+
+  "character": {
+    "sweetness": 2,
+    "freshness": 4,
+    "warmth": 3,
+    "intensity": 3
+  },
+
+  "wearing": {
+    "seasons": ["spring", "summer", "autumn", "winter"],
+    "timeOfDay": ["day", "evening"],
+    "occasions": [
+      "office",
+      "business",
+      "everyday",
+      "date",
+      "formal",
+      "special"
+    ]
+  },
+
+  "performance": {
+    "longevity": 4,
+    "sillage": 3
+  },
+
+  "sizes": [
+    {
+      "ml": 100,
+      "price": 460,
+      "stock": true
+    }
+  ],
+
+  "decant": {
+    "enabled": true,
+    "sizes": [2, 5, 10, 15, 20],
+    "pricePerMl": 5.50
+  },
+
+  "featured": false,
+  "new": false,
+  "bestseller": false,
+
+  "similar": [],
+
+  "tags": [
+    "designer",
+    "masculine",
+    "elegant",
+    "clean",
+    "powdery",
+    "iris",
+    "neroli",
+    "amber",
+    "woody",
+    "office",
+    "business",
+    "versatile",
+    "sophisticated",
+    "everyday-elegance"
+  ]
+},
   {
     "id": "carolina-herrera-good-girl-edp-80",
     "brandId": "carolina-herrera",
