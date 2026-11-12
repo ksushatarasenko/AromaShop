@@ -4259,18 +4259,19 @@
     "decant": {
       "enabled": true,
       "sizes": [2, 5, 10, 15, 20],
-      "pricePerMl": 12
+      "pricePerMl": 14
     },
     "image": "main.jpg",
     "gallery": ["02.jpg", "03.jpg"],
     "id": "marc-antoine-barrois-ganymede-edp-100",
     "brandId": "marc-antoine-barrois",
+    "recommended":true,
     "name": "Ganymede",
     "collection": "niche",
     "gender": "unisex",
     "concentration": "EDP",
     "year": 2019,
-    "perfumer": "",
+    "perfumer": "Quentin Bisch ",
     "country": "France",
     "moods": ["mineral", "woody", "leather", "fresh"],
     "description": {
@@ -4351,8 +4352,8 @@
       "occasions": ["daily", "office", "special", "date"]
     },
     "performance": {
-      "longevity": 4,
-      "sillage": 3
+      "longevity": 5,
+      "sillage": 4
     },
     "sizes": [
       {

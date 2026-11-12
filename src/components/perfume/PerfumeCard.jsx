@@ -71,9 +71,9 @@ export default function PerfumeCard({ perfume }) {
                 <p className="perfume-card__price">
                   {t("common.from")} {formatPrice(size.price, site.currency)}
                 </p>
-                <p className="perfume-card__per-ml">
+                {/* <p className="perfume-card__per-ml">
                   {formatPricePerMl(size.price, size.ml, site.currency)}
-                </p>
+                </p> */}
               </>
             ) : null}
           </div>
